@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg id="svg_europe" width="800" height="600" xmlns="http://www.w3.org/2000/svg" class="">
+    <g>
+        <title>Map</title>
+        <rect id="svg_france_rect" class="country" data:country="france" x="176.02041" y="97.95918"
+            width="165.30612" height="187.7551" />
+        <rect id="svg_germany_rect" class="country" data:country="germany" x="341.63389" y="48.97959"
+            width="150.67993" height="180.67747" />
+        <rect id="svg_switzerland_rect" class="country" data:country="switzerland" x="341.62218" y="229.38243"
+            width="107.52581" height="80.64436" />
+    </g>
+</svg>

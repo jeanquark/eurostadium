@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <!-- <meta name="robots" content="noindex, nofollow" /> -->
+    <!-- <meta name="referrer" content="origin" /> -->
+
+    <!-- styles -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+    <link rel="stylesheet" href="styles/common.css" />
+    <link rel="stylesheet" href="./styles/home.css" />
+    <style>
+    </style>
+</head>
+
+<body>
+    <div>
+        <div style="width: 100%; margin: 0 auto;">
+            <div style="display: flex; flex-wrap: wrap;">
+                <div style="flex: 40%; flex-grow:0; background: yellow;">
+                    abc
+                </div>
+                <div style="flex: 40%; flex-grow:0; background: red;">
+                    def
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <h1 style="text-align: center;">SVG Example</h1>
+                <button hx-on:click="toggleMap()">Toggle map</button>
+                <br /><br />
+            </div>
+            <div class="col-3 border-2" id="abc">
+                <object type="image/svg+xml" id="object" onmouseover="onMouseover()">
+                    <img src="/images/no-image.png" />
+                </object>
+            </div>
+            <!-- <div class="col-3 border-3">
+                <object data="/images/svg/germany.svg" type="image/svg+xml">
+                    <img src="/images/no-image.png" />
+                </object>
+            </div> -->
+        </div>
+    </div>
+
+    <!-- scripts -->
+    <!-- htmx -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+
+    <script src="/scripts/index.js"></script>
+
+    <script>
+        var map = 'germany.svg';
+        document.getElementById('object').data = `/images/svg/${map}`
+        var toggleMap = () => {
+            console.log('toggleMap')
+            if (map == 'germany.svg') {
+                map = 'europe.svg'
+            } else {
+                map = 'germany.svg'
+            }
+            // document.getElementById('object').data = `/images/svg/${map}`
+            const abc = document.getElementById('object')
+            abc.setAttribute("data", `/images/svg/${map}`)
+
+            // var abc = document.getElementById("object");
+            abc.contentDocument.addEventListener("click", e => {
+                console.log('e: ', e);
+            });
+
+            var fridgeObj = document.getElementById("object");
+            var fridgeDoc = fridgeObj.contentDocument;
+            console.log('fridgeDoc: ', fridgeDoc);
+
+
+            // window.addEventListener("load", function () {
+            // var fridgeObj = document.getElementById("object");
+            // var fridgeDoc = fridgeObj.contentDocument;
+            // console.log('fridgeDoc: ', fridgeDoc);
+
+            // fridgeDoc.addEventListener("click", e => {
+            //     console.log('e: ', e);
+            //     let gclicked = e.target.closest('path').getAttribute("data-title");
+            //     console.log('gclicked: ', gclicked);
+            // });
+            // });
+        }
+        var onClick = () => {
+            console.log('onClick')
+        }
+    </script>
+
+    <script>
+        document.addEventListener("change", function(e) {
+            console.log("change")
+        });
+    </script>
+
+
+    <script>
+        window.addEventListener("load", function () {
+            var fridgeObj = document.getElementById("object");
+            var fridgeDoc = fridgeObj.contentDocument;
+            console.log('fridgeDoc: ', fridgeDoc);
+
+            fridgeDoc.addEventListener("click", e => {
+                console.log('e: ', e);
+                let gclicked = e.target.closest('path').getAttribute("data-title");
+                console.log('gclicked: ', gclicked);
+            });
+        })
+
+        onMouseover = () => {
+            // console.log("onMouseover")
+        }
+    </script>
+
+    <script>
+        // document.addEventListener('click', function (event) {
+		// 	console.log(event.target.closest('.country'))
+		// 	if (!event.target.closest('.country')) return;
+		// 	document.getElementById("svg_europe").classList.toggle("hide")
+		// 	const target = event.target.closest('.country').getAttribute('data:country')
+		// 	console.log('target: ', target)
+		// 	const element = document.getElementById(`svg_${target}`)
+		// 	console.log('element: ', element);
+		// 	element.classList.toggle("hide")
+		// }, false);
+    </script>
+</body>
+
+</html>

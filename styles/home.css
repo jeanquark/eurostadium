@@ -1,0 +1,9 @@
+.country:hover {
+    fill: #FF0000;
+    cursor: pointer;
+}
+
+.region:hover {
+    fill: #FF0000;
+    cursor: pointer;
+}
