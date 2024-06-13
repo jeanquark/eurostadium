@@ -36,8 +36,8 @@
                 <button hx-on:click="toggleMap()">Toggle map</button>
                 <br /><br />
             </div>
-            <div class="col-3 border-2" id="abc">
-                <object type="image/svg+xml" id="object" onmouseover="onMouseover()">
+            <div class="col-4 border-2" id="svgWrapper">
+                <object type="image/svg+xml" id="svgObject">
                     <img src="/images/no-image.png" />
                 </object>
             </div>
@@ -57,39 +57,31 @@
 
     <script>
         var map = 'germany.svg';
-        document.getElementById('object').data = `/images/svg/${map}`
+        document.getElementById('svgObject').data = `/images/svg/${map}`
         var toggleMap = () => {
             console.log('toggleMap')
             if (map == 'germany.svg') {
-                map = 'europe.svg'
+                map = 'europe-color.svg'
             } else {
                 map = 'germany.svg'
             }
-            // document.getElementById('object').data = `/images/svg/${map}`
-            const abc = document.getElementById('object')
-            abc.setAttribute("data", `/images/svg/${map}`)
+            const svgObject = document.getElementById('svgObject')
+            svgObject.setAttribute("data", `/images/svg/${map}`)
 
             // var abc = document.getElementById("object");
-            abc.contentDocument.addEventListener("click", e => {
-                console.log('e: ', e);
-            });
+            // abc.contentDocument.addEventListener("click", e => {
+            //     console.log('e: ', e);
+            // });
 
-            var fridgeObj = document.getElementById("object");
-            var fridgeDoc = fridgeObj.contentDocument;
-            console.log('fridgeDoc: ', fridgeDoc);
-
-
-            // window.addEventListener("load", function () {
-            // var fridgeObj = document.getElementById("object");
+            // var fridgeObj = document.getElementById("svgObject");
             // var fridgeDoc = fridgeObj.contentDocument;
             // console.log('fridgeDoc: ', fridgeDoc);
 
-            // fridgeDoc.addEventListener("click", e => {
-            //     console.log('e: ', e);
-            //     let gclicked = e.target.closest('path').getAttribute("data-title");
-            //     console.log('gclicked: ', gclicked);
-            // });
-            // });
+
+
+
+
+
         }
         var onClick = () => {
             console.log('onClick')
@@ -97,41 +89,23 @@
     </script>
 
     <script>
-        document.addEventListener("change", function(e) {
-            console.log("change")
-        });
-    </script>
-
-
-    <script>
-        window.addEventListener("load", function () {
-            var fridgeObj = document.getElementById("object");
-            var fridgeDoc = fridgeObj.contentDocument;
-            console.log('fridgeDoc: ', fridgeDoc);
-
-            fridgeDoc.addEventListener("click", e => {
-                console.log('e: ', e);
-                let gclicked = e.target.closest('path').getAttribute("data-title");
-                console.log('gclicked: ', gclicked);
-            });
-        })
-
-        onMouseover = () => {
-            // console.log("onMouseover")
-        }
     </script>
 
     <script>
-        // document.addEventListener('click', function (event) {
-		// 	console.log(event.target.closest('.country'))
-		// 	if (!event.target.closest('.country')) return;
-		// 	document.getElementById("svg_europe").classList.toggle("hide")
-		// 	const target = event.target.closest('.country').getAttribute('data:country')
-		// 	console.log('target: ', target)
-		// 	const element = document.getElementById(`svg_${target}`)
-		// 	console.log('element: ', element);
-		// 	element.classList.toggle("hide")
-		// }, false);
+        svgObject.addEventListener("load", function () {
+            const svgContent = svgObject.contentDocument;
+            svgContent.addEventListener("click", function (e) {
+                console.log('e1: ', e);
+                const region = e.target.closest('path').getAttribute("data-title");
+                console.log("region: ", region)
+            }, false);
+        }, false);
+    </script>
+
+    <script>
+    </script>
+
+    <script>
     </script>
 </body>
 
