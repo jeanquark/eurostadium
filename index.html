@@ -1,117 +1,162 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-        <meta name="author" content="" />
-        <!-- <meta name="robots" content="noindex, nofollow" /> -->
-        <!-- <meta name="referrer" content="origin" /> -->
 
-        <!-- styles -->
-        <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
-        <link rel="stylesheet" href="styles/common.css" />
-        <link rel="stylesheet" href="./styles/home.css" />
-        <style></style>
-    </head>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <!-- <meta name="robots" content="noindex, nofollow" /> -->
+    <!-- <meta name="referrer" content="origin" /> -->
 
-    <body>
-        <div>
-            <div class="row" style="position: relative">
-                <div class="col-12">
-                    <h1 style="text-align: center">SVG Example</h1>
-                    <button hx-on:click="toggleMap()">Toggle map</button>
-                    <br /><br />
-                </div>
-                <div class="col-4 border-2" id="svgWrapper">
-                    <object type="image/svg+xml" id="svgObject">
-                        <img src="/images/no-image.png" />
-                    </object>
-                </div>
-                <!-- <div class="col-3 border-3">
-                    <object data="/images/svg/france.svg" type="image/svg+xml">
-                        <img src="/images/no-image.png" />
-                    </object>
-                </div> -->
-                <div class="tooltip" id="" onMouseLeave="handleMouseLeaveTooltip">
-                    <h6>Tooltip</h6>
-                </div>
+    <!-- styles -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+    <link rel="stylesheet" href="styles/common.css" />
+    <link rel="stylesheet" href="./styles/home.css" />
+    <style></style>
+</head>
+
+<body>
+    <div>
+        <div class="row" style="position: relative">
+            <div class="col-12">
+                <h1 style="text-align: center">SVG Example</h1>
+                <button hx-on:click="toggleMap()">Toggle map</button>
+                <button hx-on:click="displayMap('europe')">Go to Europe map</button>
+                <br /><br />
             </div>
-            <div class="row"></div>
+            <div class="col-4 border-2" id="svgWrapper">
+                <object type="image/svg+xml" id="svgObject">
+                    <img src="/images/no-image.png" />
+                </object>
+            </div>
+            <div id="tooltip" class="">
+                <h6>Tooltip</h6>
+                <br /><br /><br /><br />
+            </div>
         </div>
+        <div class="row"></div>
+    </div>
 
-        <!-- scripts -->
-        <!-- htmx -->
-        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <!-- scripts -->
+    <!-- htmx -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
 
-        <!-- <script src="/scripts/index.js"></script> -->
+    <!-- <script src="/scripts/index.js"></script> -->
 
-        <script></script>
+    <script></script>
 
-        <script>
-            window.onload = (event) => {
-                console.log('page is fully loaded')
+    <script>
+        let svgObject
+        let map = 'germany.svg'
+        window.onload = (event) => {
+            console.log('page is fully loaded')
 
-                const abc = document.getElementById('svgObject')
-                console.log('abc: ', abc)
-                abc.data = `/images/svg/germany.svg`
-            }
+            svgObject = document.getElementById('svgObject')
+            console.log('svgObject: ', svgObject)
+            svgObject.data = `/images/svg/europe-with-russia.svg`
 
-            let map = 'germany.svg'
-            const toggleMap = () => {
-                console.log('toggleMap')
-                if (map == 'germany.svg') {
-                    map = 'europe-color.svg'
-                } else {
-                    map = 'germany.svg'
+            let tooltip = document.getElementById('tooltip')
+
+            const handleMouseLeave = () => {
+                console.log("handleMouseLeave")
+                if (tooltip) {
+                    tooltip.style.display = 'none'
                 }
             }
-        </script>
 
-        <script>
-            svgObject.addEventListener(
-                'load',
-                function () {
-                    const svgObject = document.getElementById('svgObject')
-                    const svgContent = svgObject.contentDocument
-
-                    svgContent.addEventListener(
-                        'click',
-                        function (e) {
-                            console.log('e1: ', e)
-                            const path = e.target.closest('path')
-                            if (path) {
-                            const region = path.getAttribute('data-title')
-                        console.log('region: ', region)
-                            }
-                        },
-                        false
-                    )
-
-                    var elements = svgContent.getElementsByClassName('city')
-                    console.log('elements: ', elements)
-
-                    var myFunction = function () {
-                        var city = this.getAttribute('data-city')
-                        console.log('city: ', city)
-                    }
-
-                    for (var i = 0; i < elements.length; i++) {
-                        elements[i].addEventListener('click', myFunction, false)
-                    }
-                },
-                false
-            )
-        </script>
-
-        <script>
-            const handleMouseLeaveTooltip = () => {
-                console.log('handMouseLeaveTooltip')
+            tooltip.addEventListener('mouseleave', handleMouseLeave, false)
+        }
+        const toggleMap = () => {
+            console.log('toggleMap')
+            if (map == 'germany.svg') {
+                map = 'europe-with-russia.svg'
+            } else {
+                map = 'germany.svg'
             }
-        </script>
+            svgObject.data = `/images/svg/${map}`
+        }
+        const displayMap = () => {
+            svgObject.data = '/images/svg/europe-with-russia.svg'
+        }
+    </script>
 
-        <script>
-        </script>
-    </body>
+    <script>
+        svgObject = document.getElementById('svgObject')
+        svgObject.addEventListener(
+            'load',
+            function () {
+                const svgObject = document.getElementById('svgObject')
+                const svgContent = svgObject.contentDocument
+
+                svgContent.addEventListener(
+                    'click',
+                    function (e) {
+                        console.log('e1: ', e)
+                        const path = e.target.closest('path')
+                        if (path) {
+                            const country = path.getAttribute('data-country')
+                            console.log('country: ', country)
+                            if (country) {
+                                svgObject.data = `/images/svg/${country}.svg`
+                            }
+                        }
+                    },
+                    false
+                )
+
+                let elements = svgContent.getElementsByClassName('city')
+                console.log('elements: ', elements)
+
+                let myFunction = function () {
+                    var city = this.getAttribute('data-city')
+                    console.log('city: ', city)
+                }
+
+                const handleMouseOver = (e) => {
+                    console.log("handleMouseOver")
+                    const innerWidth = window.innerWidth
+                    const innerHeight = window.innerHeight
+                    const pageX = e.pageX
+                    const pageY = e.pageY
+                    const scrollTop = document.documentElement.scrollTop
+
+                    const tooltip = document.getElementById('tooltip')
+                    console.log('tooltip: ', tooltip);
+                    if (tooltip) {
+                        tooltip.style.display = 'block'
+                        if (pageY - scrollTop > innerHeight / 2) {
+                            tooltip.style.top = `${pageY - 0}px`
+                        } else {
+                            tooltip.style.top = `${pageY - 0}px`
+                        }
+                        if (pageX < innerWidth / 2) {
+                            tooltip.style.left = `${pageX + 0}px`
+                        } else {
+                            tooltip.style.left = `${pageX - 400 - 0}px`
+                        }
+                    }
+
+                    const city = e.target
+                    console.log('city: ', city);
+                }
+
+                for (var i = 0; i < elements.length; i++) {
+                    elements[i].addEventListener('mouseover', handleMouseOver, false)
+                }
+
+
+            },
+            false
+        )
+    </script>
+
+    <script>
+    </script>
+
+    <script>
+    </script>
+</body>
+
 </html>
