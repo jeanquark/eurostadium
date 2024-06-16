@@ -22,7 +22,7 @@
         <div class="row" style="position: relative">
             <div class="col-12">
                 <h1 style="text-align: center">SVG Example</h1>
-                <button hx-on:click="toggleMap()">Toggle map</button>
+                <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
                 <button hx-on:click="displayMap('europe')">Go to Europe map</button>
                 <br /><br />
             </div>
@@ -93,6 +93,7 @@
                 svgContent.addEventListener(
                     'click',
                     function (e) {
+                        console.clear();
                         console.log('e1: ', e)
                         const path = e.target.closest('path')
                         if (path) {

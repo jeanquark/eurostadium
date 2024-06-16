@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
+        <!-- <meta name="robots" content="noindex, nofollow" /> -->
+        <!-- <meta name="referrer" content="origin" /> -->
+
+        <!-- styles -->
+        <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+        <link rel="stylesheet" href="styles/common.css" />
+        <link rel="stylesheet" href="./styles/home.css" />
+        <style></style>
+    </head>
+
+    <body>
+        <div>
+            <div class="row justify-center">
+                <div data-zoom-on-wheel data-pan-on-drag class="col-4 border-1" style="overflow: hidden;">
+                <!-- <div class="col-4 border-1"> -->
+                    <svg id="svgDemo" width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+                        <g id="Layer_1">
+                            <title>Layer 1</title>
+                            <rect stroke="#422C10" id="svg_10" height="513.00002" width="513" y="-0.00001" x="-0.00001" stroke-width="0" fill="#CE7975" />
+                            <path fill="none" stroke="#000" stroke-width="0" id="svg_2" d="m144.43707,296.45889c0,0 1.64722,-1.06232 3.82513,-1.63934c13.71346,-3.6333 36.88605,-5.11618 60.65573,-10.38251c7.76802,-1.72107 6.73907,-3.04266 -1.63936,-4.37158c-19.99809,-3.17194 -41.8853,1.48447 -45.35518,-1.63934c-1.81622,-1.63507 2.18579,-6.55737 8.74318,-13.66119l9.28961,-8.74316l1.63934,-1.09291" />
+                            <path fill="none" stroke="#000" stroke-width="0" id="svg_3" d="m193.61739,259.84689c8.74316,2.73224 20.21858,4.37158 25.13661,4.91803l0.54645,0" />
+                            <rect id="svg_5" height="0" width="1" y="135.19999" x="228.99999" stroke="#422C10" fill="#fff" />
+                            <line id="svg_9" y2="208.19999" x2="391.99999" y1="208.19999" x1="390.99999" stroke="#422C10" fill="none" />
+                            <path fill="none" stroke="#422C10" stroke-width="0" id="svg_1" d="m89,72c1,0 10.5576,3.10062 70,10c78.63019,9.12648 161,17 220,25l28,5l9,3l1,0" />
+                            <path id="svg_4" d="m95,73l308,0l0,372l-308,0l0,-372z" opacity="undefined" stroke-width="0" stroke="#422C10" fill="#B8D078" />
+                            <rect fill="#8B4D4B" stroke="#422C10" stroke-width="0" x="280" y="280" width="1" height="0" id="svg_6" />
+                            <ellipse fill="#ff0026" stroke="#422C10" stroke-width="0" cx="345.5" cy="135.5" id="svg_7" rx="15.5" ry="15.5" />
+                            <path id="svg_8" d="m158.5,400c-8.56354,0 -15.5,-6.93646 -15.5,-15.5c0,-8.56354 6.93646,-15.5 15.5,-15.5c8.56354,0 15.5,6.93646 15.5,15.5c0,8.56354 -6.93646,15.5 -15.5,15.5z" opacity="undefined" stroke-width="0" stroke="#422C10" fill="#ff0026" />
+                        </g>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+        <!-- scripts -->
+        <!-- htmx -->
+        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.pan-zoom.js/2.3.0/svg.pan-zoom.min.js"></script> -->
+        <!-- <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/src/browserify.min.js"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom-container@0.5.0"></script>
+
+        <script>
+            window.onload = function () {
+                console.clear()
+                // var panZoomTiger = svgPanZoom('#svgDemo')
+                // console.log('panZoomTiger: ', panZoomTiger)
+            }
+            // var svg = document.querySelector('svg')
+            // const onPointerUp = () => {
+            //     console.log('onPointerUp')
+            // }
+            // const onPointerDown = () => {
+            //     console.log('onPointerDown')
+            // }
+            // const onPointerMove = () => {
+            //     console.log('onPointerMove')
+            // }
+            // window.onload = (event) => {
+            //     console.log('onload2')
+            //     svg.addEventListener(
+            //         'wheel',
+            //         (e) => {
+            //             console.log('wheel e: ', e)
+            //         },
+            //         false
+            //     )
+            // }
+
+            // If browser supports pointer events
+            // if (window.PointerEvent) {
+            //     svg.addEventListener('pointerdown', onPointerDown) // Pointer is pressed
+            //     svg.addEventListener('pointerup', onPointerUp) // Releasing the pointer
+            //     svg.addEventListener('pointerleave', onPointerUp) // Pointer gets out of the SVG area
+            //     svg.addEventListener('pointermove', onPointerMove) // Pointer is moving
+            // } else {
+            //     // Add all mouse events listeners fallback
+            //     svg.addEventListener('mousedown', onPointerDown) // Pressing the mouse
+            //     svg.addEventListener('mouseup', onPointerUp) // Releasing the mouse
+            //     svg.addEventListener('mouseleave', onPointerUp) // Mouse gets out of the SVG area
+            //     svg.addEventListener('mousemove', onPointerMove) // Mouse is moving
+
+            //     // Add all touch events listeners fallback
+            //     svg.addEventListener('touchstart', onPointerDown) // Finger is touching the screen
+            //     svg.addEventListener('touchend', onPointerUp) // Finger is no longer touching the screen
+            //     svg.addEventListener('touchmove', onPointerMove) // Finger is moving
+            // }
+        </script>
+    </body>
+</html>
