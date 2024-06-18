@@ -23,7 +23,8 @@
             <div class="col-12">
                 <h1 style="text-align: center">SVG Example</h1>
                 <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
-                <button hx-on:click="displayMap('europe')">Go to Europe map</button>
+                <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
+                <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
                 <br /><br />
             </div>
             <div class="col-4 border-2" id="svgWrapper">
@@ -49,7 +50,7 @@
 
     <script>
         let svgObject
-        let map = 'germany.svg'
+        let map = 'countries/germany.svg'
         window.onload = (event) => {
             console.log('page is fully loaded')
 
@@ -70,15 +71,15 @@
         }
         const toggleMap = () => {
             console.log('toggleMap')
-            if (map == 'germany.svg') {
+            if (map == 'countries/germany.svg') {
                 map = 'europe-with-russia.svg'
             } else {
-                map = 'germany.svg'
+                map = 'countries/germany.svg'
             }
             svgObject.data = `/images/svg/${map}`
         }
-        const displayMap = () => {
-            svgObject.data = '/images/svg/europe-with-russia.svg'
+        const displayMap = (map) => {
+            svgObject.data = `/images/svg/${map}.svg`
         }
     </script>
 
@@ -100,7 +101,7 @@
                             const country = path.getAttribute('data-country')
                             console.log('country: ', country)
                             if (country) {
-                                svgObject.data = `/images/svg/${country}.svg`
+                                svgObject.data = `/images/svg/countries/${country}.svg`
                             }
                         }
                     },
