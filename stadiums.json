@@ -1,0 +1,44 @@
+[
+    {
+        "id": 11,
+        "name": "olympiastadion",
+        "cx": 100,
+        "cy": 100,
+        "r": 10,
+        "fill": "#FF00000",
+        "data-lat": "52.514628",
+        "data-lng": "13.239624",
+        "data-football-api-venue-id": 694,
+        "data-stadium": "Olympiastadion Berlin",
+        "data-city": "Berlin",
+        "data-stadium-capacity": 70000
+    },
+    {
+        "id": 12,
+        "name": "olympiastadion",
+        "cx": 200,
+        "cy": 200,
+        "r": 10,
+        "fill": "#FF00000",
+        "data-lat": "52.514628",
+        "data-lng": "13.239624",
+        "data-football-api-venue-id": 694,
+        "data-stadium": "Olympiastadion Berlin",
+        "data-city": "Berlin",
+        "data-stadium-capacity": 70000
+    },
+    {
+        "id": 13,
+        "name": "olympiastadion",
+        "cx": 300,
+        "cy": 300,
+        "r": 10,
+        "fill": "#FF00000",
+        "data-lat": "52.514628",
+        "data-lng": "13.239624",
+        "data-football-api-venue-id": 694,
+        "data-stadium": "Olympiastadion Berlin",
+        "data-city": "Berlin",
+        "data-stadium-capacity": 70000
+    }
+]

@@ -87,7 +87,7 @@
         svgObject = document.getElementById('svgObject')
         svgObject.addEventListener(
             'load',
-            function () {
+            async () => {
                 const svgObject = document.getElementById('svgObject')
                 const svgContent = svgObject.contentDocument
 
@@ -101,12 +101,15 @@
                             const country = path.getAttribute('data-country')
                             console.log('country: ', country)
                             if (country) {
-                                svgObject.data = `/images/svg/countries/${country}.svg`
+                                svgObject.data = `/images/svg/countries/${country}Low.svg`
+
                             }
                         }
                     },
                     false
                 )
+
+                fetchStadiums()
 
                 let elements = svgContent.getElementsByClassName('city')
                 console.log('elements: ', elements)
@@ -115,6 +118,7 @@
                     var city = this.getAttribute('data-city')
                     console.log('city: ', city)
                 }
+
 
                 const handleMouseOver = (e) => {
                     console.log("handleMouseOver")
@@ -155,6 +159,26 @@
     </script>
 
     <script>
+        const fetchStadiums = async () => {
+            const svgObject = document.getElementById('svgObject')
+            const svgContent = svgObject.contentDocument
+            const stadiumObj = svgContent.getElementById('stadiums')
+            console.log('stadiumObj: ', stadiumObj);
+            if (stadiumObj) {
+                const data = await fetch('/stadiums.json');
+                const stadiums = await data.json()
+                console.log("stadiums: ", stadiums)
+                let newElement
+                for (let i = 0; i < stadiums.length; i++) {
+                    newElement = document.createElementNS("http://www.w3.org/2000/svg", 'circle');
+                    newElement.setAttribute("cx", stadiums[i]["cx"]);
+                    newElement.setAttribute("cy", stadiums[i]["cy"]);
+                    newElement.setAttribute("r", stadiums[i]["r"]);
+                    newElement.setAttribute("fill", stadiums[i]["fill"]);
+                    stadiumObj.appendChild(newElement)
+                }
+            }
+        }
     </script>
 
     <script>

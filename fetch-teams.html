@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <meta name="robots" content="noindex, nofollow" />
+
+    <!-- styles -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+    <link rel="stylesheet" href="styles/common.css" />
+    <link rel="stylesheet" href="./styles/home.css" />
+    <style></style>
+</head>
+
+<body>
+    <div>
+        <h1>Fetch teams</h1>
+        <button hx-on:click="fetchTeams()">Fetch teams</button>
+    </div>
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <script>
+        const fetchTeams = async () => {
+            // alert("Fetch teams");
+            const API_FOOTBALL_KEY = ""
+            const SEASON = 2023
+
+            const leagues = [
+                {
+                    name: "La Liga",
+                    api_football_id: 140,
+                    country: "Spain",
+                    api_football_country_id: 0,
+                    active: true
+                }
+                // {
+                //     name: "Primeira Liga",
+                //     api_football_id: 94,
+                //     country: "Spain",
+                //     api_football_country_id: 0,
+                //     active: true
+                // }
+            ];
+            let array = []
+            for (let i = 0; i < leagues.length; i++) {
+                const teams = await fetch(`https://v3.football.api-sports.io/teams?league=${leagues[i]['api_football_id']}&season=${SEASON}`, {
+                    "method": "GET",
+                    "headers": {
+                        "x-rapidapi-key": API_FOOTBALL_KEY,
+                        "x-rapidapi-host": 'v3.football.api-sports.io'
+                    }
+                })
+                const { response } = await teams.json()
+                // console.log("response: ", response)
+                array.push(response)
+            }
+            console.log("array: ", array)
+        }
+
+    </script>
+
+</body>
+
+</html>
