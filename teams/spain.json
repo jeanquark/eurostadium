@@ -1,0 +1,1094 @@
+[
+	{
+		"team": {
+			"api_football_id": 529,
+			"name": "Barcelona",
+			"code": "BAR",
+			"country": "Spain",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 19939,
+			"name": "Estadi Olímpic Lluís Companys",
+			"address": "Carrer de l&apos;Estadi",
+			"city": "Barcelona",
+			"capacity": 55926,
+			"surface": "grass",
+			"lat": 41.36472222,
+			"lng": 2.15555556
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 530,
+			"name": "Atletico Madrid",
+			"code": "MAD",
+			"country": "Spain",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 19217,
+			"name": "Estádio Cívitas Metropolitano",
+			"address": "Rosas",
+			"city": "Madrid",
+			"capacity": 70460,
+			"surface": "grass",
+			"lat": 40.43611111,
+			"lng": -3.59944444
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 531,
+			"name": "Athletic Club",
+			"code": "BIL",
+			"country": "Spain",
+			"founded": 1898
+		},
+		"venue": {
+			"api_football_id": 1460,
+			"name": "San Mamés Barria",
+			"address": "Rafael Moreno Pitxitxi Kalea",
+			"city": "Bilbao",
+			"capacity": 53289,
+			"surface": "grass",
+			"lat": 43.26361111,
+			"lng": -2.94805556
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 532,
+			"name": "Valencia",
+			"code": "VAL",
+			"country": "Spain",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 1497,
+			"name": "Estadio de Mestalla",
+			"address": "Avenida de Suecia",
+			"city": "Valencia",
+			"capacity": 55000,
+			"surface": "grass",
+			"lat": 39.47472222,
+			"lng": -0.35833333
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 533,
+			"name": "Villarreal",
+			"code": "VIL",
+			"country": "Spain",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 1498,
+			"name": "Estadio de la Cerámica",
+			"address": "Plaza Labrador",
+			"city": "Villarreal",
+			"capacity": 24500,
+			"surface": "grass",
+			"lat": 39.94416667,
+			"lng": -0.10361111
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 534,
+			"name": "Las Palmas",
+			"code": "PAL",
+			"country": "Spain",
+			"founded": 1949
+		},
+		"venue": {
+			"api_football_id": 1481,
+			"name": "Estadio de Gran Canaria",
+			"address": "Avenida Pío XII 29",
+			"city": "Las Palmas de Gran Canaria",
+			"capacity": 32392,
+			"surface": "grass",
+			"lat": 28.10027778,
+			"lng": -15.45666667
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 536,
+			"name": "Sevilla",
+			"code": "SEV",
+			"country": "Spain",
+			"founded": 1890
+		},
+		"venue": {
+			"api_football_id": 1494,
+			"name": "Estadio Ramón Sánchez Pizjuán",
+			"address": "Avenida de Eduardo Dato",
+			"city": "Sevilla",
+			"capacity": 48649,
+			"surface": "grass",
+			"lat": 37.38416667,
+			"lng": -5.97055556
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 538,
+			"name": "Celta Vigo",
+			"code": "CEL",
+			"country": "Spain",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 1467,
+			"name": "Abanca-Balaídos",
+			"address": "Avenida de Balaídos",
+			"city": "Vigo",
+			"capacity": 31800,
+			"surface": "grass",
+			"lat": 42.21194444,
+			"lng": -8.73972222
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 541,
+			"name": "Real Madrid",
+			"code": "REA",
+			"country": "Spain",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 1456,
+			"name": "Estadio Santiago Bernabéu",
+			"address": "Avenida de Concha Espina 1, Chamartín",
+			"city": "Madrid",
+			"capacity": 85454,
+			"surface": "grass",
+			"lat": 40.45277778,
+			"lng": -3.68805556
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 542,
+			"name": "Alaves",
+			"code": "ALA",
+			"country": "Spain",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 1470,
+			"name": "Estadio de Mendizorroza",
+			"address": "Paseo de Cervantes",
+			"city": "Vitoria-Gasteiz",
+			"capacity": 19840,
+			"surface": "grass",
+			"lat": 42.83694444,
+			"lng": -2.68777778
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 543,
+			"name": "Real Betis",
+			"code": "BET",
+			"country": "Spain",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1489,
+			"name": "Estadio Benito Villamarín",
+			"address": "Avenida de Heliópolis",
+			"city": "Sevilla",
+			"capacity": 60721,
+			"surface": "grass",
+			"lat": 37.35694444,
+			"lng": -5.98194444
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 546,
+			"name": "Getafe",
+			"code": "GET",
+			"country": "Spain",
+			"founded": 1983
+		},
+		"venue": {
+			"api_football_id": 20422,
+			"name": "Estadio Coliseum",
+			"address": "Avenida de Teresa de Calcuta",
+			"city": "Getafe",
+			"capacity": 17393,
+			"surface": "grass",
+			"lat": 40.32555556,
+			"lng": -3.71472222
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 547,
+			"name": "Girona",
+			"code": "GIR",
+			"country": "Spain",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 1478,
+			"name": "Estadi Municipal de Montilivi",
+			"address": "Avenida Montlivi 141",
+			"city": "Girona",
+			"capacity": 14500,
+			"surface": "grass",
+			"lat": 41.96194444,
+			"lng": 2.82805556
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 548,
+			"name": "Real Sociedad",
+			"code": "RSO",
+			"country": "Spain",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 1491,
+			"name": "Reale Arena",
+			"address": "Paseo de Anoeta 1",
+			"city": "Donostia-San Sebastián",
+			"capacity": 40000,
+			"surface": "grass",
+			"lat": 43.30138889,
+			"lng": -1.97361111
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 715,
+			"name": "Granada CF",
+			"code": "GRA",
+			"country": "Spain",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 1479,
+			"name": "Estadio Nuevo Los Cármenes",
+			"address": "Calle Pintor Manuel Maldonado",
+			"city": "Granada",
+			"capacity": 23156,
+			"surface": "grass",
+			"lat": 37.153056,
+			"lng": -3.595833
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 723,
+			"name": "Almeria",
+			"code": "ALM",
+			"country": "Spain",
+			"founded": 1989
+		},
+		"venue": {
+			"api_football_id": 19216,
+			"name": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+			"address": "Calle de Belladona",
+			"city": "Almería",
+			"capacity": 21350,
+			"surface": "grass",
+			"lat": 36.84,
+			"lng": -2.435278
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 724,
+			"name": "Cadiz",
+			"code": "CAD",
+			"country": "Spain",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 11915,
+			"name": "Estadio Nuevo Mirandilla",
+			"address": "Plaza de Madrid",
+			"city": "Cádiz",
+			"capacity": 22000,
+			"surface": "grass",
+			"lat": 36.502778,
+			"lng": -6.273056
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 727,
+			"name": "Osasuna",
+			"code": "OSA",
+			"country": "Spain",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 1486,
+			"name": "Estadio El Sadar",
+			"address": "Carretera El Sadar",
+			"city": "Iruñea",
+			"capacity": 23576,
+			"surface": "grass",
+			"lat": 42.796667,
+			"lng": -1.636944
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 728,
+			"name": "Rayo Vallecano",
+			"code": "RAY",
+			"country": "Spain",
+			"founded": 1924
+		},
+		"venue": {
+			"api_football_id": 1488,
+			"name": "Estadio de Vallecas",
+			"address": "Calle Payaso Fofó",
+			"city": "Madrid",
+			"capacity": 15500,
+			"surface": "grass",
+			"lat": 40.391944,
+			"lng": -3.658961
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 798,
+			"name": "Mallorca",
+			"code": "MAL",
+			"country": "Spain",
+			"founded": 1916
+		},
+		"venue": {
+			"api_football_id": 19940,
+			"name": "Estadi Mallorca Son Moix",
+			"address": "Camí dels Reis",
+			"city": "Palma de Mallorca",
+			"capacity": 23142,
+			"surface": "grass",
+			"lat": 39.59,
+			"lng": 2.63
+		},
+		"league": {
+			"api_football_id": 140,
+			"name": "La Liga",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 537,
+			"name": "Leganes",
+			"code": "LEG",
+			"country": "Spain",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1464,
+			"name": "Estadio Municipal de Butarque",
+			"address": "Calle Arquitectura",
+			"city": "Leganés",
+			"capacity": 12450,
+			"surface": "grass",
+			"lat": 40.3404,
+			"lng": -3.7607
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 539,
+			"name": "Levante",
+			"code": "LEV",
+			"country": "Spain",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 1482,
+			"name": "Estadio Ciudad de Valencia",
+			"address": "Calle San Vicente de Paúl 44",
+			"city": "Valencia",
+			"capacity": 25534,
+			"surface": "grass",
+			"lat": 39.494722,
+			"lng": -0.364167
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 540,
+			"name": "Espanyol",
+			"code": "ESP",
+			"country": "Spain",
+			"founded": 1900
+		},
+		"venue": {
+			"api_football_id": 20421,
+			"name": "Stage Front Stadium",
+			"address": "Avenida Baix Llobregat 100",
+			"city": "Cornella de Llobregat",
+			"capacity": 40423,
+			"surface": "grass",
+			"lat": 41.347861,
+			"lng": 2.075667
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 545,
+			"name": "Eibar",
+			"code": "EIB",
+			"country": "Spain",
+			"founded": 1940
+		},
+		"venue": {
+			"api_football_id": 1472,
+			"name": "Estadio Municipal de Ipurúa",
+			"address": "Calle de Ipurúa",
+			"city": "Eibar",
+			"capacity": 8050,
+			"surface": "grass",
+			"lat": 43.181706,
+			"lng": -2.475803
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 711,
+			"name": "Alcorcon",
+			"code": "ALC",
+			"country": "Spain",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 1457,
+			"name": "Estadio Santo Domingo",
+			"address": "Avenida de Pablo Iglesias",
+			"city": "Alcorcón",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 40.338889,
+			"lng": -3.840556
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 718,
+			"name": "Oviedo",
+			"code": "OVI",
+			"country": "Spain",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 1490,
+			"name": "Estadio Nuevo Carlos Tartiere",
+			"address": "C. Isidro Lángara",
+			"city": "Oviedo",
+			"capacity": 30500,
+			"surface": "grass",
+			"lat": 43.360783,
+			"lng": -5.870222
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 719,
+			"name": "Tenerife",
+			"code": "TEN",
+			"country": "Spain",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 1496,
+			"name": "Estadio Heliodoro Rodríguez Lopéz",
+			"address": "Avenida de San Sebastián",
+			"city": "Tenerife",
+			"capacity": 23660,
+			"surface": "grass",
+			"lat": 28.463056,
+			"lng": -16.260556
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 720,
+			"name": "Valladolid",
+			"code": "VAL",
+			"country": "Spain",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1492,
+			"name": "Estadio Municipal José Zorrilla",
+			"address": "Avenida del Mundial 82",
+			"city": "Valladolid",
+			"capacity": 26512,
+			"surface": "grass",
+			"lat": 41.644444,
+			"lng": -4.761111
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 722,
+			"name": "Albacete",
+			"code": "ALB",
+			"country": "Spain",
+			"founded": 1940
+		},
+		"venue": {
+			"api_football_id": 1458,
+			"name": "Estadio Carlos Belmonte",
+			"address": "Avenida de España",
+			"city": "Albacete",
+			"capacity": 17524,
+			"surface": "grass",
+			"lat": 38.981117,
+			"lng": -1.852142
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 726,
+			"name": "Huesca",
+			"code": "HUE",
+			"country": "Spain",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 1480,
+			"name": "Estadio El Alcoraz",
+			"address": "Camino del Alto Cocorón",
+			"city": "Huesca",
+			"capacity": 9128,
+			"surface": "grass",
+			"lat": 42.131944,
+			"lng": -0.424444
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 731,
+			"name": "Sporting Gijon",
+			"code": "GIJ",
+			"country": "Spain",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 1495,
+			"name": "Estadio Municipal El Molinón",
+			"address": "Parque de Isabel la Católica",
+			"city": "Gijón",
+			"capacity": 29538,
+			"surface": "grass",
+			"lat": 43.536111,
+			"lng": -5.637222
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 732,
+			"name": "Zaragoza",
+			"code": "ZAR",
+			"country": "Spain",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 1493,
+			"name": "Estadio de la Romareda",
+			"address": "Calle de Eduardo Ibarra 6",
+			"city": "Zaragoza",
+			"capacity": 34596,
+			"surface": "grass",
+			"lat": 41.636592,
+			"lng": -0.901822
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 797,
+			"name": "Elche",
+			"code": "ELC",
+			"country": "Spain",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 1473,
+			"name": "Estadio Manuel Martínez Valero",
+			"address": "Avenida Manuel Martínez Valero 3",
+			"city": "Elche",
+			"capacity": 36017,
+			"surface": "grass",
+			"lat": 38.266944,
+			"lng": -0.663333
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 799,
+			"name": "Mirandes",
+			"code": "MIR",
+			"country": "Spain",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 2920,
+			"name": "Estadio Municipal de Anduva",
+			"address": "Camino de Anduva",
+			"city": "Miranda de Ebro",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 42.680833,
+			"lng": -2.935556
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 4665,
+			"name": "Racing Santander",
+			"code": "SAN",
+			"country": "Spain",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 3516,
+			"name": "Campos de Sport de El Sardinero",
+			"address": "Calle del Real Racing Club",
+			"city": "Santander",
+			"capacity": 22271,
+			"surface": "grass",
+			"lat": 43.476389,
+			"lng": -3.793333
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 5262,
+			"name": "FC Cartagena",
+			"code": "CAR",
+			"country": "Spain",
+			"founded": 1995
+		},
+		"venue": {
+			"api_football_id": 3976,
+			"name": "Estadio Municipal Cartagonova",
+			"address": "Avenida Dr. Luis Calandre",
+			"city": "Cartagena",
+			"capacity": 15105,
+			"surface": "grass",
+			"lat": 37.60555556,
+			"lng": 0.99611111
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 8157,
+			"name": "FC Andorra",
+			"code": null,
+			"country": "Spain",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2618,
+			"name": "Estadi Nacional",
+			"address": "C/ Baixada del Molí nº33",
+			"city": "Andorra la Vella",
+			"capacity": 3306,
+			"surface": "grass",
+			"lat": 42.50472222,
+			"lng": 1.51750000
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 9380,
+			"name": "Amorebieta",
+			"code": "AMO",
+			"country": "Spain",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 6482,
+			"name": "Campo Municipal de Urritxe",
+			"address": "Barrio de Urritxe",
+			"city": "Amorebieta-Echano",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 43.22105,
+			"lng": -2.725446
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 38
+	},
+	{
+		"team": {
+			"api_football_id": 9409,
+			"name": "Racing Ferrol",
+			"code": "FER",
+			"country": "Spain",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 6510,
+			"name": "Estadio Municipal de A Malata",
+			"address": "Calle de la Malata",
+			"city": "Ferrol",
+			"capacity": 12043,
+			"surface": "grass",
+			"lat": 43.491358,
+			"lng": -8.239274
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 39
+	},
+	{
+		"team": {
+			"api_football_id": 9580,
+			"name": "Burgos",
+			"code": "BUR",
+			"country": "Spain",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 6674,
+			"name": "Estadio Municipal de El Plantío",
+			"address": "Calle del Dos de Mayo",
+			"city": "Burgos",
+			"capacity": 12200,
+			"surface": "grass",
+			"lat": 42.344167,
+			"lng": -3.680556
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 40
+	},
+	{
+		"team": {
+			"api_football_id": 9595,
+			"name": "Villarreal II",
+			"code": "VIL",
+			"country": "Spain",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 1498,
+			"name": "Estadio de la Cerámica",
+			"address": "Plaza Labrador",
+			"city": "Villarreal",
+			"capacity": 24500,
+			"surface": "grass",
+			"lat": 39.944167,
+			"lng": -0.103611
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 41
+	},
+	{
+		"team": {
+			"api_football_id": 9692,
+			"name": "Eldense",
+			"code": null,
+			"country": "Spain",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 6783,
+			"name": "Estadio Municipal Nuevo Pepico Amat",
+			"address": "Calle Heidelberg / Avenida de Ronda",
+			"city": "Elda",
+			"capacity": 5776,
+			"surface": "artificial turf",
+			"lat": 38.467356,
+			"lng": -0.796031
+		},
+		"league": {
+			"api_football_id": 141,
+			"name": "Segunda Division",
+			"country": "Spain",
+			"api_football_country_id": 9
+		},
+		"no": 42
+	}
+]
