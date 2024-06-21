@@ -1,197 +1,209 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-        <meta name="author" content="" />
-        <!-- <meta name="robots" content="noindex, nofollow" /> -->
-        <!-- <meta name="referrer" content="origin" /> -->
 
-        <!-- styles -->
-        <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
-        <link rel="stylesheet" href="styles/common.css" />
-        <link rel="stylesheet" href="./styles/home.css" />
-        <style></style>
-    </head>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <!-- <meta name="robots" content="noindex, nofollow" /> -->
+    <!-- <meta name="referrer" content="origin" /> -->
 
-    <body>
-        <div>
-            <div class="row" style="position: relative">
-                <div class="col-12">
-                    <h1 style="text-align: center">SVG Example</h1>
-                    <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
-                    <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
-                    <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
-                    <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
-                    <br /><br />
-                </div>
-                <div class="col-4 border-2" id="svgWrapper">
-                    <object type="image/svg+xml" id="svgObject" style="border: 1px dashed green">
-                        <img src="/images/no-image.png" />
-                    </object>
-                </div>
-                <div id="tooltip" class="">
-                    <h6>Tooltip</h6>
-                    <br /><br /><br /><br />
-                </div>
+    <!-- styles -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+    <link rel="stylesheet" href="styles/common.css" />
+    <link rel="stylesheet" href="./styles/home.css" />
+    <style></style>
+</head>
+
+<body>
+    <div>
+        <div class="row" style="position: relative">
+            <div class="col-12">
+                <h1 style="text-align: center">SVG Example</h1>
+                <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
+                <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
+                <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
+                <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
+                <br /><br />
             </div>
-            <div class="row"></div>
+            <div class="col-4 border-2" id="svgWrapper">
+                <object type="image/svg+xml" id="svgObject" style="border: 1px dashed green">
+                    <img src="/images/no-image.png" />
+                </object>
+            </div>
+            <div id="tooltip" class="">
+                <h6>Tooltip</h6>
+                <br /><br /><br /><br />
+            </div>
         </div>
+        <div class="row"></div>
+    </div>
 
-        <!-- scripts -->
-        <!-- htmx -->
-        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <!-- scripts -->
+    <!-- htmx -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
 
-        <!-- <script src="/scripts/index.js"></script> -->
+    <!-- <script src="/scripts/index.js"></script> -->
 
-        <script></script>
+    <script></script>
 
-        <script>
-            let svgObject
-            let map = 'countries/germany.svg'
-            window.onload = (event) => {
-                console.log('page is fully loaded')
+    <script>
+        let svgObject
+        let map = 'countries/germany.svg'
+        window.onload = (event) => {
+            console.log('page is fully loaded')
 
-                svgObject = document.getElementById('svgObject')
-                console.log('svgObject: ', svgObject)
-                svgObject.data = `/images/svg/europe-with-russia.svg`
-
-                let tooltip = document.getElementById('tooltip')
-
-                const handleMouseLeave = () => {
-                    console.log('handleMouseLeave')
-                    if (tooltip) {
-                        tooltip.style.display = 'none'
-                    }
-                }
-
-                tooltip.addEventListener('mouseleave', handleMouseLeave, false)
-            }
-            const toggleMap = () => {
-                console.log('toggleMap')
-                if (map == 'countries/germany.svg') {
-                    map = 'europe-with-russia.svg'
-                } else {
-                    map = 'countries/germany.svg'
-                }
-                svgObject.data = `/images/svg/${map}`
-            }
-            const displayMap = (map) => {
-                svgObject.data = `/images/svg/${map}.svg`
-            }
-        </script>
-
-        <script>
             svgObject = document.getElementById('svgObject')
-            svgObject.addEventListener(
-                'load',
-                async () => {
-                    const svgObject = document.getElementById('svgObject')
-                    const svgContent = svgObject.contentDocument
+            console.log('svgObject: ', svgObject)
+            svgObject.data = `/images/svg/europe-with-russia.svg`
 
-                    svgContent.addEventListener(
-                        'click',
-                        function (e) {
-                            console.clear()
-                            console.log('e1: ', e)
-                            const path = e.target.closest('path')
-                            if (path) {
-                                const country = path.getAttribute('data-country')
-                                console.log('country: ', country)
-                                if (country) {
-                                    svgObject.data = `/images/svg/countries/${country}Low.svg`
-                                }
-                            }
-                        },
-                        false
-                    )
+            let tooltip = document.getElementById('tooltip')
 
-                    fetchStadiums()
+            const handleMouseLeave = () => {
+                console.log('handleMouseLeave')
+                if (tooltip) {
+                    tooltip.style.display = 'none'
+                }
+            }
 
-                    let elements = svgContent.getElementsByClassName('city')
-                    console.log('elements: ', elements)
+            tooltip.addEventListener('mouseleave', handleMouseLeave, false)
+        }
+        const toggleMap = () => {
+            console.log('toggleMap')
+            if (map == 'countries/germany.svg') {
+                map = 'europe-with-russia.svg'
+            } else {
+                map = 'countries/germany.svg'
+            }
+            svgObject.data = `/images/svg/${map}`
+        }
+        const displayMap = (map) => {
+            svgObject.data = `/images/svg/${map}.svg`
+        }
+    </script>
 
-                    let myFunction = function () {
-                        var city = this.getAttribute('data-city')
-                        console.log('city: ', city)
-                    }
-
-                    const handleMouseOver = (e) => {
-                        console.log('handleMouseOver')
-                        const innerWidth = window.innerWidth
-                        const innerHeight = window.innerHeight
-                        const pageX = e.pageX
-                        const pageY = e.pageY
-                        const scrollTop = document.documentElement.scrollTop
-
-                        const tooltip = document.getElementById('tooltip')
-                        console.log('tooltip: ', tooltip)
-                        if (tooltip) {
-                            tooltip.style.display = 'block'
-                            if (pageY - scrollTop > innerHeight / 2) {
-                                tooltip.style.top = `${pageY - 0}px`
-                            } else {
-                                tooltip.style.top = `${pageY - 0}px`
-                            }
-                            if (pageX < innerWidth / 2) {
-                                tooltip.style.left = `${pageX + 0}px`
-                            } else {
-                                tooltip.style.left = `${pageX - 400 - 0}px`
-                            }
-                        }
-
-                        const city = e.target
-                        console.log('city: ', city)
-                    }
-
-                    for (var i = 0; i < elements.length; i++) {
-                        elements[i].addEventListener('mouseover', handleMouseOver, false)
-                    }
-                },
-                false
-            )
-        </script>
-
-        <script>
-            const fetchStadiums = async () => {
+    <script>
+        svgObject = document.getElementById('svgObject')
+        svgObject.addEventListener(
+            'load',
+            async () => {
                 const svgObject = document.getElementById('svgObject')
                 const svgContent = svgObject.contentDocument
-                const stadiumObj = svgContent.getElementById('stadiums')
-                console.log('stadiumObj: ', stadiumObj)
-                if (stadiumObj) {
-                    const data = await fetch('/stadiums.json')
-                    const stadiums = await data.json()
-                    console.log('stadiums: ', stadiums)
-                    let newElement
-                    for (let i = 0; i < stadiums.length; i++) {
-                        newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-                        newElement.setAttribute('cx', stadiums[i]['cx'])
-                        newElement.setAttribute('cy', stadiums[i]['cy'])
-                        newElement.setAttribute('r', stadiums[i]['r'])
-                        newElement.setAttribute('fill', stadiums[i]['fill'])
-                        stadiumObj.appendChild(newElement)
+
+                svgContent.addEventListener(
+                    'click',
+                    function (e) {
+                        console.clear()
+                        console.log('e1: ', e)
+                        const path = e.target.closest('path')
+                        if (path) {
+                            const country = path.getAttribute('data-country')
+                            console.log('country: ', country)
+                            if (country) {
+                                svgObject.data = `/images/svg/countries/${country}Low.svg`
+                            }
+                        }
+                    },
+                    false
+                )
+
+                fetchStadiums()
+
+                let elements = svgContent.getElementsByClassName('city')
+                console.log('elements: ', elements)
+
+                let myFunction = function () {
+                    var city = this.getAttribute('data-city')
+                    console.log('city: ', city)
+                }
+
+                const handleMouseOver = (e) => {
+                    console.log('handleMouseOver')
+                    const innerWidth = window.innerWidth
+                    const innerHeight = window.innerHeight
+                    const pageX = e.pageX
+                    const pageY = e.pageY
+                    const scrollTop = document.documentElement.scrollTop
+
+                    const tooltip = document.getElementById('tooltip')
+                    console.log('tooltip: ', tooltip)
+                    if (tooltip) {
+                        tooltip.style.display = 'block'
+                        if (pageY - scrollTop > innerHeight / 2) {
+                            tooltip.style.top = `${pageY - 0}px`
+                        } else {
+                            tooltip.style.top = `${pageY - 0}px`
+                        }
+                        if (pageX < innerWidth / 2) {
+                            tooltip.style.left = `${pageX + 0}px`
+                        } else {
+                            tooltip.style.left = `${pageX - 400 - 0}px`
+                        }
                     }
+
+                    const city = e.target
+                    console.log('city: ', city)
+                }
+
+                for (var i = 0; i < elements.length; i++) {
+                    elements[i].addEventListener('mouseover', handleMouseOver, false)
+                }
+            },
+            false
+        )
+    </script>
+
+    <script>
+        const fetchStadiums = async () => {
+            const svgObject = document.getElementById('svgObject')
+            const svgContent = svgObject.contentDocument
+            const stadiumObj = svgContent.getElementById('stadiums')
+            console.log('stadiumObj: ', stadiumObj)
+            if (stadiumObj) {
+                const data = await fetch('./teams/spain.json')
+                const teams = await data.json()
+                console.log('teams: ', teams)
+                let newElement
+                const leagues =  [...new Set(teams.map(item => item['league']['api_football_id']))]
+                console.log('leagues: ', leagues);
+                for (let i = 0; i < teams.length; i++) {
+                    newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+                    newElement.setAttribute('cx', teams[i]['venue']['x'])
+                    newElement.setAttribute('cy', teams[i]['venue']['y'] - 180)
+                    newElement.setAttribute('r', 5)
+                    newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                    stadiumObj.appendChild(newElement)
                 }
             }
-        </script>
+        }
+    </script>
 
-        <script>
-            const calculateSVGCoord = () => {
-                const lat = 41.36472222
-                const lng = 2.15555556
+    <script>
+        const calculateSVGCoord = async () => {
+            const data = await fetch('./teams/spain.json')
+            const teams = await data.json()
+            const teamId = 531
+            const team = teams.find(team => team['team']['api_football_id'] == teamId)
+            if (team) {
+                const lat = team['venue']['lat']
+                const lng = team['venue']['lng']
                 const lng_min = -9.301417
                 const lng_max = 4.330897
                 const lat_min = 31.700719
                 const lat_max = 43.793549
                 const x_max = 371.44911
                 const y_max = 416.25995
-                const x_pos = ((lng - lng_min) * x_max) / (lng_max - lng_min)
-                const y_pos = ((lat - lat_min) * y_max) / (lat_max - lat_min)
+                const x_pos = (((lng - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1)
+                const y_pos = (((lat - lat_min) * y_max) / (lat_max - lat_min)).toFixed(1)
                 console.log('x_pos: ', x_pos)
                 console.log('y_pos: ', y_pos)
+            } else {
+                console.log("Team not found")
             }
-        </script>
-    </body>
+        }
+    </script>
+</body>
+
 </html>

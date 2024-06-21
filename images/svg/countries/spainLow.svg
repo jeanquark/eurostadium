@@ -84,11 +84,11 @@
          style="fill:#cccccc;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-opacity:1" />
    </g>
    <g id="stadiums">
-      <circle cx="152.95115055274684" cy="120" cz="301.26376953615164" r="3" fill="#FF0000" id="madrid" data-lat="40.45277778"
+      <!-- <circle cx="152.95115055274684" cy="120" cz="301.26376953615164" r="3" fill="#FF0000" id="madrid" data-lat="40.45277778"
          data-lng="-3.68805556" data-football-api-venue-id="1456" data-stadium="Estadio Santiago Bernabéu"
          data-city="Madrid" data-stadium-capacity="85454" />
       <circle cx="312.1760737543473" cy="80" cz="332.6547629592939" r="3" fill="#FF0000" id="barcelona" data-lat="40.45277778"
          data-lng="-3.68805556" data-football-api-venue-id="19939" data-stadium="Estadi Olímpic Lluís Companys"
-         data-city="Barcelona" data-stadium-capacity="55926" />
+         data-city="Barcelona" data-stadium-capacity="55926" /> -->
    </g>
 </svg>

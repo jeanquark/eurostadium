@@ -1,0 +1,646 @@
+[
+	{
+		"team": {
+			"api_football_id": 551,
+			"name": "FC Basel 1893",
+			"code": "BAS",
+			"country": "Switzerland",
+			"founded": 1893
+		},
+		"venue": {
+			"api_football_id": 1530,
+			"name": "St. Jakob-Park",
+			"address": "Sankt Jakob-Strasse 395",
+			"city": "Basel",
+			"capacity": 38512,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 565,
+			"name": "BSC Young Boys",
+			"code": "YOU",
+			"country": "Switzerland",
+			"founded": 1898
+		},
+		"venue": {
+			"api_football_id": 10500,
+			"name": "Stadion Wankdorf",
+			"address": "Papiermühlestrasse 71",
+			"city": "Bern",
+			"capacity": 32000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 606,
+			"name": "FC Lugano",
+			"code": "LUG",
+			"country": "Switzerland",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 19807,
+			"name": "Stadio Comunale di Cornaredo",
+			"address": "Via Trevano 100",
+			"city": "Lugano",
+			"capacity": 14873,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 644,
+			"name": "FC Luzern",
+			"code": "LUZ",
+			"country": "Switzerland",
+			"founded": 1901
+		},
+		"venue": {
+			"api_football_id": 1537,
+			"name": "swissporarena",
+			"address": "Horwerstrasse 34",
+			"city": "Luzern",
+			"capacity": 17800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 783,
+			"name": "FC Zurich",
+			"code": "ZUR",
+			"country": "Switzerland",
+			"founded": 1896
+		},
+		"venue": {
+			"api_football_id": 1533,
+			"name": "Stadion Letzigrund",
+			"address": "Badenerstrasse 500",
+			"city": "Zürich",
+			"capacity": 26104,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 1011,
+			"name": "FC ST. Gallen",
+			"code": "GAL",
+			"country": "Switzerland",
+			"founded": 1879
+		},
+		"venue": {
+			"api_football_id": 1543,
+			"name": "kybunpark",
+			"address": "Zürcher Strasse 464",
+			"city": "St. Gallen",
+			"capacity": 20660,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 1012,
+			"name": "FC Thun",
+			"code": "THU",
+			"country": "Switzerland",
+			"founded": 1898
+		},
+		"venue": {
+			"api_football_id": 1544,
+			"name": "Stockhorn Arena",
+			"address": "Weststrasse 12",
+			"city": "Thun",
+			"capacity": 10398,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 1013,
+			"name": "Grasshoppers",
+			"code": "GRA",
+			"country": "Switzerland",
+			"founded": 1886
+		},
+		"venue": {
+			"api_football_id": 1533,
+			"name": "Stadion Letzigrund",
+			"address": "Badenerstrasse 500",
+			"city": "Zürich",
+			"capacity": 26104,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 1014,
+			"name": "Lausanne",
+			"code": "LAU",
+			"country": "Switzerland",
+			"founded": 1896
+		},
+		"venue": {
+			"api_football_id": 11917,
+			"name": "Stade de la Tuilière",
+			"address": "Route de Romanel 10",
+			"city": "Lausanne",
+			"capacity": 12544,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 2180,
+			"name": "FC Winterthur",
+			"code": "WIN",
+			"country": "Switzerland",
+			"founded": 1896
+		},
+		"venue": {
+			"api_football_id": 1547,
+			"name": "Stadion Schützenwiese",
+			"address": "Rennweg 5",
+			"city": "Winterthur",
+			"capacity": 14987,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 2184,
+			"name": "Servette FC",
+			"code": "SER",
+			"country": "Switzerland",
+			"founded": 1890
+		},
+		"venue": {
+			"api_football_id": 1541,
+			"name": "Stade de Genève",
+			"address": "16, route des Jeunes",
+			"city": "Lancy",
+			"capacity": 30084,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 4269,
+			"name": "Stade Lausanne-Ouchy",
+			"code": "STA",
+			"country": "Switzerland",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1535,
+			"name": "Stade Olympique de la Pontaise",
+			"address": "Route des Plaines du Loup 7",
+			"city": "Lausanne",
+			"capacity": 15786,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 6653,
+			"name": "Yverdon Sport",
+			"code": "YVE",
+			"country": "Switzerland",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 4859,
+			"name": "Stade Municipal",
+			"address": "Rue des Pêcheurs",
+			"city": "Yverdon-les-Bains",
+			"capacity": 7600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 207,
+			"name": "Super League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 630,
+			"name": "FC Sion",
+			"code": "SIO",
+			"country": "Switzerland",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 1542,
+			"name": "Stade de Tourbillon",
+			"address": "38, rue des Echutes",
+			"city": "Sion",
+			"capacity": 16263,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 660,
+			"name": "FC Vaduz",
+			"code": "VAD",
+			"country": "Liechtenstein",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 1545,
+			"name": "Rheinpark Stadion",
+			"address": "Lettstrasse 74",
+			"city": "Vaduz",
+			"capacity": 7838,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 1012,
+			"name": "FC Thun",
+			"code": "THU",
+			"country": "Switzerland",
+			"founded": 1898
+		},
+		"venue": {
+			"api_football_id": 1544,
+			"name": "Stockhorn Arena",
+			"address": "Weststrasse 12",
+			"city": "Thun",
+			"capacity": 10398,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 1015,
+			"name": "Neuchatel Xamax FC",
+			"code": "XAM",
+			"country": "Switzerland",
+			"founded": 1970
+		},
+		"venue": {
+			"api_football_id": 1538,
+			"name": "Stade de la Maladière",
+			"address": "Rue de la Pierre-à-Mazel 10, Maladière",
+			"city": "Neuchâtel",
+			"capacity": 12500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 2177,
+			"name": "FC Aarau",
+			"code": "AAR",
+			"country": "Switzerland",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 1531,
+			"name": "Stadion Brügglifeld",
+			"address": "Brügglifeldweg",
+			"city": "Aarau",
+			"capacity": 9249,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 2179,
+			"name": "FC WIL 1900",
+			"code": "WIL",
+			"country": "Switzerland",
+			"founded": 1900
+		},
+		"venue": {
+			"api_football_id": 19218,
+			"name": "Lidl Arena",
+			"address": "Bergholzstrasse",
+			"city": "Wil",
+			"capacity": 6958,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 2182,
+			"name": "FC Schaffhausen",
+			"code": "SCH",
+			"country": "Switzerland",
+			"founded": 1896
+		},
+		"venue": {
+			"api_football_id": 20337,
+			"name": "berformance arena",
+			"address": "Industriestrasse",
+			"city": "Schaffhausen",
+			"capacity": 8200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 6616,
+			"name": "Bellinzona",
+			"code": null,
+			"country": "Switzerland",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 4830,
+			"name": "Stadio Comunale",
+			"address": "Piazzale Stadio",
+			"city": "Bellinzona",
+			"capacity": 7025,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 6646,
+			"name": "Stade Nyonnais",
+			"code": "STA",
+			"country": "Switzerland",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 3264,
+			"name": "Centre sportif de Colovray",
+			"address": "Route de Genève 37",
+			"city": "Nyon",
+			"capacity": 7200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 12699,
+			"name": "Baden",
+			"code": "BAD",
+			"country": "Switzerland",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19808,
+			"name": "Stadion Esp",
+			"address": "Täfernstrasse 41",
+			"city": "Fislisbach",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 208,
+			"name": "Challenge League",
+			"country": "Switzerland",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	}
+]
