@@ -15,9 +15,9 @@
 
 #tooltip {
     width: 400px;
-    padding: 20px;
+    padding: 10px;
     font-family: Arial, sans-serif;
-    font-size: 10pt;
+    font-size: 12px;
     background-color: #FFF;
     border: 2px solid green;
     border-radius: 6px;

@@ -33,10 +33,7 @@
                     <img src="/images/no-image.png" />
                 </object>
             </div>
-            <div id="tooltip" class="">
-                <h6>Tooltip</h6>
-                <br /><br /><br /><br />
-            </div>
+            <div id="tooltip" class=""></div>
         </div>
         <div class="row"></div>
     </div>
@@ -137,6 +134,7 @@
                     newElement.setAttribute('r', 10)
                     newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
                     newElement.setAttribute('data-city', teams[i]['venue']['city'])
+                    newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
                     newElement.setAttribute('class', 'city')
                     stadiumObj.appendChild(newElement)
                 }
@@ -163,14 +161,20 @@
                         tooltip.style.top = `${pageY - 0}px`
                     }
                     if (pageX < innerWidth / 2) {
-                        tooltip.style.left = `${pageX + 0}px`
+                        tooltip.style.left = `${pageX + 5}px`
                     } else {
                         tooltip.style.left = `${pageX - 400 - 0}px`
                     }
                 }
 
                 const city = e.target.getAttribute('data-city')
+                const stadiumId = e.target.getAttribute('data-stadium-id')
                 console.log('city: ', city)
+                tooltip.innerHTML = `
+                    <h4>${city}</h4>
+                    <img src="/images/germany/${stadiumId}.jpg" width="300" />
+                `
+
             }
 
             for (var i = 0; i < elements.length; i++) {
