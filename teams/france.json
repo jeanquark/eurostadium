@@ -14,8 +14,8 @@
 			"city": "Villeneuve d&apos;Ascq",
 			"capacity": 50083,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.611275,
+			"lng": 3.128197,
 			"x": 0,
 			"y": 0
 		},
@@ -42,8 +42,8 @@
 			"city": "Décines-Charpieu",
 			"capacity": 61556,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.765521,
+			"lng": 4.980085,
 			"x": 0,
 			"y": 0
 		},
@@ -70,8 +70,8 @@
 			"city": "Marseille",
 			"capacity": 67394,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.269846,
+			"lng": 5.39591,
 			"x": 0,
 			"y": 0
 		},
@@ -98,8 +98,8 @@
 			"city": "Montpellier",
 			"capacity": 32939,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.622181,
+			"lng": 3.812022,
 			"x": 0,
 			"y": 0
 		},
@@ -126,8 +126,8 @@
 			"city": "Nantes",
 			"capacity": 38285,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.256009,
+			"lng": -1.524681,
 			"x": 0,
 			"y": 0
 		},
@@ -154,8 +154,8 @@
 			"city": "Nice",
 			"capacity": 35624,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.705086,
+			"lng": 7.19263,
 			"x": 0,
 			"y": 0
 		},
@@ -182,8 +182,8 @@
 			"city": "Paris",
 			"capacity": 47929,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.841471,
+			"lng": 2.253012,
 			"x": 0,
 			"y": 0
 		},
@@ -210,8 +210,8 @@
 			"city": "Monaco",
 			"capacity": 18523,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.727778,
+			"lng": 7.415556,
 			"x": 0,
 			"y": 0
 		},
@@ -238,8 +238,8 @@
 			"city": "Reims",
 			"capacity": 21684,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.247222,
+			"lng": 4.024722,
 			"x": 0,
 			"y": 0
 		},
@@ -266,8 +266,8 @@
 			"city": "Rennes",
 			"capacity": 31127,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.107458,
+			"lng": -1.712839,
 			"x": 0,
 			"y": 0
 		},
@@ -294,8 +294,8 @@
 			"city": "Strasbourg",
 			"capacity": 26109,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.560027,
+			"lng": 7.755117,
 			"x": 0,
 			"y": 0
 		},
@@ -322,8 +322,8 @@
 			"city": "Toulouse",
 			"capacity": 33150,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.583278,
+			"lng": 1.434021,
 			"x": 0,
 			"y": 0
 		},
@@ -350,8 +350,8 @@
 			"city": "Lorient",
 			"capacity": 18970,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.748747,
+			"lng": -3.369367,
 			"x": 0,
 			"y": 0
 		},
@@ -378,8 +378,8 @@
 			"city": "Clermont-Ferrand",
 			"capacity": 13576,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.815804,
+			"lng": 3.121679,
 			"x": 0,
 			"y": 0
 		},
@@ -406,8 +406,8 @@
 			"city": "Brest",
 			"capacity": 15931,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.402778,
+			"lng": -4.461389,
 			"x": 0,
 			"y": 0
 		},
@@ -434,8 +434,8 @@
 			"city": "Le Havre",
 			"capacity": 25178,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.498785,
+			"lng": 0.169773,
 			"x": 0,
 			"y": 0
 		},
@@ -462,8 +462,8 @@
 			"city": "Longeville-lès-Metz",
 			"capacity": 30000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.109797,
+			"lng": 6.1595,
 			"x": 0,
 			"y": 0
 		},
@@ -490,8 +490,8 @@
 			"city": "Lens",
 			"capacity": 41233,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.43285,
+			"lng": 2.814853,
 			"x": 0,
 			"y": 0
 		},
@@ -518,8 +518,8 @@
 			"city": "Saint-Ètienne",
 			"capacity": 41965,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.460753,
+			"lng": 4.390161,
 			"x": 0,
 			"y": 0
 		},
@@ -546,8 +546,8 @@
 			"city": "Angers",
 			"capacity": 19000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.460454,
+			"lng": -0.530791,
 			"x": 0,
 			"y": 0
 		},
@@ -574,8 +574,8 @@
 			"city": "Bordeaux",
 			"capacity": 42115,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.897358,
+			"lng": -0.561606,
 			"x": 0,
 			"y": 0
 		},
@@ -602,8 +602,8 @@
 			"city": "Amiens",
 			"capacity": 12999,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.894222,
+			"lng": 2.263352,
 			"x": 0,
 			"y": 0
 		},
@@ -630,8 +630,8 @@
 			"city": "Caen",
 			"capacity": 20453,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.179444,
+			"lng": -0.396667,
 			"x": 0,
 			"y": 0
 		},
@@ -658,8 +658,8 @@
 			"city": "Guingamp",
 			"capacity": 19003,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.566058,
+			"lng": -3.164492,
 			"x": 0,
 			"y": 0
 		},
@@ -686,8 +686,8 @@
 			"city": "Ajaccio",
 			"capacity": 10660,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.930833,
+			"lng": 8.776667,
 			"x": 0,
 			"y": 0
 		},
@@ -714,8 +714,8 @@
 			"city": "Grenoble",
 			"capacity": 20068,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.1875,
+			"lng": 5.74,
 			"x": 0,
 			"y": 0
 		},
@@ -742,8 +742,8 @@
 			"city": "Valenciennes",
 			"capacity": 24926,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.348056,
+			"lng": 3.533056,
 			"x": 0,
 			"y": 0
 		},
@@ -770,8 +770,8 @@
 			"city": "Auxerre",
 			"capacity": 23467,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.78675,
+			"lng": 3.588667,
 			"x": 0,
 			"y": 0
 		},
@@ -798,8 +798,8 @@
 			"city": "Troyes",
 			"capacity": 21877,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.3075,
+			"lng": 4.098333,
 			"x": 0,
 			"y": 0
 		},
@@ -826,8 +826,8 @@
 			"city": "Paris",
 			"capacity": 20000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.818534,
+			"lng": 2.346658,
 			"x": 0,
 			"y": 0
 		},
@@ -854,8 +854,8 @@
 			"city": "Le Petit-Quevilly",
 			"capacity": 12018,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.411062,
+			"lng": 1.070759,
 			"x": 0,
 			"y": 0
 		},
@@ -882,8 +882,8 @@
 			"city": "Laval",
 			"capacity": 18607,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.082222,
+			"lng": -0.754722,
 			"x": 0,
 			"y": 0
 		},
@@ -910,8 +910,8 @@
 			"city": "Saint-Ètienne",
 			"capacity": 41965,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.460753,
+			"lng": 4.390161,
 			"x": 0,
 			"y": 0
 		},
@@ -938,8 +938,8 @@
 			"city": "Bizanos",
 			"capacity": 4031,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.30805556,
+			"lng": 0.32555556,
 			"x": 0,
 			"y": 0
 		},
@@ -966,8 +966,8 @@
 			"city": "Brest",
 			"capacity": 15931,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.402778,
+			"lng": -4.461389,
 			"x": 0,
 			"y": 0
 		},
@@ -994,8 +994,8 @@
 			"city": "Rodez",
 			"capacity": 5996,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.351667,
+			"lng": 2.563611,
 			"x": 0,
 			"y": 0
 		},
@@ -1022,8 +1022,8 @@
 			"city": "Dunkerque",
 			"capacity": 4933,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.035158,
+			"lng": 2.389687,
 			"x": 0,
 			"y": 0
 		},
@@ -1050,8 +1050,8 @@
 			"city": "Furiani",
 			"capacity": 17000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.651389,
+			"lng": 9.442611,
 			"x": 0,
 			"y": 0
 		},
@@ -1078,8 +1078,8 @@
 			"city": "Annecy",
 			"capacity": 15660,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.916497,
+			"lng": 6.118053,
 			"x": 0,
 			"y": 0
 		},
@@ -1090,856 +1090,5 @@
 			"api_football_country_id": 0
 		},
 		"no": 39
-	},
-	{
-		"team": {
-			"api_football_id": 157,
-			"name": "Bayern Munich",
-			"code": "BAY",
-			"country": "Germany",
-			"founded": 1900
-		},
-		"venue": {
-			"api_football_id": 20732,
-			"name": "FuÃball Arena MÃ¼nchen",
-			"address": "Werner-Heisenberg-Allee 25",
-			"city": "MÃ¼nchen",
-			"capacity": 75024,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 41
-	},
-	{
-		"team": {
-			"api_football_id": 158,
-			"name": "Fortuna Dusseldorf",
-			"code": "DUS",
-			"country": "Germany",
-			"founded": 1895
-		},
-		"venue": {
-			"api_football_id": 20735,
-			"name": "DÃ¼sseldorf Arena",
-			"address": "Arena-Str. 1",
-			"city": "DÃ¼sseldorf",
-			"capacity": 54600,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 42
-	},
-	{
-		"team": {
-			"api_football_id": 160,
-			"name": "SC Freiburg",
-			"code": "FRE",
-			"country": "Germany",
-			"founded": 1904
-		},
-		"venue": {
-			"api_football_id": 12717,
-			"name": "Europa-Park Stadion",
-			"address": "Achim-Stocker-StraÃe 1",
-			"city": "Freiburg im Breisgau",
-			"capacity": 34700,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 43
-	},
-	{
-		"team": {
-			"api_football_id": 161,
-			"name": "VfL Wolfsburg",
-			"code": "WOL",
-			"country": "Germany",
-			"founded": 1945
-		},
-		"venue": {
-			"api_football_id": 752,
-			"name": "Volkswagen Arena",
-			"address": "In den Allerwiesen 1",
-			"city": "Wolfsburg",
-			"capacity": 30000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 44
-	},
-	{
-		"team": {
-			"api_football_id": 162,
-			"name": "Werder Bremen",
-			"code": "WER",
-			"country": "Germany",
-			"founded": 1899
-		},
-		"venue": {
-			"api_football_id": 755,
-			"name": "wohninvest WESERSTADION",
-			"address": "Franz-BÃ¶hmert-StraÃe 1c",
-			"city": "Bremen",
-			"capacity": 42358,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 45
-	},
-	{
-		"team": {
-			"api_football_id": 163,
-			"name": "Borussia Monchengladbach",
-			"code": "MOE",
-			"country": "Germany",
-			"founded": 1900
-		},
-		"venue": {
-			"api_football_id": 20471,
-			"name": "BORUSSIA-PARK",
-			"address": "Hennes-Weisweiler-Allee 1",
-			"city": "MÃ¶nchengladbach",
-			"capacity": 54057,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 46
-	},
-	{
-		"team": {
-			"api_football_id": 164,
-			"name": "FSV Mainz 05",
-			"code": "MAI",
-			"country": "Germany",
-			"founded": 1905
-		},
-		"venue": {
-			"api_football_id": 11899,
-			"name": "MEWA ARENA",
-			"address": "Eugen-Salomon-StraÃe 1",
-			"city": "Mainz",
-			"capacity": 34034,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 47
-	},
-	{
-		"team": {
-			"api_football_id": 165,
-			"name": "Borussia Dortmund",
-			"code": "DOR",
-			"country": "Germany",
-			"founded": 1909
-		},
-		"venue": {
-			"api_football_id": 20733,
-			"name": "BVB Stadion Dortmund",
-			"address": "Strobelalle 50",
-			"city": "Dortmund",
-			"capacity": 81365,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 48
-	},
-	{
-		"team": {
-			"api_football_id": 167,
-			"name": "1899 Hoffenheim",
-			"code": "HOF",
-			"country": "Germany",
-			"founded": 1899
-		},
-		"venue": {
-			"api_football_id": 724,
-			"name": "PreZero Arena",
-			"address": "Dietmar-Hopp-StraÃe 1",
-			"city": "Sinsheim",
-			"capacity": 30164,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 49
-	},
-	{
-		"team": {
-			"api_football_id": 168,
-			"name": "Bayer Leverkusen",
-			"code": "BAY",
-			"country": "Germany",
-			"founded": 1904
-		},
-		"venue": {
-			"api_football_id": 699,
-			"name": "BayArena",
-			"address": "Bismarckstr. 122-124",
-			"city": "Leverkusen",
-			"capacity": 30210,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 50
-	},
-	{
-		"team": {
-			"api_football_id": 169,
-			"name": "Eintracht Frankfurt",
-			"code": "EIN",
-			"country": "Germany",
-			"founded": 1899
-		},
-		"venue": {
-			"api_football_id": 20734,
-			"name": "Frankfurt Arena",
-			"address": "MÃ¶rfelder Landstr. 362",
-			"city": "Frankfurt am Main",
-			"capacity": 58000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 51
-	},
-	{
-		"team": {
-			"api_football_id": 170,
-			"name": "FC Augsburg",
-			"code": "AUG",
-			"country": "Germany",
-			"founded": 1907
-		},
-		"venue": {
-			"api_football_id": 698,
-			"name": "WWK Arena",
-			"address": "BÃ¼rgermeister Ulrich-StraÃe 90",
-			"city": "Augsburg",
-			"capacity": 30662,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 52
-	},
-	{
-		"team": {
-			"api_football_id": 172,
-			"name": "VfB Stuttgart",
-			"code": "STU",
-			"country": "Germany",
-			"founded": 1893
-		},
-		"venue": {
-			"api_football_id": 20739,
-			"name": "Stuttgart Arena",
-			"address": "Mercedesstrasse 87",
-			"city": "Stuttgart",
-			"capacity": 60469,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 53
-	},
-	{
-		"team": {
-			"api_football_id": 173,
-			"name": "RB Leipzig",
-			"code": "LEI",
-			"country": "Germany",
-			"founded": 2009
-		},
-		"venue": {
-			"api_football_id": 20737,
-			"name": "Leipzig Stadium",
-			"address": "Am Sportforum 3",
-			"city": "Leipzig",
-			"capacity": 47069,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 54
-	},
-	{
-		"team": {
-			"api_football_id": 176,
-			"name": "Vfl Bochum",
-			"code": "BOC",
-			"country": "Germany",
-			"founded": 1848
-		},
-		"venue": {
-			"api_football_id": 751,
-			"name": "Vonovia Ruhrstadion",
-			"address": "Castropher StraÃe 145",
-			"city": "Bochum",
-			"capacity": 27599,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 55
-	},
-	{
-		"team": {
-			"api_football_id": 180,
-			"name": "FC Heidenheim",
-			"code": "HEI",
-			"country": "Germany",
-			"founded": 1946
-		},
-		"venue": {
-			"api_football_id": 723,
-			"name": "Voith-Arena",
-			"address": "SchloÃhaustraÃe 160",
-			"city": "Heidenheim an der Brenz",
-			"capacity": 15000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 56
-	},
-	{
-		"team": {
-			"api_football_id": 181,
-			"name": "SV Darmstadt 98",
-			"code": "DAR",
-			"country": "Germany",
-			"founded": 1898
-		},
-		"venue": {
-			"api_football_id": 705,
-			"name": "Merck-Stadion am BÃ¶llenfalltor",
-			"address": "Nieder-RamstÃ¤dter StraÃe 170",
-			"city": "Darmstadt",
-			"capacity": 17810,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 57
-	},
-	{
-		"team": {
-			"api_football_id": 182,
-			"name": "Union Berlin",
-			"code": "UNI",
-			"country": "Germany",
-			"founded": 1966
-		},
-		"venue": {
-			"api_football_id": 748,
-			"name": "Stadion An der Alten FÃ¶rsterei",
-			"address": "HÃ¤mmerlingstraÃe 80-88, KÃ¶penick",
-			"city": "Berlin",
-			"capacity": 22467,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 58
-	},
-	{
-		"team": {
-			"api_football_id": 192,
-			"name": "1.FC KÃ¶ln",
-			"code": "KOL",
-			"country": "Germany",
-			"founded": 1948
-		},
-		"venue": {
-			"api_football_id": 20736,
-			"name": "Cologne Stadium",
-			"address": "Aachener Str. 999",
-			"city": "KÃ¶ln",
-			"capacity": 50076,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 59
-	},
-	{
-		"team": {
-			"api_football_id": 159,
-			"name": "Hertha Berlin",
-			"code": "HER",
-			"country": "Germany",
-			"founded": 1892
-		},
-		"venue": {
-			"api_football_id": 694,
-			"name": "Olympiastadion Berlin",
-			"address": "Olympischer Platz 3",
-			"city": "Berlin",
-			"capacity": 74667,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 60
-	},
-	{
-		"team": {
-			"api_football_id": 166,
-			"name": "Hannover 96",
-			"code": "HAN",
-			"country": "Germany",
-			"founded": 1896
-		},
-		"venue": {
-			"api_football_id": 18858,
-			"name": "Heinz von Heiden-Arena",
-			"address": "Robert-Enke-Str. 3",
-			"city": "Hannover",
-			"capacity": 49951,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 61
-	},
-	{
-		"team": {
-			"api_football_id": 171,
-			"name": "FC Nurnberg",
-			"code": "NUR",
-			"country": "Germany",
-			"founded": 1900
-		},
-		"venue": {
-			"api_football_id": 713,
-			"name": "Max-Morlock-Stadion",
-			"address": "Max-Morlock-Platz 1",
-			"city": "NÃ¼rnberg",
-			"capacity": 50000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 62
-	},
-	{
-		"team": {
-			"api_football_id": 174,
-			"name": "FC Schalke 04",
-			"code": "SCH",
-			"country": "Germany",
-			"founded": 1904
-		},
-		"venue": {
-			"api_football_id": 20738,
-			"name": "Arena AufSchalke",
-			"address": "Arenaring 1",
-			"city": "Gelsenkirchen",
-			"capacity": 62278,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 63
-	},
-	{
-		"team": {
-			"api_football_id": 175,
-			"name": "Hamburger SV",
-			"code": "HAM",
-			"country": "Germany",
-			"founded": 1887
-		},
-		"venue": {
-			"api_football_id": 720,
-			"name": "Volksparkstadion",
-			"address": "Sylvester Allee 7",
-			"city": "Hamburg",
-			"capacity": 57030,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 64
-	},
-	{
-		"team": {
-			"api_football_id": 177,
-			"name": "Jahn Regensburg",
-			"code": "REG",
-			"country": "Germany",
-			"founded": 2000
-		},
-		"venue": {
-			"api_football_id": 10490,
-			"name": "Jahnstadion Regensburg",
-			"address": "Franz-Josef-StrauÃ-Allee, Oberisling",
-			"city": "Regensburg",
-			"capacity": 15224,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 65
-	},
-	{
-		"team": {
-			"api_football_id": 178,
-			"name": "SpVgg Greuther Furth",
-			"code": "GRE",
-			"country": "Germany",
-			"founded": 1903
-		},
-		"venue": {
-			"api_football_id": 718,
-			"name": "Sportpark Ronhof Thomas Sommer",
-			"address": "Laubenweg 60",
-			"city": "FÃ¼rth",
-			"capacity": 18000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 66
-	},
-	{
-		"team": {
-			"api_football_id": 179,
-			"name": "FC Magdeburg",
-			"code": "MAG",
-			"country": "Germany",
-			"founded": 1965
-		},
-		"venue": {
-			"api_football_id": 733,
-			"name": "MDCC-Arena",
-			"address": "Friedrich-Ebert-StraÃe 69",
-			"city": "Magdeburg",
-			"capacity": 30000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 67
-	},
-	{
-		"team": {
-			"api_football_id": 185,
-			"name": "SC Paderborn 07",
-			"code": "PAD",
-			"country": "Germany",
-			"founded": 1907
-		},
-		"venue": {
-			"api_football_id": 18622,
-			"name": "Home Deluxe Arena",
-			"address": "Wilfried-Finke-Allee 1",
-			"city": "Paderborn",
-			"capacity": 15306,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 68
-	},
-	{
-		"team": {
-			"api_football_id": 186,
-			"name": "FC St. Pauli",
-			"code": "PAU",
-			"country": "Germany",
-			"founded": 1910
-		},
-		"venue": {
-			"api_football_id": 745,
-			"name": "Millerntor-Stadion",
-			"address": "Harald-Stender-Platz 1",
-			"city": "Hamburg",
-			"capacity": 29564,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 69
-	},
-	{
-		"team": {
-			"api_football_id": 191,
-			"name": "Holstein Kiel",
-			"code": "HOL",
-			"country": "Germany",
-			"founded": 1900
-		},
-		"venue": {
-			"api_football_id": 725,
-			"name": "Holstein-Stadion",
-			"address": "Westring 501",
-			"city": "Kiel",
-			"capacity": 15034,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 70
-	},
-	{
-		"team": {
-			"api_football_id": 744,
-			"name": "Eintracht Braunschweig",
-			"code": "BRA",
-			"country": "Germany",
-			"founded": 1895
-		},
-		"venue": {
-			"api_football_id": 708,
-			"name": "Eintracht-Stadion",
-			"address": "Hamburger StraÃe 210",
-			"city": "Braunschweig",
-			"capacity": 24474,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 71
-	},
-	{
-		"team": {
-			"api_football_id": 745,
-			"name": "FC Kaiserslautern",
-			"code": "KAI",
-			"country": "Germany",
-			"founded": 1900
-		},
-		"venue": {
-			"api_football_id": 728,
-			"name": "Fritz-Walter-Stadion",
-			"address": "Fritz-Walter-StraÃe 1",
-			"city": "Kaiserslautern",
-			"capacity": 49780,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 72
-	},
-	{
-		"team": {
-			"api_football_id": 785,
-			"name": "Karlsruher SC",
-			"code": "KAR",
-			"country": "Germany",
-			"founded": 1898
-		},
-		"venue": {
-			"api_football_id": 11900,
-			"name": "BBBank Wildpark",
-			"address": "Adenauerring 17",
-			"city": "Karlsruhe",
-			"capacity": 34302,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 73
-	},
-	{
-		"team": {
-			"api_football_id": 1319,
-			"name": "SV Wehen",
-			"code": "WEH",
-			"country": "Germany",
-			"founded": 1926
-		},
-		"venue": {
-			"api_football_id": 753,
-			"name": "BRITA-Arena",
-			"address": "Berliner StraÃe 9",
-			"city": "Wiesbaden",
-			"capacity": 13144,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 74
-	},
-	{
-		"team": {
-			"api_football_id": 1321,
-			"name": "Hansa Rostock",
-			"code": "HAN",
-			"country": "Germany",
-			"founded": 1965
-		},
-		"venue": {
-			"api_football_id": 722,
-			"name": "Ostseestadion",
-			"address": "KopernikusstraÃe 17",
-			"city": "Rostock",
-			"capacity": 29000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 75
-	},
-	{
-		"team": {
-			"api_football_id": 1324,
-			"name": "VfL Osnabruck",
-			"code": "OSN",
-			"country": "Germany",
-			"founded": 1899
-		},
-		"venue": {
-			"api_football_id": 735,
-			"name": "Bremer BrÃ¼cke",
-			"address": "ScharnhorststraÃe 50, Schinkel",
-			"city": "OsnabrÃ¼ck",
-			"capacity": 16667,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 76
-	},
-	{
-		"team": {
-			"api_football_id": 1660,
-			"name": "SV Elversberg",
-			"code": "ELV",
-			"country": "Germany",
-			"founded": 1907
-		},
-		"venue": {
-			"api_football_id": 710,
-			"name": "URSAPHARM-Arena an der Kaiserlinde",
-			"address": "LindenstraÃe 7",
-			"city": "Spiesen-Elversberg",
-			"capacity": 11150,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 77
 	}
 ]
