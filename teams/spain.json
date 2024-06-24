@@ -156,8 +156,8 @@
 			"surface": "grass",
 			"lat": 28.10027778,
 			"lng": -15.45666667,
-			"x": 10,
-			"y": 10
+			"x": 270,
+			"y": 428
 		},
 		"league": {
 			"api_football_id": 140,
@@ -744,8 +744,8 @@
 			"surface": "grass",
 			"lat": 28.463056,
 			"lng": -16.260556,
-			"x": 12,
-			"y": 12
+			"x": 247,
+			"y": 413
 		},
 		"league": {
 			"api_football_id": 141,
@@ -994,10 +994,10 @@
 			"city": "Cartagena",
 			"capacity": 15105,
 			"surface": "grass",
-			"lat": 37.60555556,
-			"lng": 0.99611111,
-			"x": 316.4,
-			"y": 240.4
+			"lat": 316.4,
+			"lng": 240.4,
+			"x": 10,
+			"y": 20
 		},
 		"league": {
 			"api_football_id": 141,
