@@ -1,300 +1,304 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
+        <!-- <meta name="robots" content="noindex, nofollow" /> -->
+        <!-- <meta name="referrer" content="origin" /> -->
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <!-- <meta name="robots" content="noindex, nofollow" /> -->
-    <!-- <meta name="referrer" content="origin" /> -->
+        <!-- styles -->
+        <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+        <link rel="stylesheet" href="styles/common.css" />
+        <link rel="stylesheet" href="./styles/home.css" />
+        <style></style>
+    </head>
 
-    <!-- styles -->
-    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
-    <link rel="stylesheet" href="styles/common.css" />
-    <link rel="stylesheet" href="./styles/home.css" />
-    <style></style>
-</head>
-
-<body>
-    <div>
-        <div class="row" style="position: relative">
-            <div class="col-12">
-                <h1 style="text-align: center">SVG Example</h1>
-                <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
-                <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
-                <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
-                <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
-                <br /><br />
+    <body>
+        <div>
+            <div class="row" style="position: relative">
+                <div class="col-12">
+                    <h1 style="text-align: center">SVG Example</h1>
+                    <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
+                    <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
+                    <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
+                    <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
+                    <a href="/tests/modal.html">Modal</a>
+                    <br /><br />
+                </div>
+                <div class="col-4 border-2" id="svgWrapper">
+                    <object type="image/svg+xml" id="svgObject" style="width: 100%; height: 400px; border: 1px dashed green">
+                        <img src="/images/no-image.png" />
+                    </object>
+                    <div id="tooltip" class=""></div>
+                </div>
+                <div class="col-4 border-3">
+                    <button hx-on:click="displayStadiums('all')">All teams</button><br />
+                    <button hx-on:click="displayStadiums('first_league')">Top league teams</button><br />
+                    <button hx-on:click="displayStadiums('second_league')">2nd league teams</button><br />
+                    <button hx-on:click="displayStadiums('sm')">< 20 000</button><br />
+                    <button hx-on:click="displayStadiums('md')">20 000 < 40 000</button><br />
+                    <button hx-on:click="displayStadiums('lg')">40 000 < 60 000</button><br />
+                    <button hx-on:click="displayStadiums('xl')">> 60 000</button><br />
+                </div>
             </div>
-            <div class="col-4 border-2" id="svgWrapper">
-                <object type="image/svg+xml" id="svgObject" style="border: 1px dashed green">
-                    <img src="/images/no-image.png" />
-                </object>
-                <div id="tooltip" class=""></div>
-            </div>
-            <div class="col-4 border-3">
-                <button hx-on:click="displayStadiums('all')">All teams</button><br />
-                <button hx-on:click="displayStadiums('first_league')">Top league teams</button><br />
-                <button hx-on:click="displayStadiums('second_league')">2nd league teams</button><br />
-                <button hx-on:click="displayStadiums('sm')">
-                    < 20 000</button><br />
-                        <button hx-on:click="displayStadiums('md')">20 000 < 40 000</button><br />
-                                <button hx-on:click="displayStadiums('lg')">40 000 < 60 000</button><br />
-                                        <button hx-on:click="displayStadiums('xl')">> 60 000</button><br />
-            </div>
+            <div class="row"></div>
         </div>
-        <div class="row"></div>
-    </div>
 
-    <!-- scripts -->
-    <!-- htmx -->
-    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+        <!-- scripts -->
+        <!-- htmx -->
+        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+        <!-- Zoom & pan svg -->
+        <script src="./svg-pan-zoom.min.js"></script>
 
-    <!-- <script src="/scripts/index.js"></script> -->
+        <!-- <script src="/scripts/index.js"></script> -->
 
-    <script></script>
+        <script></script>
 
-    <script>
-        let svgObject
-        let map = 'countries/germany.svg'
-        window.onload = (event) => {
-            console.log('page is fully loaded')
+        <script>
+            let svgObject
+            let map = 'countries/germany.svg'
+            window.onload = (event) => {
+                console.log('page is fully loaded')
 
+                svgObject = document.getElementById('svgObject')
+                console.log('svgObject: ', svgObject)
+                svgObject.data = `/images/svg/europe-with-russia.svg`
+            }
+            const toggleMap = () => {
+                console.log('toggleMap')
+                if (map == 'countries/germany.svg') {
+                    map = 'europe-with-russia.svg'
+                } else {
+                    map = 'countries/germany.svg'
+                }
+                svgObject.data = `/images/svg/${map}`
+            }
+            const displayMap = (map) => {
+                svgObject.data = `/images/svg/${map}.svg`
+            }
+        </script>
+
+        <script>
+            let country
             svgObject = document.getElementById('svgObject')
-            console.log('svgObject: ', svgObject)
-            svgObject.data = `/images/svg/europe-with-russia.svg`
+            svgObject.addEventListener(
+                'load',
+                async () => {
+                    const svgObject = document.getElementById('svgObject')
+                    const svgContent = svgObject.contentDocument
 
-
-
-        }
-        const toggleMap = () => {
-            console.log('toggleMap')
-            if (map == 'countries/germany.svg') {
-                map = 'europe-with-russia.svg'
-            } else {
-                map = 'countries/germany.svg'
-            }
-            svgObject.data = `/images/svg/${map}`
-        }
-        const displayMap = (map) => {
-            svgObject.data = `/images/svg/${map}.svg`
-        }
-    </script>
-
-    <script>
-        let country
-        svgObject = document.getElementById('svgObject')
-        svgObject.addEventListener(
-            'load',
-            async () => {
-                const svgObject = document.getElementById('svgObject')
-                const svgContent = svgObject.contentDocument
-
-                svgContent.addEventListener(
-                    'click',
-                    (e) => {
-                        console.clear()
-                        // console.log('e1: ', e)
-                        const path = e.target.closest('path')
-                        if (path) {
-                            country = path.getAttribute('data-country')
-                            console.log('country: ', country)
-                            if (country) {
-                                svgObject.data = `/images/svg/countries/${country}Low.svg`
-                                // fetchStadiums(country)
-
+                    svgContent.addEventListener(
+                        'click',
+                        (e) => {
+                            console.clear()
+                            // console.log('e1: ', e)
+                            const path = e.target.closest('path')
+                            if (path) {
+                                country = path.getAttribute('data-country')
+                                console.log('country: ', country)
+                                if (country) {
+                                    svgObject.data = `/images/svg/countries/${country}Low.svg`
+                                    // fetchStadiums(country)
+                                }
                             }
+                        },
+                        false
+                    )
+                    if (country) {
+                        fetchStadiums(country)
+                    }
+                    let tooltip = document.getElementById('tooltip')
+
+                    const handleMouseLeave = () => {
+                        console.log('handleMouseLeave')
+                        if (tooltip) {
+                            tooltip.style.display = 'none'
                         }
-                    },
-                    false
-                )
-                fetchStadiums(country)
+                    }
 
-                let tooltip = document.getElementById('tooltip')
+                    tooltip.addEventListener('mouseleave', handleMouseLeave, false)
 
-                const handleMouseLeave = () => {
-                    console.log('handleMouseLeave')
+                    svgPanZoom('#svgObject', {
+                        zoomEnabled: true,
+                        controlIconsEnabled: false,
+                    })
+                },
+                false
+            )
+        </script>
+
+        <script></script>
+
+        <script>
+            const fetchStadiums = async (country) => {
+                console.log('fetchStadiums country: ', country)
+                const svgObject = document.getElementById('svgObject')
+                // console.log('svgObject: ', svgObject)
+                const svgContent = svgObject.contentDocument
+                // console.log('svgContent: ', svgContent)
+                const stadiumObj = svgContent.getElementById('stadiums')
+                // console.log('stadiumObj: ', stadiumObj)
+                // return
+
+                if (stadiumObj) {
+                    const data = await fetch(`./teams/${country}.json`)
+                    const teams = await data.json()
+                    console.log('teams: ', teams)
+                    let newElement
+                    const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+                    console.log('leagues: ', leagues)
+                    for (let i = 0; i < teams.length; i++) {
+                        newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+                        newElement.setAttribute('cx', teams[i]['venue']['x'])
+                        newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
+                        newElement.setAttribute('r', 5)
+                        newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                        newElement.setAttribute('data-city', teams[i]['venue']['city'])
+                        newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
+                        newElement.setAttribute('class', 'city')
+                        stadiumObj.appendChild(newElement)
+                    }
+                }
+
+                let elements = svgContent.getElementsByClassName('city')
+                // console.log('elements: ', elements)
+
+                const handleMouseOver = (e) => {
+                    console.log('handleMouseOver')
+                    const innerWidth = window.innerWidth
+                    const innerHeight = window.innerHeight
+                    const pageX = e.pageX
+                    const pageY = e.pageY
+                    const scrollTop = document.documentElement.scrollTop
+
+                    const tooltip = document.getElementById('tooltip')
+                    console.log('tooltip: ', tooltip)
                     if (tooltip) {
-                        tooltip.style.display = 'none'
+                        tooltip.style.display = 'block'
+                        if (pageY - scrollTop > innerHeight / 2) {
+                            tooltip.style.top = `${pageY - 0}px`
+                        } else {
+                            tooltip.style.top = `${pageY - 0}px`
+                        }
+                        if (pageX < innerWidth / 2) {
+                            tooltip.style.left = `${pageX + 5}px`
+                        } else {
+                            tooltip.style.left = `${pageX - 400 - 0}px`
+                        }
                     }
-                }
 
-                tooltip.addEventListener('mouseleave', handleMouseLeave, false)
-
-                
-            },
-            false
-        )
-    </script>
-
-    <script>
-
-    </script>
-
-    <script>
-        const fetchStadiums = async (country) => {
-            console.log("fetchStadiums country: ", country)
-            const svgObject = document.getElementById('svgObject')
-            console.log('svgObject: ', svgObject);
-            const svgContent = svgObject.contentDocument
-            console.log('svgContent: ', svgContent);
-            const stadiumObj = svgContent.getElementById('stadiums')
-            console.log('stadiumObj: ', stadiumObj)
-            // return
-
-            if (stadiumObj) {
-                const data = await fetch(`./teams/${country}.json`)
-                const teams = await data.json()
-                console.log('teams: ', teams)
-                let newElement
-                const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
-                console.log('leagues: ', leagues)
-                for (let i = 0; i < teams.length; i++) {
-                    newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-                    newElement.setAttribute('cx', teams[i]['venue']['x'])
-                    newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
-                    newElement.setAttribute('r', 5)
-                    newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
-                    newElement.setAttribute('data-city', teams[i]['venue']['city'])
-                    newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
-                    newElement.setAttribute('class', 'city')
-                    stadiumObj.appendChild(newElement)
-                }
-            }
-
-            let elements = svgContent.getElementsByClassName('city')
-            // console.log('elements: ', elements)
-
-            const handleMouseOver = (e) => {
-                console.log('handleMouseOver')
-                const innerWidth = window.innerWidth
-                const innerHeight = window.innerHeight
-                const pageX = e.pageX
-                const pageY = e.pageY
-                const scrollTop = document.documentElement.scrollTop
-
-                const tooltip = document.getElementById('tooltip')
-                console.log('tooltip: ', tooltip)
-                if (tooltip) {
-                    tooltip.style.display = 'block'
-                    if (pageY - scrollTop > innerHeight / 2) {
-                        tooltip.style.top = `${pageY - 0}px`
-                    } else {
-                        tooltip.style.top = `${pageY - 0}px`
-                    }
-                    if (pageX < innerWidth / 2) {
-                        tooltip.style.left = `${pageX + 5}px`
-                    } else {
-                        tooltip.style.left = `${pageX - 400 - 0}px`
-                    }
-                }
-
-                const city = e.target.getAttribute('data-city')
-                const stadiumId = e.target.getAttribute('data-stadium-id')
-                console.log('city: ', city)
-                tooltip.innerHTML = `
+                    const city = e.target.getAttribute('data-city')
+                    const stadiumId = e.target.getAttribute('data-stadium-id')
+                    console.log('city: ', city)
+                    tooltip.innerHTML = `
                     <h4>${city}</h4>
                     <img src="/images/${country}/${stadiumId}.jpg" width="300" />
                 `
+                }
+
+                for (var i = 0; i < elements.length; i++) {
+                    elements[i].addEventListener('mouseover', handleMouseOver, false)
+                }
             }
+        </script>
 
-            for (var i = 0; i < elements.length; i++) {
-                elements[i].addEventListener('mouseover', handleMouseOver, false)
-            }
-        }
-    </script>
-
-    <script>
-        const calculateSVGCoord = async () => {
-            const country = 'spain'
-            const data = await fetch(`./teams/${country}.json`)
-            const teams = await data.json()
-            const teamId = 531
-            const array = []
-
-            const lng_min = -9.301684
-            const lng_max = 4.313022
-            const lat_min = 31.733447
-            const lat_max = 43.792633
-            const x_max = 418.24765
-            const y_max = 468.5632
-
-            for (let i = 0; i < teams.length; i++) {
-                let obj = {}
-                obj['venueId'] = teams[i]['venue']['api_football_id']
-                obj['x'] = (((teams[i]['venue']['lng'] - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1)
-                obj['y'] = (((lat_max - teams[i]['venue']['lat']) * y_max) / (lat_max - lat_min)).toFixed(1)
-                array.push(obj)
-            }
-
-            console.log('array: ', array)
-
-            // const team = teams.find(team => team['team']['api_football_id'] == teamId)
-        }
-    </script>
-
-    <script>
-        const displayStadiums = async (value) => {
-            try {
-                const svgObject = document.getElementById('svgObject')
-                const svgContent = svgObject.contentDocument
-                let stadiumObj = svgContent.getElementById('stadiums')
-                console.log('stadiumObj: ', stadiumObj)
-                // stadiumObj.remove()
-                // stadiumObj.removeChild()
-                stadiumObj.innerHTML = ''
-                // console.log('stadiumObj: ', stadiumObj)
-
-                // return
-                const country = 'germany'
+        <script>
+            const calculateSVGCoord = async () => {
+                const country = 'spain'
                 const data = await fetch(`./teams/${country}.json`)
-                let teams = await data.json()
-                console.log('teams: ', teams)
-                const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
-                console.log('leagues: ', leagues)
+                const teams = await data.json()
+                const teamId = 531
+                const array = []
 
-                switch (value) {
-                    case 'all':
-                        break
-                    case 'first_league':
-                        teams = teams.filter((team) => team['league']['api_football_id'] == leagues[0])
-                        break
-                    case 'second_league':
-                        teams = teams.filter((team) => team['league']['api_football_id'] == leagues[1])
-                        break
-                    case 'sm':
-                        teams = teams.filter((team) => team['venue']['capacity'] <= 20000)
-                        break
-                    case 'md':
-                        teams = teams.filter((team) => team['venue']['capacity'] > 20000 && team['venue']['capacity'] <= 40000)
-                        break
-                    case 'lg':
-                        teams = teams.filter((team) => team['venue']['capacity'] > 40000 && team['venue']['capacity'] <= 60000)
-                        break
-                    case 'xl':
-                        teams = teams.filter((team) => team['venue']['capacity'] > 60000)
-                        break
-                }
-                console.log('teams: ', teams);
-                let newElement
+                const lng_min = -9.301684
+                const lng_max = 4.313022
+                const lat_min = 31.733447
+                const lat_max = 43.792633
+                const x_max = 418.24765
+                const y_max = 468.5632
+
                 for (let i = 0; i < teams.length; i++) {
-                    newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-                    newElement.setAttribute('cx', teams[i]['venue']['x'])
-                    newElement.setAttribute('cy', teams[i]['venue']['y'] + 10)
-                    newElement.setAttribute('r', 5)
-                    newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
-                    newElement.setAttribute('data-city', teams[i]['venue']['city'])
-                    newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
-                    newElement.setAttribute('class', 'city')
-                    stadiumObj.appendChild(newElement)
+                    let obj = {}
+                    obj['venueId'] = teams[i]['venue']['api_football_id']
+                    obj['x'] = (((teams[i]['venue']['lng'] - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1)
+                    obj['y'] = (((lat_max - teams[i]['venue']['lat']) * y_max) / (lat_max - lat_min)).toFixed(1)
+                    array.push(obj)
                 }
-            } catch (error) {
-                console.log('error: ', error)
-            }
-        }
-    </script>
-</body>
 
+                console.log('array: ', array)
+
+                // const team = teams.find(team => team['team']['api_football_id'] == teamId)
+            }
+        </script>
+
+        <script>
+            const displayStadiums = async (value) => {
+                try {
+                    const svgObject = document.getElementById('svgObject')
+                    console.log('svgObject: ', svgObject)
+                    const svgContent = svgObject.contentDocument
+                    console.log('svgContent: ', svgContent)
+                    let stadiumObj = svgContent.getElementById('stadiums')
+                    console.log('stadiumObj: ', stadiumObj)
+                    const country = stadiumObj.getAttribute('data-country')
+                    if (country) {
+                        // stadiumObj.remove()
+                        // stadiumObj.removeChild()
+                        stadiumObj.innerHTML = ''
+                        // console.log('stadiumObj: ', stadiumObj)
+                        // const path = e.target.closest('path')
+
+                        // return
+                        // const country = 'germany'
+                        const data = await fetch(`./teams/${country}.json`)
+                        let teams = await data.json()
+                        console.log('teams: ', teams)
+                        const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+                        console.log('leagues: ', leagues)
+
+                        switch (value) {
+                            case 'all':
+                                break
+                            case 'first_league':
+                                teams = teams.filter((team) => team['league']['api_football_id'] == leagues[0])
+                                break
+                            case 'second_league':
+                                teams = teams.filter((team) => team['league']['api_football_id'] == leagues[1])
+                                break
+                            case 'sm':
+                                teams = teams.filter((team) => team['venue']['capacity'] <= 20000)
+                                break
+                            case 'md':
+                                teams = teams.filter((team) => team['venue']['capacity'] > 20000 && team['venue']['capacity'] <= 40000)
+                                break
+                            case 'lg':
+                                teams = teams.filter((team) => team['venue']['capacity'] > 40000 && team['venue']['capacity'] <= 60000)
+                                break
+                            case 'xl':
+                                teams = teams.filter((team) => team['venue']['capacity'] > 60000)
+                                break
+                        }
+                        console.log('teams: ', teams)
+                        let newElement
+                        for (let i = 0; i < teams.length; i++) {
+                            newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+                            newElement.setAttribute('cx', teams[i]['venue']['x'])
+                            newElement.setAttribute('cy', teams[i]['venue']['y'] + 10)
+                            newElement.setAttribute('r', 5)
+                            newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                            newElement.setAttribute('data-city', teams[i]['venue']['city'])
+                            newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
+                            newElement.setAttribute('class', 'city')
+                            stadiumObj.appendChild(newElement)
+                        }
+                    }
+                } catch (error) {
+                    console.log('error: ', error)
+                }
+            }
+        </script>
+    </body>
 </html>
