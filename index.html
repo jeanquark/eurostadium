@@ -90,6 +90,7 @@
         </script>
 
         <script>
+            let country
             svgObject = document.getElementById('svgObject')
             svgObject.addEventListener(
                 'load',
@@ -99,34 +100,38 @@
 
                     svgContent.addEventListener(
                         'click',
-                        function (e) {
+                        (e) => {
                             console.clear()
-                            console.log('e1: ', e)
+                            // console.log('e1: ', e)
                             const path = e.target.closest('path')
                             if (path) {
-                                const country = path.getAttribute('data-country')
+                                country = path.getAttribute('data-country')
                                 console.log('country: ', country)
                                 if (country) {
                                     svgObject.data = `/images/svg/countries/${country}Low.svg`
+                                    // fetchStadiums(country)
+
                                 }
                             }
                         },
                         false
                     )
-
-                    fetchStadiums()
+                    fetchStadiums(country)
                 },
                 false
-            )
+                )
         </script>
 
         <script>
-            const fetchStadiums = async () => {
+            const fetchStadiums = async (country) => {
+                console.log("fetchStadiums country: ", country)
                 const svgObject = document.getElementById('svgObject')
+                console.log('svgObject: ', svgObject);
                 const svgContent = svgObject.contentDocument
+                console.log('svgContent: ', svgContent);
                 const stadiumObj = svgContent.getElementById('stadiums')
-                const country = 'germany'
                 console.log('stadiumObj: ', stadiumObj)
+                // return
 
                 if (stadiumObj) {
                     const data = await fetch(`./teams/${country}.json`)
@@ -138,7 +143,7 @@
                     for (let i = 0; i < teams.length; i++) {
                         newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
                         newElement.setAttribute('cx', teams[i]['venue']['x'])
-                        newElement.setAttribute('cy', teams[i]['venue']['y'] + 10)
+                        newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
                         newElement.setAttribute('r', 5)
                         newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
                         newElement.setAttribute('data-city', teams[i]['venue']['city'])
@@ -149,7 +154,7 @@
                 }
 
                 let elements = svgContent.getElementsByClassName('city')
-                console.log('elements: ', elements)
+                // console.log('elements: ', elements)
 
                 const handleMouseOver = (e) => {
                     console.log('handleMouseOver')
@@ -180,7 +185,7 @@
                     console.log('city: ', city)
                     tooltip.innerHTML = `
                     <h4>${city}</h4>
-                    <img src="/images/germany/${stadiumId}.jpg" width="300" />
+                    <img src="/images/${country}/${stadiumId}.jpg" width="300" />
                 `
                 }
 
@@ -192,18 +197,18 @@
 
         <script>
             const calculateSVGCoord = async () => {
-                const country = 'germany'
+                const country = 'spain'
                 const data = await fetch(`./teams/${country}.json`)
                 const teams = await data.json()
                 const teamId = 531
                 const array = []
 
-                const lng_min = 5.864765
-                const lng_max = 15.04338
-                const lat_min = 47.269299
-                const lat_max = 55.051693
-                const x_max = 585.50623
-                const y_max = 791.99896
+                const lng_min = -9.301684
+                const lng_max = 4.313022
+                const lat_min = 31.733447
+                const lat_max = 43.792633
+                const x_max = 418.24765
+                const y_max = 468.5632
 
                 for (let i = 0; i < teams.length; i++) {
                     let obj = {}
