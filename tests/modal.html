@@ -1,109 +1,217 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-        <meta name="author" content="" />
-        <!-- <meta name="robots" content="noindex, nofollow" /> -->
-        <!-- <meta name="referrer" content="origin" /> -->
 
-        <!-- styles -->
-        <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
-        <link rel="stylesheet" href="../styles/common.css" />
-        <link rel="stylesheet" href="../styles/home.css" />
-        <style>
-            .modal {
-                display: none; /* Hidden by default */
-                position: fixed; /* Stay in place */
-                z-index: 1; /* Sit on top */
-                left: 0;
-                top: 0;
-                width: 100%; /* Full width */
-                height: 100%; /* Full height */
-                overflow: auto; /* Enable scroll if needed */
-                background-color: rgb(0, 0, 0); /* Fallback color */
-                background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
-            }
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <meta name="robots" content="noindex, nofollow" />
+    <!-- <meta name="referrer" content="origin" /> -->
 
-            /* Modal Content/Box */
-            .modal-content {
-                background-color: #fefefe;
-                margin: 15% auto; /* 15% from the top and centered */
-                padding: 20px;
-                border: 1px solid #888;
-                width: 80%; /* Could be more or less, depending on screen size */
-            }
+    <!-- styles -->
+    <link rel="icon" type="image/x-icon" href="/static/favicon.png" />
+    <link rel="stylesheet" href="../styles/common.css" />
+    <link rel="stylesheet" href="../styles/home.css" />
+    <style>
+        .modal {
+            display: none;
+            /* Hidden by default */
+            position: fixed;
+            /* Stay in place */
+            z-index: 1;
+            /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%;
+            /* Full width */
+            height: 100%;
+            /* Full height */
+            overflow: auto;
+            /* Enable scroll if needed */
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.4);
+            /* Black w/ opacity */
+            border: 0px solid blue;
+        }
 
-            /* The Close Button */
-            .close {
-                color: #aaa;
-                float: right;
-                font-size: 28px;
-                font-weight: bold;
-            }
+        /* Modal Content/Box */
+        #modalContent {
+            background-color: #fefefe;
+            /* margin: 15% auto; */
+            /* 15% from the top and centered */
+            padding: 20px;
+            width: 80%;
+            /* Could be more or less, depending on screen size */
+            /* border: 1px solid #888; */
+            border: 2px solid orange;
+            position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+        }
 
-            .close:hover,
-            .close:focus {
-                color: black;
-                text-decoration: none;
-                cursor: pointer;
-            }
-        </style>
-    </head>
+        /* The Close Button */
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
 
-    <body>
-        <div>
-            <div class="row">
-                <div class="col-12">
-                    <h1>Modal</h1>
-                </div>
-                <div class="col-12">
-                    <button id="myBtn">Open Modal</button>
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-center">Modal example</h1>
+                <a href="/">&larr; Go to home</a><br /><br />
+                <button id="myBtn">Open Modal</button><br /><br />
+                <object type="image/svg+xml" data="/images/svg/countries/germanyLow.svg" id="svgObject"
+                    style="width: 100%; height: 400px; border: 1px dashed green">
+                    <img src="/images/no-image.png" />
+                </object>
+            </div>
+        </div>
+        <div class="row">
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+                <!-- Modal content -->
+                <div id="modalContent">
+                    <span class="close">&times;</span>
+                    <div id="modalText">Some text in the Modal..</div>
                 </div>
             </div>
         </div>
-        <!-- The Modal -->
-        <div id="myModal" class="modal">
-            <!-- Modal content -->
-            <div class="modal-content">
-                <span class="close">&times;</span>
-                <p>Some text in the Modal..</p>
-            </div>
-        </div>
+    </div>
 
-        <!-- scripts -->
-        <!-- htmx -->
-        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
 
-        <script>
-            console.clear()
-            // Get the modal
-            var modal = document.getElementById('myModal')
+    <!-- scripts -->
+    <!-- htmx -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
 
-            // Get the button that opens the modal
-            var btn = document.getElementById('myBtn')
+    <script>
+        svgObject = document.getElementById('svgObject')
+        svgObject.addEventListener(
+            'load',
+            async () => {
+                fetchStadiums('germany')
+            }, false
+        )
+    </script>
 
-            // Get the <span> element that closes the modal
-            var span = document.getElementsByClassName('close')[0]
+    <script>
+        // console.clear()
+        // // Get the modal
+        // var modal = document.getElementById('myModal')
 
-            // When the user clicks on the button, open the modal
-            btn.onclick = function () {
+        // // Get the button that opens the modal
+        // var btn = document.getElementById('myBtn')
+
+        // // Get the <span> element that closes the modal
+        // var span = document.getElementsByClassName('close')[0]
+
+        // // When the user clicks on the button, open the modal
+        // btn.onclick = function () {
+        //     modal.style.display = 'block'
+        // }
+
+        // // When the user clicks on <span> (x), close the modal
+        // span.onclick = function () {
+        //     console.log('span onclick')
+        //     modal.style.display = 'none'
+        // }
+
+        // // When the user clicks anywhere outside of the modal, close it
+        // window.onclick = function (event) {
+        //     if (event.target == modal) {
+        //         modal.style.display = 'none'
+        //     }
+        // }
+    </script>
+
+    <script>
+        const fetchStadiums = async (country) => {
+            console.log('fetchStadiums country: ', country)
+            const svgObject = document.getElementById('svgObject')
+            // console.log('svgObject: ', svgObject)
+            const svgContent = svgObject.contentDocument
+            // console.log('svgContent: ', svgContent)
+            const stadiumObj = svgContent.getElementById('stadiums')
+            // console.log('stadiumObj: ', stadiumObj)
+
+            if (stadiumObj) {
+                const data = await fetch(`../teams/${country}.json`)
+                const teams = await data.json()
+                console.log('teams: ', teams)
+                let newElement
+                const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+                console.log('leagues: ', leagues)
+                for (let i = 0; i < teams.length; i++) {
+                    newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+                    newElement.setAttribute('cx', teams[i]['venue']['x'])
+                    newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
+                    newElement.setAttribute('r', 10)
+                    newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                    newElement.setAttribute('data-city', teams[i]['venue']['city'])
+                    newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
+                    newElement.setAttribute('class', 'city')
+                    stadiumObj.appendChild(newElement)
+                }
+            }
+
+            let elements = svgContent.getElementsByClassName('city')
+            console.log('elements: ', elements)
+            const modal = document.getElementById('myModal')
+            const span = document.getElementsByClassName('close')[0]
+
+            const handleClick = (e) => {
+                console.log('handleClick')
+                const city = e.target.getAttribute('data-city')
+                const stadiumId = e.target.getAttribute('data-stadium-id')
+                console.log('city: ', city)
+                console.log('stadiumId: ', stadiumId)
+                // const modal = document.getElementById('myModal')
                 modal.style.display = 'block'
+                console.log('modal: ', modal);
+                const modalText = document.getElementById('modalText')
+                // getElementsByName("content")[0].value
+                console.log('modalText: ', modalText);
+                modalText.innerHTML = `
+                    <div class="text-center">
+                        <h4>${city}</h4>
+                        <img src="/images/${country}/${stadiumId}.jpg" width="300" />
+                    </div>
+                `
+            }
+            for (var i = 0; i < elements.length; i++) {
+                elements[i].addEventListener('click', handleClick, false)
             }
 
-            // When the user clicks on <span> (x), close the modal
+
             span.onclick = function () {
                 modal.style.display = 'none'
             }
 
             // When the user clicks anywhere outside of the modal, close it
             window.onclick = function (event) {
+                console.log('window.onclick event.target: ', event.target)
                 if (event.target == modal) {
                     modal.style.display = 'none'
                 }
             }
-        </script>
-    </body>
+        }
+    </script>
+</body>
+
 </html>
