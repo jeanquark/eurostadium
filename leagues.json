@@ -1,0 +1,296 @@
+[
+    {
+        "name": "La Liga",
+        "slug": "spain_la_liga",
+        "api_football_id": 140,
+        "country": "Spain",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Segunda Division",
+        "slug": "segunda_division",
+        "api_football_id": 141,
+        "country": "Spain",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Bundesliga",
+        "slug": "bundesliga",
+        "api_football_id": 78,
+        "country": "Germany",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "2. Bundesliga",
+        "slug": "2_bundesliga",
+        "api_football_id": 79,
+        "country": "Germany",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Ligue 1",
+        "slug": "ligue_1",
+        "api_football_id": 61,
+        "country": "France",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Ligue 2",
+        "slug": "ligue_2",
+        "api_football_id": 62,
+        "country": "France",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Super League",
+        "slug": "super_league",
+        "api_football_id": 207,
+        "country": "Switzerland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Challenge League",
+        "slug": "challenge_league",
+        "api_football_id": 208,
+        "country": "Switzerland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Primeira Liga",
+        "slug": "primeira_liga",
+        "api_football_id": 94,
+        "country": "Portugal",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Segunda Liga",
+        "slug": "segunda_liga",
+        "api_football_id": 95,
+        "country": "Portugal",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Eredivisie",
+        "slug": "eredivisie",
+        "api_football_id": 88,
+        "country": "Netherlands",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Eerste Divisie",
+        "slug": "eerste_divisie",
+        "api_football_id": 89,
+        "country": "Netherlands",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Jupiler Pro League",
+        "slug": "jupiler_pro_league",
+        "api_football_id": 144,
+        "country": "Belgium",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Challenger Pro League",
+        "slug": "challenger_pro_league",
+        "api_football_id": 145,
+        "country": "Belgium",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Superliga",
+        "slug": "superliga",
+        "api_football_id": 119,
+        "country": "Denmark",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 120,
+        "country": "Denmark",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Eliteserien",
+        "slug": "eliteserien",
+        "api_football_id": 103,
+        "country": "Norway",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 104,
+        "country": "Norway",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "api_football_id": 113,
+        "country": "Sweden",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Superettan",
+        "slug": "superettan",
+        "api_football_id": 114,
+        "country": "Sweden",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Veikkausliiga",
+        "slug": "veikkausliiga",
+        "api_football_id": 244,
+        "country": "Finland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Ykkönen",
+        "slug": "ykkonen",
+        "api_football_id": 245,
+        "country": "Finland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Ekstraklasa",
+        "slug": "ekstraklasa",
+        "api_football_id": 106,
+        "country": "Poland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "I Liga",
+        "slug": "i_liga",
+        "api_football_id": 107,
+        "country": "Poland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 116,
+        "country": "Belarus",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 117,
+        "country": "Belarus",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1 Lyga",
+        "slug": "1_lyga",
+        "api_football_id": 361,
+        "country": "Lithuania",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "A Lyga",
+        "slug": "a_lyga",
+        "api_football_id": 362,
+        "country": "Lithuania",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Liga",
+        "slug": "1_liga",
+        "api_football_id": 364,
+        "country": "Latvia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Virsliga",
+        "slug": "virsliga",
+        "api_football_id": 365,
+        "country": "Latvia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Esiliiga A",
+        "slug": "esiliiga_a",
+        "api_football_id": 328,
+        "country": "Estonia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Meistriliiga",
+        "slug": "meistriliiga",
+        "api_football_id": 329,
+        "country": "Estonia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 235,
+        "country": "Russia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "First League",
+        "slug": "first_league",
+        "api_football_id": 236,
+        "country": "Russia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Czech Liga",
+        "slug": "czech_liga",
+        "api_football_id": 345,
+        "country": "Czech Republic",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "FNL",
+        "slug": "fnl",
+        "api_football_id": 346,
+        "country": "Czech Republic",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Super Liga",
+        "slug": "super_liga",
+        "api_football_id": 332,
+        "country": "Slovakia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "2. liga",
+        "slug": "2_liga",
+        "api_football_id": 506,
+        "country": "Slovakia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. SNL",
+        "slug": "1_snl",
+        "api_football_id": 373,
+        "country": "Slovenia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "2. SNL",
+        "slug": "2_snl",
+        "api_football_id": 374,
+        "country": "Slovenia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "NB I",
+        "slug": "nb_i",
+        "api_football_id": 271,
+        "country": "Hungary",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "NB II",
+        "slug": "nb_ii",
+        "api_football_id": 272,
+        "country": "Hungary",
+        "api_football_country_id": 0
+    }
+]
