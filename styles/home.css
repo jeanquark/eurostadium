@@ -1,5 +1,8 @@
+.country {
+    /* fill: #FFFF00; */
+}
 .country:hover {
-    fill: #FF0000;
+    fill: #FF0000 !important;
     cursor: pointer;
 }
 
