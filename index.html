@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="./styles/home.css" />
     <style>
         body {
-            background-color: lightblue;
+            background-color: lightgrey;
         }
     </style>
 </head>
@@ -31,13 +31,13 @@
                 <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
                 <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
                 <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
-                <a href="/tests/modal.html">Modal</a>
+                <a href="tests/modal.html">Modal</a>
                 <br /><br />
             </div>
             <div class="col-4 border-2" id="svgWrapper">
                 <object type="image/svg+xml" id="svgObject"
                     style="width: 100%; height: 400px; border: 1px dashed green">
-                    <img src="/images/no-image.png" />
+                    <img src="images/no-image.png" />
                 </object>
                 <div id="tooltip" class=""></div>
             </div>
@@ -59,7 +59,7 @@
     <!-- htmx -->
     <script src="https://unpkg.com/htmx.org@1.9.12"></script>
     <!-- Zoom & pan svg -->
-    <script src="./svg-pan-zoom.min.js"></script>
+    <script src="svg-pan-zoom.min.js"></script>
 
     <!-- <script src="/scripts/index.js"></script> -->
 
@@ -73,7 +73,7 @@
 
             svgObject = document.getElementById('svgObject')
             console.log('svgObject: ', svgObject)
-            svgObject.data = `/images/svg/europe-with-russia.svg`
+            svgObject.data = `images/svg/europe-with-russia.svg`
         }
         const toggleMap = () => {
             console.log('toggleMap')
@@ -82,10 +82,10 @@
             } else {
                 map = 'countries/germany.svg'
             }
-            svgObject.data = `/images/svg/${map}`
+            svgObject.data = `images/svg/${map}`
         }
         const displayMap = (map) => {
-            svgObject.data = `/images/svg/${map}.svg`
+            svgObject.data = `images/svg/${map}.svg`
         }
     </script>
 
@@ -117,7 +117,7 @@
                             country = path.getAttribute('data-country')
                             console.log('country: ', country)
                             if (country) {
-                                svgObject.data = `/images/svg/countries/${country}Low.svg`
+                                svgObject.data = `images/svg/countries/${country}Low.svg`
                                 // fetchStadiums(country)
                             }
                         }
@@ -237,7 +237,7 @@
                 console.log('city: ', city)
                 tooltip.innerHTML = `
                     <h4>${city}</h4>
-                    <img src="/images/${country}/${stadiumId}.jpg" width="300" />
+                    <img src="images/stadiums/${country}/${stadiumId}.jpg" width="300" />
                 `
             }
 
@@ -250,7 +250,7 @@
     <script>
         const calculateSVGCoord = async () => {
             const country = 'spain'
-            const data = await fetch(`./teams/${country}.json`)
+            const data = await fetch(`teams/${country}.json`)
             const teams = await data.json()
             const teamId = 531
             const array = []
@@ -295,7 +295,7 @@
 
                     // return
                     // const country = 'germany'
-                    const data = await fetch(`./teams/${country}.json`)
+                    const data = await fetch(`teams/${country}.json`)
                     let teams = await data.json()
                     console.log('teams: ', teams)
                     const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
