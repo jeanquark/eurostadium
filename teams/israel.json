@@ -1,0 +1,870 @@
+[
+	{
+		"team": {
+			"api_football_id": 563,
+			"name": "Hapoel Beer Sheva",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1949
+		},
+		"venue": {
+			"api_football_id": 867,
+			"name": "Yaakov Turner Toto Stadium",
+			"address": "Etsel Street 2",
+			"city": "Beer Sheva",
+			"capacity": 16126,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 604,
+			"name": "Maccabi Tel Aviv",
+			"code": "MAC",
+			"country": "Israel",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 10592,
+			"name": "Bloomfield Stadium",
+			"address": "Ha-Tkuma Street",
+			"city": "Tel-Aviv",
+			"capacity": 29400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 657,
+			"name": "Beitar Jerusalem",
+			"code": "BEI",
+			"country": "Israel",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 866,
+			"name": "Teddi Malcha Stadium",
+			"address": "David Ayalon",
+			"city": "Jerusalem",
+			"capacity": 33500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2253,
+			"name": "Hapoel Haifa",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1924
+		},
+		"venue": {
+			"api_football_id": 868,
+			"name": "Sammy Ofer Stadium",
+			"address": "2 Rothenberg Street",
+			"city": "Haifa",
+			"capacity": 30820,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 4195,
+			"name": "Maccabi Haifa",
+			"code": "MAC",
+			"country": "Israel",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 868,
+			"name": "Sammy Ofer Stadium",
+			"address": "2 Rothenberg Street",
+			"city": "Haifa",
+			"capacity": 30820,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 4481,
+			"name": "Bnei Sakhnin",
+			"code": "BNE",
+			"country": "Israel",
+			"founded": 1991
+		},
+		"venue": {
+			"api_football_id": 3402,
+			"name": "Doha Stadium",
+			"address": "1 Sakhnin Boulevard",
+			"city": "Sakhnin",
+			"capacity": 8500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 4486,
+			"name": "Hapoel Katamon",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 2007
+		},
+		"venue": {
+			"api_football_id": 866,
+			"name": "Teddi Malcha Stadium",
+			"address": "David Ayalon",
+			"city": "Jerusalem",
+			"capacity": 33500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 4488,
+			"name": "Hapoel Petah Tikva",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1934
+		},
+		"venue": {
+			"api_football_id": 3408,
+			"name": "HaMoshava Stadium",
+			"address": "Em Hamoshavot Road 12",
+			"city": "Petach-Tikva",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 4495,
+			"name": "Maccabi Petah Tikva",
+			"code": "MAC",
+			"country": "Israel",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 3408,
+			"name": "HaMoshava Stadium",
+			"address": "Em Hamoshavot Road 12",
+			"city": "Petach-Tikva",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 4500,
+			"name": "Hapoel Hadera",
+			"code": null,
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11941,
+			"name": "Netanya Stadium",
+			"address": "HaMehkar Street",
+			"city": "Netanya",
+			"capacity": 13610,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 4501,
+			"name": "Hapoel Tel Aviv",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 10592,
+			"name": "Bloomfield Stadium",
+			"address": "Ha-Tkuma Street",
+			"city": "Tel-Aviv",
+			"capacity": 29400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 4505,
+			"name": "Maccabi Netanya",
+			"code": "MAC",
+			"country": "Israel",
+			"founded": 1934
+		},
+		"venue": {
+			"api_football_id": 11941,
+			"name": "Netanya Stadium",
+			"address": "HaMehkar Street",
+			"city": "Netanya",
+			"capacity": 13610,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 4507,
+			"name": "Ashdod",
+			"code": "MOA",
+			"country": "Israel",
+			"founded": 1999
+		},
+		"venue": {
+			"api_football_id": 3419,
+			"name": "Yud-Alef Stadium",
+			"address": "Ha-Histadrut Street 6",
+			"city": "Ashdod",
+			"capacity": 7980,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 6186,
+			"name": "Maccabi Bnei Raina",
+			"code": null,
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3407,
+			"name": "Green Stadium",
+			"address": null,
+			"city": "Nazareth Illit",
+			"capacity": 5200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 383,
+			"name": "Ligat Ha'al",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 4482,
+			"name": "Hapoel Acre",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 3403,
+			"name": "Acre Municipal Stadium",
+			"address": "Mishmar Hayam Acre",
+			"city": "Accre",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 4483,
+			"name": "Hapoel Afula",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3404,
+			"name": "Afula Illit Stadium",
+			"address": "Khayim Barlev Street",
+			"city": "Afula",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 4487,
+			"name": "Hapoel Nazareth Illit",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3407,
+			"name": "Green Stadium",
+			"address": null,
+			"city": "Nazareth Illit",
+			"capacity": 4480,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 4489,
+			"name": "Hapoel Ramat Gan",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 2610,
+			"name": "National Stadium Ramat Gan",
+			"address": "26 Bugrashov Street, Ramat Gan",
+			"city": "Ramat Gan",
+			"capacity": 41583,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 4490,
+			"name": "Hapoel Ramat HaSharon",
+			"code": "IRO",
+			"country": "Israel",
+			"founded": 1957
+		},
+		"venue": {
+			"api_football_id": 3409,
+			"name": "Yankele Grundman Stadium",
+			"address": "Haroshet Street",
+			"city": "Ramat-ha’Sharon",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 4491,
+			"name": "Hapoel Rishon LeZion",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1940
+		},
+		"venue": {
+			"api_football_id": 3410,
+			"name": "Haberfeld Stadium",
+			"address": "Yosef Timmy Papid Street",
+			"city": "Rishon LeZion",
+			"capacity": 6900,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 4492,
+			"name": "Hapoel Umm al-Fahm",
+			"code": null,
+			"country": "Israel",
+			"founded": 1963
+		},
+		"venue": {
+			"api_football_id": 10590,
+			"name": "HaShalom Stadium",
+			"address": null,
+			"city": "Umm al-Fahm",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 4493,
+			"name": "Kafr Qasim",
+			"code": "KFA",
+			"country": "Israel",
+			"founded": 2002
+		},
+		"venue": {
+			"api_football_id": 3412,
+			"name": "Municipal Stadium Kafr Qasim",
+			"address": null,
+			"city": "Kafr Qasim",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 4497,
+			"name": "Hapoel Kfar Saba",
+			"code": "HAP",
+			"country": "Israel",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 4540,
+			"name": "Levita Stadium",
+			"address": "Ben Yehuda 102",
+			"city": "Kfar-Saba",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 4499,
+			"name": "Sektzia Nes Tziona",
+			"code": "SEK",
+			"country": "Israel",
+			"founded": 1956
+		},
+		"venue": {
+			"api_football_id": 3408,
+			"name": "HaMoshava Stadium",
+			"address": "Em Hamoshavot Road 12",
+			"city": "Petach-Tikva",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 4503,
+			"name": "Maccabi Herzliya",
+			"code": "MAC",
+			"country": "Israel",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 3417,
+			"name": "Municipal Stadium Herzliya",
+			"address": "Yossef Nevo Str. 6",
+			"city": "Herzliya",
+			"capacity": 8300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 4508,
+			"name": "Bnei Yehuda",
+			"code": "BNE",
+			"country": "Israel",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 10592,
+			"name": "Bloomfield Stadium",
+			"address": "Ha-Tkuma Street",
+			"city": "Tel-Aviv",
+			"capacity": 29400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 4510,
+			"name": "Ironi Kiryat Shmona",
+			"code": "SHM",
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3420,
+			"name": "Kiryat-Shmona Municipal Stadium",
+			"address": null,
+			"city": "Kiryat-Shmona",
+			"capacity": 5300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 6181,
+			"name": "Ironi Tiberias",
+			"code": "IRO",
+			"country": "Israel",
+			"founded": 2006
+		},
+		"venue": {
+			"api_football_id": 4578,
+			"name": "Tiberias Municipal Stadium",
+			"address": "Bar Kochva Street",
+			"city": "Tiberias",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 6192,
+			"name": "Maccabi Kabilio Jaffa",
+			"code": null,
+			"country": "Israel",
+			"founded": 2007
+		},
+		"venue": {
+			"api_football_id": 3401,
+			"name": "Ramla Municipal Stadium",
+			"address": "Yehoshua Bin Nun Street 5",
+			"city": "Ramla",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 6210,
+			"name": "Tira",
+			"code": null,
+			"country": "Israel",
+			"founded": 2005
+		},
+		"venue": {
+			"api_football_id": 4591,
+			"name": "Tira Municipal Stadium",
+			"address": null,
+			"city": "Tira",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 19833,
+			"name": "Ihud Bnei Shfaram",
+			"code": null,
+			"country": "Israel",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 382,
+			"name": "Liga Leumit",
+			"country": "Israel",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	}
+]

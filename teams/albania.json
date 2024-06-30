@@ -1,0 +1,702 @@
+[
+	{
+		"team": {
+			"api_football_id": 577,
+			"name": "FK Kukesi",
+			"code": "KUK",
+			"country": "Albania",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 19194,
+			"name": "Kukës Arena",
+			"address": "Rruga Stadiumi",
+			"city": "Kukës",
+			"capacity": 6200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 605,
+			"name": "Skenderbeu Korce",
+			"code": "SKE",
+			"country": "Albania",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 2155,
+			"name": "Stadiumi Skënderbeu",
+			"address": "Rruga Gjiergi Kastrioti",
+			"city": "Korçë",
+			"capacity": 11000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 694,
+			"name": "Tirana",
+			"code": "TIR",
+			"country": "Albania",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 4,
+			"name": "Stadiumi Selman Stërmasi",
+			"address": "Rruga Muhamet Gjollesha",
+			"city": "Tirana",
+			"capacity": 12724,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 708,
+			"name": "Partizani",
+			"code": "PAR",
+			"country": "Albania",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 19776,
+			"name": "Arena e Demave",
+			"address": "Myslym Keta Road, Tufine",
+			"city": "Tirana",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 2256,
+			"name": "Laci",
+			"code": "LAC",
+			"country": "Albania",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 3,
+			"name": "Stadiumi Laçi",
+			"address": "Pranë Bashkisë",
+			"city": "Laç",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3317,
+			"name": "Flamurtari",
+			"code": "FLA",
+			"country": "Albania",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2156,
+			"name": "Stadiumi Flamurtari",
+			"address": "Lagja Pavarësia",
+			"city": "Vlorë",
+			"capacity": 8800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3320,
+			"name": "Teuta Durrës",
+			"code": "TEU",
+			"country": "Albania",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 2159,
+			"name": "Stadiumi Niko Dovana",
+			"address": "Lagjia 18, Rruga Ahmet Ramzoti",
+			"city": "Durrës",
+			"capacity": 12040,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3326,
+			"name": "Dinamo Tirana",
+			"code": "DIN",
+			"country": "Albania",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 2,
+			"name": "Elbasan Arena",
+			"address": "Bulevardi Qemal Stafa",
+			"city": "Elbasan",
+			"capacity": 12800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3327,
+			"name": "Egnatia Rrogozhinë",
+			"code": null,
+			"country": "Albania",
+			"founded": 1964
+		},
+		"venue": {
+			"api_football_id": 12601,
+			"name": "Arena Egnatia",
+			"address": null,
+			"city": "Rrogozhinë",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3329,
+			"name": "Erzeni Shijak",
+			"code": null,
+			"country": "Albania",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 2167,
+			"name": "Stadiumi Tofik Jashari",
+			"address": null,
+			"city": "Shijak",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3339,
+			"name": "Vllaznia Shkodër",
+			"code": "VLL",
+			"country": "Albania",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 1966,
+			"name": "Stadiumi Loro Boriçi",
+			"address": "Rruga Musa Luli 1",
+			"city": "Shkodër",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 310,
+			"name": "Superliga",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 3317,
+			"name": "Flamurtari",
+			"code": "FLA",
+			"country": "Albania",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2156,
+			"name": "Stadiumi Flamurtari",
+			"address": "Lagja Pavarësia",
+			"city": "Vlorë",
+			"capacity": 8800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3319,
+			"name": "Kastrioti Krujë",
+			"code": "KAS",
+			"country": "Albania",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2158,
+			"name": "Stadiumi Redi Maloku",
+			"address": null,
+			"city": "Fushë-Krujë",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3321,
+			"name": "Apolonia Fier",
+			"code": "APO",
+			"country": "Albania",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 2160,
+			"name": "Stadiumi Loni Papuçiu",
+			"address": "Rruga R. Aranitasi",
+			"city": "Fier",
+			"capacity": 6800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3322,
+			"name": "Besa Kavajë",
+			"code": "BES",
+			"country": "Albania",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 12390,
+			"name": "Stadiumi Luz i Vogël",
+			"address": "Luz i Vogël",
+			"city": "Luz i Vogël",
+			"capacity": 600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3324,
+			"name": "Burreli",
+			"code": "BUR",
+			"country": "Albania",
+			"founded": 1952
+		},
+		"venue": {
+			"api_football_id": 2163,
+			"name": "Stadiumi Liri Ballabani",
+			"address": null,
+			"city": "Burreli",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3325,
+			"name": "Bylis",
+			"code": "BYL",
+			"country": "Albania",
+			"founded": 1972
+		},
+		"venue": {
+			"api_football_id": 2164,
+			"name": "Stadiumi Adush Muça",
+			"address": "Stadiumi Adush Muça",
+			"city": "Ballsh",
+			"capacity": 3360,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3330,
+			"name": "Iliria Fushë-Krujë",
+			"code": "ILI",
+			"country": "Albania",
+			"founded": 1991
+		},
+		"venue": {
+			"api_football_id": 2158,
+			"name": "Stadiumi Redi Maloku",
+			"address": null,
+			"city": "Fushë-Krujë",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3331,
+			"name": "Korabi Peshkopi",
+			"code": null,
+			"country": "Albania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2168,
+			"name": "Stadiumi Korabi",
+			"address": null,
+			"city": "Peshkopi",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3332,
+			"name": "Lushnja",
+			"code": "LUS",
+			"country": "Albania",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2169,
+			"name": "Stadiumi Roza Haxhiu",
+			"address": "Rruga Nexhat Nepravishta",
+			"city": "Lushnjë",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3336,
+			"name": "Tomori Berat",
+			"code": "BER",
+			"country": "Albania",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2173,
+			"name": "Stadiumi Tomori",
+			"address": null,
+			"city": "Berat",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 3340,
+			"name": "Vora",
+			"code": null,
+			"country": "Albania",
+			"founded": 2011
+		},
+		"venue": {
+			"api_football_id": 20286,
+			"name": "Stadiumi Vora",
+			"address": "Marqinet",
+			"city": "Vora",
+			"capacity": 1200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 10720,
+			"name": "Luzi 2008",
+			"code": null,
+			"country": "Albania",
+			"founded": 2008
+		},
+		"venue": {
+			"api_football_id": 12390,
+			"name": "Stadiumi Luz i Vogël",
+			"address": "Luz i Vogël",
+			"city": "Luz i Vogël",
+			"capacity": 600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 17740,
+			"name": "Luftëtari",
+			"code": null,
+			"country": "Albania",
+			"founded": 2020
+		},
+		"venue": {
+			"api_football_id": 1,
+			"name": "Stadiumi Gjirokastra",
+			"address": "Lagja 18 Shtatori",
+			"city": "Gjirokastër",
+			"capacity": 8400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 20406,
+			"name": "AF Elbasani",
+			"code": null,
+			"country": "Albania",
+			"founded": 2021
+		},
+		"venue": {
+			"api_football_id": 2,
+			"name": "Elbasan Arena",
+			"address": "Bulevardi Qemal Stafa",
+			"city": "Elbasan",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 311,
+			"name": "1st Division",
+			"country": "Albania",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	}
+]

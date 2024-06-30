@@ -1,0 +1,1066 @@
+[
+	{
+		"team": {
+			"api_football_id": 559,
+			"name": "FCSB",
+			"code": "STE",
+			"country": "Romania",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 1326,
+			"name": "Arena Naţională",
+			"address": "Bulevardul Basarabia 37-39",
+			"city": "Bucureşti",
+			"capacity": 55611,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 632,
+			"name": "Universitatea Craiova",
+			"code": "UNI",
+			"country": "Romania",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 12282,
+			"name": "Complex Sportiv Craiova",
+			"address": "Bulevardul Știrbei Vodă, nr. 36",
+			"city": "Craiova",
+			"capacity": 30983,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 635,
+			"name": "Dinamo Bucuresti",
+			"code": "DIN",
+			"country": "Romania",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 19612,
+			"name": "Stadionul Arcul de Triumf",
+			"address": "Bulevardul Mărăști 18-20, Sector 1",
+			"city": "București",
+			"capacity": 8207,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2246,
+			"name": "CFR 1907 Cluj",
+			"code": "CLU",
+			"country": "Romania",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1311,
+			"name": "Stadionul Dr. Constantin Rădulescu",
+			"address": "Strada Romulus Vuia, nr. 23",
+			"city": "Cluj-Napoca",
+			"capacity": 23500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 2578,
+			"name": "FC Voluntari",
+			"code": null,
+			"country": "Romania",
+			"founded": 1949
+		},
+		"venue": {
+			"api_football_id": 1315,
+			"name": "Stadionul Anghel Iordănescu",
+			"address": "Strada Niţă Pintea, Pipera",
+			"city": "Voluntari",
+			"capacity": 4700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 2579,
+			"name": "AFC Hermannstadt",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1894,
+			"name": "Stadionul Municipal",
+			"address": "Aleea Mihai Eminescu 1-3",
+			"city": "Sibiu",
+			"capacity": 13013,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 2581,
+			"name": "FC Botosani",
+			"code": "BOT",
+			"country": "Romania",
+			"founded": 1973
+		},
+		"venue": {
+			"api_football_id": 1309,
+			"name": "Stadionul Municipal",
+			"address": "Calea Naţională, nr. 64",
+			"city": "Botoşani",
+			"capacity": 10600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 2583,
+			"name": "Politehnica Iasi",
+			"code": "CSM",
+			"country": "Romania",
+			"founded": 2010
+		},
+		"venue": {
+			"api_football_id": 1322,
+			"name": "Stadionul Emil Alexandrescu",
+			"address": "Aleea Grigore Ghica Voda, nr. 12-24",
+			"city": "Iaşi",
+			"capacity": 13000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 2585,
+			"name": "Sepsi OSK Sfantu Gheorghe",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12593,
+			"name": "Arena Sepsi OSK",
+			"address": "Str. Lunca Oltului 106",
+			"city": "Sfântu Gheorghe",
+			"capacity": 8400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 2589,
+			"name": "Uta Arad",
+			"code": "ARA",
+			"country": "Romania",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 11931,
+			"name": "Stadionul Francisc von Neuman",
+			"address": "Calea Aurel Vlaicu",
+			"city": "Arad",
+			"capacity": 12700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 2594,
+			"name": "CS Mioveni",
+			"code": "DAC",
+			"country": "Romania",
+			"founded": 2000
+		},
+		"venue": {
+			"api_football_id": 1317,
+			"name": "Stadionul Orăşenesc",
+			"address": "Str. Stadionului",
+			"city": "Mioveni",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 2596,
+			"name": "Farul Constanta",
+			"code": null,
+			"country": "Romania",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 1324,
+			"name": "Stadionul Central",
+			"address": "Strada Primăverii, nr. 10",
+			"city": "Ovidiu",
+			"capacity": 4554,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 2598,
+			"name": "Petrolul Ploiesti",
+			"code": "PET",
+			"country": "Romania",
+			"founded": 1924
+		},
+		"venue": {
+			"api_football_id": 1312,
+			"name": "Stadionul Ilie Oană",
+			"address": "Strada Stadionului, nr. 26",
+			"city": "Ploieşti",
+			"capacity": 15500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 2599,
+			"name": "Universitatea Cluj",
+			"code": "UNI",
+			"country": "Romania",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 1913,
+			"name": "Cluj Arena",
+			"address": "Aleea Stadionului, nr. 1",
+			"city": "Cluj-Napoca",
+			"capacity": 30596,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 6230,
+			"name": "Csikszereda",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4607,
+			"name": "Stadionul Municipal",
+			"address": "Str. Stadion nr. 3",
+			"city": "Miercurea Ciuc",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 6231,
+			"name": "Rapid",
+			"code": "RAP",
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19516,
+			"name": "Superbet Arena-Giulești",
+			"address": "Calea Giulești 18",
+			"city": "București",
+			"capacity": 14073,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 6886,
+			"name": "Oţelul",
+			"code": "OTE",
+			"country": "Romania",
+			"founded": 1964
+		},
+		"venue": {
+			"api_football_id": 5026,
+			"name": "Stadionul Oţelul",
+			"address": "Str. Anghel Saligny, nr. 2, Ţiglina III",
+			"city": "Galaţi",
+			"capacity": 13932,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 6910,
+			"name": "U Craiova 1948",
+			"code": null,
+			"country": "Romania",
+			"founded": 2017
+		},
+		"venue": {
+			"api_football_id": 12282,
+			"name": "Complex Sportiv Craiova",
+			"address": "Bulevardul Știrbei Vodă, nr. 36",
+			"city": "Craiova",
+			"capacity": 30983,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 283,
+			"name": "Liga I",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 2580,
+			"name": "Concordia",
+			"code": "CON",
+			"country": "Romania",
+			"founded": 1957
+		},
+		"venue": {
+			"api_football_id": 1313,
+			"name": "Stadionul Concordia",
+			"address": "Strada Drumul Gari, nr. 1-3",
+			"city": "Chiajna",
+			"capacity": 5123,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 2586,
+			"name": "Chindia Targoviste",
+			"code": "TAR",
+			"country": "Romania",
+			"founded": 2010
+		},
+		"venue": {
+			"api_football_id": 20111,
+			"name": "Stadionul Eugen Popescu",
+			"address": "Strada Justitiei",
+			"city": "Târgovişte",
+			"capacity": 8400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 2592,
+			"name": "Arges Pitesti",
+			"code": "ARG",
+			"country": "Romania",
+			"founded": 2010
+		},
+		"venue": {
+			"api_football_id": 1317,
+			"name": "Stadionul Orăşenesc",
+			"address": "Str. Stadionului",
+			"city": "Mioveni",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 2594,
+			"name": "CS Mioveni",
+			"code": "DAC",
+			"country": "Romania",
+			"founded": 2000
+		},
+		"venue": {
+			"api_football_id": 1317,
+			"name": "Stadionul Orăşenesc",
+			"address": "Str. Stadionului",
+			"city": "Mioveni",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 2600,
+			"name": "ACS Sirineasa",
+			"code": null,
+			"country": "Romania",
+			"founded": 1998
+		},
+		"venue": {
+			"api_football_id": 19422,
+			"name": "Stadionul Municipal Constantina Diță",
+			"address": "E 79",
+			"city": "Târgu Jiu",
+			"capacity": 12518,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 2604,
+			"name": "Metaloglobus",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20116,
+			"name": "Clinceni - Arena 1",
+			"address": "Str. Principală, nr. 107a",
+			"city": "Clinceni",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 6229,
+			"name": "CSM Reşiţa",
+			"code": null,
+			"country": "Romania",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 4606,
+			"name": "Stadionul Mircea Chivu",
+			"address": "Str. Valea Domanului, nr. 1",
+			"city": "Reşiţa",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 6230,
+			"name": "Csikszereda",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4607,
+			"name": "Stadionul Municipal",
+			"address": "Str. Stadion nr. 3",
+			"city": "Miercurea Ciuc",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 6232,
+			"name": "SCM Gloria Buzău",
+			"code": null,
+			"country": "Romania",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 4608,
+			"name": "Stadionul Gloria",
+			"address": "Bulevardul Stadionului, nr. 1",
+			"city": "Buzău",
+			"capacity": 13400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 6842,
+			"name": "Alexandria",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4610,
+			"name": "Stadionul Municipal",
+			"address": "Zona Peco",
+			"city": "Turnu Măgurele",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 6852,
+			"name": "Ceahlăul Piatra Neamţ",
+			"code": "CEA",
+			"country": "Romania",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 5004,
+			"name": "Stadionul Municipal Ceahlăul",
+			"address": "Strada Eroilor, nr. 18",
+			"city": "Piatra Neamţ",
+			"capacity": 17500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 6892,
+			"name": "Progresul Spartac",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19619,
+			"name": "Centrul de Fotbal Buftea Teren Sintetic",
+			"address": "Intrarea Vrabiei",
+			"city": "Buftea",
+			"capacity": 450,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 6898,
+			"name": "Slatina",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 5032,
+			"name": "Stadionul 1 Mai",
+			"address": "Str. Gheorghe Poboran",
+			"city": "Slatina",
+			"capacity": 14059,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 6908,
+			"name": "Tunari",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 5038,
+			"name": "Stadionul Tunari",
+			"address": "Str. Domna Ghica",
+			"city": "Tunari",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 6914,
+			"name": "Unirea Dej",
+			"code": null,
+			"country": "Romania",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 12594,
+			"name": "Stadionul Municipal Dej",
+			"address": "Str. Nicolae Titulescu, nr. 16A",
+			"city": "Dej",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 6916,
+			"name": "Unirea Slobozia",
+			"code": "SLO",
+			"country": "Romania",
+			"founded": 2004
+		},
+		"venue": {
+			"api_football_id": 5044,
+			"name": "Stadionul 1 Mai",
+			"address": "Bulevardul Matei Basarab / Şoseaua de Centură",
+			"city": "Slobozia",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 6927,
+			"name": "Viitorul Şelimbăr",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 5050,
+			"name": "Stadionul Măgura",
+			"address": "DJ 106C",
+			"city": "Cisnădie",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 7466,
+			"name": "CSA Steaua Bucureşti",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12042,
+			"name": "Stadionul Steaua",
+			"address": "Bulevardul Ghencea, nr. 35, Sector 6",
+			"city": "București",
+			"capacity": 31254,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 7469,
+			"name": "Dumbrăviţa",
+			"code": null,
+			"country": "Romania",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 5436,
+			"name": "Stadionul Ştefan Dobay",
+			"address": "Str. Mihai Eminescu 44",
+			"city": "Dumbrăvița",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 20034,
+			"name": "Corvinul Hunedoara",
+			"code": null,
+			"country": "Romania",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 5013,
+			"name": "Stadionul Michael Klein",
+			"address": "Str. Mihai Viteazu, nr. 10",
+			"city": "Hunedoara",
+			"capacity": 16500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 284,
+			"name": "Liga II",
+			"country": "Romania",
+			"api_football_country_id": 0
+		},
+		"no": 38
+	}
+]

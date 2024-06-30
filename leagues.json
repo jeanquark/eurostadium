@@ -595,6 +595,20 @@
         "api_football_country_id": 0
     },
     {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 389,
+        "country": "Kazakhstan",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 388,
+        "country": "Kazakhstan",
+        "api_football_country_id": 0
+    },
+    {
         "name": "",
         "slug": "",
         "api_football_id": 0,

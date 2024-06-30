@@ -1,0 +1,786 @@
+[
+	{
+		"team": {
+			"api_football_id": 247,
+			"name": "Celtic",
+			"code": "CEL",
+			"country": "Scotland",
+			"founded": 1888
+		},
+		"venue": {
+			"api_football_id": 1386,
+			"name": "Celtic Park",
+			"address": "18 Kerrydale Street",
+			"city": "Glasgow",
+			"capacity": 60832,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 249,
+			"name": "Hibernian",
+			"code": "HIB",
+			"country": "Scotland",
+			"founded": 1875
+		},
+		"venue": {
+			"api_football_id": 1394,
+			"name": "Easter Road Stadium",
+			"address": "12 Albion Place",
+			"city": "Edinburgh",
+			"capacity": 20421,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 250,
+			"name": "Kilmarnock",
+			"code": "KIL",
+			"country": "Scotland",
+			"founded": 1869
+		},
+		"venue": {
+			"api_football_id": 19215,
+			"name": "The BBSP Stadium Rugby Park",
+			"address": "Rugby Road",
+			"city": "Kilmarnock",
+			"capacity": 18128,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 251,
+			"name": "ST Mirren",
+			"code": "MIR",
+			"country": "Scotland",
+			"founded": 1877
+		},
+		"venue": {
+			"api_football_id": 11913,
+			"name": "The SMISA Stadium",
+			"address": "Greenhill Road",
+			"city": "Paisley",
+			"capacity": 8016,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 252,
+			"name": "Aberdeen",
+			"code": "ABE",
+			"country": "Scotland",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 1383,
+			"name": "Pittodrie Stadium",
+			"address": "Pittodrie Street",
+			"city": "Aberdeen",
+			"capacity": 22199,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 253,
+			"name": "Dundee",
+			"code": "DUN",
+			"country": "Scotland",
+			"founded": 1893
+		},
+		"venue": {
+			"api_football_id": 20420,
+			"name": "The Scot Foam Stadium at Dens Park",
+			"address": "Sandeman Street",
+			"city": "Dundee",
+			"capacity": 12085,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 254,
+			"name": "Heart OF Midlothian",
+			"code": "HEA",
+			"country": "Scotland",
+			"founded": 1874
+		},
+		"venue": {
+			"api_football_id": 1393,
+			"name": "Tynecastle Park",
+			"address": "Gorgie Road",
+			"city": "Edinburgh",
+			"capacity": 20099,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 255,
+			"name": "Livingston",
+			"code": "LIV",
+			"country": "Scotland",
+			"founded": 1943
+		},
+		"venue": {
+			"api_football_id": 1397,
+			"name": "Tony Macaroni Arena",
+			"address": "Almondvale Stadium Road",
+			"city": "Livingston",
+			"capacity": 9672,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 256,
+			"name": "Motherwell",
+			"code": "MOT",
+			"country": "Scotland",
+			"founded": 1886
+		},
+		"venue": {
+			"api_football_id": 1398,
+			"name": "Fir Park",
+			"address": "Fir Park Street",
+			"city": "Motherwell",
+			"capacity": 13742,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 257,
+			"name": "Rangers",
+			"code": "RAN",
+			"country": "Scotland",
+			"founded": 1873
+		},
+		"venue": {
+			"api_football_id": 1401,
+			"name": "Ibrox Stadium",
+			"address": "150 Edmiston Drive",
+			"city": "Glasgow",
+			"capacity": 51082,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 258,
+			"name": "ST Johnstone",
+			"code": "JOH",
+			"country": "Scotland",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 1403,
+			"name": "McDiarmid Park",
+			"address": "Crieff Road",
+			"city": "Perth",
+			"capacity": 10673,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 901,
+			"name": "Partick",
+			"code": "PAR",
+			"country": "Scotland",
+			"founded": 1876
+		},
+		"venue": {
+			"api_football_id": 19938,
+			"name": "Wyre Stadium at Firhill",
+			"address": "80 Firhill Road",
+			"city": "Glasgow",
+			"capacity": 13079,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 902,
+			"name": "Ross County",
+			"code": "ROS",
+			"country": "Scotland",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 1402,
+			"name": "Global Energy Stadium",
+			"address": "Jubilee Road",
+			"city": "Dingwall",
+			"capacity": 6698,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 1385,
+			"name": "Raith Rovers",
+			"code": "RAI",
+			"country": "Scotland",
+			"founded": 1883
+		},
+		"venue": {
+			"api_football_id": 2907,
+			"name": "Stark's Park",
+			"address": "Pratt Street",
+			"city": "Kirkcaldy",
+			"capacity": 10104,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 4668,
+			"name": "Airdrie United",
+			"code": "AIR",
+			"country": "Scotland",
+			"founded": 2002
+		},
+		"venue": {
+			"api_football_id": 19749,
+			"name": "Excelsior Stadium",
+			"address": "Craigneuk Avenue",
+			"city": "Airdrie",
+			"capacity": 10171,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 179,
+			"name": "Premiership",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 248,
+			"name": "Hamilton Academical",
+			"code": "HAM",
+			"country": "Scotland",
+			"founded": 1874
+		},
+		"venue": {
+			"api_football_id": 19937,
+			"name": "ZLX Stadium",
+			"address": "Cadzow Avenue",
+			"city": "Hamilton",
+			"capacity": 6078,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 901,
+			"name": "Partick",
+			"code": "PAR",
+			"country": "Scotland",
+			"founded": 1876
+		},
+		"venue": {
+			"api_football_id": 19938,
+			"name": "Wyre Stadium at Firhill",
+			"address": "80 Firhill Road",
+			"city": "Glasgow",
+			"capacity": 13079,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 903,
+			"name": "Inverness CT",
+			"code": "INV",
+			"country": "Scotland",
+			"founded": 1994
+		},
+		"venue": {
+			"api_football_id": 1395,
+			"name": "Tulloch Caledonian Stadium",
+			"address": "East Longman",
+			"city": "Inverness",
+			"capacity": 7918,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 1383,
+			"name": "Morton",
+			"code": "MOR",
+			"country": "Scotland",
+			"founded": 1874
+		},
+		"venue": {
+			"api_football_id": 1391,
+			"name": "Cappielow Park",
+			"address": "Sinclair Street",
+			"city": "Greenock",
+			"capacity": 11612,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 1385,
+			"name": "Raith Rovers",
+			"code": "RAI",
+			"country": "Scotland",
+			"founded": 1883
+		},
+		"venue": {
+			"api_football_id": 2907,
+			"name": "Stark's Park",
+			"address": "Pratt Street",
+			"city": "Kirkcaldy",
+			"capacity": 10104,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 1386,
+			"name": "Dundee Utd",
+			"code": "DUN",
+			"country": "Scotland",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 1388,
+			"name": "Tannadice Park",
+			"address": "Tannadice Street",
+			"city": "Dundee",
+			"capacity": 14209,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 1387,
+			"name": "Ayr Utd",
+			"code": "AYR",
+			"country": "Scotland",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 1385,
+			"name": "Somerset Park",
+			"address": "Somerset Road",
+			"city": "Ayr",
+			"capacity": 10128,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 1388,
+			"name": "Dunfermline",
+			"code": "DUN",
+			"country": "Scotland",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 19936,
+			"name": "KDM Group East End Park",
+			"address": "Halbeath Road",
+			"city": "Dunfermline",
+			"capacity": 11998,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 1391,
+			"name": "Alloa Athletic",
+			"code": "ALL",
+			"country": "Scotland",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 1384,
+			"name": "Indodrill Stadium",
+			"address": "Clackmannan Road",
+			"city": "Alloa",
+			"capacity": 3100,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 4249,
+			"name": "Arbroath",
+			"code": "ARB",
+			"country": "Scotland",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 3244,
+			"name": "Gayfield Park",
+			"address": "Queens Drive",
+			"city": "Arbroath",
+			"capacity": 6600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 4251,
+			"name": "Montrose",
+			"code": "MON",
+			"country": "Scotland",
+			"founded": 1879
+		},
+		"venue": {
+			"api_football_id": 3246,
+			"name": "Links Park",
+			"address": "Wellington Street",
+			"city": "Montrose",
+			"capacity": 4686,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 4668,
+			"name": "Airdrie United",
+			"code": "AIR",
+			"country": "Scotland",
+			"founded": 2002
+		},
+		"venue": {
+			"api_football_id": 19749,
+			"name": "Excelsior Stadium",
+			"address": "Craigneuk Avenue",
+			"city": "Airdrie",
+			"capacity": 10171,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 6778,
+			"name": "Queen's Park",
+			"code": "QUE",
+			"country": "Scotland",
+			"founded": 1867
+		},
+		"venue": {
+			"api_football_id": 2617,
+			"name": "Hampden Park",
+			"address": "Letherby Drive",
+			"city": "Glasgow",
+			"capacity": 52500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 180,
+			"name": "Championship",
+			"country": "Scotland",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	}
+]

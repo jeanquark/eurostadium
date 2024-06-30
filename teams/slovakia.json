@@ -1,0 +1,814 @@
+[
+	{
+		"team": {
+			"api_football_id": 655,
+			"name": "AS Trencin",
+			"code": "TRE",
+			"country": "Slovakia",
+			"founded": 1943
+		},
+		"venue": {
+			"api_football_id": 1439,
+			"name": "Mestský futbalový štadión Na Sihoti",
+			"address": "Mládežnícka 2313",
+			"city": "Trenčín",
+			"capacity": 15712,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 656,
+			"name": "Slovan Bratislava",
+			"code": "SLO",
+			"country": "Slovakia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 11914,
+			"name": "Štadión Tehelné pole",
+			"address": "Viktora Tegelhoffa 3, Nové Mesto",
+			"city": "Bratislava",
+			"capacity": 30000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 1120,
+			"name": "Spartak Trnava",
+			"code": "TRN",
+			"country": "Slovakia",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 11602,
+			"name": "CITY ARENA – Štadión Antona Malatinského",
+			"address": "ul. Športová 1",
+			"city": "Trnava",
+			"capacity": 19200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2257,
+			"name": "Dunajska Streda",
+			"code": "STR",
+			"country": "Slovakia",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 1436,
+			"name": "MOL Aréna",
+			"address": "Športová 4744",
+			"city": "Dunajská Streda",
+			"capacity": 12700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3548,
+			"name": "Podbrezová",
+			"code": "POD",
+			"country": "Slovakia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 2353,
+			"name": "ZELPO Aréna Podbrezová",
+			"address": "Kolkáreň 58",
+			"city": "Podbrezová",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3549,
+			"name": "Ružomberok",
+			"code": "RUZ",
+			"country": "Slovakia",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 2354,
+			"name": "Futbalový štadión MFK Ružomberok",
+			"address": "Žilinská cesta 21",
+			"city": "Ružomberok",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3552,
+			"name": "Zemplín Michalovce",
+			"code": "MIC",
+			"country": "Slovakia",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 2357,
+			"name": "Futbalový štadión MFK Zemplín",
+			"address": "Pavla Országa Hviezdoslava 5",
+			"city": "Michalovce",
+			"capacity": 4460,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3553,
+			"name": "Zlaté Moravce",
+			"code": "MOR",
+			"country": "Slovakia",
+			"founded": 1995
+		},
+		"venue": {
+			"api_football_id": 11923,
+			"name": "Štadión FC ViOn",
+			"address": "Továrenská 64",
+			"city": "Zlaté Moravce",
+			"capacity": 4008,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3554,
+			"name": "Žilina",
+			"code": "ZIL",
+			"country": "Slovakia",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 2359,
+			"name": "Štadión Pod Dubňom",
+			"address": "Športová 9",
+			"city": "Žilina",
+			"capacity": 11181,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 10533,
+			"name": "Dukla Banská Bystrica",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 2017
+		},
+		"venue": {
+			"api_football_id": 7233,
+			"name": "Štadión SNP Štiavničky",
+			"address": "Na Štiavničkách Hutná 3",
+			"city": "Banská Bystrica",
+			"capacity": 9881,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 10534,
+			"name": "FK Košice",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 2018
+		},
+		"venue": {
+			"api_football_id": 18644,
+			"name": "Košická futbalová aréna",
+			"address": "Pri prachárni 13",
+			"city": "Košice",
+			"capacity": 12658,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 10538,
+			"name": "Petržalka",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 7238,
+			"name": "Štadión FC Petržalka 1898",
+			"address": "Marie Curie Sklodowskej 1",
+			"city": "Bratislava",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 10542,
+			"name": "Skalica",
+			"code": "SKA",
+			"country": "Slovakia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 7241,
+			"name": "Mestský štadión",
+			"address": "Športová 54",
+			"city": "Skalica",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 332,
+			"name": "Super Liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 4134,
+			"name": "Pohronie",
+			"code": "POH",
+			"country": "Slovakia",
+			"founded": 2012
+		},
+		"venue": {
+			"api_football_id": 3161,
+			"name": "Futbalový štadión Žiar nad Hronom",
+			"address": "Partizánska 10/154",
+			"city": "Žiar nad Hronom",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 10535,
+			"name": "Komárno",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 1900
+		},
+		"venue": {
+			"api_football_id": 12114,
+			"name": "Futbalový štadión FK Slovan Duslo Šaľa",
+			"address": "Nitrianska 1727/1",
+			"city": "Šaľa",
+			"capacity": 1126,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 10536,
+			"name": "Liptovský Mikuláš",
+			"code": "MIK",
+			"country": "Slovakia",
+			"founded": 1934
+		},
+		"venue": {
+			"api_football_id": 7236,
+			"name": "Štadión Liptovský Mikuláš",
+			"address": "Smrečianska 614",
+			"city": "Liptovský Mikuláš",
+			"capacity": 5113,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 10538,
+			"name": "Petržalka",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 7238,
+			"name": "Štadión FC Petržalka 1898",
+			"address": "Marie Curie Sklodowskej 1",
+			"city": "Bratislava",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 10540,
+			"name": "Púchov",
+			"code": "PUC",
+			"country": "Slovakia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 7240,
+			"name": "Mestský štadión",
+			"address": "Športovcov 5",
+			"city": "Púchov",
+			"capacity": 5964,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 10543,
+			"name": "Slavoj Trebišov",
+			"code": "SLA",
+			"country": "Slovakia",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 7242,
+			"name": "Štadión Slavoj Trebišov",
+			"address": "Jána Kostru 2095",
+			"city": "Trebišov",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 10544,
+			"name": "Slovan Bratislava II",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 7243,
+			"name": "Štadión Pasienky",
+			"address": "Junácka 10",
+			"city": "Bratislava",
+			"capacity": 13295,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 10545,
+			"name": "Šamorín",
+			"code": "SAM",
+			"country": "Slovakia",
+			"founded": 1914
+		},
+		"venue": {
+			"api_football_id": 7244,
+			"name": "Mestský štadión",
+			"address": "Športová 450/29",
+			"city": "Šamorín",
+			"capacity": 2200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 10546,
+			"name": "Žilina II",
+			"code": null,
+			"country": "Slovakia",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 2359,
+			"name": "Štadión Pod Dubňom",
+			"address": "Športová 9",
+			"city": "Žilina",
+			"capacity": 11181,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 10550,
+			"name": "Tatran Prešov",
+			"code": "PRE",
+			"country": "Slovakia",
+			"founded": 1898
+		},
+		"venue": {
+			"api_football_id": 12117,
+			"name": "Futbalový štadión MŠK TESLA Stropkov",
+			"address": "Matice slovenskej",
+			"city": "Stropkov",
+			"capacity": 2954,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 10555,
+			"name": "Spišská Nová Ves",
+			"code": null,
+			"country": "Slovakia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7251,
+			"name": "Štadión Nová Ves",
+			"address": "Za Hornádom 15",
+			"city": "Spišská Nová Ves",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 12859,
+			"name": "Spartak Myjava",
+			"code": "MYJ",
+			"country": "Slovakia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 8204,
+			"name": "Futbalový štadión Spartak Myjava",
+			"address": "Hodžova 261/1",
+			"city": "Myjava",
+			"capacity": 2795,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 14058,
+			"name": "Malženice",
+			"code": null,
+			"country": "Slovakia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12112,
+			"name": "Futbalový štadión Malženice",
+			"address": "Malženice 237",
+			"city": "Malženice",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 14062,
+			"name": "Považská Bystrica",
+			"code": null,
+			"country": "Slovakia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 18869,
+			"name": "Štadión MŠK Považská Bystrica",
+			"address": "Športovcov 340",
+			"city": "Považská Bystrica",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 14068,
+			"name": "Humenné",
+			"code": "HUM",
+			"country": "Slovakia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11982,
+			"name": "Chemlonský štadión",
+			"address": "Chemlonská 1",
+			"city": "Humenné",
+			"capacity": 14750,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 14956,
+			"name": "Dolný Kubín",
+			"code": "DOL",
+			"country": "Slovakia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10781,
+			"name": "Futbalový štadión MUDr. Ivana Chodáka",
+			"address": "Športovcov 1181/2",
+			"city": "Dolný Kubín",
+			"capacity": 1950,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 506,
+			"name": "2. liga",
+			"country": "Slovakia",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	}
+]

@@ -1,0 +1,618 @@
+[
+	{
+		"team": {
+			"api_football_id": 579,
+			"name": "Buducnost Podgorica",
+			"code": "BUD",
+			"country": "Montenegro",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 1095,
+			"name": "Stadion Pod Goricom",
+			"address": "ul. Vaka Đurovića bb 2",
+			"city": "Podgorica",
+			"capacity": 15230,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 673,
+			"name": "Sutjeska",
+			"code": "SUT",
+			"country": "Montenegro",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 1098,
+			"name": "Stadion Kraj Bistrice",
+			"address": "ul. Dragovića Luka bb",
+			"city": "Nikšić",
+			"capacity": 6180,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 2258,
+			"name": "Rudar",
+			"code": "RUD",
+			"country": "Montenegro",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 1097,
+			"name": "Stadion Pod Golubinjom",
+			"address": "ul. Dušana Obradovića",
+			"city": "Pljevlja",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 3740,
+			"name": "Mornar",
+			"code": "MOR",
+			"country": "Montenegro",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2522,
+			"name": "Stadion SRC Topolica",
+			"address": "Sportski centar bb",
+			"city": "Bar",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3741,
+			"name": "Petrovac",
+			"code": "PET",
+			"country": "Montenegro",
+			"founded": 1969
+		},
+		"venue": {
+			"api_football_id": 18680,
+			"name": "Stadion Mitar Mićo Goliš",
+			"address": "Pod Malim brdom bb",
+			"city": "Petrovac na Moru",
+			"capacity": 1630,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3742,
+			"name": "Arsenal Tivat",
+			"code": "TIV",
+			"country": "Montenegro",
+			"founded": 1914
+		},
+		"venue": {
+			"api_football_id": 2524,
+			"name": "Stadion u Parku",
+			"address": "Iskarska",
+			"city": "Tivat",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3745,
+			"name": "Dečić",
+			"code": "DEC",
+			"country": "Montenegro",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2527,
+			"name": "Stadion Tuško Polje",
+			"address": "Tuzi bb",
+			"city": "Tuzi",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3747,
+			"name": "Jedinstvo",
+			"code": "JED",
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2529,
+			"name": "Gradski Stadion",
+			"address": "ul. N. Merdovića bb",
+			"city": "Bijelo Polje",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3748,
+			"name": "Jezero",
+			"code": "JEZ",
+			"country": "Montenegro",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 2530,
+			"name": "Stadion pod Racinom",
+			"address": "Racina bb",
+			"city": "Plav",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3750,
+			"name": "Mladost Lješkopolje",
+			"code": null,
+			"country": "Montenegro",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 2532,
+			"name": "DG Arena",
+			"address": "ul. Zla­ti Ra­i­če­vić bb, Donja Gorica",
+			"city": "Podgorica",
+			"capacity": 1200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3751,
+			"name": "Otrant-Olympic",
+			"code": null,
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2533,
+			"name": "Stadion Olympic",
+			"address": "Velika Plaža bb",
+			"city": "Ulcinj",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 16749,
+			"name": "Mladost DG",
+			"code": null,
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2532,
+			"name": "DG Arena",
+			"address": "ul. Zla­ti Ra­i­če­vić bb, Donja Gorica",
+			"city": "Podgorica",
+			"capacity": 1200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 355,
+			"name": "First League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3737,
+			"name": "Grbalj",
+			"code": "GRB",
+			"country": "Montenegro",
+			"founded": 1970
+		},
+		"venue": {
+			"api_football_id": 2519,
+			"name": "Stadion Donja Sutvara",
+			"address": "Radanovići bb, Grbalj",
+			"city": "Radanovići",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3738,
+			"name": "Iskra",
+			"code": null,
+			"country": "Montenegro",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 2520,
+			"name": "Stadion Braća Velašević",
+			"address": "ul. Novice Skerovic",
+			"city": "Danilovgrad",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3739,
+			"name": "Lovćen",
+			"code": "LOV",
+			"country": "Montenegro",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 2521,
+			"name": "Stadion Obilića Poljana",
+			"address": "Obilića poljana bb",
+			"city": "Cetinje",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3743,
+			"name": "Berane",
+			"code": "BER",
+			"country": "Montenegro",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 2525,
+			"name": "Gradski Stadion",
+			"address": "Teodroa-Đeda Vojvodića bb",
+			"city": "Berane",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3744,
+			"name": "Bokelj",
+			"code": "BOK",
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2526,
+			"name": "Stadion pod Vrmcem",
+			"address": "Njegoševa bb, Rakite",
+			"city": "Kotor",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3746,
+			"name": "Igalo",
+			"code": "IGA",
+			"country": "Montenegro",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 2528,
+			"name": "Stadion Solila",
+			"address": null,
+			"city": "Igalo",
+			"capacity": 1600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3749,
+			"name": "Kom",
+			"code": "KOM",
+			"country": "Montenegro",
+			"founded": 1958
+		},
+		"venue": {
+			"api_football_id": 19784,
+			"name": "Stadion FK Kom",
+			"address": "ul. Jadranska br. 2, Zlatica",
+			"city": "Podgorica",
+			"capacity": 1200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3750,
+			"name": "Mladost Lješkopolje",
+			"code": null,
+			"country": "Montenegro",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 2532,
+			"name": "DG Arena",
+			"address": "ul. Zla­ti Ra­i­če­vić bb, Donja Gorica",
+			"city": "Podgorica",
+			"capacity": 1200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3751,
+			"name": "Otrant-Olympic",
+			"code": null,
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2533,
+			"name": "Stadion Olympic",
+			"address": "Velika Plaža bb",
+			"city": "Ulcinj",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 21530,
+			"name": "Internacional Podgorica",
+			"code": null,
+			"country": "Montenegro",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 356,
+			"name": "Second League",
+			"country": "Montenegro",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	}
+]

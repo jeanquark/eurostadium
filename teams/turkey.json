@@ -1,0 +1,1066 @@
+[
+	{
+		"team": {
+			"api_football_id": 549,
+			"name": "Besiktas",
+			"code": "BES",
+			"country": "Turkey",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 20423,
+			"name": "Tüpraş Stadyumu",
+			"address": "Dolmabahçe Gazhane Caddesi, Beşiktaş",
+			"city": "İstanbul",
+			"capacity": 43500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 564,
+			"name": "Istanbul Basaksehir",
+			"code": "IST",
+			"country": "Turkey",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 1584,
+			"name": "Başakşehir Fatih Terim Stadyumu",
+			"address": "Yunus Emre Caddesi, Başakşehir",
+			"city": "İstanbul",
+			"capacity": 17319,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 607,
+			"name": "Konyaspor",
+			"code": "KON",
+			"country": "Turkey",
+			"founded": 1981
+		},
+		"venue": {
+			"api_football_id": 1587,
+			"name": "Konya Büyükşehir Belediye Stadyumu",
+			"address": "Sille Parsana Mh., Kaletaş Caddesi, Selçuklu",
+			"city": "Konya",
+			"capacity": 42276,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 611,
+			"name": "Fenerbahce",
+			"code": "FEN",
+			"country": "Turkey",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1581,
+			"name": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+			"address": "Recep Peker Caddesi, Kadıköy",
+			"city": "İstanbul",
+			"capacity": 53586,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 645,
+			"name": "Galatasaray",
+			"code": "GAL",
+			"country": "Turkey",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 19941,
+			"name": "Rams Global Stadium",
+			"address": "İstanbul Çevre Yolu, Aslantepe",
+			"city": "İstanbul",
+			"capacity": 52695,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 996,
+			"name": "Alanyaspor",
+			"code": "ALA",
+			"country": "Turkey",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 19219,
+			"name": "Kırbıyık Holding Stadyumu",
+			"address": "Sarıkadıoğlu Caddesi, Oba, Obaköy",
+			"city": "Alanya",
+			"capacity": 15000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 998,
+			"name": "Trabzonspor",
+			"code": "TRA",
+			"country": "Turkey",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 20189,
+			"name": "Papara Park",
+			"address": "Trabzon Giresun Yolu, Akyaz",
+			"city": "Trabzon",
+			"capacity": 41513,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 1001,
+			"name": "Kayserispor",
+			"code": "KAY",
+			"country": "Turkey",
+			"founded": 1966
+		},
+		"venue": {
+			"api_football_id": 19613,
+			"name": "RHG Enertürk Enerji Stadyumu",
+			"address": "İle Fırat Caddesi",
+			"city": "Kayseri",
+			"capacity": 40458,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 1002,
+			"name": "Sivasspor",
+			"code": "SIV",
+			"country": "Turkey",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 20425,
+			"name": "BG Group 4 Eylül Stadyumu",
+			"address": "Muhsin Yazıcıoğlu Bulvarı",
+			"city": "Sivas",
+			"capacity": 27532,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 1004,
+			"name": "Kasimpasa",
+			"code": "KAS",
+			"country": "Turkey",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 1585,
+			"name": "Recep Tayyip Erdoğan Stadyumu",
+			"address": "Tepebaşı Caddesi, Kasımpaşa, Beyoğlu",
+			"city": "İstanbul",
+			"capacity": 14234,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 1005,
+			"name": "Antalyaspor",
+			"code": "ANT",
+			"country": "Turkey",
+			"founded": 1966
+		},
+		"venue": {
+			"api_football_id": 19220,
+			"name": "Corendon Airlines Park",
+			"address": "100. Yıl Bulvarı",
+			"city": "Antalya",
+			"capacity": 33032,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 1007,
+			"name": "Rizespor",
+			"code": "RIZ",
+			"country": "Turkey",
+			"founded": 1953
+		},
+		"venue": {
+			"api_football_id": 1580,
+			"name": "Çaykur Didi Stadyumu",
+			"address": "Karadeniz Sahli Yolu Yanyolu",
+			"city": "Rize",
+			"capacity": 15558,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 1010,
+			"name": "Ankaragucu",
+			"code": "ANK",
+			"country": "Turkey",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 2378,
+			"name": "Eryaman Stadyumu",
+			"address": "Devlet Mah., 232. Sk. No:7, Tunahan Mahallesi, Etimesgut",
+			"city": "Ankara",
+			"capacity": 20560,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3563,
+			"name": "Adana Demirspor",
+			"code": "ADA",
+			"country": "Turkey",
+			"founded": 1941
+		},
+		"venue": {
+			"api_football_id": 11924,
+			"name": "Yeni Adana Stadyumu",
+			"address": "Çarkıpare, Sarıçam",
+			"city": "Adana",
+			"capacity": 33543,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3573,
+			"name": "Gazişehir Gaziantep",
+			"code": "GAZ",
+			"country": "Turkey",
+			"founded": 1988
+		},
+		"venue": {
+			"api_football_id": 20118,
+			"name": "Kalyon Stadyumu",
+			"address": "Yukarıbeylerbeyi Mah. 15 Nolu Sok., Şehitkamil",
+			"city": "Gaziantep",
+			"capacity": 35558,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3575,
+			"name": "Hatayspor",
+			"code": "HAT",
+			"country": "Turkey",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 8392,
+			"name": "Mersin Stadyumu",
+			"address": "Haraparası, Süreyya Halefoğlu Cd. No:64",
+			"city": "Mersin",
+			"capacity": 25534,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3578,
+			"name": "İstanbulspor",
+			"code": "IST",
+			"country": "Turkey",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 20746,
+			"name": "Esenyurt Necmi Kadıoğlu Stadyumu",
+			"address": "İncirtepe Mah., Esenyurt",
+			"city": "İstanbul",
+			"capacity": 7500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3589,
+			"name": "Fatih Karagümrük",
+			"code": "KAR",
+			"country": "Turkey",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1968,
+			"name": "Atatürk Olimpiyat Stadı",
+			"address": "Atatürk Olimpiyat Stadı Otoparkı, İkitelli",
+			"city": "İstanbul",
+			"capacity": 76092,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3601,
+			"name": "Pendikspor",
+			"code": "PEN",
+			"country": "Turkey",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 19225,
+			"name": "Siltaş Yapı Pendik Stadyumu",
+			"address": "Stadyum Sokak 18, Pendik",
+			"city": "İstanbul",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3603,
+			"name": "Samsunspor",
+			"code": "SAM",
+			"country": "Turkey",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 11925,
+			"name": "Samsun Yeni 19 Mayıs Stadyumu",
+			"address": "Sanayi Mahallesi, Tekkeköy",
+			"city": "Samsun",
+			"capacity": 34658,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 203,
+			"name": "Süper Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 994,
+			"name": "Goztepe",
+			"code": "GOZ",
+			"country": "Turkey",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 1583,
+			"name": "Göztepe Gürsel Aksel Stadı",
+			"address": "Mehmet Ali Akman, 20/3. Sk. No:28, Konak",
+			"city": "İzmir",
+			"capacity": 30035,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 997,
+			"name": "Genclerbirligi",
+			"code": "GEN",
+			"country": "Turkey",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2378,
+			"name": "Eryaman Stadyumu",
+			"address": "Devlet Mah., 232. Sk. No:7, Tunahan Mahallesi, Etimesgut",
+			"city": "Ankara",
+			"capacity": 20560,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 1009,
+			"name": "Erzurum BB",
+			"code": "ERZ",
+			"country": "Turkey",
+			"founded": 2005
+		},
+		"venue": {
+			"api_football_id": 1741,
+			"name": "Kazım Karabekir Stadyumu",
+			"address": "Erzincan-Erzerum Yolu, Yakutiye",
+			"city": "Erzurum",
+			"capacity": 23700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 3564,
+			"name": "Adanaspor",
+			"code": "ADA",
+			"country": "Turkey",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 11924,
+			"name": "Yeni Adana Stadyumu",
+			"address": "Çarkıpare, Sarıçam",
+			"city": "Adana",
+			"capacity": 33543,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 3566,
+			"name": "Altay",
+			"code": "ALT",
+			"country": "Turkey",
+			"founded": 1914
+		},
+		"venue": {
+			"api_football_id": 12684,
+			"name": "Alsancak Mustafa Denizli Stadı",
+			"address": "Şehitleri Caddesi No:10",
+			"city": "İzmir",
+			"capacity": 15000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 3569,
+			"name": "Boluspor",
+			"code": "BOL",
+			"country": "Turkey",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 2371,
+			"name": "Bolu Atatürk Stadyumu",
+			"address": "Stadyumu Caddesi",
+			"city": "Bolu",
+			"capacity": 8881,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 3574,
+			"name": "Giresunspor",
+			"code": "GIR",
+			"country": "Turkey",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 12089,
+			"name": "Çotanak Stadyumu",
+			"address": "Aksu",
+			"city": "Giresun",
+			"capacity": 22028,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 3577,
+			"name": "Ümraniyespor",
+			"code": "UMR",
+			"country": "Turkey",
+			"founded": 1938
+		},
+		"venue": {
+			"api_football_id": 2379,
+			"name": "Ümraniye Hekimbaşı Şehir Stadyumu",
+			"address": "Küçüksu Caddesi, Ümraniye",
+			"city": "İstanbul",
+			"capacity": 3513,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 3583,
+			"name": "BB Bodrumspor",
+			"code": null,
+			"country": "Turkey",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 2385,
+			"name": "Bodrum İlçe Stadı",
+			"address": "Marsmabedi Caddesi",
+			"city": "Bodrum",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 3584,
+			"name": "Bandırmaspor",
+			"code": "BAN",
+			"country": "Turkey",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 2386,
+			"name": "Bandırma 17 Eylül Stadı",
+			"address": "600 Evler Mahallesi",
+			"city": "Bandırma",
+			"capacity": 12725,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 3588,
+			"name": "Eyüpspor",
+			"code": "EYU",
+			"country": "Turkey",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 2390,
+			"name": "Eyüp Stadı",
+			"address": "Hz. Halid Bulvarı",
+			"city": "İstanbul",
+			"capacity": 2367,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 3595,
+			"name": "Keçiörengücü",
+			"code": "KEC",
+			"country": "Turkey",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 2397,
+			"name": "Aktepe Stadı",
+			"address": "2. Caddesi 1040. Sokak",
+			"city": "Ankara",
+			"capacity": 4883,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 3597,
+			"name": "Manisa BBSK",
+			"code": null,
+			"country": "Turkey",
+			"founded": 1994
+		},
+		"venue": {
+			"api_football_id": 2399,
+			"name": "Mümin Özkasap Spor Tesisleri",
+			"address": "167. Sokak",
+			"city": "Manisa",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 3602,
+			"name": "Sakaryaspor",
+			"code": "SAK",
+			"country": "Turkey",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 2404,
+			"name": "Yeni Sakarya Atatürk Stadyumu",
+			"address": "Yağcılar Mah. Karasu Yolu, Yağcılar, Sakarya",
+			"city": "Adapazarı",
+			"capacity": 28710,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 3609,
+			"name": "Tuzlaspor",
+			"code": "TUZ",
+			"country": "Turkey",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 2406,
+			"name": "15 Temmuz Stadı",
+			"address": "Samandira Mah. Stad Sokak No:4",
+			"city": "İstanbul",
+			"capacity": 7000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 3613,
+			"name": "Şanlıurfaspor",
+			"code": "SAN",
+			"country": "Turkey",
+			"founded": 1969
+		},
+		"venue": {
+			"api_football_id": 20477,
+			"name": "Şanlıurfa 11 Nisan Stadyumu",
+			"address": "Mevlana Caddesi",
+			"city": "Şanlıurfa",
+			"capacity": 28965,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 6343,
+			"name": "Yeni Çorumspor",
+			"code": "COR",
+			"country": "Turkey",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 20306,
+			"name": "Çorum Şehir Stadyumu",
+			"address": "Çepni",
+			"city": "Çorum",
+			"capacity": 15000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 7411,
+			"name": "Kocaelispor",
+			"code": "KOC",
+			"country": "Turkey",
+			"founded": 1966
+		},
+		"venue": {
+			"api_football_id": 20309,
+			"name": "Yıldız Entegre Kocaeli Stadyumu",
+			"address": "Turnaoğlu Caddesi",
+			"city": "Kocaeli",
+			"capacity": 35000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 204,
+			"name": "1. Lig",
+			"country": "Turkey",
+			"api_football_country_id": 0
+		},
+		"no": 38
+	}
+]

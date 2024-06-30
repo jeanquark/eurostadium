@@ -1,0 +1,814 @@
+[
+	{
+		"team": {
+			"api_football_id": 562,
+			"name": "FC Astana",
+			"code": "AST",
+			"country": "Kazakhstan",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 20740,
+			"name": "Sportivnyy Kompleks Kaznu",
+			"address": "ul. Al-Farabi 71",
+			"city": "Almaty",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 664,
+			"name": "Kairat Almaty",
+			"code": "KAI",
+			"country": "Kazakhstan",
+			"founded": 1952
+		},
+		"venue": {
+			"api_football_id": 20741,
+			"name": "Ortalyq stadıon",
+			"address": "prospekt Abaya 48",
+			"city": "Almaty",
+			"capacity": 26242,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 692,
+			"name": "Ordabasy",
+			"code": "ORD",
+			"country": "Kazakhstan",
+			"founded": 1998
+		},
+		"venue": {
+			"api_football_id": 3203,
+			"name": "Stadion Qajimuqan Muñaytpasov",
+			"address": "ul. Madely Kozha 1",
+			"city": "Shymkent",
+			"capacity": 37000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2259,
+			"name": "FK Tobol Kostanay",
+			"code": "TOB",
+			"country": "Kazakhstan",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 20742,
+			"name": "Ortalyq stadıon",
+			"address": "ul. 1 Maya 153",
+			"city": "Kostanay",
+			"capacity": 8432,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 4552,
+			"name": "Kaspiy",
+			"code": "KAS",
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3443,
+			"name": "Stadion Jas kanat",
+			"address": null,
+			"city": "Aktau",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 4554,
+			"name": "Kyzyl-Zhar",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 3444,
+			"name": "Stadion Karasay",
+			"address": "ul. Zhambyla Zhabaeva",
+			"city": "Petropavlosvk",
+			"capacity": 12000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 4555,
+			"name": "Maqtaaral",
+			"code": "MAQ",
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3445,
+			"name": "Stadion im. K. Munaytpasova (Zhetisay)",
+			"address": null,
+			"city": "Zhetisay",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 4558,
+			"name": "Okzhetpes",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 3448,
+			"name": "Stadion Oqjetpes",
+			"address": "ul. Abaj 116",
+			"city": "Kokshetau",
+			"capacity": 4158,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 4560,
+			"name": "Zhetysu",
+			"code": "ZHE",
+			"country": "Kazakhstan",
+			"founded": 1981
+		},
+		"venue": {
+			"api_football_id": 3447,
+			"name": "Ortalıq Stadion Jetisu",
+			"address": "ul. Lenina",
+			"city": "Taldykorgan",
+			"capacity": 5850,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 4562,
+			"name": "Kaisar",
+			"code": "KAI",
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3440,
+			"name": "Stadion im. Gany Muratbaeva",
+			"address": "ul. Muratbaev",
+			"city": "Kyzylorda",
+			"capacity": 10500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 4563,
+			"name": "Aktobe",
+			"code": "AKT",
+			"country": "Kazakhstan",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 20754,
+			"name": "Ortalyq stadıon",
+			"address": "prospekt Abulkhair Khan / ul. Mares&apos;yeva 2",
+			"city": "Aktobe",
+			"capacity": 13661,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 4564,
+			"name": "Atyrau",
+			"code": "ATY",
+			"country": "Kazakhstan",
+			"founded": 1980
+		},
+		"venue": {
+			"api_football_id": 3451,
+			"name": "Stadion Munayşı",
+			"address": "ul. Auezova 28a",
+			"city": "Atyrau",
+			"capacity": 8690,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 4566,
+			"name": "Shakhter Karagandy",
+			"code": "SHA",
+			"country": "Kazakhstan",
+			"founded": 1958
+		},
+		"venue": {
+			"api_football_id": 3453,
+			"name": "Stadion Shakhter",
+			"address": "ul. Kazakhstanskaya 1",
+			"city": "Karaganda",
+			"capacity": 19000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 10416,
+			"name": "FK Aksu",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 389,
+			"name": "Premier League",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 4545,
+			"name": "Akademiya Ontustik",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3437,
+			"name": "Stadion Namys",
+			"address": "ul. Alpysbaeva, 26",
+			"city": "Shymkent",
+			"capacity": 4500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 4546,
+			"name": "Aktobe Jas",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3438,
+			"name": "Stadion Munayşı",
+			"address": "ul. Krasnochshekova",
+			"city": "Aktobe",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 4547,
+			"name": "Akzhayik",
+			"code": "AKZ",
+			"country": "Kazakhstan",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 3439,
+			"name": "Stadion im. Petra Atoyana",
+			"address": null,
+			"city": "Ural&apos;sk",
+			"capacity": 8320,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 4548,
+			"name": "Astana II",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 4551,
+			"name": "Ekibastuz",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 1979
+		},
+		"venue": {
+			"api_football_id": 3442,
+			"name": "Stadion Shakhter",
+			"address": "ul. Kunaeva",
+			"city": "Ėkibastyz",
+			"capacity": 6300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 4553,
+			"name": "Kyran",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3203,
+			"name": "Stadion Qajimuqan Muñaytpasov",
+			"address": "ul. Madely Kozha 1",
+			"city": "Shymkent",
+			"capacity": 37000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 4556,
+			"name": "Sport Academy Kairat",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3446,
+			"name": "Stadïon Akademïï T.S.Segïzbaeva",
+			"address": "ul. Mailin",
+			"city": "Almaty",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 4559,
+			"name": "Taraz",
+			"code": "TAR",
+			"country": "Kazakhstan",
+			"founded": 1961
+		},
+		"venue": {
+			"api_football_id": 20661,
+			"name": "Ortalyq stadıon",
+			"address": "ul. Abaya 113",
+			"city": "Taraz",
+			"capacity": 23000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 10414,
+			"name": "Arys",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 18545,
+			"name": "Turkistan Arena",
+			"address": null,
+			"city": "Turkistan",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 16608,
+			"name": "Jas Qyran",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 16610,
+			"name": "Yassy Turkistan",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 2021
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 16611,
+			"name": "Zhenys",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 2021
+		},
+		"venue": {
+			"api_football_id": 3453,
+			"name": "Stadion Shakhter",
+			"address": "ul. Kazakhstanskaya 1",
+			"city": "Karaganda",
+			"capacity": 19000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 18805,
+			"name": "Khan Tengri",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 21011,
+			"name": "Yelimay Semey",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": 2023
+		},
+		"venue": {
+			"api_football_id": 3436,
+			"name": "Stadion Spartak",
+			"address": null,
+			"city": "Semipalatinsk",
+			"capacity": 11000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 21502,
+			"name": "Turan Turkistan",
+			"code": null,
+			"country": "Kazakhstan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 388,
+			"name": "1. Division",
+			"country": "Kazakhstan",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	}
+]

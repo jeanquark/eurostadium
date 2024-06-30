@@ -1,0 +1,1234 @@
+[
+	{
+		"team": {
+			"api_football_id": 193,
+			"name": "PEC Zwolle",
+			"code": "ZWO",
+			"country": "Netherlands",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 1160,
+			"name": "MAC³PARK Stadion",
+			"address": "Stadionplein 1",
+			"city": "Zwolle",
+			"capacity": 14000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 194,
+			"name": "Ajax",
+			"code": "AJA",
+			"country": "Netherlands",
+			"founded": 1900
+		},
+		"venue": {
+			"api_football_id": 1117,
+			"name": "Johan Cruijff Arena",
+			"address": "ArenA Boulevard 1",
+			"city": "Amsterdam",
+			"capacity": 55885,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 196,
+			"name": "Excelsior",
+			"code": "EXC",
+			"country": "Netherlands",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 2901,
+			"name": "Van Donge & De Roo Stadion",
+			"address": "Honingerdijk 110",
+			"city": "Rotterdam",
+			"capacity": 4500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 197,
+			"name": "PSV Eindhoven",
+			"code": "PSV",
+			"country": "Netherlands",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 1143,
+			"name": "Philips Stadion",
+			"address": "Frederiklaan 10",
+			"city": "Eindhoven",
+			"capacity": 36500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 198,
+			"name": "ADO Den Haag",
+			"code": "HAA",
+			"country": "Netherlands",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 19212,
+			"name": "Bingoal Stadion",
+			"address": "Haags Kwartier 55",
+			"city": "‘s-Gravenhage",
+			"capacity": 15000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 199,
+			"name": "De Graafschap",
+			"code": "GRA",
+			"country": "Netherlands",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 1121,
+			"name": "Stadion De Vijverberg",
+			"address": "Lijsterbeslaan 101a",
+			"city": "Doetinchem",
+			"capacity": 12600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 200,
+			"name": "Vitesse",
+			"code": "VIT",
+			"country": "Netherlands",
+			"founded": 1892
+		},
+		"venue": {
+			"api_football_id": 1155,
+			"name": "GelreDome",
+			"address": "Batavierenweg 25",
+			"city": "Arnhem",
+			"capacity": 25500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 201,
+			"name": "AZ Alkmaar",
+			"code": "ALK",
+			"country": "Netherlands",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 1119,
+			"name": "AFAS Stadion",
+			"address": "Stadionweg 1",
+			"city": "Alkmaar",
+			"capacity": 19500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 203,
+			"name": "NAC Breda",
+			"code": "BRE",
+			"country": "Netherlands",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 1139,
+			"name": "Rat Verlegh Stadion",
+			"address": "Stadionstraat 23",
+			"city": "Breda",
+			"capacity": 19000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 205,
+			"name": "Fortuna Sittard",
+			"code": "SIT",
+			"country": "Netherlands",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 1129,
+			"name": "Fortuna Sittard Stadion",
+			"address": "Milaanstraat 120",
+			"city": "Sittard",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 206,
+			"name": "Heracles",
+			"code": "HER",
+			"country": "Netherlands",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 11906,
+			"name": "Erve Asito",
+			"address": "Van Riemsdijkplein 1",
+			"city": "Almelo",
+			"capacity": 13500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 207,
+			"name": "Utrecht",
+			"code": "UTR",
+			"country": "Netherlands",
+			"founded": 1970
+		},
+		"venue": {
+			"api_football_id": 1154,
+			"name": "Stadion Galgenwaard",
+			"address": "Herculesplein 241",
+			"city": "Utrecht",
+			"capacity": 24426,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 208,
+			"name": "Emmen",
+			"code": "EMM",
+			"country": "Netherlands",
+			"founded": 1985
+		},
+		"venue": {
+			"api_football_id": 10504,
+			"name": "De Oude Meerdijk",
+			"address": "Stadionplein 1",
+			"city": "Emmen",
+			"capacity": 8600,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 209,
+			"name": "Feyenoord",
+			"code": "FEY",
+			"country": "Netherlands",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 1128,
+			"name": "Stadion Feijenoord",
+			"address": "Van Zandvlietplein 1",
+			"city": "Rotterdam",
+			"capacity": 51117,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 210,
+			"name": "Heerenveen",
+			"code": "HEE",
+			"country": "Netherlands",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 1132,
+			"name": "Abe Lenstra Stadion",
+			"address": "Abe Lenstra boulevard 19",
+			"city": "Heerenveen",
+			"capacity": 27224,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 409,
+			"name": "Dordrecht",
+			"code": "DOR",
+			"country": "Netherlands",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 20517,
+			"name": "M-Scores Stadion",
+			"address": "Krommedijk 210",
+			"city": "Dordrecht",
+			"capacity": 4235,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 410,
+			"name": "GO Ahead Eagles",
+			"code": "EAG",
+			"country": "Netherlands",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 1130,
+			"name": "De Adelaarshorst",
+			"address": "Vetkampstraat 1",
+			"city": "Deventer",
+			"capacity": 10400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 413,
+			"name": "NEC Nijmegen",
+			"code": "NIJ",
+			"country": "Netherlands",
+			"founded": 1900
+		},
+		"venue": {
+			"api_football_id": 1140,
+			"name": "Goffertstadion",
+			"address": "Stadionplein 1",
+			"city": "Nijmegen",
+			"capacity": 12540,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 414,
+			"name": "Roda",
+			"code": "ROD",
+			"country": "Netherlands",
+			"founded": 1962
+		},
+		"venue": {
+			"api_football_id": 1146,
+			"name": "Parkstad Limburg Stadion",
+			"address": "Roda J.C. Ring 1",
+			"city": "Kerkrade",
+			"capacity": 19979,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 415,
+			"name": "Twente",
+			"code": "TWE",
+			"country": "Netherlands",
+			"founded": 1965
+		},
+		"venue": {
+			"api_football_id": 1153,
+			"name": "De Grolsch Veste",
+			"address": "Colosseum 65",
+			"city": "Enschede",
+			"capacity": 30205,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 416,
+			"name": "FC Volendam",
+			"code": "VOL",
+			"country": "Netherlands",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 1156,
+			"name": "Kras Stadion",
+			"address": "Sportlaan 10",
+			"city": "Volendam",
+			"capacity": 7384,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 417,
+			"name": "Waalwijk",
+			"code": "WAA",
+			"country": "Netherlands",
+			"founded": 1940
+		},
+		"venue": {
+			"api_football_id": 1144,
+			"name": "Mandemakers Stadion",
+			"address": "Akkerlaan 2",
+			"city": "Waalwijk",
+			"capacity": 7508,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 419,
+			"name": "Almere City FC",
+			"code": "ALM",
+			"country": "Netherlands",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 1141,
+			"name": "Yanmar Stadion",
+			"address": "Competitieweg 20",
+			"city": "Almere",
+			"capacity": 4501,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 426,
+			"name": "Sparta Rotterdam",
+			"code": "SPA",
+			"country": "Netherlands",
+			"founded": 1888
+		},
+		"venue": {
+			"api_football_id": 10505,
+			"name": "Sparta-Stadion Het Kasteel",
+			"address": "Spartapark Noord 1",
+			"city": "Rotterdam",
+			"capacity": 11026,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 88,
+			"name": "Eredivisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 195,
+			"name": "Willem II",
+			"code": "WIL",
+			"country": "Netherlands",
+			"founded": 1896
+		},
+		"venue": {
+			"api_football_id": 1159,
+			"name": "Koning Willem II Stadion",
+			"address": "Goirleseweg 34",
+			"city": "Tilburg",
+			"capacity": 14700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 198,
+			"name": "ADO Den Haag",
+			"code": "HAA",
+			"country": "Netherlands",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 19212,
+			"name": "Bingoal Stadion",
+			"address": "Haags Kwartier 55",
+			"city": "‘s-Gravenhage",
+			"capacity": 15000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 199,
+			"name": "De Graafschap",
+			"code": "GRA",
+			"country": "Netherlands",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 1121,
+			"name": "Stadion De Vijverberg",
+			"address": "Lijsterbeslaan 101a",
+			"city": "Doetinchem",
+			"capacity": 12600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 202,
+			"name": "Groningen",
+			"code": "GRO",
+			"country": "Netherlands",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 12276,
+			"name": "Euroborg",
+			"address": "Boumaboulevard 41",
+			"city": "Groningen",
+			"capacity": 22579,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 203,
+			"name": "NAC Breda",
+			"code": "BRE",
+			"country": "Netherlands",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 1139,
+			"name": "Rat Verlegh Stadion",
+			"address": "Stadionstraat 23",
+			"city": "Breda",
+			"capacity": 19000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 204,
+			"name": "VVV Venlo",
+			"code": "VEN",
+			"country": "Netherlands",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 1158,
+			"name": "Covebo Stadion - De Koel -",
+			"address": "Kaldenkerkerweg 182",
+			"city": "Venlo",
+			"capacity": 8000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 208,
+			"name": "Emmen",
+			"code": "EMM",
+			"country": "Netherlands",
+			"founded": 1985
+		},
+		"venue": {
+			"api_football_id": 10504,
+			"name": "De Oude Meerdijk",
+			"address": "Stadionplein 1",
+			"city": "Emmen",
+			"capacity": 8600,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 409,
+			"name": "Dordrecht",
+			"code": "DOR",
+			"country": "Netherlands",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 20517,
+			"name": "M-Scores Stadion",
+			"address": "Krommedijk 210",
+			"city": "Dordrecht",
+			"capacity": 4235,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 411,
+			"name": "Jong PSV",
+			"code": "JON",
+			"country": "Netherlands",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12681,
+			"name": "PSV Campus De Herdgang",
+			"address": "Oirschotsedijk 12 a",
+			"city": "Eindhoven",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 412,
+			"name": "MVV",
+			"code": "MAA",
+			"country": "Netherlands",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 1138,
+			"name": "De Geusselt",
+			"address": "Geusseltweg 11",
+			"city": "Maastricht",
+			"capacity": 10000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 414,
+			"name": "Roda",
+			"code": "ROD",
+			"country": "Netherlands",
+			"founded": 1962
+		},
+		"venue": {
+			"api_football_id": 1146,
+			"name": "Parkstad Limburg Stadion",
+			"address": "Roda J.C. Ring 1",
+			"city": "Kerkrade",
+			"capacity": 19979,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 418,
+			"name": "Jong AZ",
+			"code": null,
+			"country": "Netherlands",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1136,
+			"name": "AFAS Trainingscomplex",
+			"address": "Zuiderweg 72A",
+			"city": "Wijdewormer",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 420,
+			"name": "Cambuur",
+			"code": "CAM",
+			"country": "Netherlands",
+			"founded": 1964
+		},
+		"venue": {
+			"api_football_id": 12680,
+			"name": "Cambuur Stadion",
+			"address": "Cambuurplein 44",
+			"city": "Leeuwarden",
+			"capacity": 11230,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 421,
+			"name": "Den Bosch",
+			"code": "BOS",
+			"country": "Netherlands",
+			"founded": 1964
+		},
+		"venue": {
+			"api_football_id": 1122,
+			"name": "Stadion De Vliert",
+			"address": "Victorialaan 21",
+			"city": "&apos;s-Hertogenbosch",
+			"capacity": 9000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 38
+	},
+	{
+		"team": {
+			"api_football_id": 422,
+			"name": "FC Eindhoven",
+			"code": "EIN",
+			"country": "Netherlands",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 1126,
+			"name": "Jan Louwers Stadion",
+			"address": "Charles Roelslaan 1",
+			"city": "Eindhoven",
+			"capacity": 5400,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 39
+	},
+	{
+		"team": {
+			"api_football_id": 423,
+			"name": "FC OSS",
+			"code": "FCO",
+			"country": "Netherlands",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1142,
+			"name": "Frans Heesen Stadion",
+			"address": "Mondriaanlaan 4",
+			"city": "Oss",
+			"capacity": 4700,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 40
+	},
+	{
+		"team": {
+			"api_football_id": 424,
+			"name": "Helmond Sport",
+			"code": "HEL",
+			"country": "Netherlands",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 19214,
+			"name": "GS Staalwerken Stadion",
+			"address": "Sportpark De Braak 7",
+			"city": "Helmond",
+			"capacity": 4200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 41
+	},
+	{
+		"team": {
+			"api_football_id": 425,
+			"name": "Jong Ajax",
+			"code": "JON",
+			"country": "Netherlands",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1135,
+			"name": "Sportpark De Toekomst",
+			"address": "Borchlandweg 18",
+			"city": "Amsterdam-Duivendrecht",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 42
+	},
+	{
+		"team": {
+			"api_football_id": 427,
+			"name": "Telstar",
+			"code": "STO",
+			"country": "Netherlands",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 20187,
+			"name": "711 Stadion",
+			"address": "Minister van Houtenlaan 123",
+			"city": "Velsen-Zuid",
+			"capacity": 5200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 43
+	},
+	{
+		"team": {
+			"api_football_id": 428,
+			"name": "Jong Utrecht",
+			"code": null,
+			"country": "Netherlands",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12600,
+			"name": "Sportcomplex Zoudenbalch",
+			"address": "Koningsweg 320",
+			"city": "Utrecht",
+			"capacity": 1014,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 89,
+			"name": "Eerste Divisie",
+			"country": "Netherlands",
+			"api_football_country_id": 0
+		},
+		"no": 44
+	}
+]

@@ -1,0 +1,506 @@
+[
+	{
+		"team": {
+			"api_football_id": 3359,
+			"name": "Radnik Bijeljina",
+			"code": "RAD",
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 2183,
+			"name": "Gradski Stadion",
+			"address": "Balkanska bb",
+			"city": "Bijeljina",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 3369,
+			"name": "Kozara Gradiška",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 2191,
+			"name": "Gradski Stadion",
+			"address": "Dositeja Obradovića 9 bb",
+			"city": "Gradiška",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 3370,
+			"name": "Leotar",
+			"code": "LEO",
+			"country": "Bosnia",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 2192,
+			"name": "Stadion Police",
+			"address": "Police bb",
+			"city": "Trebinje",
+			"capacity": 8550,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 3373,
+			"name": "Modriča",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 2194,
+			"name": "Stadion Dr. Milan Jelić",
+			"address": "Berlinska bb",
+			"city": "Modriča",
+			"capacity": 7600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3377,
+			"name": "Rudar Prijedor",
+			"code": "RUD",
+			"country": "Bosnia",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 2196,
+			"name": "Gradski Stadion",
+			"address": "Majora Milana Tepića 10",
+			"city": "Prijedor",
+			"capacity": 3540,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3378,
+			"name": "Slavija",
+			"code": "SLA",
+			"country": "Bosnia",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 2197,
+			"name": "Gradski Stadion SRC",
+			"address": "Lukavička cesta, Lukavica",
+			"city": "Istočno Sarajevo",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 4281,
+			"name": "Ljubić Prnjavor",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 3271,
+			"name": "Stadion Borik",
+			"address": "Vlade Vinčića bb",
+			"city": "Prnjavor",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 4285,
+			"name": "Sutjeska Foča",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 3274,
+			"name": "Gradski Stadion",
+			"address": "Branka Radičevića bb",
+			"city": "Foča",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 4291,
+			"name": "Drina Zvornik",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 3277,
+			"name": "Gradski Stadion",
+			"address": "Priobalni put 1",
+			"city": "Zvornik",
+			"capacity": 3020,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 8501,
+			"name": "Željezničar Banja Luka",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 6057,
+			"name": "Stadion FK Željezničar",
+			"address": "Braće Podgornika",
+			"city": "Banja Luka",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 8502,
+			"name": "Sloboda Mrkonjić Grad",
+			"code": "MRK",
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 6058,
+			"name": "Gradski stadion Luke",
+			"address": null,
+			"city": "Mrkonjić Grad",
+			"capacity": 500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 15174,
+			"name": "Borac Kozarska Dubica",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 10887,
+			"name": "Stadion Đolovi",
+			"address": "Đakona Avakuma",
+			"city": "Kozarska Dubica",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 15290,
+			"name": "Velež Nevesinje",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20775,
+			"name": "Gradski stadion Nevesinje",
+			"address": null,
+			"city": "Nevesinje",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 17374,
+			"name": "Omarska",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1973
+		},
+		"venue": {
+			"api_football_id": 18827,
+			"name": "Gradski Stadion Omarska",
+			"address": null,
+			"city": "Omarska",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 19561,
+			"name": "Famos Vojkovići",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 19869,
+			"name": "Stadion u centru Vojkovića",
+			"address": "Vojkovići",
+			"city": "Istočno Sarajevo",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 19562,
+			"name": "Laktaši",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1974
+		},
+		"venue": {
+			"api_football_id": 18829,
+			"name": "Stadion Laktaša",
+			"address": "Nemanjina bb",
+			"city": "Laktaši",
+			"capacity": 2200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 21736,
+			"name": "BSK Banja Luka",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 19870,
+			"name": "Stadion Caire",
+			"address": null,
+			"city": null,
+			"capacity": 500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 21737,
+			"name": "FK Romanija Pale",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 317,
+			"name": "First League",
+			"country": "Macedonia",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	}
+]

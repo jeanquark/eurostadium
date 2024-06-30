@@ -1,0 +1,786 @@
+[
+	{
+		"team": {
+			"api_football_id": 588,
+			"name": "Zrinjski",
+			"code": "ZRI",
+			"country": "Bosnia",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 202,
+			"name": "Stadion Bijeli Brijeg",
+			"address": "Stjepana Radica 45",
+			"city": "Mostar",
+			"capacity": 20000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 642,
+			"name": "Siroki Brijeg",
+			"code": "SIR",
+			"country": "Bosnia",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 200,
+			"name": "Stadion Pecara",
+			"address": "Fra Dudaka Buntića bb",
+			"city": "Široki Brijeg",
+			"capacity": 5628,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 654,
+			"name": "Zeljeznicar Sarajevo",
+			"code": "ZEL",
+			"country": "Bosnia",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 2185,
+			"name": "Novi Gradski Stadion",
+			"address": "Zvornička 27",
+			"city": "Ugljevik",
+			"capacity": 8118,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 679,
+			"name": "FK Sarajevo",
+			"code": "SAR",
+			"country": "Bosnia",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 199,
+			"name": "Olimpijski Stadion Asim Ferhatović Hase",
+			"address": "Betanja Ulica",
+			"city": "Sarajevo",
+			"capacity": 35630,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3356,
+			"name": "GOŠK Gabela",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 19942,
+			"name": "Stadion Perica-Pero Pavlović",
+			"address": "Put Metkovića 15",
+			"city": "Gabela",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3361,
+			"name": "Tuzla City",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1955
+		},
+		"venue": {
+			"api_football_id": 2184,
+			"name": "Stadion Tušanj",
+			"address": "Trg Stara tržnica br. 10",
+			"city": "Tuzla",
+			"capacity": 8444,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3362,
+			"name": "Zvijezda 09",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 2185,
+			"name": "Novi Gradski Stadion",
+			"address": null,
+			"city": "Ugljevik",
+			"capacity": 8118,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3364,
+			"name": "Borac Banja Luka",
+			"code": "BOR",
+			"country": "Bosnia",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2187,
+			"name": "Gradski Stadion",
+			"address": "Vladike Platona 6",
+			"city": "Banja Luka",
+			"capacity": 9730,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3367,
+			"name": "Igman Konjic",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 2190,
+			"name": "Gradski Stadion",
+			"address": "Drecelj",
+			"city": "Konjic",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3381,
+			"name": "Velež",
+			"code": "VEL",
+			"country": "Bosnia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 2200,
+			"name": "Stadion Rođeni",
+			"address": "Vrapčići",
+			"city": "Mostar",
+			"capacity": 5294,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 8504,
+			"name": "Sloga Doboj",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 6060,
+			"name": "Dvorana SC u Doboju (Stadion Luke)",
+			"address": "Nikola Pašića bb",
+			"city": "Doboj",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 14146,
+			"name": "Posušje",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10571,
+			"name": "Stadion Mokri Dolac",
+			"address": null,
+			"city": "Posušje",
+			"capacity": 12000,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 315,
+			"name": "Premijer Liga",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3358,
+			"name": "Mladost Doboj Kakanj",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1959
+		},
+		"venue": {
+			"api_football_id": 2182,
+			"name": "MGM Farm Arena",
+			"address": "Milski put bb, Doboj",
+			"city": "Kakanj",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3360,
+			"name": "Sloboda Tuzla",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 2184,
+			"name": "Stadion Tušanj",
+			"address": "Trg Stara tržnica br. 10",
+			"city": "Tuzla",
+			"capacity": 8444,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3363,
+			"name": "Čelik",
+			"code": "ZEN",
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 2186,
+			"name": "Stadion Bilino Polje",
+			"address": "Bulevar Kulina Bana bb",
+			"city": "Zenica",
+			"capacity": 15292,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3366,
+			"name": "Goražde",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1960
+		},
+		"venue": {
+			"api_football_id": 2189,
+			"name": "Stadion Midhat Drljević",
+			"address": "Muhidina Mašića Munje 44",
+			"city": "Goražde",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3376,
+			"name": "Rudar Kakanj",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 2195,
+			"name": "Stadion Pod Vardom",
+			"address": "V. Divizije NOP-a 128",
+			"city": "Kakanj",
+			"capacity": 4568,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3380,
+			"name": "TOŠK Tešanj",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2199,
+			"name": "Stadion Luke Tešanj",
+			"address": "Patriotske lige 1",
+			"city": "Tešanj",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3382,
+			"name": "Zvijezda Gradačac",
+			"code": "ZVI",
+			"country": "Bosnia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 2201,
+			"name": "Stadion Banja Ilidža",
+			"address": "Šestog bataljona",
+			"city": "Gradačac",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 4278,
+			"name": "Bratstvo Gračanica",
+			"code": "BRA",
+			"country": "Bosnia",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 3270,
+			"name": "Gradski stadion Luke",
+			"address": "Patriotske lige bb",
+			"city": "Gračanica",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 7528,
+			"name": "Budućnost Banovići",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 5462,
+			"name": "Gradski Stadion",
+			"address": "Branilaca Banovića 10",
+			"city": "Banovići",
+			"capacity": 4600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 7529,
+			"name": "Jedinstvo Bihać",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 5463,
+			"name": "Stadion Pod Borićima",
+			"address": "Aleja bb",
+			"city": "Bihać",
+			"capacity": 7500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 7531,
+			"name": "Radnik Hadžići",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 5464,
+			"name": "Gradski stadion",
+			"address": "Anđelka Lažetića bb",
+			"city": "Hadžići",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 14147,
+			"name": "Vis Kosova",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1975
+		},
+		"venue": {
+			"api_football_id": 19871,
+			"name": "Gradski stadion Maglaj",
+			"address": "7. ulica",
+			"city": "Maglaj",
+			"capacity": 500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 17371,
+			"name": "Gradina",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1963
+		},
+		"venue": {
+			"api_football_id": 12152,
+			"name": "Gradski stadion",
+			"address": "Radnicke 16",
+			"city": "Srebrenik",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 17372,
+			"name": "Tomislav",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19872,
+			"name": "Stadion Tomislavgrad",
+			"address": null,
+			"city": "Tomislavgrad",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 17901,
+			"name": "Stupčanica Olovo",
+			"code": null,
+			"country": "Bosnia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19873,
+			"name": "Gradski stadion Olovo",
+			"address": null,
+			"city": "Olovo",
+			"capacity": 1300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 21738,
+			"name": "Gornji Rahić",
+			"code": null,
+			"country": "Bosnia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 20781,
+			"name": "Stadion Harf Arena Gornji Rahić",
+			"address": null,
+			"city": "Gornji Rahić",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 316,
+			"name": "1st League - FBiH",
+			"country": "Bosnia and Herzegovina",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	}
+]

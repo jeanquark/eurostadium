@@ -1,0 +1,842 @@
+[
+	{
+		"team": {
+			"api_football_id": 602,
+			"name": "Apollon Limassol",
+			"code": "APO",
+			"country": "Cyprus",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 19616,
+			"name": "Alphamega Stadium",
+			"address": "93 Glastonos, Kapsalos",
+			"city": "Kolossi",
+			"capacity": 10700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 614,
+			"name": "AEK Larnaca",
+			"code": "LAR",
+			"country": "Cyprus",
+			"founded": 1994
+		},
+		"venue": {
+			"api_football_id": 430,
+			"name": "AEK Arena - George Karapatakis",
+			"address": null,
+			"city": "Larnaca",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 2247,
+			"name": "Apoel Nicosia",
+			"code": "APO",
+			"country": "Cyprus",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 432,
+			"name": "Neo GSP",
+			"address": "Pangkiprion Avenue, Strovolos",
+			"city": "Levkosía",
+			"capacity": 22859,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2269,
+			"name": "Anorthosis",
+			"code": "ANO",
+			"country": "Cyprus",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 431,
+			"name": "Stadio Antonis Papadopoulos",
+			"address": "Antonis Papadopoulos",
+			"city": "Larnaca",
+			"capacity": 10230,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3396,
+			"name": "AEL",
+			"code": "LIM",
+			"country": "Cyprus",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 19616,
+			"name": "Alphamega Stadium",
+			"address": "93 Glastonos, Kapsalos",
+			"city": "Kolossi",
+			"capacity": 10700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3398,
+			"name": "Doxa",
+			"code": "DOX",
+			"country": "Cyprus",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 20303,
+			"name": "Stadio Peristerona",
+			"address": "Stadiou 12",
+			"city": "Peristerona",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3401,
+			"name": "Nea Salamis",
+			"code": "SAL",
+			"country": "Cyprus",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 20190,
+			"name": "Stadio Vitex Ammochostos Epistrofi",
+			"address": "Alexandros Raggavis 4",
+			"city": "Larnaca",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3402,
+			"name": "Omonia Nicosia",
+			"code": "OMO",
+			"country": "Cyprus",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 432,
+			"name": "Neo GSP",
+			"address": "Pangkiprion Avenue, Strovolos",
+			"city": "Levkosía",
+			"capacity": 22859,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3403,
+			"name": "Pafos",
+			"code": "PAP",
+			"country": "Cyprus",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 7134,
+			"name": "Stadio Stelios Kyriakides",
+			"address": "Leoforos Dimokratías",
+			"city": "Paphos",
+			"capacity": 9394,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3404,
+			"name": "AE Zakakiou",
+			"code": "ZAK",
+			"country": "Cyprus",
+			"founded": 1956
+		},
+		"venue": {
+			"api_football_id": 19790,
+			"name": "Koinotiko Stadio Parekklisias",
+			"address": "E109",
+			"city": "Parekklisia",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3408,
+			"name": "Aris",
+			"code": "ARI",
+			"country": "Cyprus",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 19616,
+			"name": "Alphamega Stadium",
+			"address": "93 Glastonos, Kapsalos",
+			"city": "Kolossi",
+			"capacity": 10700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 3412,
+			"name": "Ethnikos Achna",
+			"code": "ETH",
+			"country": "Cyprus",
+			"founded": 1968
+		},
+		"venue": {
+			"api_football_id": 2222,
+			"name": "Stadio Dasaki Achnas",
+			"address": "Griva Digeni",
+			"city": "Dasaki Achnas",
+			"capacity": 5422,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3413,
+			"name": "Karmiotissa",
+			"code": "KAR",
+			"country": "Cyprus",
+			"founded": 1979
+		},
+		"venue": {
+			"api_football_id": 2223,
+			"name": "Dimotiko Stadio Pano Polemidias",
+			"address": null,
+			"city": "Pano Polemidia",
+			"capacity": 1500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3418,
+			"name": "Othellos",
+			"code": "OTH",
+			"country": "Cyprus",
+			"founded": 1933
+		},
+		"venue": {
+			"api_football_id": 2226,
+			"name": "Gipedo Othellos Athienou",
+			"address": "Ifestou",
+			"city": "Athienou",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 318,
+			"name": "1. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3399,
+			"name": "Enosis",
+			"code": "PAR",
+			"country": "Cyprus",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 2214,
+			"name": "Stadio Tasos Markou",
+			"address": "Antoni Papadopoulou 17",
+			"city": "Paralímni",
+			"capacity": 5800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3400,
+			"name": "Ermis",
+			"code": "ERM",
+			"country": "Cyprus",
+			"founded": 1958
+		},
+		"venue": {
+			"api_football_id": 2215,
+			"name": "Dimotiko Stadio Aradippou",
+			"address": "Plateia Apostolou Louka 3",
+			"city": "Aradippou",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3405,
+			"name": "ASIL Lysi",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 1932
+		},
+		"venue": {
+			"api_football_id": 430,
+			"name": "AEK Arena - George Karapatakis",
+			"address": null,
+			"city": "Larnaca",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3406,
+			"name": "Akritas",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 2217,
+			"name": "Koinotiko Stadio Chlorakas",
+			"address": "Leoforos Elentherias",
+			"city": "Chloraka",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3409,
+			"name": "Ayia Napa",
+			"code": "AYI",
+			"country": "Cyprus",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 2219,
+			"name": "Dimotiko Stadio Ayia Napa",
+			"address": null,
+			"city": "Agia Napa",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3414,
+			"name": "MEAP Nisou",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 1980
+		},
+		"venue": {
+			"api_football_id": 2224,
+			"name": "Koinotiko Stadio Pera Choriou",
+			"address": "Pera Choriou",
+			"city": "Nisou",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3415,
+			"name": "Olympiakos",
+			"code": "OLY",
+			"country": "Cyprus",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 2213,
+			"name": "Makareio Stadio",
+			"address": "Stadiou, Makedonitissa",
+			"city": "Lefkosía",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 3416,
+			"name": "Omonia Aradippou",
+			"code": "OMO",
+			"country": "Cyprus",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 2215,
+			"name": "Dimotiko Stadio Aradippou",
+			"address": "Plateia Apostolou Louka 3",
+			"city": "Aradippou",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 3419,
+			"name": "PAEEK",
+			"code": "PAE",
+			"country": "Cyprus",
+			"founded": 1953
+		},
+		"venue": {
+			"api_football_id": 2227,
+			"name": "Gipedo PAEEK Keryneia Epistrofi",
+			"address": "Diodos Kifea, Archangelos",
+			"city": "Strovolos",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 3423,
+			"name": "Digenis Morphou",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 2213,
+			"name": "Makareio Stadio",
+			"address": "Stadiou, Makedonitissa",
+			"city": "Lefkosía",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 3424,
+			"name": "Digenis Ypsonas",
+			"code": null,
+			"country": "Cyprus",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19078,
+			"name": "Gipedo Stelios Chari",
+			"address": null,
+			"city": "Ypsonas",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 3425,
+			"name": "ENAD",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 1994
+		},
+		"venue": {
+			"api_football_id": 2231,
+			"name": "Dimotiko Stadio Polis Chrysochous",
+			"address": "Mariou",
+			"city": "Polis Chrysochous",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 3434,
+			"name": "Peyia",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 2238,
+			"name": "Dimotiko Stadio Pegias",
+			"address": "Dimotikou Stadiou 5",
+			"city": "Peyia",
+			"capacity": 3828,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 3435,
+			"name": "Xylotympou",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 2006
+		},
+		"venue": {
+			"api_football_id": 2222,
+			"name": "Stadio Dasaki Achnas",
+			"address": "Griva Digeni",
+			"city": "Dasaki Achnas",
+			"capacity": 5422,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 14126,
+			"name": "Omonia 29is Maiou",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 2018
+		},
+		"venue": {
+			"api_football_id": 2213,
+			"name": "Makareio Stadio",
+			"address": "Stadiou, Makedonitissa",
+			"city": "Lefkosía",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 20024,
+			"name": "Ahironas / Onisilos",
+			"code": null,
+			"country": "Cyprus",
+			"founded": 2022
+		},
+		"venue": {
+			"api_football_id": 2225,
+			"name": "Dimotiko Stadio Sotiras",
+			"address": "E333",
+			"city": "Sotira",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 319,
+			"name": "2. Division",
+			"country": "Cyprus",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	}
+]

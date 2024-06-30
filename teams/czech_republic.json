@@ -1,0 +1,954 @@
+[
+	{
+		"team": {
+			"api_football_id": 560,
+			"name": "Slavia Praha",
+			"code": "SLA",
+			"country": "Czech-Republic",
+			"founded": 1892
+		},
+		"venue": {
+			"api_football_id": 18856,
+			"name": "Fortuna Arena",
+			"address": "Vladivostocká 1460/10",
+			"city": "Praha",
+			"capacity": 21000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 567,
+			"name": "Plzen",
+			"code": "PLZ",
+			"country": "Czech-Republic",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 438,
+			"name": "Doosan Aréna",
+			"address": null,
+			"city": "Plzeň",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 603,
+			"name": "Zlin",
+			"code": "ZLI",
+			"country": "Czech-Republic",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 2492,
+			"name": "Stadion Letná",
+			"address": "Tyršovo nábřeží 4381",
+			"city": "Zlín",
+			"capacity": 6375,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 628,
+			"name": "Sparta Praha",
+			"code": "SPA",
+			"country": "Czech-Republic",
+			"founded": 1893
+		},
+		"venue": {
+			"api_football_id": 19513,
+			"name": "epet ARENA",
+			"address": "Milady Horákové 1066/98, Letná",
+			"city": "Praha",
+			"capacity": 20854,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 640,
+			"name": "Mlada Boleslav",
+			"code": "MLA",
+			"country": "Czech-Republic",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 2494,
+			"name": "Lokotrans Aréna",
+			"address": "U stadionu 1118/II",
+			"city": "Mladá Boleslav",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 782,
+			"name": "Slovan Liberec",
+			"code": "LIB",
+			"country": "Czech-Republic",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 2493,
+			"name": "Stadion u Nisy",
+			"address": "Na Hradbách 1300",
+			"city": "Liberec",
+			"capacity": 9900,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 1122,
+			"name": "FK Jablonec",
+			"code": "JAB",
+			"country": "Czech-Republic",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 434,
+			"name": "Stadion Střelnice",
+			"address": "U stadionu 4904/5",
+			"city": "Jablonec nad Nisou",
+			"capacity": 6280,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 2250,
+			"name": "Sigma Olomouc",
+			"code": "SIG",
+			"country": "Czech-Republic",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 435,
+			"name": "Andrův stadion",
+			"address": "Legionářská 1165/12",
+			"city": "Olomouc",
+			"capacity": 12566,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3713,
+			"name": "Baník Ostrava",
+			"code": "OST",
+			"country": "Czech-Republic",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 2495,
+			"name": "Městský stadion - Vítkovice Aréna",
+			"address": "Závodní 2891/86, Vítkovice",
+			"city": "Ostrava",
+			"capacity": 15275,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3714,
+			"name": "Bohemians 1905",
+			"code": "BOH",
+			"country": "Czech-Republic",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 2496,
+			"name": "Stadion Ďolíček",
+			"address": "Vršovická 31",
+			"city": "Praha",
+			"capacity": 7500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3716,
+			"name": "Karviná",
+			"code": "KAR",
+			"country": "Czech-Republic",
+			"founded": 2003
+		},
+		"venue": {
+			"api_football_id": 2498,
+			"name": "Městský Stadión",
+			"address": "U hřiště 318/17, Ráj",
+			"city": "Karviná",
+			"capacity": 4838,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 3719,
+			"name": "Slovácko",
+			"code": "SLO",
+			"country": "Czech-Republic",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 2501,
+			"name": "Městský fotbalový stadion Miroslava Valenty",
+			"address": "Stonky 635",
+			"city": "Uherské Hradiště",
+			"capacity": 8121,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3720,
+			"name": "Teplice",
+			"code": "TEP",
+			"country": "Czech-Republic",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 10575,
+			"name": "AGC Aréna Na Stínadlech",
+			"address": "Na Stínadlech 2796",
+			"city": "Teplice",
+			"capacity": 18221,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3723,
+			"name": "Hradec Králové",
+			"code": "HRA",
+			"country": "Czech-Republic",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 20749,
+			"name": "Malšovická Aréna",
+			"address": "Úprkova 473",
+			"city": "Hradec Králové",
+			"capacity": 9300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3724,
+			"name": "Pardubice",
+			"code": null,
+			"country": "Czech-Republic",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20750,
+			"name": "CFIG Arena",
+			"address": "U Stadionu 1652",
+			"city": "Pardubice",
+			"capacity": 4625,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3726,
+			"name": "Táborsko",
+			"code": "MAS",
+			"country": "Czech-Republic",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2508,
+			"name": "Stadion Kvapilova",
+			"address": "Kvapilova",
+			"city": "Tábor",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3736,
+			"name": "České Budějovice",
+			"code": "CES",
+			"country": "Czech-Republic",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 2517,
+			"name": "Fotbalový stadion Střelecký ostrov",
+			"address": "Střelecký ostrov 3",
+			"city": "Ceské Budejovice",
+			"capacity": 6746,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 7379,
+			"name": "Vyškov",
+			"code": null,
+			"country": "Czech-Republic",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11958,
+			"name": "Sportovní areál Drnovice",
+			"address": "Mlýnská 20",
+			"city": "Drnovice",
+			"capacity": 6616,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 345,
+			"name": "Czech Liga",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3715,
+			"name": "Dukla Praha",
+			"code": "DUK",
+			"country": "Czech-Republic",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 2497,
+			"name": "Stadion Juliska",
+			"address": "Na Julisce 28, Dejvice",
+			"city": "Praha",
+			"capacity": 8150,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3717,
+			"name": "Opava",
+			"code": "OPA",
+			"country": "Czech-Republic",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 2499,
+			"name": "Stadion v Městských sadech",
+			"address": "Lipová 105/2",
+			"city": "Opava",
+			"capacity": 7758,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3718,
+			"name": "Příbram",
+			"code": "PRI",
+			"country": "Czech-Republic",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 10574,
+			"name": "Stadion Na Litavce",
+			"address": "Lazec 60",
+			"city": "Příbram",
+			"capacity": 9100,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 3722,
+			"name": "Chrudim",
+			"code": "CHR",
+			"country": "Czech-Republic",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 2504,
+			"name": "Stadion Za Vodojemem",
+			"address": "Fotinová 332 / Novoměstská 230",
+			"city": "Chrudim",
+			"capacity": 2350,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 3725,
+			"name": "Prostějov",
+			"code": "HAN",
+			"country": "Czech-Republic",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 5289,
+			"name": "Stadion 1. HFK Olomouc",
+			"address": "Staškova 28, Holice",
+			"city": "Olomouc",
+			"capacity": 2900,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 3726,
+			"name": "Táborsko",
+			"code": "MAS",
+			"country": "Czech-Republic",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 2508,
+			"name": "Stadion Kvapilova",
+			"address": "Kvapilova",
+			"city": "Tábor",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 3728,
+			"name": "Varnsdorf",
+			"code": "VAR",
+			"country": "Czech-Republic",
+			"founded": 1938
+		},
+		"venue": {
+			"api_football_id": 2510,
+			"name": "Stadion v Kotlině",
+			"address": "Moravská 2688",
+			"city": "Varnsdorf",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 3729,
+			"name": "Viktoria Žižkov",
+			"code": "ZIZ",
+			"country": "Czech-Republic",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 2511,
+			"name": "eFotbal aréna",
+			"address": "Seifertova třída 2871/10, Žižkov",
+			"city": "Praha",
+			"capacity": 5600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 3730,
+			"name": "Vlašim",
+			"code": "VLA",
+			"country": "Czech-Republic",
+			"founded": 1969
+		},
+		"venue": {
+			"api_football_id": 2512,
+			"name": "Stadion Kollárova ulice",
+			"address": "Kollárova 1008",
+			"city": "Vlašim",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 3731,
+			"name": "Vysočina Jihlava",
+			"code": "JIH",
+			"country": "Czech-Republic",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 2513,
+			"name": "Stadion v Jiráskově ulici",
+			"address": "Jiráskova 69",
+			"city": "Jihlava",
+			"capacity": 4500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 3733,
+			"name": "Zbrojovka Brno",
+			"code": "BRN",
+			"country": "Czech-Republic",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 19226,
+			"name": "ADAX INVEST Arena",
+			"address": "Srbská 47a",
+			"city": "Brno",
+			"capacity": 12550,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 4257,
+			"name": "Líšeň",
+			"code": "LIS",
+			"country": "Czech-Republic",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3252,
+			"name": "Stadion SK Líšeň",
+			"address": "Kučerova 4",
+			"city": "Brno",
+			"capacity": 2070,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 7291,
+			"name": "Hanácká",
+			"code": "KRO",
+			"country": "Czech-Republic",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 19955,
+			"name": "Stadion Jožky Silného",
+			"address": "Obvodová 3607",
+			"city": "Kroměříž",
+			"capacity": 4197,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 7379,
+			"name": "Vyškov",
+			"code": null,
+			"country": "Czech-Republic",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11958,
+			"name": "Sportovní areál Drnovice",
+			"address": "Mlýnská 20",
+			"city": "Drnovice",
+			"capacity": 6616,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 8619,
+			"name": "Sparta Praha II",
+			"code": "SPA",
+			"country": "Czech-Republic",
+			"founded": 1893
+		},
+		"venue": {
+			"api_football_id": 2511,
+			"name": "eFotbal aréna",
+			"address": "Seifertova třída 2871/10, Žižkov",
+			"city": "Praha",
+			"capacity": 5600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 8622,
+			"name": "Sigma Olomouc II",
+			"code": null,
+			"country": "Czech-Republic",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 435,
+			"name": "Andrův stadion",
+			"address": "Legionářská 1165/12",
+			"city": "Olomouc",
+			"capacity": 12566,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 346,
+			"name": "FNL",
+			"country": "Czech Republic",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	}
+]

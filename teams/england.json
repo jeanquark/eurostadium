@@ -1,0 +1,1234 @@
+[
+	{
+		"team": {
+			"api_football_id": 33,
+			"name": "Manchester United",
+			"code": "MUN",
+			"country": "England",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 556,
+			"name": "Old Trafford",
+			"address": "Sir Matt Busby Way",
+			"city": "Manchester",
+			"capacity": 76212,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 34,
+			"name": "Newcastle",
+			"code": "NEW",
+			"country": "England",
+			"founded": 1892
+		},
+		"venue": {
+			"api_football_id": 562,
+			"name": "St. James' Park",
+			"address": "St. James&apos; Street",
+			"city": "Newcastle upon Tyne",
+			"capacity": 52758,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 35,
+			"name": "Bournemouth",
+			"code": "BOU",
+			"country": "England",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 504,
+			"name": "Vitality Stadium",
+			"address": "Dean Court, Kings Park",
+			"city": "Bournemouth, Dorset",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 36,
+			"name": "Fulham",
+			"code": "FUL",
+			"country": "England",
+			"founded": 1879
+		},
+		"venue": {
+			"api_football_id": 535,
+			"name": "Craven Cottage",
+			"address": "Stevenage Road",
+			"city": "London",
+			"capacity": 25700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 39,
+			"name": "Wolves",
+			"code": "WOL",
+			"country": "England",
+			"founded": 1877
+		},
+		"venue": {
+			"api_football_id": 600,
+			"name": "Molineux Stadium",
+			"address": "Waterloo Road",
+			"city": "Wolverhampton, West Midlands",
+			"capacity": 34624,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 40,
+			"name": "Liverpool",
+			"code": "LIV",
+			"country": "England",
+			"founded": 1892
+		},
+		"venue": {
+			"api_football_id": 550,
+			"name": "Anfield",
+			"address": "Anfield Road",
+			"city": "Liverpool",
+			"capacity": 55212,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 42,
+			"name": "Arsenal",
+			"code": "ARS",
+			"country": "England",
+			"founded": 1886
+		},
+		"venue": {
+			"api_football_id": 494,
+			"name": "Emirates Stadium",
+			"address": "Queensland Road",
+			"city": "London",
+			"capacity": 60383,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 44,
+			"name": "Burnley",
+			"code": "BUR",
+			"country": "England",
+			"founded": 1882
+		},
+		"venue": {
+			"api_football_id": 512,
+			"name": "Turf Moor",
+			"address": "Harry Potts Way",
+			"city": "Burnley",
+			"capacity": 22546,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 45,
+			"name": "Everton",
+			"code": "EVE",
+			"country": "England",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 8560,
+			"name": "Goodison Park",
+			"address": "Goodison Road",
+			"city": "Liverpool",
+			"capacity": 40569,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 47,
+			"name": "Tottenham",
+			"code": "TOT",
+			"country": "England",
+			"founded": 1882
+		},
+		"venue": {
+			"api_football_id": 593,
+			"name": "Tottenham Hotspur Stadium",
+			"address": "Bill Nicholson Way, 748 High Road",
+			"city": "London",
+			"capacity": 62850,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 48,
+			"name": "West Ham",
+			"code": "WES",
+			"country": "England",
+			"founded": 1895
+		},
+		"venue": {
+			"api_football_id": 598,
+			"name": "London Stadium",
+			"address": "Marshgate Lane, Stratford",
+			"city": "London",
+			"capacity": 62500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 49,
+			"name": "Chelsea",
+			"code": "CHE",
+			"country": "England",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 519,
+			"name": "Stamford Bridge",
+			"address": "Fulham Road",
+			"city": "London",
+			"capacity": 41841,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 50,
+			"name": "Manchester City",
+			"code": "MAC",
+			"country": "England",
+			"founded": 1880
+		},
+		"venue": {
+			"api_football_id": 555,
+			"name": "Etihad Stadium",
+			"address": "Rowsley Street",
+			"city": "Manchester",
+			"capacity": 55097,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 51,
+			"name": "Brighton",
+			"code": "BRI",
+			"country": "England",
+			"founded": 1901
+		},
+		"venue": {
+			"api_football_id": 508,
+			"name": "The American Express Community Stadium",
+			"address": "Village Way",
+			"city": "Falmer, East Sussex",
+			"capacity": 31872,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 52,
+			"name": "Crystal Palace",
+			"code": "CRY",
+			"country": "England",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 525,
+			"name": "Selhurst Park",
+			"address": "Holmesdale Road",
+			"city": "London",
+			"capacity": 26309,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 55,
+			"name": "Brentford",
+			"code": "BRE",
+			"country": "England",
+			"founded": 1889
+		},
+		"venue": {
+			"api_football_id": 10503,
+			"name": "Gtech Community Stadium",
+			"address": "166 Lionel Rd N, Brentford",
+			"city": "Brentford, Middlesex",
+			"capacity": 17250,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 62,
+			"name": "Sheffield Utd",
+			"code": "SHE",
+			"country": "England",
+			"founded": 1889
+		},
+		"venue": {
+			"api_football_id": 581,
+			"name": "Bramall Lane",
+			"address": "Bramall Lane",
+			"city": "Sheffield",
+			"capacity": 32702,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 65,
+			"name": "Nottingham Forest",
+			"code": "NOT",
+			"country": "England",
+			"founded": 1865
+		},
+		"venue": {
+			"api_football_id": 566,
+			"name": "The City Ground",
+			"address": "Pavilion Road",
+			"city": "Nottingham, Nottinghamshire",
+			"capacity": 30576,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 66,
+			"name": "Aston Villa",
+			"code": "AST",
+			"country": "England",
+			"founded": 1874
+		},
+		"venue": {
+			"api_football_id": 495,
+			"name": "Villa Park",
+			"address": "Trinity Road",
+			"city": "Birmingham",
+			"capacity": 42788,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 1359,
+			"name": "Luton",
+			"code": "LUT",
+			"country": "England",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 551,
+			"name": "Kenilworth Road",
+			"address": "1 Maple Road",
+			"city": "Luton, Bedfordshire",
+			"capacity": 11500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 39,
+			"name": "Premier League",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 37,
+			"name": "Huddersfield",
+			"code": "HUD",
+			"country": "England",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 543,
+			"name": "John Smith's Stadium",
+			"address": "Stadium Way",
+			"city": "Huddersfield, West Yorkshire",
+			"capacity": 24554,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 38,
+			"name": "Watford",
+			"code": "WAT",
+			"country": "England",
+			"founded": 1881
+		},
+		"venue": {
+			"api_football_id": 596,
+			"name": "Vicarage Road",
+			"address": "Vicarage Road",
+			"city": "Watford",
+			"capacity": 22200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 41,
+			"name": "Southampton",
+			"code": "SOU",
+			"country": "England",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 585,
+			"name": "St. Mary's Stadium",
+			"address": "Britannia Road",
+			"city": "Southampton, Hampshire",
+			"capacity": 32689,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 43,
+			"name": "Cardiff",
+			"code": "CAR",
+			"country": "Wales",
+			"founded": 1889
+		},
+		"venue": {
+			"api_football_id": 516,
+			"name": "Cardiff City Stadium",
+			"address": "Leckwith Road",
+			"city": "Caerdydd",
+			"capacity": 33280,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 46,
+			"name": "Leicester",
+			"code": "LEI",
+			"country": "England",
+			"founded": 1884
+		},
+		"venue": {
+			"api_football_id": 547,
+			"name": "King Power Stadium",
+			"address": "Filbert Way",
+			"city": "Leicester, Leicestershire",
+			"capacity": 34310,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 54,
+			"name": "Birmingham",
+			"code": "BIR",
+			"country": "England",
+			"founded": 1875
+		},
+		"venue": {
+			"api_football_id": 12596,
+			"name": "St Andrew's Stadium",
+			"address": "St. Andrew&apos;s Road",
+			"city": "Birmingham",
+			"capacity": 30009,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 56,
+			"name": "Bristol City",
+			"code": "BRI",
+			"country": "England",
+			"founded": 1894
+		},
+		"venue": {
+			"api_football_id": 20106,
+			"name": "Ashton Gate Stadium",
+			"address": "Ashton Road",
+			"city": "Bristol",
+			"capacity": 27000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 57,
+			"name": "Ipswich",
+			"code": "IPS",
+			"country": "England",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 545,
+			"name": "Portman Road",
+			"address": "Portman Road",
+			"city": "Ipswich, Suffolk",
+			"capacity": 30311,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 58,
+			"name": "Millwall",
+			"code": "MIL",
+			"country": "England",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 559,
+			"name": "The Den",
+			"address": "Zampa Road, Bermondsey",
+			"city": "London",
+			"capacity": 20146,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 59,
+			"name": "Preston",
+			"code": "PRE",
+			"country": "England",
+			"founded": 1863
+		},
+		"venue": {
+			"api_football_id": 574,
+			"name": "Deepdale",
+			"address": "Deepdale Road",
+			"city": "Preston",
+			"capacity": 23408,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 60,
+			"name": "West Brom",
+			"code": "WES",
+			"country": "England",
+			"founded": 1878
+		},
+		"venue": {
+			"api_football_id": 597,
+			"name": "The Hawthorns",
+			"address": "Halfords Lane",
+			"city": "West Bromwich",
+			"capacity": 28003,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 63,
+			"name": "Leeds",
+			"code": "LEE",
+			"country": "England",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 546,
+			"name": "Elland Road",
+			"address": "Elland Road",
+			"city": "Leeds, West Yorkshire",
+			"capacity": 40204,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 64,
+			"name": "Hull City",
+			"code": "HUL",
+			"country": "England",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 12051,
+			"name": "The MKM Stadium",
+			"address": "Walton Street / Anlaby Road",
+			"city": "Hull",
+			"capacity": 25504,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 67,
+			"name": "Blackburn",
+			"code": "BLA",
+			"country": "England",
+			"founded": 1875
+		},
+		"venue": {
+			"api_football_id": 500,
+			"name": "Ewood Park",
+			"address": "Nuttall Street",
+			"city": "Blackburn, Lancashire",
+			"capacity": 31367,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 70,
+			"name": "Middlesbrough",
+			"code": "MID",
+			"country": "England",
+			"founded": 1876
+		},
+		"venue": {
+			"api_football_id": 558,
+			"name": "Riverside Stadium",
+			"address": "Dockside Road",
+			"city": "Middlesbrough",
+			"capacity": 34988,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 71,
+			"name": "Norwich",
+			"code": "NOR",
+			"country": "England",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 565,
+			"name": "Carrow Road",
+			"address": "Carrow Road",
+			"city": "Norwich, Norfolk",
+			"capacity": 27606,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 72,
+			"name": "QPR",
+			"code": "QPR",
+			"country": "England",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 20414,
+			"name": "MATRADE Loftus Road",
+			"address": "South Africa Road, Shepherd&apos;s Bush",
+			"city": "London",
+			"capacity": 18360,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 73,
+			"name": "Rotherham",
+			"code": "ROT",
+			"country": "England",
+			"founded": 1870
+		},
+		"venue": {
+			"api_football_id": 578,
+			"name": "AESSEAL New York Stadium",
+			"address": "Don Street",
+			"city": "Rotherham, South Yorkshire",
+			"capacity": 12021,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 38
+	},
+	{
+		"team": {
+			"api_football_id": 74,
+			"name": "Sheffield Wednesday",
+			"code": "SHE",
+			"country": "England",
+			"founded": 1867
+		},
+		"venue": {
+			"api_football_id": 582,
+			"name": "Hillsborough",
+			"address": "Penistone Road North, Hillsborough",
+			"city": "Sheffield",
+			"capacity": 39814,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 39
+	},
+	{
+		"team": {
+			"api_football_id": 75,
+			"name": "Stoke City",
+			"code": "STO",
+			"country": "England",
+			"founded": 1868
+		},
+		"venue": {
+			"api_football_id": 588,
+			"name": "bet365 Stadium",
+			"address": "Stanley Matthews Way",
+			"city": "Stoke-on-Trent, Staffordshire",
+			"capacity": 30089,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 40
+	},
+	{
+		"team": {
+			"api_football_id": 76,
+			"name": "Swansea",
+			"code": "SWA",
+			"country": "Wales",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 12273,
+			"name": "Swansea.com Stadium",
+			"address": "Normandy Road",
+			"city": "Swansea",
+			"capacity": 21028,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 41
+	},
+	{
+		"team": {
+			"api_football_id": 746,
+			"name": "Sunderland",
+			"code": "SUN",
+			"country": "England",
+			"founded": 1879
+		},
+		"venue": {
+			"api_football_id": 589,
+			"name": "Stadium of Light",
+			"address": "Millenium Way",
+			"city": "Sunderland",
+			"capacity": 49000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 42
+	},
+	{
+		"team": {
+			"api_football_id": 1346,
+			"name": "Coventry",
+			"code": "COV",
+			"country": "England",
+			"founded": 1883
+		},
+		"venue": {
+			"api_football_id": 11896,
+			"name": "The Coventry Building Society Arena",
+			"address": "Phoenix Way, Rowleys Green",
+			"city": "Coventry, West Midlands",
+			"capacity": 32609,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 43
+	},
+	{
+		"team": {
+			"api_football_id": 1357,
+			"name": "Plymouth",
+			"code": "PLY",
+			"country": "England",
+			"founded": 1886
+		},
+		"venue": {
+			"api_football_id": 571,
+			"name": "Home Park",
+			"address": "Gilbert Lane",
+			"city": "Plymouth",
+			"capacity": 19500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 40,
+			"name": "Championship",
+			"country": "England",
+			"api_football_country_id": 0
+		},
+		"no": 44
+	}
+]

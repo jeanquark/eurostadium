@@ -1,0 +1,1010 @@
+[
+	{
+		"team": {
+			"api_football_id": 336,
+			"name": "Jagiellonia",
+			"code": "JAG",
+			"country": "Poland",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 1249,
+			"name": "Stadion Miejski",
+			"address": "ul. Słoneczna 1",
+			"city": "Białystok",
+			"capacity": 22372,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 337,
+			"name": "Slask Wroclaw",
+			"code": "SLA",
+			"country": "Poland",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 18628,
+			"name": "Tarczyński Arena",
+			"address": "al. Śląska 1",
+			"city": "Wrocław",
+			"capacity": 42771,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 339,
+			"name": "Legia Warszawa",
+			"code": "LEG",
+			"country": "Poland",
+			"founded": 1916
+		},
+		"venue": {
+			"api_football_id": 1253,
+			"name": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+			"address": "ul. Łazienkowska 3",
+			"city": "Warszawa",
+			"capacity": 31103,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 340,
+			"name": "Gornik Zabrze",
+			"code": "GOR",
+			"country": "Poland",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 18625,
+			"name": "Stadion im. Ernesta Pohla",
+			"address": "ul. Roosevelta 81",
+			"city": "Zabrze",
+			"capacity": 31871,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 345,
+			"name": "Zaglebie Lubin",
+			"code": "ZAG",
+			"country": "Poland",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 1260,
+			"name": "Stadion Zagłębia Lubin",
+			"address": "ul. Marii Skłodowskiej Curie 98",
+			"city": "Lubin",
+			"capacity": 16068,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 346,
+			"name": "Korona Kielce",
+			"code": "KOR",
+			"country": "Poland",
+			"founded": 1973
+		},
+		"venue": {
+			"api_football_id": 1250,
+			"name": "Suzuki Arena",
+			"address": "ul. Ściegiennego 8",
+			"city": "Kielce",
+			"capacity": 15550,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 347,
+			"name": "Lech Poznan",
+			"code": "LEC",
+			"country": "Poland",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 20110,
+			"name": "Enea Stadion",
+			"address": "ul. Bułgarska 17",
+			"city": "Poznań",
+			"capacity": 43269,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 348,
+			"name": "Pogon Szczecin",
+			"code": "POG",
+			"country": "Poland",
+			"founded": 1948
+		},
+		"venue": {
+			"api_football_id": 1256,
+			"name": "Stadion Miejski im. Floriana Krygiera",
+			"address": "Mieczysława Karłowicza 28",
+			"city": "Szczecin",
+			"capacity": 21163,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 349,
+			"name": "Piast Gliwice",
+			"code": "PIA",
+			"country": "Poland",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 1255,
+			"name": "Stadion Miejski",
+			"address": "ul. Stefana Okrzei 20",
+			"city": "Gliwice",
+			"capacity": 9913,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 350,
+			"name": "Cracovia Krakow",
+			"code": "CRA",
+			"country": "Poland",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 1247,
+			"name": "Stadion Cracovii im. Józefa Piłsudskiego",
+			"address": "ul. Józefa Kałuży 1",
+			"city": "Kraków",
+			"capacity": 15016,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3490,
+			"name": "Puszcza Niepołomice",
+			"code": "PUS",
+			"country": "Poland",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 1247,
+			"name": "Stadion Cracovii im. Józefa Piłsudskiego",
+			"address": "ul. Józefa Kałuży 1",
+			"city": "Kraków",
+			"capacity": 15016,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 3491,
+			"name": "Raków Częstochowa",
+			"code": "RAK",
+			"country": "Poland",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 18633,
+			"name": "Miejski Stadion Piłkarski Raków",
+			"address": "ul. Limanowskiego 83",
+			"city": "Częstochowa",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3493,
+			"name": "Stal Mielec",
+			"code": "STA",
+			"country": "Poland",
+			"founded": 1939
+		},
+		"venue": {
+			"api_football_id": 18634,
+			"name": "Stadion Miejski w Mielcu",
+			"address": "ul. Solskiego 1",
+			"city": "Mielec",
+			"capacity": 6864,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3496,
+			"name": "Warta Poznań",
+			"code": "WAR",
+			"country": "Poland",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 20304,
+			"name": "Stadion Respect Energy",
+			"address": "ul. Powstańców Chocieszyńskich 52",
+			"city": "Grodzisk Wielkopolski",
+			"capacity": 5383,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3498,
+			"name": "ŁKS Łódź",
+			"code": "ŁKS",
+			"country": "Poland",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 12602,
+			"name": "Stadion Miejski LKS Lodz",
+			"address": "Al. Unii Lubelskiej 2",
+			"city": "Łódź",
+			"capacity": 18033,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 4248,
+			"name": "Radomiak Radom",
+			"code": "RAD",
+			"country": "Poland",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 20753,
+			"name": "Stadion Radomiaka",
+			"address": "Andrzeja Struga 63",
+			"city": "Radom",
+			"capacity": 8840,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 6953,
+			"name": "Ruch Chorzów",
+			"code": "RUC",
+			"country": "Poland",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 20760,
+			"name": "Stadion Śląski",
+			"address": "ul. Katowicka 10",
+			"city": "Chorzów",
+			"capacity": 55211,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 6962,
+			"name": "Widzew Łódź",
+			"code": "WID",
+			"country": "Poland",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 5080,
+			"name": "Stadion Miejski Widzewa Łódź",
+			"address": "al. Piłsudskiego 138",
+			"city": "Łódź",
+			"capacity": 18018,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 106,
+			"name": "Ekstraklasa",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 335,
+			"name": "Miedz Legnica",
+			"code": "MIE",
+			"country": "Poland",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 1254,
+			"name": "Stadion im. Orła Białego",
+			"address": "Aleja Orła Białego 1",
+			"city": "Legnica",
+			"capacity": 6244,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 338,
+			"name": "Wisla Krakow",
+			"code": "WIS",
+			"country": "Poland",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 1258,
+			"name": "Stadion Miejski im. Henryka Reymana",
+			"address": "ul. Reymonta 22",
+			"city": "Kraków",
+			"capacity": 33268,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 341,
+			"name": "Wisla Plock",
+			"code": "WIS",
+			"country": "Poland",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 19930,
+			"name": "Orlen Stadion",
+			"address": "Ignacego Łukasiewicza 34",
+			"city": "Płock",
+			"capacity": 15004,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 342,
+			"name": "Zaglebie Sosnowiec",
+			"code": "ZAG",
+			"country": "Poland",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 19931,
+			"name": "ArcelorMittal Park",
+			"address": "gen. Mariusza Zaruskiego 2",
+			"city": "Sosnowiec",
+			"capacity": 11600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 343,
+			"name": "Lechia Gdansk",
+			"code": "LEC",
+			"country": "Poland",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 18627,
+			"name": "Polsat Plus Arena Gdańsk",
+			"address": "Pokoleń Lechii Gdańsk 1",
+			"city": "Gdańsk",
+			"capacity": 43615,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 344,
+			"name": "Arka Gdynia",
+			"code": "ARK",
+			"country": "Poland",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 1246,
+			"name": "Stadion Miejski",
+			"address": "ul. Olimpijska 5/9, Redłowo",
+			"city": "Gdynia",
+			"capacity": 15139,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 3483,
+			"name": "Chrobry Głogów",
+			"code": "GLO",
+			"country": "Poland",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 2284,
+			"name": "Stadion GOS",
+			"address": "ul. Wita Stwosza 3",
+			"city": "Głogów",
+			"capacity": 2895,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 3484,
+			"name": "GKS Katowice",
+			"code": null,
+			"country": "Poland",
+			"founded": 1964
+		},
+		"venue": {
+			"api_football_id": 2285,
+			"name": "Stadion ul. Bukowa",
+			"address": "ul. Bukowa 1",
+			"city": "Katowice",
+			"capacity": 10052,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 3487,
+			"name": "Nieciecza",
+			"code": "TER",
+			"country": "Poland",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 18632,
+			"name": "Stadion Sportowy Bruk-Bet Termalica",
+			"address": "ul. Nieciecza 150",
+			"city": "Nieciecza",
+			"capacity": 4666,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 3488,
+			"name": "Odra Opole",
+			"code": "ODR",
+			"country": "Poland",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 2289,
+			"name": "Stadion Miejski",
+			"address": "ul. Oleska 51",
+			"city": "Opole",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 3489,
+			"name": "Podbeskidzie",
+			"code": "POD",
+			"country": "Poland",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 2290,
+			"name": "Stadion Miejski",
+			"address": "ul. Rychlińskiego 19",
+			"city": "Bielsko-Biała",
+			"capacity": 15292,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 3495,
+			"name": "Tychy 71",
+			"code": "TYC",
+			"country": "Poland",
+			"founded": 1971
+		},
+		"venue": {
+			"api_football_id": 2296,
+			"name": "Stadion Miejski",
+			"address": "ul. Edukacji 7",
+			"city": "Tychy",
+			"capacity": 15300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 6941,
+			"name": "Górnik Łęczna",
+			"code": "GOR",
+			"country": "Poland",
+			"founded": 1979
+		},
+		"venue": {
+			"api_football_id": 19952,
+			"name": "Bogdanka Arena",
+			"address": "Aleja Jana Pawła II 13",
+			"city": "Łęczna",
+			"capacity": 7464,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 6951,
+			"name": "Resovia Rzeszów",
+			"code": null,
+			"country": "Poland",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 5075,
+			"name": "Stadion Stal",
+			"address": "ul. Hetmańska 69",
+			"city": "Rzeszów",
+			"capacity": 12700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 6957,
+			"name": "Stal Rzeszów",
+			"code": "STA",
+			"country": "Poland",
+			"founded": 1944
+		},
+		"venue": {
+			"api_football_id": 5075,
+			"name": "Stadion Stal",
+			"address": "ul. Hetmańska 69",
+			"city": "Rzeszów",
+			"capacity": 12700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 6964,
+			"name": "Znicz Pruszków",
+			"code": "ZNI",
+			"country": "Poland",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 5082,
+			"name": "Stadion Znicza (MZOS)",
+			"address": "ul. Bohaterów Warszawy 4",
+			"city": "Pruszków",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 14562,
+			"name": "Motor Lublin",
+			"code": "MOT",
+			"country": "Poland",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 11992,
+			"name": "Arena Lublin",
+			"address": "ul. Krochmalna",
+			"city": "Lublin",
+			"capacity": 15500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 16239,
+			"name": "Polonia Warszawa",
+			"code": null,
+			"country": "Poland",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 11332,
+			"name": "Stadion Polonii im. generała Kazimierza Sosnkowskiego",
+			"address": "ul. Konwiktorska 6",
+			"city": "Warszawa",
+			"capacity": 7150,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 107,
+			"name": "I Liga",
+			"country": "Poland",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	}
+]

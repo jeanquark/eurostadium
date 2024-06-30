@@ -1,0 +1,674 @@
+[
+	{
+		"team": {
+			"api_football_id": 267,
+			"name": "Fylkir",
+			"code": "FYL",
+			"country": "Iceland",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 822,
+			"name": "Würth völlurinn",
+			"address": "Fylkisvegi 6, Árbær",
+			"city": "Reykjavík",
+			"capacity": 2872,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 268,
+			"name": "IBV Vestmannaeyjar",
+			"code": "VES",
+			"country": "Iceland",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 826,
+			"name": "Hásteinsvöllur",
+			"address": "Hásteinsvegur",
+			"city": "Vestmannaeyjar",
+			"capacity": 3034,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 269,
+			"name": "Keflavik",
+			"code": "KEF",
+			"country": "Iceland",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 19615,
+			"name": "HS Orku völlurinn",
+			"address": "Hringbraut 108",
+			"city": "Keflavík, Reykjanesbær",
+			"capacity": 4957,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 270,
+			"name": "FH hafnarfjordur",
+			"code": "HAF",
+			"country": "Iceland",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 821,
+			"name": "Kaplakrikavöllur",
+			"address": "Kaplakriki",
+			"city": "Hafnarfjörður",
+			"capacity": 6738,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 271,
+			"name": "KR Reykjavik",
+			"code": "REY",
+			"country": "Iceland",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 10591,
+			"name": "KR-völlur",
+			"address": "Frostaskjóli 2",
+			"city": "Reykjavík",
+			"capacity": 2801,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 272,
+			"name": "KA Akureyri",
+			"code": "AKU",
+			"country": "Iceland",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 827,
+			"name": "Akureyrarvöllur",
+			"address": "Brekkugata",
+			"city": "Akureyri",
+			"capacity": 1770,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 274,
+			"name": "Valur Reykjavik",
+			"code": "VAL",
+			"country": "Iceland",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 830,
+			"name": "Origovöllurinn",
+			"address": "Bústaðavegur, Hlíðarendi",
+			"city": "Reykjavík",
+			"capacity": 2489,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 275,
+			"name": "Stjarnan",
+			"code": "STJ",
+			"country": "Iceland",
+			"founded": 1960
+		},
+		"venue": {
+			"api_football_id": 829,
+			"name": "Samsung völlurinn",
+			"address": "Stjörnuheimilið",
+			"city": "Garðabær",
+			"capacity": 2300,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 276,
+			"name": "Breidablik",
+			"code": "BRE",
+			"country": "Iceland",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 820,
+			"name": "Kópavogsvöllur",
+			"address": "Dalsmára 5",
+			"city": "Kópavogur",
+			"capacity": 5501,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 278,
+			"name": "Vikingur Reykjavik",
+			"code": "VIK",
+			"country": "Iceland",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 831,
+			"name": "Víkingsvöllur",
+			"address": "Traðarlandi 1",
+			"city": "Reykjavík",
+			"capacity": 1613,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 2113,
+			"name": "HK Kopavogur",
+			"code": "KOP",
+			"country": "Iceland",
+			"founded": 1970
+		},
+		"venue": {
+			"api_football_id": 824,
+			"name": "Kórinn",
+			"address": "Vallakór 14",
+			"city": "Kópavogur",
+			"capacity": 1452,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 2117,
+			"name": "Fram Reykjavik",
+			"code": "FRA",
+			"country": "Iceland",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 2319,
+			"name": "Framvöllur",
+			"address": "Safamýri 28",
+			"city": "Reykjavík",
+			"capacity": 1600,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 164,
+			"name": "Úrvalsdeild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 273,
+			"name": "Fjolnir",
+			"code": "FJO",
+			"country": "Iceland",
+			"founded": 1988
+		},
+		"venue": {
+			"api_football_id": 1956,
+			"name": "Extra völlurinn",
+			"address": "Dalhúsum 2",
+			"city": "Reykjavík",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 277,
+			"name": "Grindavik",
+			"code": "GRI",
+			"country": "Iceland",
+			"founded": 1935
+		},
+		"venue": {
+			"api_football_id": 823,
+			"name": "Mustad völlurinn",
+			"address": "Austurvegi 3",
+			"city": "Grindavík",
+			"capacity": 1750,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 827,
+			"name": "IA Akranes",
+			"code": "AKR",
+			"country": "Iceland",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 825,
+			"name": "Norðurálsvöllurinn",
+			"address": "Innnesvegur",
+			"city": "Akranes",
+			"capacity": 3054,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 829,
+			"name": "Throttur Reykjavik",
+			"code": "THR",
+			"country": "Iceland",
+			"founded": 1949
+		},
+		"venue": {
+			"api_football_id": 2318,
+			"name": "Eimskipsvöllurinn",
+			"address": "Engjavegi 7",
+			"city": "Reykjavík",
+			"capacity": 5478,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 2114,
+			"name": "Leiknir R.",
+			"code": "LEI",
+			"country": "Iceland",
+			"founded": 1973
+		},
+		"venue": {
+			"api_football_id": 2320,
+			"name": "Leiknisvöllur",
+			"address": "Austurbergi 1",
+			"city": "Reykjavík",
+			"capacity": 1300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 2115,
+			"name": "Selfoss",
+			"code": "SEL",
+			"country": "Iceland",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 2321,
+			"name": "JÁVERK-völlurinn",
+			"address": "Engjavegi 50",
+			"city": "Selfoss, Árborg",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 2116,
+			"name": "Thor Akureyri",
+			"code": "THO",
+			"country": "Iceland",
+			"founded": 1915
+		},
+		"venue": {
+			"api_football_id": 20542,
+			"name": "VÍS völlurinn",
+			"address": "Lundgarður",
+			"city": "Akureyri",
+			"capacity": 1550,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 2121,
+			"name": "Grotta",
+			"code": "GRO",
+			"country": "Iceland",
+			"founded": 1967
+		},
+		"venue": {
+			"api_football_id": 2314,
+			"name": "Vivaldivöllurinn",
+			"address": "Suðurströnd",
+			"city": "Seltjarnarnes",
+			"capacity": 1050,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 2123,
+			"name": "Njardvik",
+			"code": "NJA",
+			"country": "Iceland",
+			"founded": 1944
+		},
+		"venue": {
+			"api_football_id": 2317,
+			"name": "Rafholtsvöllurinn",
+			"address": "Vallarbraut",
+			"city": "Njarðvík, Reykjanesbær",
+			"capacity": 2880,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 3514,
+			"name": "Afturelding",
+			"code": "ALF",
+			"country": "Iceland",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 20543,
+			"name": "Fagverksvöllurinn Varmá Gervigras",
+			"address": "Skólabraut",
+			"city": "Mosfellsbær",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 4165,
+			"name": "Vestri",
+			"code": null,
+			"country": "Iceland",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 3180,
+			"name": "Olísvöllurinn",
+			"address": "Torfnes",
+			"city": "Hnífsdalur, Ísafjarðabær",
+			"capacity": 800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 4167,
+			"name": "Ægir",
+			"code": "AEG",
+			"country": "Iceland",
+			"founded": 1987
+		},
+		"venue": {
+			"api_football_id": 3182,
+			"name": "Þorlákshafnarvöllur",
+			"address": "Íþróttamiðstöð Þorlákshafnar",
+			"city": "Þorlákshöfn",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 165,
+			"name": "1. Deild",
+			"country": "Iceland",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	}
+]

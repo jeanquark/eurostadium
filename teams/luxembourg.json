@@ -1,0 +1,506 @@
+[
+	{
+		"team": {
+			"api_football_id": 578,
+			"name": "F91 Dudelange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1991
+		},
+		"venue": {
+			"api_football_id": 1033,
+			"name": "Stade Jos Nosbaum",
+			"address": "Rue de Stade Jos Nosbaum",
+			"city": "Dudelange",
+			"capacity": 2558,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 626,
+			"name": "Fola Esch",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1906
+		},
+		"venue": {
+			"api_football_id": 1036,
+			"name": "Stade Émile Mayrisch",
+			"address": "Rue du Stade",
+			"city": "Esch-sur-Alzette",
+			"capacity": 3826,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 658,
+			"name": "Progres Niederkorn",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 1039,
+			"name": "Stade Jos Haupert",
+			"address": "130 Route De Bascharage",
+			"city": "Niedercorn",
+			"capacity": 2800,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 684,
+			"name": "FC Differdange 03",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 2003
+		},
+		"venue": {
+			"api_football_id": 1031,
+			"name": "Stade Parc des Sports",
+			"address": "Avenue Parc des Sports / Rue Kondel",
+			"city": "Differdange",
+			"capacity": 2400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 2030,
+			"name": "Racing FC Union Luxembourg",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11049,
+			"name": "Stade Achille Hammerel",
+			"address": "Rue Auguste Lumière",
+			"city": "Luxembourg",
+			"capacity": 5814,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 2032,
+			"name": "Union Titus Petange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 1038,
+			"name": "Stade Municipal de Pétange",
+			"address": "Rue d&apos;Athus",
+			"city": "Pétange",
+			"capacity": 2400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 2033,
+			"name": "US Rumelange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1041,
+			"name": "Stade Municipal",
+			"address": "Rue du Parc",
+			"city": "Rumelange",
+			"capacity": 2950,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 2034,
+			"name": "AS Jeunesse Esch",
+			"code": "JEU",
+			"country": "Luxembourg",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1037,
+			"name": "Stade de la Frontière",
+			"address": "Rue Jean-Pierre Bausch",
+			"city": "Esch-sur-Alzette",
+			"capacity": 5400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 2035,
+			"name": "UN Kaerjeng 97",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 2781,
+			"name": "Terrain Jos Bloes",
+			"address": "54e, avenue de Luxembourg",
+			"city": "Bascharage",
+			"capacity": 2500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 2036,
+			"name": "UNA Strassen",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 1034,
+			"name": "Complexe Sportif Jean Wirtz",
+			"address": "Rue Feyder",
+			"city": "Strossen",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 2037,
+			"name": "US Mondorf-les-bains",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1043,
+			"name": "Stade John Grün",
+			"address": "Zone de récréation",
+			"city": "Mondorf-les-Bains",
+			"capacity": 3600,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 2038,
+			"name": "Victoria Rosport",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1035,
+			"name": "Party-Rent-Arena",
+			"address": "Rue du Camping",
+			"city": "Rosport",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 2040,
+			"name": "US Hostert",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 1042,
+			"name": "Stade Jos Becker",
+			"address": "Senningerberg",
+			"city": "Hostert",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 11906,
+			"name": "Wiltz",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7725,
+			"name": "Stade am Petz",
+			"address": "25 rue du Village",
+			"city": "Weidingen",
+			"capacity": 1200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 11907,
+			"name": "Swift Hesperange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1916
+		},
+		"venue": {
+			"api_football_id": 7726,
+			"name": "Stade Alphonse Theis",
+			"address": "Rue du Stade 2000",
+			"city": "Hesperange",
+			"capacity": 3058,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 15883,
+			"name": "Marisca Mersch",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11213,
+			"name": "Stade Schintgespesch",
+			"address": "3, rue Jean Majerus",
+			"city": "Mersch",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 15886,
+			"name": "Mondercange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1933
+		},
+		"venue": {
+			"api_football_id": 11215,
+			"name": "Stade Communal",
+			"address": "Rue de Limpach",
+			"city": "Mondercange",
+			"capacity": 3304,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 15905,
+			"name": "Schifflange",
+			"code": null,
+			"country": "Luxembourg",
+			"founded": 1995
+		},
+		"venue": {
+			"api_football_id": 11224,
+			"name": "Stade Rue Denis Netgen",
+			"address": "Rue Denis Netgen",
+			"city": "Schifflange",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 261,
+			"name": "National Division",
+			"country": "Luxembourg",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	}
+]

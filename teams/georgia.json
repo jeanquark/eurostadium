@@ -1,0 +1,618 @@
+[
+	{
+		"team": {
+			"api_football_id": 581,
+			"name": "Samtredia",
+			"code": null,
+			"country": "Georgia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 692,
+			"name": "Stadioni Erosi Manjgaladze",
+			"address": "85 Ketskhoveli Str.",
+			"city": "Samtredia",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 685,
+			"name": "Torpedo Kutaisi",
+			"code": "TOR",
+			"country": "Georgia",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 693,
+			"name": "Ramaz Shengelias Sakhelobis Stadioni",
+			"address": "Khorava Str.",
+			"city": "Kutaisi",
+			"capacity": 19400,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 705,
+			"name": "Dinamo Batumi",
+			"code": "DIN",
+			"country": "Georgia",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 2300,
+			"name": "Chele Arena",
+			"address": null,
+			"city": "Kobuleti",
+			"capacity": 6000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2262,
+			"name": "Dinamo Tbilisi",
+			"code": "DIN",
+			"country": "Georgia",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 691,
+			"name": "Boris Paichadze Dinamo Arena",
+			"address": "2, Akaki Tsereteli Ave.",
+			"city": "Tbilisi",
+			"capacity": 54202,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3499,
+			"name": "Dila",
+			"code": "DIL",
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2301,
+			"name": "Stadioni Tengiz Burjanadze",
+			"address": "1 Moskovi Str.",
+			"city": "Gori",
+			"capacity": 8230,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3502,
+			"name": "Saburtalo",
+			"code": null,
+			"country": "Georgia",
+			"founded": 1999
+		},
+		"venue": {
+			"api_football_id": 2302,
+			"name": "Mikheil Meskhis sakhelobis Stadioni",
+			"address": "74, Il. Chavchavadze Ave.",
+			"city": "Tbilisi",
+			"capacity": 25453,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3505,
+			"name": "Gagra",
+			"code": null,
+			"country": "Georgia",
+			"founded": 2004
+		},
+		"venue": {
+			"api_football_id": 2306,
+			"name": "David Petriashvili Arena",
+			"address": null,
+			"city": "Tbilisi",
+			"capacity": 2130,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3510,
+			"name": "Shukura",
+			"code": "SHU",
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2300,
+			"name": "Chele Arena",
+			"address": null,
+			"city": "Kobuleti",
+			"capacity": 6000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3511,
+			"name": "Telavi",
+			"code": null,
+			"country": "Georgia",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 2310,
+			"name": "Stadioni Givi Chokheli",
+			"address": null,
+			"city": "Telavi",
+			"capacity": 12000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 10017,
+			"name": "Samgurali",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7054,
+			"name": "Stadioni Murtaz Khurtsilava",
+			"address": "Merani",
+			"city": "Martvili",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 14860,
+			"name": "Gareji",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 14864,
+			"name": "Spaeri",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 327,
+			"name": "Erovnuli Liga",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3500,
+			"name": "Lokomotivi Tbilisi",
+			"code": null,
+			"country": "Georgia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 2302,
+			"name": "Mikheil Meskhis sakhelobis Stadioni",
+			"address": "74, Il. Chavchavadze Ave.",
+			"city": "Tbilisi",
+			"capacity": 25453,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3503,
+			"name": "Sioni",
+			"code": "SIO",
+			"country": "Georgia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 2304,
+			"name": "Stadioni Tamaz Stepania",
+			"address": null,
+			"city": "Bolnisi",
+			"capacity": 3242,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3504,
+			"name": "WIT Georgia",
+			"code": "GEO",
+			"country": "Georgia",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 2305,
+			"name": "Stadioni Mtskheta Parki",
+			"address": null,
+			"city": "Mtskheta",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3507,
+			"name": "Kolkheti Poti",
+			"code": "KOL",
+			"country": "Georgia",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 2308,
+			"name": "Saragbo Baza Parki-Arena",
+			"address": null,
+			"city": "Poti",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3508,
+			"name": "Merani Tbilisi",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2309,
+			"name": "Sport-kompleksi Shatili",
+			"address": null,
+			"city": "Tbilisi",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 10016,
+			"name": "Merani Martvili",
+			"code": "MER",
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7054,
+			"name": "Stadioni Murtaz Khurtsilava",
+			"address": "Merani",
+			"city": "Martvili",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 13853,
+			"name": "Kolkheti Khobi",
+			"code": "KHO",
+			"country": "Georgia",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 8572,
+			"name": "Tsentraluri Stadioni",
+			"address": null,
+			"city": "Khobi",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 13865,
+			"name": "Dinamo Tbilisi II",
+			"code": null,
+			"country": "Georgia",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 8582,
+			"name": "Vitali Daraselias Sakhelobis Dinamos Sapekhburto Akademia",
+			"address": "18, Lubliana Str.",
+			"city": "Tbilisi",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 14860,
+			"name": "Gareji",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 14864,
+			"name": "Spaeri",
+			"code": null,
+			"country": "Georgia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 326,
+			"name": "Erovnuli Liga 2",
+			"country": "Georgia",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	}
+]

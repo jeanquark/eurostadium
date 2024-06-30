@@ -1,0 +1,590 @@
+[
+	{
+		"team": {
+			"api_football_id": 3841,
+			"name": "Finn Harps",
+			"code": "FIN",
+			"country": "Ireland",
+			"founded": 1954
+		},
+		"venue": {
+			"api_football_id": 2626,
+			"name": "Finn Park",
+			"address": "Navenney Street",
+			"city": "Ballybofey",
+			"capacity": 4458,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 3845,
+			"name": "Waterford",
+			"code": "WAT",
+			"country": "Ireland",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 2630,
+			"name": "Waterford Regional Sports Centre",
+			"address": "Cork Road, Kilbarry",
+			"city": "Waterford",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 3846,
+			"name": "Athlone Town",
+			"code": "ATH",
+			"country": "Ireland",
+			"founded": 1887
+		},
+		"venue": {
+			"api_football_id": 2631,
+			"name": "Athlone Town Stadium",
+			"address": "Brawney Road",
+			"city": "Athlone",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 3847,
+			"name": "Bray Wanderers",
+			"code": "BRA",
+			"country": "Ireland",
+			"founded": 1942
+		},
+		"venue": {
+			"api_football_id": 2632,
+			"name": "Carlisle Grounds",
+			"address": "Quinnsboro’ Road",
+			"city": "Bray",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3849,
+			"name": "Cobh Ramblers",
+			"code": "COB",
+			"country": "Ireland",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 11537,
+			"name": "St. Colman's Park",
+			"address": "French&apos;s Avenue",
+			"city": "Cobh",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3851,
+			"name": "Galway United",
+			"code": "GAL",
+			"country": "Ireland",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 2636,
+			"name": "Eamonn Deacy Park",
+			"address": "Dyke Road",
+			"city": "Galway",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3853,
+			"name": "Longford Town",
+			"code": "LON",
+			"country": "Ireland",
+			"founded": 1924
+		},
+		"venue": {
+			"api_football_id": 2638,
+			"name": "Bishopsgate Stadium",
+			"address": "Strokestown Road (N5)",
+			"city": "Longford Town",
+			"capacity": 5097,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3855,
+			"name": "Wexford",
+			"code": "WEX",
+			"country": "Ireland",
+			"founded": 2007
+		},
+		"venue": {
+			"api_football_id": 2640,
+			"name": "Ferrycarrig Park",
+			"address": "Newcastle Lower",
+			"city": "Newcastle, Crossabeg",
+			"capacity": 2609,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 11328,
+			"name": "Kerry",
+			"code": null,
+			"country": "Wales",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 16498,
+			"name": "Treaty United",
+			"code": null,
+			"country": "Ireland",
+			"founded": 2020
+		},
+		"venue": {
+			"api_football_id": 2637,
+			"name": "Markets Field",
+			"address": "22-34 Garryowen Road",
+			"city": "Limerick",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 358,
+			"name": "First Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 584,
+			"name": "Dundalk",
+			"code": "DUN",
+			"country": "Ireland",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 864,
+			"name": "Oriel Park",
+			"address": "Carrick Road",
+			"city": "Dundalk",
+			"capacity": 4500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 652,
+			"name": "Shamrock Rovers",
+			"code": "SHA",
+			"country": "Ireland",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 865,
+			"name": "Tallaght Stadium",
+			"address": "Kiltipper Way, Tallaght",
+			"city": "Dublin",
+			"capacity": 10500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 653,
+			"name": "Cork City",
+			"code": "COR",
+			"country": "Ireland",
+			"founded": 1984
+		},
+		"venue": {
+			"api_football_id": 863,
+			"name": "Turner's Cross",
+			"address": "Curragh Road, Turner’s Cross",
+			"city": "Cork",
+			"capacity": 7485,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 670,
+			"name": "Derry City",
+			"code": "DER",
+			"country": "Ireland",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1172,
+			"name": "The Ryan McBride Brandywell Stadium",
+			"address": "Lone Moor Road",
+			"city": "Londonderry",
+			"capacity": 7000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3840,
+			"name": "Bohemians",
+			"code": "BOH",
+			"country": "Ireland",
+			"founded": 1890
+		},
+		"venue": {
+			"api_football_id": 2625,
+			"name": "Dalymount Park",
+			"address": "Phibsborough 7",
+			"city": "Dublin",
+			"capacity": 4443,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3842,
+			"name": "Sligo Rovers",
+			"code": "SLI",
+			"country": "Ireland",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 2627,
+			"name": "The Showgrounds",
+			"address": "16 Church Hill",
+			"city": "Sligo",
+			"capacity": 6100,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3843,
+			"name": "St Patrick's Athl.",
+			"code": "PAT",
+			"country": "Ireland",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 2628,
+			"name": "Richmond Park",
+			"address": "125 Emmet Road, Inchicore",
+			"city": "Dublin",
+			"capacity": 5340,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 3844,
+			"name": "UCD",
+			"code": "UCD",
+			"country": "Ireland",
+			"founded": 1895
+		},
+		"venue": {
+			"api_football_id": 2629,
+			"name": "UCD Bowl",
+			"address": "Stillorgan Road, Belfield",
+			"city": "Dublin",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3845,
+			"name": "Waterford",
+			"code": "WAT",
+			"country": "Ireland",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 2630,
+			"name": "Waterford Regional Sports Centre",
+			"address": "Cork Road, Kilbarry",
+			"city": "Waterford",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3850,
+			"name": "Drogheda United",
+			"code": "DRO",
+			"country": "Ireland",
+			"founded": 1975
+		},
+		"venue": {
+			"api_football_id": 19514,
+			"name": "Weavers Park",
+			"address": "Windmill Road",
+			"city": "Drogheda",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3854,
+			"name": "Shelbourne",
+			"code": "SHE",
+			"country": "Ireland",
+			"founded": 1895
+		},
+		"venue": {
+			"api_football_id": 2639,
+			"name": "Tolka Park",
+			"address": "Richmond Road",
+			"city": "Dublin",
+			"capacity": 9681,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 357,
+			"name": "Premier Division",
+			"country": "Ireland",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	}
+]

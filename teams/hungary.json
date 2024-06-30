@@ -1,0 +1,842 @@
+[
+	{
+		"team": {
+			"api_football_id": 610,
+			"name": "Videoton FC",
+			"code": "VID",
+			"country": "Hungary",
+			"founded": 1941
+		},
+		"venue": {
+			"api_football_id": 798,
+			"name": "MOL Aréna Sóstó",
+			"address": "Csikvári út 10",
+			"city": "Székesfehérvár",
+			"capacity": 14201,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 651,
+			"name": "Ferencvarosi TC",
+			"code": "FER",
+			"country": "Hungary",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 799,
+			"name": "Groupama Aréna",
+			"address": "Üllői út, IX. ker.",
+			"city": "Budapest",
+			"capacity": 23698,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 2255,
+			"name": "Ujpest",
+			"code": "UJP",
+			"country": "Hungary",
+			"founded": 1885
+		},
+		"venue": {
+			"api_football_id": 814,
+			"name": "Szusza Ferenc Stadion",
+			"address": "Megyeri út 13., IV. ker",
+			"city": "Budapest",
+			"capacity": 13501,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2389,
+			"name": "Mezokovesd-zsory",
+			"code": "MEZ",
+			"country": "Hungary",
+			"founded": 1975
+		},
+		"venue": {
+			"api_football_id": 805,
+			"name": "Városi Stadion",
+			"address": "Széchenyi István u. 9.",
+			"city": "Mezőkövesd",
+			"capacity": 5020,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 2390,
+			"name": "Paks",
+			"code": "PAK",
+			"country": "Hungary",
+			"founded": 1952
+		},
+		"venue": {
+			"api_football_id": 809,
+			"name": "Paksi FC Stadion",
+			"address": "Fehérvári út 29.",
+			"city": "Paks",
+			"capacity": 4950,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 2391,
+			"name": "Puskas Academy",
+			"code": "PUS",
+			"country": "Hungary",
+			"founded": 2007
+		},
+		"venue": {
+			"api_football_id": 1764,
+			"name": "Puskás Akadémia Pancho Aréna",
+			"address": null,
+			"city": "Felcsút",
+			"capacity": 3865,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 2392,
+			"name": "Debreceni VSC",
+			"code": "DEB",
+			"country": "Hungary",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 795,
+			"name": "Nagyerdei Stadion",
+			"address": "Nagyerdei park 12",
+			"city": "Debrecen",
+			"capacity": 20340,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 2393,
+			"name": "Diosgyori VTK",
+			"code": "DVT",
+			"country": "Hungary",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 796,
+			"name": "Diósgyőri Stadion",
+			"address": "Andrássy Gyula u. 61",
+			"city": "Miskolc",
+			"capacity": 15325,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 2394,
+			"name": "Kisvarda FC",
+			"code": "KIS",
+			"country": "Hungary",
+			"founded": 2003
+		},
+		"venue": {
+			"api_football_id": 816,
+			"name": "Várkerti Stadion",
+			"address": null,
+			"city": "Kisvárda",
+			"capacity": 3385,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 2396,
+			"name": "MTK Budapest",
+			"code": "BUD",
+			"country": "Hungary",
+			"founded": 1888
+		},
+		"venue": {
+			"api_football_id": 802,
+			"name": "Hidegkuti Nándor Stadion",
+			"address": "Salgótarjáni út 12-14., VIII. ker.",
+			"city": "Budapest",
+			"capacity": 5322,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 2414,
+			"name": "Zalaegerszegi TE",
+			"code": "ZAL",
+			"country": "Hungary",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 818,
+			"name": "ZTE-Aréna",
+			"address": "Október 6. tér 16.",
+			"city": "Zalaegerszeg",
+			"capacity": 11200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 5111,
+			"name": "Kecskeméti TE",
+			"code": "KEC",
+			"country": "Hungary",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 3862,
+			"name": "Széktói Stadion",
+			"address": "Csabai Géza körút 1/a.",
+			"city": "Kecskemét",
+			"capacity": 6296,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 271,
+			"name": "NB I",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 576,
+			"name": "Budapest Honved",
+			"code": "HON",
+			"country": "Hungary",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 11902,
+			"name": "Bozsik Aréna",
+			"address": "Puskás Ferenc u. 1-3",
+			"city": "Budapest",
+			"capacity": 8200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 675,
+			"name": "Vasas",
+			"code": "VAS",
+			"country": "Hungary",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 817,
+			"name": "Illovszky Rudolf Stadion",
+			"address": "Fáy u. 58",
+			"city": "Budapest",
+			"capacity": 5054,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 2395,
+			"name": "Szombathelyi Haladas",
+			"code": "HAL",
+			"country": "Hungary",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 812,
+			"name": "Haladás Stadion",
+			"address": "Rohonci út 3.",
+			"city": "Szombathely",
+			"capacity": 8903,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 2398,
+			"name": "Gyirmot SE",
+			"code": "GYI",
+			"country": "Hungary",
+			"founded": 1993
+		},
+		"venue": {
+			"api_football_id": 800,
+			"name": "Alcufer Stadion",
+			"address": "Ménfői út 59., Gyirmót",
+			"city": "Győr",
+			"capacity": 4578,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 2399,
+			"name": "Budafoki LC",
+			"code": null,
+			"country": "Hungary",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 1886,
+			"name": "Promontor utcai stadion",
+			"address": "Promontor utca 89.",
+			"city": "Budapest",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 2402,
+			"name": "Gyori ETO FC",
+			"code": "GYO",
+			"country": "Hungary",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 801,
+			"name": "ETO Park",
+			"address": "Nagysándor József utca 31.",
+			"city": "Győr",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 2403,
+			"name": "Nyiregyhaza",
+			"code": "NYI",
+			"country": "Hungary",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1796,
+			"name": "Balmazújvárosi Városi Sportpálya",
+			"address": "Sporttér út 5.",
+			"city": "Balmazújváros",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 2404,
+			"name": "Soroksar",
+			"code": "SOR",
+			"country": "Hungary",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 811,
+			"name": "Szamosi Mihály Sporttelep",
+			"address": "Haraszti út 26.",
+			"city": "Budapest",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 2409,
+			"name": "Csakvar",
+			"code": "CSA",
+			"country": "Hungary",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 1737,
+			"name": "Tersztyánszky Ödön Sportközpont",
+			"address": "Vöröskapu utca 14.",
+			"city": "Csákvár",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 2410,
+			"name": "Kazincbarcikai",
+			"code": "KAZ",
+			"country": "Hungary",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11903,
+			"name": "Kolorcity Aréna",
+			"address": "Akácfa út 1.",
+			"city": "Kazincbarcika",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 2412,
+			"name": "MTE 1904",
+			"code": null,
+			"country": "Hungary",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 807,
+			"name": "Wittmann Antal park",
+			"address": "Gazdász u. 10",
+			"city": "Mosonmagyaróvár",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 2413,
+			"name": "Siofok",
+			"code": "SIO",
+			"country": "Hungary",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 810,
+			"name": "Révész Géza utcai stadion",
+			"address": "Dr. Révész Géza utca 11.",
+			"city": "Siófok",
+			"capacity": 6500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 2415,
+			"name": "Tiszakecske FC",
+			"code": null,
+			"country": "Hungary",
+			"founded": 2015
+		},
+		"venue": {
+			"api_football_id": 813,
+			"name": "Városi Stadion",
+			"address": null,
+			"city": "Tiszakécske",
+			"capacity": 4500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 2418,
+			"name": "Szeged 2011",
+			"code": "SZE",
+			"country": "Hungary",
+			"founded": 2011
+		},
+		"venue": {
+			"api_football_id": 2742,
+			"name": "Szent Gellért Fórum",
+			"address": "Körtöltés",
+			"city": "Szeged",
+			"capacity": 8256,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 2420,
+			"name": "Kozarmisleny FC",
+			"code": "KOZ",
+			"country": "Hungary",
+			"founded": 1989
+		},
+		"venue": {
+			"api_football_id": 2746,
+			"name": "Kozármislenyi Stadion",
+			"address": "Alkotmány tér 55.",
+			"city": "Kozármisleny",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 4714,
+			"name": "Ajka",
+			"code": "AJK",
+			"country": "Hungary",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 3562,
+			"name": "Ajkai Városi Sportcentrum",
+			"address": "Sport u. 23.",
+			"city": "Ajka",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 5071,
+			"name": "BVSC",
+			"code": null,
+			"country": "Hungary",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10566,
+			"name": "Szőnyi úti Stadion",
+			"address": "Szőnyi út 2., XIV. kerület",
+			"city": "Budapest",
+			"capacity": 9000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 5130,
+			"name": "Pécsi MFC",
+			"code": "PEC",
+			"country": "Hungary",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 3873,
+			"name": "PMFC Stadion",
+			"address": "Stadion u. 2.",
+			"city": "Pécs",
+			"capacity": 9884,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 272,
+			"name": "NB II",
+			"country": "Hungary",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	}
+]
