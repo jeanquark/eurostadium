@@ -1,7 +1,7 @@
 [
     {
         "name": "La Liga",
-        "slug": "spain_la_liga",
+        "slug": "la_liga",
         "api_football_id": 140,
         "country": "Spain",
         "api_football_country_id": 0
@@ -490,16 +490,16 @@
         "api_football_country_id": 0
     },
     {
-        "name": "First Division",
-        "slug": "first_division",
-        "api_football_id": 358,
+        "name": "Premier Division",
+        "slug": "premier_division",
+        "api_football_id": 357,
         "country": "Ireland",
         "api_football_country_id": 0
     },
     {
-        "name": "Premier Division",
-        "slug": "premier_division",
-        "api_football_id": 357,
+        "name": "First Division",
+        "slug": "first_division",
+        "api_football_id": 358,
         "country": "Ireland",
         "api_football_country_id": 0
     },
@@ -606,6 +606,20 @@
         "slug": "1_division",
         "api_football_id": 388,
         "country": "Kazakhstan",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 333,
+        "country": "Ukraine",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Persha Liga",
+        "slug": "persha_liga",
+        "api_football_id": 334,
+        "country": "Ukraine",
         "api_football_country_id": 0
     },
     {

@@ -2,6 +2,11 @@
     /* fill: #FFFF00; */
 }
 .country:hover {
+    /* fill: #FF0000 !important;
+    cursor: pointer; */
+}
+
+.hover {
     fill: #FF0000 !important;
     cursor: pointer;
 }
