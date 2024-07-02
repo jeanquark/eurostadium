@@ -14,10 +14,11 @@
 			"city": "Slutsk",
 			"capacity": 2150,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.222442,
+			"lng": 28.490456,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haradski_Stadium"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -42,10 +43,11 @@
 			"city": "Minsk",
 			"capacity": 3100,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.861667,
+			"lng": 27.578611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/FC_Minsk_Stadium"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -70,10 +72,11 @@
 			"city": "Vitebsk",
 			"capacity": 8144,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.198333,
+			"lng": 30.229167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vitebsky_Central_Sport_Complex"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -98,10 +101,11 @@
 			"city": "Zhodino",
 			"capacity": 6524,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.092222,
+			"lng": 28.32,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Torpedo_Stadium_(Zhodino)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -126,10 +130,11 @@
 			"city": "Brest",
 			"capacity": 10169,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.089828,
+			"lng": 23.683914,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Regional_Sport_Complex_Brestsky"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -154,10 +159,11 @@
 			"city": "Grodno",
 			"capacity": 9000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.688861,
+			"lng": 23.82072,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Neman_Stadium"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -182,10 +188,11 @@
 			"city": "Borisov",
 			"capacity": 13141,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.193056,
+			"lng": 28.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Borisov_Arena"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -210,10 +217,11 @@
 			"city": "Gomel",
 			"capacity": 14307,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.436667,
+			"lng": 31.012222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Gomel)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -238,10 +246,11 @@
 			"city": "Molodechno",
 			"capacity": 4312,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.222442,
+			"lng": 28.490456,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haradski_Stadium"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -266,10 +275,11 @@
 			"city": "Soligorsk",
 			"capacity": 4200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.798333,
+			"lng": 27.538333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stroitel_Stadium_(Soligorsk)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -294,10 +304,11 @@
 			"city": "Minsk",
 			"capacity": 41024,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.895186,
+			"lng": 27.560056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(Minsk)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -322,10 +333,11 @@
 			"city": "Novopolotsk",
 			"capacity": 4522,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.537222,
+			"lng": 28.648333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Atlant_Stadium"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -350,10 +362,11 @@
 			"city": "Mozyr",
 			"capacity": 5371,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.038889,
+			"lng": 29.277083,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Mazyr)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -378,10 +391,11 @@
 			"city": "Minsk",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.859620,
+			"lng": 27.501742,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 116,
@@ -406,10 +420,11 @@
 			"city": "Bobruisk",
 			"capacity": 3661,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.140278,
+			"lng": 29.217222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Spartak_Stadium_(Bobruisk)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -434,10 +449,11 @@
 			"city": "Smorgon",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.478969,
+			"lng": 26.404436,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Smorgon)"
 		},
 		"league": {
 			"api_football_id": 116,
@@ -462,10 +478,11 @@
 			"city": "Vitebsk",
 			"capacity": 8144,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.198333,
+			"lng": 30.229167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vitebsky_Central_Sport_Complex"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -490,10 +507,11 @@
 			"city": "Mogilev",
 			"capacity": 7350,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.905278,
+			"lng": 30.340556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Spartak_Stadium_(Mogilev)"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -518,10 +536,11 @@
 			"city": "Baranovichi",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.131003,
+			"lng": 26.032036,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -546,10 +565,11 @@
 			"city": "Lida",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.175837,
+			"lng": 45.192175,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Start_Stadium_(Saransk)"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -574,10 +594,11 @@
 			"city": "Gomel",
 			"capacity": 2200,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.43389036185221,
+			"lng": 31.018461730439647,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -602,10 +623,11 @@
 			"city": "Orsha",
 			"capacity": 2600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.222442,
+			"lng": 28.490456,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haradski_Stadium"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -630,10 +652,11 @@
 			"city": "Slonim",
 			"capacity": 2220,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.0975,
+			"lng": 25.306944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Slonim)"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -658,10 +681,11 @@
 			"city": "Pinsk",
 			"capacity": 3136,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.114764,
+			"lng": 26.095807,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -689,7 +713,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -714,10 +739,11 @@
 			"city": "Molodechno",
 			"capacity": 4312,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.222442,
+			"lng": 28.490456,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haradski_Stadium"
 		},
 		"league": {
 			"api_football_id": 117,
@@ -745,7 +771,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -773,7 +800,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -801,7 +829,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -829,7 +858,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -857,7 +887,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -885,7 +916,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
@@ -913,7 +945,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 117,
