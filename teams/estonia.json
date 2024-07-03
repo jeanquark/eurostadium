@@ -1,6 +1,325 @@
 [
 	{
 		"team": {
+			"api_football_id": 662,
+			"name": "Kalju Nomme",
+			"code": "NOM",
+			"country": "Estonia",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 606,
+			"name": "Hiiu staadion",
+			"address": "Pidu tänav 11",
+			"city": "Tallinn",
+			"capacity": 2730,
+			"surface": "artificial turf",
+			"lat": 59.385456,
+			"lng": 24.659603,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Hiiu_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 687,
+			"name": "Flora Tallinn",
+			"code": "FLO",
+			"country": "Estonia",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 605,
+			"name": "A. Le Coq Arena",
+			"address": "Asula 4c",
+			"city": "Tallinn",
+			"capacity": 14405,
+			"surface": "grass",
+			"lat": 59.421389,
+			"lng": 24.731944,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lillek%C3%BCla_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 2273,
+			"name": "FC Levadia Tallinn",
+			"code": "LEV",
+			"country": "Estonia",
+			"founded": 1998
+		},
+		"venue": {
+			"api_football_id": 605,
+			"name": "A. Le Coq Arena",
+			"address": "Asula 4c",
+			"city": "Tallinn",
+			"capacity": 14405,
+			"surface": "grass",
+			"lat": 59.421389,
+			"lng": 24.731944,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lillek%C3%BCla_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2274,
+			"name": "Trans Narva",
+			"code": "TRA",
+			"country": "Estonia",
+			"founded": 1979
+		},
+		"venue": {
+			"api_football_id": 607,
+			"name": "Kalevi Staadion",
+			"address": "Hariduse 22",
+			"city": "Narva",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 59.3635,
+			"lng": 28.1845,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Narva_Kreenholm_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3525,
+			"name": "Vaprus",
+			"code": null,
+			"country": "Estonia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 7100,
+			"name": "Pärnu Rannastaadion",
+			"address": "Ranna piuestee 2",
+			"city": "Pärnu",
+			"capacity": 2495,
+			"surface": "grass",
+			"lat": 58.374672,
+			"lng": 24.503461,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/P%C3%A4rnu_Rannastaadion"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3526,
+			"name": "Kuressaare",
+			"code": "KUR",
+			"country": "Estonia",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 2334,
+			"name": "Kuressaare linnastaadion",
+			"address": "Staadioni 2",
+			"city": "Kuressaare",
+			"capacity": 1600,
+			"surface": "grass",
+			"lat": 58.242286,
+			"lng": 22.480172,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kuressaare_linnastaadion"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3528,
+			"name": "Paide",
+			"code": "PAI",
+			"country": "Estonia",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 2336,
+			"name": "Paide linnastaadion",
+			"address": "Kooli 1",
+			"city": "Paide",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 58.87845,
+			"lng": 25.54063,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Paide_linnastaadion"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3529,
+			"name": "Tallinna Kalev",
+			"code": "TAL",
+			"country": "Estonia",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 2331,
+			"name": "Kalevi Keskstaadioni kunstmuru",
+			"address": "Staadioni 3",
+			"city": "Tallinn",
+			"capacity": 1360,
+			"surface": "artificial turf",
+			"lat": 59.434472,
+			"lng": 24.783444,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kadriorg_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3530,
+			"name": "Tammeka",
+			"code": "TAM",
+			"country": "Estonia",
+			"founded": 2006
+		},
+		"venue": {
+			"api_football_id": 2338,
+			"name": "Tamme staadion",
+			"address": "Kungla 1",
+			"city": "Tartu",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 58.366536,
+			"lng": 26.713728,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tamme_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 14340,
+			"name": "Viimsi",
+			"code": null,
+			"country": "Estonia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10605,
+			"name": "Viimsi Staadion",
+			"address": "Karulaugu tee 15",
+			"city": "Haabneeme",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 59.509722,
+			"lng": 24.834833,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Viimsi_Stadium"
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 18657,
+			"name": "Laagri",
+			"code": null,
+			"country": "Estonia",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 18575,
+			"name": "Laagri kunstmuru",
+			"address": "Veskitammi 22",
+			"city": "Tallinn",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 59.350357,
+			"lng": 24.616546,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 329,
+			"name": "Meistriliiga",
+			"country": "Estonia",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
 			"api_football_id": 3516,
 			"name": "Elva",
 			"code": null,
@@ -17,7 +336,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -25,7 +345,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 1
+		"no": 12
 	},
 	{
 		"team": {
@@ -45,7 +365,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -53,7 +374,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 2
+		"no": 13
 	},
 	{
 		"team": {
@@ -73,7 +394,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -81,7 +403,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 3
+		"no": 14
 	},
 	{
 		"team": {
@@ -101,7 +423,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -109,7 +432,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 4
+		"no": 15
 	},
 	{
 		"team": {
@@ -129,7 +452,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -137,7 +461,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 5
+		"no": 16
 	},
 	{
 		"team": {
@@ -157,7 +481,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -165,7 +490,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 6
+		"no": 17
 	},
 	{
 		"team": {
@@ -185,7 +510,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -193,7 +519,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 7
+		"no": 18
 	},
 	{
 		"team": {
@@ -213,7 +539,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -221,7 +548,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 8
+		"no": 19
 	},
 	{
 		"team": {
@@ -241,7 +568,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -249,7 +577,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 9
+		"no": 20
 	},
 	{
 		"team": {
@@ -269,7 +597,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -277,7 +606,7 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 10
+		"no": 21
 	},
 	{
 		"team": {
@@ -297,7 +626,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 328,
@@ -305,314 +635,6 @@
 			"country": "Estonia",
 			"api_football_country_id": 0
 		},
-		"no": 11
-	},
-	{
-		"team": {
-			"api_football_id": 662,
-			"name": "Kalju Nomme",
-			"code": "NOM",
-			"country": "Estonia",
-			"founded": 1997
-		},
-		"venue": {
-			"api_football_id": 606,
-			"name": "Hiiu staadion",
-			"address": "Pidu tänav 11",
-			"city": "Tallinn",
-			"capacity": 2730,
-			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 12
-	},
-	{
-		"team": {
-			"api_football_id": 687,
-			"name": "Flora Tallinn",
-			"code": "FLO",
-			"country": "Estonia",
-			"founded": 1990
-		},
-		"venue": {
-			"api_football_id": 605,
-			"name": "A. Le Coq Arena",
-			"address": "Asula 4c",
-			"city": "Tallinn",
-			"capacity": 14405,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 13
-	},
-	{
-		"team": {
-			"api_football_id": 2273,
-			"name": "FC Levadia Tallinn",
-			"code": "LEV",
-			"country": "Estonia",
-			"founded": 1998
-		},
-		"venue": {
-			"api_football_id": 605,
-			"name": "A. Le Coq Arena",
-			"address": "Asula 4c",
-			"city": "Tallinn",
-			"capacity": 14405,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 14
-	},
-	{
-		"team": {
-			"api_football_id": 2274,
-			"name": "Trans Narva",
-			"code": "TRA",
-			"country": "Estonia",
-			"founded": 1979
-		},
-		"venue": {
-			"api_football_id": 607,
-			"name": "Kalevi Staadion",
-			"address": "Hariduse 22",
-			"city": "Narva",
-			"capacity": 1000,
-			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 15
-	},
-	{
-		"team": {
-			"api_football_id": 3525,
-			"name": "Vaprus",
-			"code": null,
-			"country": "Estonia",
-			"founded": 1922
-		},
-		"venue": {
-			"api_football_id": 7100,
-			"name": "Pärnu Rannastaadion",
-			"address": "Ranna piuestee 2",
-			"city": "Pärnu",
-			"capacity": 2495,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 16
-	},
-	{
-		"team": {
-			"api_football_id": 3526,
-			"name": "Kuressaare",
-			"code": "KUR",
-			"country": "Estonia",
-			"founded": 1997
-		},
-		"venue": {
-			"api_football_id": 2334,
-			"name": "Kuressaare linnastaadion",
-			"address": "Staadioni 2",
-			"city": "Kuressaare",
-			"capacity": 1600,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 17
-	},
-	{
-		"team": {
-			"api_football_id": 3528,
-			"name": "Paide",
-			"code": "PAI",
-			"country": "Estonia",
-			"founded": 1990
-		},
-		"venue": {
-			"api_football_id": 2336,
-			"name": "Paide linnastaadion",
-			"address": "Kooli 1",
-			"city": "Paide",
-			"capacity": 1000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 18
-	},
-	{
-		"team": {
-			"api_football_id": 3529,
-			"name": "Tallinna Kalev",
-			"code": "TAL",
-			"country": "Estonia",
-			"founded": 1911
-		},
-		"venue": {
-			"api_football_id": 2331,
-			"name": "Kalevi Keskstaadioni kunstmuru",
-			"address": "Staadioni 3",
-			"city": "Tallinn",
-			"capacity": 1360,
-			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 19
-	},
-	{
-		"team": {
-			"api_football_id": 3530,
-			"name": "Tammeka",
-			"code": "TAM",
-			"country": "Estonia",
-			"founded": 2006
-		},
-		"venue": {
-			"api_football_id": 2338,
-			"name": "Tamme staadion",
-			"address": "Kungla 1",
-			"city": "Tartu",
-			"capacity": 2500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 20
-	},
-	{
-		"team": {
-			"api_football_id": 14340,
-			"name": "Viimsi",
-			"code": null,
-			"country": "Estonia",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 10605,
-			"name": "Viimsi Staadion",
-			"address": "Karulaugu tee 15",
-			"city": "Haabneeme",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
-		"no": 21
-	},
-	{
-		"team": {
-			"api_football_id": 18657,
-			"name": "Laagri",
-			"code": null,
-			"country": "Estonia",
-			"founded": 2009
-		},
-		"venue": {
-			"api_football_id": 18575,
-			"name": "Laagri kunstmuru",
-			"address": "Veskitammi 22",
-			"city": "Tallinn",
-			"capacity": 1000,
-			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 329,
-			"name": "Meistriliiga",
-			"country": "Estonia",
-			"api_football_country_id": 0
-		},
 		"no": 22
-	}
+	}	
 ]

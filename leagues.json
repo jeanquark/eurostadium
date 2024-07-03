@@ -181,13 +181,7 @@
     //     "country": "Belarus",
     //     "api_football_country_id": 0
     // },
-    {
-        "name": "1 Lyga",
-        "slug": "1_lyga",
-        "api_football_id": 361,
-        "country": "Lithuania",
-        "api_football_country_id": 0
-    },
+    
     {
         "name": "A Lyga",
         "slug": "a_lyga",
@@ -195,13 +189,13 @@
         "country": "Lithuania",
         "api_football_country_id": 0
     },
-    {
-        "name": "1. Liga",
-        "slug": "1_liga",
-        "api_football_id": 364,
-        "country": "Latvia",
-        "api_football_country_id": 0
-    },
+    // {
+    //     "name": "1 Lyga",
+    //     "slug": "1_lyga",
+    //     "api_football_id": 361,
+    //     "country": "Lithuania",
+    //     "api_football_country_id": 0
+    // },
     {
         "name": "Virsliga",
         "slug": "virsliga",
@@ -209,13 +203,13 @@
         "country": "Latvia",
         "api_football_country_id": 0
     },
-    {
-        "name": "Esiliiga A",
-        "slug": "esiliiga_a",
-        "api_football_id": 328,
-        "country": "Estonia",
-        "api_football_country_id": 0
-    },
+    // {
+    //     "name": "1. Liga",
+    //     "slug": "1_liga",
+    //     "api_football_id": 364,
+    //     "country": "Latvia",
+    //     "api_football_country_id": 0
+    // },
     {
         "name": "Meistriliiga",
         "slug": "meistriliiga",
@@ -223,6 +217,13 @@
         "country": "Estonia",
         "api_football_country_id": 0
     },
+    // {
+    //     "name": "Esiliiga A",
+    //     "slug": "esiliiga_a",
+    //     "api_football_id": 328,
+    //     "country": "Estonia",
+    //     "api_football_country_id": 0
+    // },
     {
         "name": "Premier League",
         "slug": "premier_league",
