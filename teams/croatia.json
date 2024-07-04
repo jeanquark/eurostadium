@@ -14,10 +14,11 @@
 			"city": "Rijeka",
 			"capacity": 8279,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.346667,
+			"lng": 14.404167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Rujevica"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -42,10 +43,11 @@
 			"city": "Split",
 			"capacity": 34448,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.519444,
+			"lng": 16.431667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Poljud"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -70,10 +72,11 @@
 			"city": "Osijek",
 			"capacity": 13005,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.566389,
+			"lng": 18.6575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Opus_Arena"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -98,10 +101,11 @@
 			"city": "Zagreb",
 			"capacity": 37168,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.818889,
+			"lng": 16.018056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Maksimir"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -126,10 +130,11 @@
 			"city": "Pula",
 			"capacity": 8923,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.86157,
+			"lng": 13.8517,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Aldo_Drosina"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -154,10 +159,11 @@
 			"city": "Zagreb",
 			"capacity": 10850,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.804722,
+			"lng": 15.960833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Kranj%C4%8Devi%C4%87eva"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -182,10 +188,11 @@
 			"city": "Koprivnica",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.166111,
+			"lng": 16.834722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Koprivnica)"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -210,10 +217,11 @@
 			"city": "Zagreb",
 			"capacity": 10850,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.804722,
+			"lng": 15.960833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Kranj%C4%8Devi%C4%87eva"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -238,10 +246,11 @@
 			"city": "Velika Gorica",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.724,
+			"lng": 16.0732,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Radnik"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -266,10 +275,11 @@
 			"city": "Varaždin",
 			"capacity": 10800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.2933,
+			"lng": 16.3443,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Varteks"
 		},
 		"league": {
 			"api_football_id": 210,
@@ -294,10 +304,11 @@
 			"city": "Vinkovci",
 			"capacity": 9958,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.283742,
+			"lng": 18.797382,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_HNK_Cibalia"
 		},
 		"league": {
 			"api_football_id": 211,
@@ -322,10 +333,11 @@
 			"city": "Dugopolje",
 			"capacity": 5200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.588056,
+			"lng": 16.574167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hrvatski_vitezovi"
 		},
 		"league": {
 			"api_football_id": 211,
@@ -350,10 +362,11 @@
 			"city": "Šibenik",
 			"capacity": 8500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.743553,
+			"lng": 15.896058,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_%C5%A0ubi%C4%87evac"
 		},
 		"league": {
 			"api_football_id": 211,
@@ -378,10 +391,11 @@
 			"city": "Sesvete",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.836080,
+			"lng": 16.117456,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -406,10 +420,11 @@
 			"city": "Hrvace",
 			"capacity": 3075,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.769060,
+			"lng": 16.629541,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -434,10 +449,11 @@
 			"city": "Zagreb",
 			"capacity": 2550,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.809453,
+			"lng": 15.925911,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -462,10 +478,11 @@
 			"city": "Bijelo Brdo",
 			"capacity": 1200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.519348,
+			"lng": 18.874152,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -490,10 +507,11 @@
 			"city": "Vukovar",
 			"capacity": 3550,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.380246,
+			"lng": 18.965396,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -518,10 +536,11 @@
 			"city": "Zmijavci",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.414006,
+			"lng": 17.204961,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -546,10 +565,11 @@
 			"city": "Zagreb",
 			"capacity": 4500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.771196,
+			"lng": 15.971722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -574,10 +594,11 @@
 			"city": "Rijeka",
 			"capacity": 5300,
 			"surface": null,
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.323716,
+			"lng": 14.468459,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Krimeja"
 		},
 		"league": {
 			"api_football_id": 211,
@@ -602,10 +623,11 @@
 			"city": "Zaprešić",
 			"capacity": 5228,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.864722,
+			"lng": 15.799722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ivan_Laljak-Ivi%C4%87_Stadium"
 		},
 		"league": {
 			"api_football_id": 211,
@@ -630,10 +652,11 @@
 			"city": "Jurjevac",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.186717,
+			"lng": 16.600115,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 211,
@@ -642,787 +665,5 @@
 			"api_football_country_id": 0
 		},
 		"no": 23
-	},
-	{
-		"team": {
-			"api_football_id": 566,
-			"name": "Ludogorets",
-			"code": "LUD",
-			"country": "Bulgaria",
-			"founded": 1945
-		},
-		"venue": {
-			"api_football_id": 10547,
-			"name": "Huvepharma Arena",
-			"address": "bul. Severen",
-			"city": "Razgrad",
-			"capacity": 10422,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 25
-	},
-	{
-		"team": {
-			"api_football_id": 634,
-			"name": "Botev Plovdiv",
-			"code": "BOT",
-			"country": "Bulgaria",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 19922,
-			"name": "Stadion Hristo Botev",
-			"address": "bul. Iztochen 10",
-			"city": "Plovdiv",
-			"capacity": 22000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 26
-	},
-	{
-		"team": {
-			"api_football_id": 646,
-			"name": "Levski Sofia",
-			"code": "LEV",
-			"country": "Bulgaria",
-			"founded": 1914
-		},
-		"venue": {
-			"api_football_id": 297,
-			"name": "Vivacom Arena - Georgi Asparuhov",
-			"address": "ul. Todorini kukli 47",
-			"city": "Sofia",
-			"capacity": 29200,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 27
-	},
-	{
-		"team": {
-			"api_football_id": 851,
-			"name": "Cherno More Varna",
-			"code": "CHE",
-			"country": "Bulgaria",
-			"founded": 1945
-		},
-		"venue": {
-			"api_football_id": 286,
-			"name": "Stadion Ticha",
-			"address": "ul. Nikola Vaptsarov 9",
-			"city": "Varna",
-			"capacity": 12500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 28
-	},
-	{
-		"team": {
-			"api_football_id": 853,
-			"name": "CSKA Sofia",
-			"code": "CSK",
-			"country": "Bulgaria",
-			"founded": 1948
-		},
-		"venue": {
-			"api_football_id": 288,
-			"name": "Stadion BÃ¢lgarska Armija",
-			"address": "bul. Dragan Tzankov 3, Borisova Gradina",
-			"city": "Sofia",
-			"capacity": 22015,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 29
-	},
-	{
-		"team": {
-			"api_football_id": 854,
-			"name": "Slavia Sofia",
-			"code": "SLA",
-			"country": "Bulgaria",
-			"founded": 1913
-		},
-		"venue": {
-			"api_football_id": 18616,
-			"name": "Stadion Aleksandar Shalamanov",
-			"address": "ul. Koloman 1, Ovcha Kupel",
-			"city": "Sofia",
-			"capacity": 25556,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 30
-	},
-	{
-		"team": {
-			"api_football_id": 855,
-			"name": "Etar Veliko Tarnovo",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2013
-		},
-		"venue": {
-			"api_football_id": 290,
-			"name": "Stadion Ivailo",
-			"address": "ul. Filip Totju 18",
-			"city": "Veliko TÃ¢rnovo",
-			"capacity": 18000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 31
-	},
-	{
-		"team": {
-			"api_football_id": 857,
-			"name": "Beroe",
-			"code": "BER",
-			"country": "Bulgaria",
-			"founded": 1916
-		},
-		"venue": {
-			"api_football_id": 283,
-			"name": "Stadion Beroe",
-			"address": "ul. Georgi Kyumyurev 10",
-			"city": "Stara Zagora",
-			"capacity": 12128,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 32
-	},
-	{
-		"team": {
-			"api_football_id": 858,
-			"name": "Lokomotiv Plovdiv",
-			"code": "PLO",
-			"country": "Bulgaria",
-			"founded": 1936
-		},
-		"venue": {
-			"api_football_id": 298,
-			"name": "Stadion Lokomotiv",
-			"address": "Park Lauta",
-			"city": "Plovdiv",
-			"capacity": 13800,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 33
-	},
-	{
-		"team": {
-			"api_football_id": 859,
-			"name": "Botev Vratsa",
-			"code": "VRA",
-			"country": "Bulgaria",
-			"founded": 1921
-		},
-		"venue": {
-			"api_football_id": 285,
-			"name": "Stadion Hristo Botev",
-			"address": "ul. Sportna",
-			"city": "Vratsa",
-			"capacity": 32000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 34
-	},
-	{
-		"team": {
-			"api_football_id": 1416,
-			"name": "Lokomotiv Sofia",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2015
-		},
-		"venue": {
-			"api_football_id": 1883,
-			"name": "Stadion Lokomotiv",
-			"address": "bul. Rozhen 23",
-			"city": "Sofia",
-			"capacity": 7000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 35
-	},
-	{
-		"team": {
-			"api_football_id": 1426,
-			"name": "CSKA 1948",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2016
-		},
-		"venue": {
-			"api_football_id": 296,
-			"name": "Stadion Vitosha",
-			"address": "ul. Sportist",
-			"city": "Bistrica",
-			"capacity": 2500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 36
-	},
-	{
-		"team": {
-			"api_football_id": 1428,
-			"name": "Pirin Blagoevgrad",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1931
-		},
-		"venue": {
-			"api_football_id": 303,
-			"name": "Stadion Hristo Botev",
-			"address": "ul. Dabravska 1",
-			"city": "Blagoevgrad",
-			"capacity": 15000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 37
-	},
-	{
-		"team": {
-			"api_football_id": 1430,
-			"name": "Arda Kardzhali",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1924
-		},
-		"venue": {
-			"api_football_id": 291,
-			"name": "Arena Arda",
-			"address": "bul. Belomorski",
-			"city": "Kardzhali",
-			"capacity": 15000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 38
-	},
-	{
-		"team": {
-			"api_football_id": 4659,
-			"name": "Hebar 1918",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2015
-		},
-		"venue": {
-			"api_football_id": 3511,
-			"name": "Stadion Georgi Benkovski",
-			"address": "bul. Georgi Benkovski",
-			"city": "Pazardzhik",
-			"capacity": 13128,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 39
-	},
-	{
-		"team": {
-			"api_football_id": 8543,
-			"name": "Marek",
-			"code": "MAR",
-			"country": "Bulgaria",
-			"founded": 1947
-		},
-		"venue": {
-			"api_football_id": 6098,
-			"name": "Stadion Bonchuk",
-			"address": "ul. Dzherman",
-			"city": "Dupnitsa",
-			"capacity": 16050,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 40
-	},
-	{
-		"team": {
-			"api_football_id": 17306,
-			"name": "Levski Krumovgrad",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 19902,
-			"name": "Nikola Shterev-Starika Complex",
-			"address": "ul. Komatevsko shose, kv. Komatevo",
-			"city": "Plovdiv",
-			"capacity": 4000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 41
-	},
-	{
-		"team": {
-			"api_football_id": 683,
-			"name": "Dunav Ruse",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2010
-		},
-		"venue": {
-			"api_football_id": 1736,
-			"name": "Gradski Stadion",
-			"address": "ul. Shtip",
-			"city": "Rousse",
-			"capacity": 13000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 42
-	},
-	{
-		"team": {
-			"api_football_id": 856,
-			"name": "Septemvri Sofia",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1944
-		},
-		"venue": {
-			"api_football_id": 304,
-			"name": "Stadion Dragalevtsi",
-			"address": "Bulevard Cherni vrah",
-			"city": "Sofia",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 43
-	},
-	{
-		"team": {
-			"api_football_id": 1409,
-			"name": "Ludogorets II",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2015
-		},
-		"venue": {
-			"api_football_id": 1847,
-			"name": "Sporten tsentar Ludogorets",
-			"address": "ul. Targovishko shose 7",
-			"city": "Razgrad",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 44
-	},
-	{
-		"team": {
-			"api_football_id": 1418,
-			"name": "Spartak Pleven",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2013
-		},
-		"venue": {
-			"api_football_id": 2669,
-			"name": "Pleven Stadium",
-			"address": "ul. Kosta Khadzhipakev 13",
-			"city": "Pleven",
-			"capacity": 25100,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 45
-	},
-	{
-		"team": {
-			"api_football_id": 1419,
-			"name": "Litex",
-			"code": "LIT",
-			"country": "Bulgaria",
-			"founded": 1921
-		},
-		"venue": {
-			"api_football_id": 299,
-			"name": "Gradski stadion",
-			"address": "ul. Han Kubrat",
-			"city": "Lovech",
-			"capacity": 7050,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 46
-	},
-	{
-		"team": {
-			"api_football_id": 1421,
-			"name": "Strumska Slava",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 295,
-			"name": "Gradski stadion",
-			"address": null,
-			"city": "Radomir",
-			"capacity": 5000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 47
-	},
-	{
-		"team": {
-			"api_football_id": 1422,
-			"name": "Chernomorets Balchik",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1957
-		},
-		"venue": {
-			"api_football_id": 287,
-			"name": "Gradski stadion",
-			"address": "ul. Ivan Vazov",
-			"city": "Balchik",
-			"capacity": 5000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 48
-	},
-	{
-		"team": {
-			"api_football_id": 1423,
-			"name": "Maritsa Plovdiv",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2011
-		},
-		"venue": {
-			"api_football_id": 11659,
-			"name": "Stadion Maritsa",
-			"address": "ul. Vasil Levski, Karshiaka (Zaharna fabrika)",
-			"city": "Plovdiv",
-			"capacity": 8000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 49
-	},
-	{
-		"team": {
-			"api_football_id": 1424,
-			"name": "Montana",
-			"code": "MON",
-			"country": "Bulgaria",
-			"founded": 1947
-		},
-		"venue": {
-			"api_football_id": 300,
-			"name": "Stadion Ogosta",
-			"address": "bul. Hristo Botev, Park Ogosta",
-			"city": "Montana",
-			"capacity": 7000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 50
-	},
-	{
-		"team": {
-			"api_football_id": 1427,
-			"name": "Dobrudzha",
-			"code": "DOB",
-			"country": "Bulgaria",
-			"founded": 1919
-		},
-		"venue": {
-			"api_football_id": 289,
-			"name": "Stadion Druzhba",
-			"address": "ul. Balgaria 12",
-			"city": "Dobrich",
-			"capacity": 12500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 51
-	},
-	{
-		"team": {
-			"api_football_id": 4660,
-			"name": "Spartak Varna",
-			"code": "SPA",
-			"country": "Bulgaria",
-			"founded": 1918
-		},
-		"venue": {
-			"api_football_id": 3512,
-			"name": "Stadion Spartak",
-			"address": "ul. Prilep",
-			"city": "Varna",
-			"capacity": 12000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 52
-	},
-	{
-		"team": {
-			"api_football_id": 8519,
-			"name": "Bdin",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1923
-		},
-		"venue": {
-			"api_football_id": 6075,
-			"name": "Stadion Georgi Benkovski",
-			"address": null,
-			"city": "Vidin",
-			"capacity": 15000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 53
-	},
-	{
-		"team": {
-			"api_football_id": 8528,
-			"name": "Yantra 2019",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1919
-		},
-		"venue": {
-			"api_football_id": 6084,
-			"name": "Stadion Hristo Botev",
-			"address": "ul. Debel djal 3",
-			"city": "Gabrovo",
-			"capacity": 14000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 54
-	},
-	{
-		"team": {
-			"api_football_id": 8530,
-			"name": "Chernomorets 1919 Burgas",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 2015
-		},
-		"venue": {
-			"api_football_id": 11660,
-			"name": "Efbet Arena",
-			"address": "ul. Vasil Petleshkov",
-			"city": "Burgas",
-			"capacity": 18037,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 55
-	},
-	{
-		"team": {
-			"api_football_id": 8540,
-			"name": "Belasitsa",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 12285,
-			"name": "Stadion Tsar Samuil",
-			"address": "ul. Stadionska 2",
-			"city": "Petrich",
-			"capacity": 9500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 56
-	},
-	{
-		"team": {
-			"api_football_id": 8550,
-			"name": "Sportist Svoge",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": 1924
-		},
-		"venue": {
-			"api_football_id": 6105,
-			"name": "Stadion Chavdar Tsvetkov",
-			"address": "bul. Iskar",
-			"city": "Svoge",
-			"capacity": 3500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 57
-	},
-	{
-		"team": {
-			"api_football_id": 16964,
-			"name": "CSKA 1948 Sofia II",
-			"code": null,
-			"country": "Bulgaria",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 1882,
-			"name": "Tsarsko selo Complex",
-			"address": "ul. Sportist",
-			"city": "Sofia",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {},
-		"no": 58
 	}
 ]

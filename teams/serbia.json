@@ -1,454 +1,6 @@
 [
 	{
 		"team": {
-			"api_football_id": 2631,
-			"name": "Indjija",
-			"code": "IND",
-			"country": "Serbia",
-			"founded": 1933
-		},
-		"venue": {
-			"api_football_id": 19572,
-			"name": "Toyo Tires Arena",
-			"address": "Železnička bb",
-			"city": "Inđija",
-			"capacity": 4800,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 1
-	},
-	{
-		"team": {
-			"api_football_id": 2633,
-			"name": "OFK Beograd",
-			"code": "BEO",
-			"country": "Serbia",
-			"founded": 1911
-		},
-		"venue": {
-			"api_football_id": 2913,
-			"name": "Omladinski Stadion",
-			"address": "Mije Kovačevića 10a",
-			"city": "Beograd",
-			"capacity": 13912,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 2
-	},
-	{
-		"team": {
-			"api_football_id": 2636,
-			"name": "Kolubara",
-			"code": "KOL",
-			"country": "Serbia",
-			"founded": 1919
-		},
-		"venue": {
-			"api_football_id": 2912,
-			"name": "SRC Kolubara",
-			"address": "Slobodana Kozareva bb",
-			"city": "Lazarevac",
-			"capacity": 2500,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 3
-	},
-	{
-		"team": {
-			"api_football_id": 2637,
-			"name": "Macva",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1919
-		},
-		"venue": {
-			"api_football_id": 1414,
-			"name": "Stadion FK Mačva",
-			"address": "Jevremova 1",
-			"city": "Šabac",
-			"capacity": 10000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 4
-	},
-	{
-		"team": {
-			"api_football_id": 2641,
-			"name": "Sloboda Uzice",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1950
-		},
-		"venue": {
-			"api_football_id": 18676,
-			"name": "Stadion Radomir Antić",
-			"address": "Omladinska bb",
-			"city": "Užice",
-			"capacity": 12000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 5
-	},
-	{
-		"team": {
-			"api_football_id": 2647,
-			"name": "Metalac GM",
-			"code": "MET",
-			"country": "Serbia",
-			"founded": 1961
-		},
-		"venue": {
-			"api_football_id": 1420,
-			"name": "Stadion FK Metalac",
-			"address": null,
-			"city": "Gornji Milanovac",
-			"capacity": 4600,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 6
-	},
-	{
-		"team": {
-			"api_football_id": 4252,
-			"name": "Grafičar",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1922
-		},
-		"venue": {
-			"api_football_id": 3247,
-			"name": "Stadion Grafičara",
-			"address": "Senjak",
-			"city": "Beograd",
-			"capacity": 4000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 7
-	},
-	{
-		"team": {
-			"api_football_id": 4254,
-			"name": "Semendrija 1924",
-			"code": null,
-			"country": "Serbia",
-			"founded": 2014
-		},
-		"venue": {
-			"api_football_id": 3249,
-			"name": "Sportski Kompleks FK Smederevo",
-			"address": "Goranska 55",
-			"city": "Smederevo",
-			"capacity": 16656,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 8
-	},
-	{
-		"team": {
-			"api_football_id": 12312,
-			"name": "Dubočica",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1923
-		},
-		"venue": {
-			"api_football_id": 7845,
-			"name": "Gradski stadion pod Hisarom",
-			"address": "Kralja Petra I br. 98",
-			"city": "Leskovac",
-			"capacity": 7000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 9
-	},
-	{
-		"team": {
-			"api_football_id": 12319,
-			"name": "Jedinstvo Ub",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1920
-		},
-		"venue": {
-			"api_football_id": 12141,
-			"name": "Stadion Dragan Dzajić",
-			"address": "Omladinskih brigada bb",
-			"city": "Ub",
-			"capacity": 4000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 10
-	},
-	{
-		"team": {
-			"api_football_id": 12329,
-			"name": "OFK Vršac",
-			"code": null,
-			"country": "Serbia",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 7861,
-			"name": "Gradski Stadion",
-			"address": null,
-			"city": "Vršac",
-			"capacity": 5000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 11
-	},
-	{
-		"team": {
-			"api_football_id": 12335,
-			"name": "Radnički Novi Beograd",
-			"code": null,
-			"country": "Serbia",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 7867,
-			"name": "Stadion FK Radnički Beograd",
-			"address": "Tošin bunar 190, Novi Beograd",
-			"city": "Beograd",
-			"capacity": 3000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 12
-	},
-	{
-		"team": {
-			"api_football_id": 12338,
-			"name": "Radnički Sr. Mitrovica",
-			"code": "SRE",
-			"country": "Serbia",
-			"founded": 1922
-		},
-		"venue": {
-			"api_football_id": 7870,
-			"name": "Stadion Hesna",
-			"address": "Konstantina Velikog bb",
-			"city": "Sremska Mitrovica",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 13
-	},
-	{
-		"team": {
-			"api_football_id": 14261,
-			"name": "Mladost Novi Sad",
-			"code": null,
-			"country": "Serbia",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 18698,
-			"name": "GAT Arena",
-			"address": "Bulevar Jovana Dučića 39",
-			"city": "Novi Sad",
-			"capacity": 3000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 14
-	},
-	{
-		"team": {
-			"api_football_id": 17438,
-			"name": "Tekstilac Odžaci",
-			"code": null,
-			"country": "Serbia",
-			"founded": null
-		},
-		"venue": {
-			"api_football_id": 12229,
-			"name": "Stadion Ivo Lola Ribar",
-			"address": "Lole Ribara 36",
-			"city": "Odžaci",
-			"capacity": 2000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 15
-	},
-	{
-		"team": {
-			"api_football_id": 20391,
-			"name": "RFK Novi Sad",
-			"code": null,
-			"country": "Serbia",
-			"founded": 1921
-		},
-		"venue": {
-			"api_football_id": 19193,
-			"name": "Stadion na Detelinari",
-			"address": "Rumenačka 152, Detelinara",
-			"city": "Novi Sad",
-			"capacity": 6000,
-			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": 0,
-			"y": 0
-		},
-		"league": {
-			"api_football_id": 287,
-			"name": "Prva Liga",
-			"country": "Serbia",
-			"api_football_country_id": 0
-		},
-		"no": 16
-	},
-	{
-		"team": {
 			"api_football_id": 573,
 			"name": "FK Partizan",
 			"code": "PAR",
@@ -462,10 +14,11 @@
 			"city": "Beograd",
 			"capacity": 32710,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.788744,
+			"lng": 20.459097,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Partizan_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -473,7 +26,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 17
+		"no": 1
 	},
 	{
 		"team": {
@@ -490,10 +43,11 @@
 			"city": "Beograd",
 			"capacity": 51862,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.783333,
+			"lng": 20.464722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Red_Star_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -501,7 +55,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 18
+		"no": 2
 	},
 	{
 		"team": {
@@ -518,10 +72,11 @@
 			"city": "Lučani",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.86000000,
+			"lng": 20.13250000,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 286,
@@ -529,7 +84,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 19
+		"no": 3
 	},
 	{
 		"team": {
@@ -546,10 +101,11 @@
 			"city": "Novi Sad",
 			"capacity": 14458,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.246667,
+			"lng": 19.842222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kara%C4%91or%C4%91e_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -557,7 +113,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 20
+		"no": 4
 	},
 	{
 		"team": {
@@ -574,10 +130,11 @@
 			"city": "Subotica",
 			"capacity": 13000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.081781,
+			"lng": 19.676958,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Subotica_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -585,7 +142,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 21
+		"no": 5
 	},
 	{
 		"team": {
@@ -602,10 +159,11 @@
 			"city": "Niš",
 			"capacity": 18321,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.315528,
+			"lng": 21.908533,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C4%8Cair_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -613,7 +171,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 22
+		"no": 6
 	},
 	{
 		"team": {
@@ -630,10 +188,11 @@
 			"city": "Inđija",
 			"capacity": 4800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.050369,
+			"lng": 20.090289,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/In%C4%91ija_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -641,7 +200,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 23
+		"no": 7
 	},
 	{
 		"team": {
@@ -658,10 +217,11 @@
 			"city": "Novi Pazar",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.134236,
+			"lng": 20.516067,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Novi_Pazar_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -669,7 +229,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 24
+		"no": 8
 	},
 	{
 		"team": {
@@ -686,10 +246,11 @@
 			"city": "Kragujevac",
 			"capacity": 15100,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.020872,
+			"lng": 20.899194,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C4%8Cika_Da%C4%8Da_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -697,7 +258,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 25
+		"no": 9
 	},
 	{
 		"team": {
@@ -714,10 +275,11 @@
 			"city": "Bačka Topola",
 			"capacity": 4500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.815881,
+			"lng": 19.627569,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/TSC_Arena"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -725,7 +287,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 26
+		"no": 10
 	},
 	{
 		"team": {
@@ -742,10 +304,11 @@
 			"city": "Ivanjica",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.586122,
+			"lng": 20.227239,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Javor_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -753,7 +316,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 27
+		"no": 11
 	},
 	{
 		"team": {
@@ -770,10 +333,11 @@
 			"city": "Kruševac",
 			"capacity": 18000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.583114,
+			"lng": 21.338122,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mladost_Stadium_(Kru%C5%A1evac)"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -781,7 +345,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 28
+		"no": 12
 	},
 	{
 		"team": {
@@ -798,10 +362,11 @@
 			"city": "Beograd",
 			"capacity": 4070,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.772658,
+			"lng":  20.421639,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C4%8Cukari%C4%8Dki_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -809,7 +374,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 29
+		"no": 13
 	},
 	{
 		"team": {
@@ -826,10 +391,11 @@
 			"city": "Surdulica",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.6833,
+			"lng": 22.1666,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Surdulica_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -837,7 +403,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 30
+		"no": 14
 	},
 	{
 		"team": {
@@ -854,10 +420,11 @@
 			"city": "Beograd",
 			"capacity": 5175,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.774889,
+			"lng": 20.490194,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vo%C5%BEdovac_Stadium"
 		},
 		"league": {
 			"api_football_id": 286,
@@ -865,7 +432,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 31
+		"no": 15
 	},
 	{
 		"team": {
@@ -882,10 +449,11 @@
 			"city": "Beograd",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.808149,
+			"lng": 20.373882,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 286,
@@ -893,7 +461,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 32
+		"no": 16
 	},
 	{
 		"team": {
@@ -910,10 +478,11 @@
 			"city": "Pančevo",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.879650,
+			"lng": 20.662684,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 286,
@@ -921,7 +490,7 @@
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
-		"no": 33
+		"no": 17
 	},
 	{
 		"team": {
@@ -938,14 +507,479 @@
 			"city": "Odžaci",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.513529,
+			"lng": 19.269958,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 286,
 			"name": "Super Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 2631,
+			"name": "Indjija",
+			"code": "IND",
+			"country": "Serbia",
+			"founded": 1933
+		},
+		"venue": {
+			"api_football_id": 19572,
+			"name": "Toyo Tires Arena",
+			"address": "Železnička bb",
+			"city": "Inđija",
+			"capacity": 4800,
+			"surface": "grass",
+			"lat": 45.050369,
+			"lng": 20.090289,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/In%C4%91ija_Stadium"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 2633,
+			"name": "OFK Beograd",
+			"code": "BEO",
+			"country": "Serbia",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 2913,
+			"name": "Omladinski Stadion",
+			"address": "Mije Kovačevića 10a",
+			"city": "Beograd",
+			"capacity": 13912,
+			"surface": "grass",
+			"lat": 44.815456,
+			"lng": 20.494047,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Omladinski_stadion"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 2636,
+			"name": "Kolubara",
+			"code": "KOL",
+			"country": "Serbia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 2912,
+			"name": "SRC Kolubara",
+			"address": "Slobodana Kozareva bb",
+			"city": "Lazarevac",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 44.383889,
+			"lng": 20.26625,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kolubara_Stadium"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 2637,
+			"name": "Macva",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 1414,
+			"name": "Stadion FK Mačva",
+			"address": "Jevremova 1",
+			"city": "Šabac",
+			"capacity": 10000,
+			"surface": "grass",
+			"lat": 44.746700,
+			"lng": 19.687784,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 2641,
+			"name": "Sloboda Uzice",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 18676,
+			"name": "Stadion Radomir Antić",
+			"address": "Omladinska bb",
+			"city": "Užice",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 43.851564,
+			"lng": 19.846796,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Radomir_Anti%C4%87_Stadium"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 2647,
+			"name": "Metalac GM",
+			"code": "MET",
+			"country": "Serbia",
+			"founded": 1961
+		},
+		"venue": {
+			"api_football_id": 1420,
+			"name": "Stadion FK Metalac",
+			"address": null,
+			"city": "Gornji Milanovac",
+			"capacity": 4600,
+			"surface": "grass",
+			"lat": 44.026381,
+			"lng": 20.466677,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Metalac"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 4252,
+			"name": "Grafičar",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 3247,
+			"name": "Stadion Grafičara",
+			"address": "Senjak",
+			"city": "Beograd",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 44.789950,
+			"lng": 20.442712,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 4254,
+			"name": "Semendrija 1924",
+			"code": null,
+			"country": "Serbia",
+			"founded": 2014
+		},
+		"venue": {
+			"api_football_id": 3249,
+			"name": "Sportski Kompleks FK Smederevo",
+			"address": "Goranska 55",
+			"city": "Smederevo",
+			"capacity": 16656,
+			"surface": "grass",
+			"lat": 44.660633,
+			"lng": 20.901733,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Smederevo_Stadium"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 12312,
+			"name": "Dubočica",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 7845,
+			"name": "Gradski stadion pod Hisarom",
+			"address": "Kralja Petra I br. 98",
+			"city": "Leskovac",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 42.99017,
+			"lng": 21.959828,
+			"x": 0,
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Dubo%C4%8Dica-Stadion"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 12319,
+			"name": "Jedinstvo Ub",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1920
+		},
+		"venue": {
+			"api_football_id": 12141,
+			"name": "Stadion Dragan Dzajić",
+			"address": "Omladinskih brigada bb",
+			"city": "Ub",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 44.453053,
+			"lng": 20.071385,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 12329,
+			"name": "OFK Vršac",
+			"code": null,
+			"country": "Serbia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7861,
+			"name": "Gradski Stadion",
+			"address": null,
+			"city": "Vršac",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 45.118400,
+			"lng": 21.309759,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 12335,
+			"name": "Radnički Novi Beograd",
+			"code": null,
+			"country": "Serbia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 7867,
+			"name": "Stadion FK Radnički Beograd",
+			"address": "Tošin bunar 190, Novi Beograd",
+			"city": "Beograd",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 44.825477,
+			"lng": 20.396106,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 12338,
+			"name": "Radnički Sr. Mitrovica",
+			"code": "SRE",
+			"country": "Serbia",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 7870,
+			"name": "Stadion Hesna",
+			"address": "Konstantina Velikog bb",
+			"city": "Sremska Mitrovica",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 44.977701,
+			"lng": 19.590075,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 14261,
+			"name": "Mladost Novi Sad",
+			"code": null,
+			"country": "Serbia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 18698,
+			"name": "GAT Arena",
+			"address": "Bulevar Jovana Dučića 39",
+			"city": "Novi Sad",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 45.248952,
+			"lng": 19.794097,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 17438,
+			"name": "Tekstilac Odžaci",
+			"code": null,
+			"country": "Serbia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12229,
+			"name": "Stadion Ivo Lola Ribar",
+			"address": "Lole Ribara 36",
+			"city": "Odžaci",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 45.513529,
+			"lng": 19.269958,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
+			"country": "Serbia",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 20391,
+			"name": "RFK Novi Sad",
+			"code": null,
+			"country": "Serbia",
+			"founded": 1921
+		},
+		"venue": {
+			"api_football_id": 19193,
+			"name": "Stadion na Detelinari",
+			"address": "Rumenačka 152, Detelinara",
+			"city": "Novi Sad",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 45.266868,
+			"lng": 19.815087,
+			"x": 0,
+			"y": 0,
+			"url": "https://nl.wikipedia.org/wiki/Detelinarastadion"
+		},
+		"league": {
+			"api_football_id": 287,
+			"name": "Prva Liga",
 			"country": "Serbia",
 			"api_football_country_id": 0
 		},
