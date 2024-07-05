@@ -14,10 +14,11 @@
 			"city": "Mostar",
 			"capacity": 20000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.345556,
+			"lng": 17.795278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Bijelim_Brijegom"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -42,10 +43,11 @@
 			"city": "Široki Brijeg",
 			"capacity": 5628,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.378611,
+			"lng": 17.598056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Pecara"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -70,10 +72,11 @@
 			"city": "Ugljevik",
 			"capacity": 8118,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.846667,
+			"lng": 18.387222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Grbavica"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -98,10 +101,11 @@
 			"city": "Sarajevo",
 			"capacity": 35630,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.873889,
+			"lng": 18.408611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ko%C5%A1evo_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -126,10 +130,11 @@
 			"city": "Gabela",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.061667,
+			"lng": 17.682778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadium_Perica-Pero_Pavlovi%C4%87"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -154,10 +159,11 @@
 			"city": "Tuzla",
 			"capacity": 8444,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.54172,
+			"lng": 18.661528,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tu%C5%A1anj_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -182,10 +188,11 @@
 			"city": "Ugljevik",
 			"capacity": 8118,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.690549,
+			"lng": 18.997981,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 315,
@@ -210,10 +217,11 @@
 			"city": "Banja Luka",
 			"capacity": 9730,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.7761,
+			"lng": 17.1996,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Banja_Luka_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -238,10 +246,11 @@
 			"city": "Konjic",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.658621,
+			"lng": 17.949823,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Konjic_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -266,10 +275,11 @@
 			"city": "Mostar",
 			"capacity": 5294,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.378384,
+			"lng": 17.854382,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://hr.wikipedia.org/wiki/Stadion_Ro%C4%91eni"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -294,10 +304,11 @@
 			"city": "Doboj",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.732230,
+			"lng": 18.093904,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 315,
@@ -322,10 +333,11 @@
 			"city": "Posušje",
 			"capacity": 12000,
 			"surface": null,
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.469444,
+			"lng": 17.327778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mokri_Dolac_Stadium"
 		},
 		"league": {
 			"api_football_id": 315,
@@ -350,10 +362,11 @@
 			"city": "Kakanj",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.109444,
+			"lng": 18.117222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://bs.wikipedia.org/wiki/MGM_Farm_Arena"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -378,10 +391,11 @@
 			"city": "Tuzla",
 			"capacity": 8444,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.54172,
+			"lng": 18.661528,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tu%C5%A1anj_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -406,10 +420,11 @@
 			"city": "Zenica",
 			"capacity": 15292,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.205723,
+			"lng": 17.907122,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bilino_Polje_Stadium"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -434,10 +449,11 @@
 			"city": "Goražde",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.671865,
+			"lng": 18.983110,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -462,10 +478,11 @@
 			"city": "Kakanj",
 			"capacity": 4568,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.132108,
+			"lng": 18.119338,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -490,10 +507,11 @@
 			"city": "Tešanj",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.605526,
+			"lng": 17.982879,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -518,10 +536,11 @@
 			"city": "Gradačac",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.886944,
+			"lng": 18.412778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Banja_Ilid%C5%BEa_(Grada%C4%8Dac)"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -546,10 +565,11 @@
 			"city": "Gračanica",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.694458,
+			"lng": 18.297518,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://bs.wikipedia.org/wiki/Stadion_Luke_(Gra%C4%8Danica)"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -574,10 +594,11 @@
 			"city": "Banovići",
 			"capacity": 4600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.413958,
+			"lng": 18.535047,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -602,10 +623,11 @@
 			"city": "Bihać",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.806667,
+			"lng": 15.863889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Bori%C4%87ima"
 		},
 		"league": {
 			"api_football_id": 316,
@@ -630,10 +652,11 @@
 			"city": "Hadžići",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.821719,
+			"lng": 18.195861,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -658,10 +681,11 @@
 			"city": "Maglaj",
 			"capacity": 500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.542492,
+			"lng": 18.093153,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -686,10 +710,11 @@
 			"city": "Srebrenik",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.703535,
+			"lng": 18.487801,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -714,10 +739,11 @@
 			"city": "Tomislavgrad",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.715035,
+			"lng": 17.235814,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -742,10 +768,11 @@
 			"city": "Olovo",
 			"capacity": 1300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.129373,
+			"lng": 18.587184,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
@@ -770,10 +797,11 @@
 			"city": "Gornji Rahić",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.778619,
+			"lng": 18.679598,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 316,
