@@ -14,10 +14,11 @@
 			"city": "Samtredia",
 			"capacity": 5000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.1608,
+			"lng": 42.3306,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Erosi_Manjgaladze_Stadium"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -42,10 +43,11 @@
 			"city": "Kutaisi",
 			"capacity": 19400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.255141,
+			"lng": 42.683086,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ramaz_Shengelia_Stadium"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -70,10 +72,11 @@
 			"city": "Kobuleti",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.812981,
+			"lng": 41.774458,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Chele_Arena"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -98,10 +101,11 @@
 			"city": "Tbilisi",
 			"capacity": 54202,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.723056,
+			"lng": 44.789722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Boris_Paichadze_Dinamo_Arena"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -126,10 +130,11 @@
 			"city": "Gori",
 			"capacity": 8230,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.983056,
+			"lng": 44.103889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tengiz_Burjanadze_Stadium"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -154,10 +159,11 @@
 			"city": "Tbilisi",
 			"capacity": 25453,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.709722,
+			"lng": 44.746111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mikheil_Meskhi_Stadium"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -182,10 +188,11 @@
 			"city": "Tbilisi",
 			"capacity": 2130,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.791727,
+			"lng": 44.779914,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Dawid-Petriaschwili-Stadion"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -210,10 +217,11 @@
 			"city": "Kobuleti",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.812981,
+			"lng": 41.774458,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Chele_Arena"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -238,10 +246,11 @@
 			"city": "Telavi",
 			"capacity": 12000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.91165,
+			"lng": 45.480824,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Municipal_Stadium_(Telavi)"
 		},
 		"league": {
 			"api_football_id": 327,
@@ -266,10 +275,11 @@
 			"city": "Martvili",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.419956,
+			"lng": 42.374825,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 327,
@@ -297,7 +307,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 327,
@@ -325,7 +336,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 327,
@@ -350,10 +362,11 @@
 			"city": "Tbilisi",
 			"capacity": 25453,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.709722,
+			"lng": 44.746111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mikheil_Meskhi_Stadium"
 		},
 		"league": {
 			"api_football_id": 326,
@@ -378,10 +391,11 @@
 			"city": "Bolnisi",
 			"capacity": 3242,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.447997,
+			"lng": 44.535186,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tamaz_Stepania_Stadium"
 		},
 		"league": {
 			"api_football_id": 326,
@@ -406,10 +420,11 @@
 			"city": "Mtskheta",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.847286,
+			"lng": 44.721492,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mtskheta_Park"
 		},
 		"league": {
 			"api_football_id": 326,
@@ -434,10 +449,11 @@
 			"city": "Poti",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.146266,
+			"lng": 41.689904,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,
@@ -462,10 +478,11 @@
 			"city": "Tbilisi",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.77854,
+			"lng": 44.80047,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sport-kompleksi_Shatili"
 		},
 		"league": {
 			"api_football_id": 326,
@@ -490,10 +507,11 @@
 			"city": "Martvili",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.419956,
+			"lng": 42.374825,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,
@@ -518,10 +536,11 @@
 			"city": "Khobi",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.320015,
+			"lng": 41.904607,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,
@@ -546,10 +565,11 @@
 			"city": "Tbilisi",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.778044,
+			"lng": 44.771445,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,
@@ -577,7 +597,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,
@@ -605,7 +626,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 326,

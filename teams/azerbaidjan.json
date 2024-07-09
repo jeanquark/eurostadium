@@ -1,0 +1,582 @@
+[
+	{
+		"team": {
+			"api_football_id": 556,
+			"name": "Qarabag",
+			"code": "KAR",
+			"country": "Azerbaidjan",
+			"founded": 1950
+		},
+		"venue": {
+			"api_football_id": 5799,
+			"name": "Tofiq Bəhramov adına Respublika stadionu",
+			"address": "10 Fatali Khan Khoyski",
+			"city": "Baku",
+			"capacity": 31850,
+			"surface": "grass",
+			"lat": 40.397222,
+			"lng": 49.8525,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tofiq_Bahramov_Republican_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 627,
+			"name": "Qabala",
+			"code": "GAB",
+			"country": "Azerbaidjan",
+			"founded": 2005
+		},
+		"venue": {
+			"api_football_id": 158,
+			"name": "Şəhər stadionu",
+			"address": "34 E. Kərimov",
+			"city": "Qəbələ",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 40.985278,
+			"lng": 47.8425,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gabala_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 648,
+			"name": "Zira",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4134,
+			"name": "Zirə qəsəbə stadionu",
+			"address": null,
+			"city": "Zirya",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 40.35892,
+			"lng": 50.29311,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Zira_Olympic_Sport_Complex_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 2270,
+			"name": "Neftchi Baku",
+			"code": "NEF",
+			"country": "Azerbaidjan",
+			"founded": 1937
+		},
+		"venue": {
+			"api_football_id": 20297,
+			"name": "Neftçi Arena",
+			"address": "8th Kilometer",
+			"city": "Baku",
+			"capacity": 15000,
+			"surface": "grass",
+			"lat": 40.4002,
+			"lng": 49.944,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Neft%C3%A7i_Arena"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 4199,
+			"name": "Səbail",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12459,
+			"name": "ASCO Arena",
+			"address": "Bayıl",
+			"city": "Baku",
+			"capacity": 6000,
+			"surface": "artificial turf",
+			"lat": 40.332124,
+			"lng": 49.817686,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 5490,
+			"name": "Kapaz",
+			"code": "KAP",
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4125,
+			"name": "Şəhər stadionu",
+			"address": null,
+			"city": "Gəncə",
+			"capacity": 26120,
+			"surface": "grass",
+			"lat": 40.706111,
+			"lng": 46.361944,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ganja_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 5499,
+			"name": "Turan",
+			"code": "TUR",
+			"country": "Azerbaidjan",
+			"founded": 1945
+		},
+		"venue": {
+			"api_football_id": 4131,
+			"name": "Şəhər stadionu",
+			"address": "34 Səməd Vurğun",
+			"city": "Tovuz",
+			"capacity": 6800,
+			"surface": "grass",
+			"lat": 40.992222,
+			"lng": 45.625556,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tovuz_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 5503,
+			"name": "Sumqayıt",
+			"code": "SUM",
+			"country": "Azerbaidjan",
+			"founded": 2010
+		},
+		"venue": {
+			"api_football_id": 4135,
+			"name": "Kapital Bank Arena",
+			"address": null,
+			"city": "Sumqayıt",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 40.6032,
+			"lng": 49.6731,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kapital_Bank_Arena"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 11238,
+			"name": "Araz",
+			"code": "ARA",
+			"country": "Azerbaidjan",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 7512,
+			"name": "İbrahimxəlil Axundlu adına Naxçıvan şəhər stadionu",
+			"address": "Nizami küçəsi 19",
+			"city": "Nakchivan",
+			"capacity": 12800,
+			"surface": "grass",
+			"lat": 39.2089,
+			"lng": 45.4122,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nakhchivan_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 13976,
+			"name": "Sabah FA",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2783,
+			"name": "Bank Respublika Arena",
+			"address": null,
+			"city": "Masazir",
+			"capacity": 13000,
+			"surface": "grass",
+			"lat": 40.486186,
+			"lng": 49.766262,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bank_Respublika_Arena"
+		},
+		"league": {
+			"api_football_id": 419,
+			"name": "Premyer Liqa",
+			"country": "Azerbaidjan",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 666,
+			"name": "Keshla FC",
+			"code": "INT",
+			"country": "Azerbaidjan",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 155,
+			"name": "ASK Arena",
+			"address": "5 Heydər Əliyev",
+			"city": "Baku",
+			"capacity": 8152,
+			"surface": "grass",
+			"lat": 40.411,
+			"lng": 49.8977,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ASK_Arena"
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 5492,
+			"name": "MOIK",
+			"code": "MOI",
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4174,
+			"name": "Binə qəsəbə stadionu",
+			"address": "10 M. Nərimanov",
+			"city": "Binə",
+			"capacity": 600,
+			"surface": "artificial turf",
+			"lat": 40.447972,
+			"lng": 50.078634,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bine_Stadium"
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 5495,
+			"name": "Qaradağ Lökbatan",
+			"code": "LOK",
+			"country": "Azerbaidjan",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 4128,
+			"name": "Lökbatan OIK stadionu",
+			"address": null,
+			"city": "Lökbatan",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 40.322983,
+			"lng": 49.736144,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 5500,
+			"name": "Zaqatala",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": 2010
+		},
+		"venue": {
+			"api_football_id": 4132,
+			"name": "Şəhər stadionu",
+			"address": "2 Sülh küçəsi",
+			"city": "Zaqatala",
+			"capacity": 3500,
+			"surface": "artificial turf",
+			"lat": 41.639444,
+			"lng": 46.652778,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Zaqatala_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 5570,
+			"name": "Mil-Muğan",
+			"code": "MIL",
+			"country": "Azerbaidjan",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 20247,
+			"name": "Saatli Rayon Olimpiya Idman Kompleksi Stadionu",
+			"address": null,
+			"city": "Saatli",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 39.945082,
+			"lng": 48.350179,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 5573,
+			"name": "Energetik",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4176,
+			"name": "Yaşar Məmmədzadə adına şəhər stadionu",
+			"address": null,
+			"city": "Mingəçevir",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 40.762974,
+			"lng": 47.042621,
+			"x": 0,
+			"y": 0,
+			"url": "https://az.wikipedia.org/wiki/Ya%C5%9Far_M%C9%99mm%C9%99dzad%C9%99_ad%C4%B1na_stadion"
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 11239,
+			"name": "Karvan",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": 2004
+		},
+		"venue": {
+			"api_football_id": 7513,
+			"name": "Şəhər stadionu",
+			"address": "115 Ceyhun Mustafayev küçəsi",
+			"city": "Evlakh",
+			"capacity": 4980,
+			"surface": "grass",
+			"lat": 38.7472,
+			"lng": 48.8571,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yevlakh_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 22279,
+			"name": "Araz Saatlı",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": 2018
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 22280,
+			"name": "Difai Ağsu",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 22281,
+			"name": "İrəvan",
+			"code": null,
+			"country": "Azerbaidjan",
+			"founded": 2020
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 418,
+			"name": "Birinci Dasta",
+			"country": "Azerbaijan",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	}
+]

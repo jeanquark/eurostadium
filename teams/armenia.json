@@ -1,0 +1,727 @@
+[
+	{
+		"team": {
+			"api_football_id": 582,
+			"name": "Alashkert",
+			"code": "ALA",
+			"country": "Armenia",
+			"founded": 1990
+		},
+		"venue": {
+			"api_football_id": 1755,
+			"name": "Stadion Nairi",
+			"address": null,
+			"city": "Yerevan",
+			"capacity": 6800,
+			"surface": "grass",
+			"lat": 40.154605,
+			"lng": 44.475231,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Alashkert_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 709,
+			"name": "Pyunik Yerevan",
+			"code": "PYU",
+			"country": "Armenia",
+			"founded": 1992
+		},
+		"venue": {
+			"api_football_id": 121,
+			"name": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
+			"address": "ul. Nar-Dos",
+			"city": "Yerevan",
+			"capacity": 14530,
+			"surface": "grass",
+			"lat": 40.171944,
+			"lng": 44.525833,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan_Republican_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 2276,
+			"name": "FC Urartu",
+			"code": "BAN",
+			"country": "Armenia",
+			"founded": 1992
+		},
+		"venue": {
+			"api_football_id": 119,
+			"name": "Urartu Stadium",
+			"address": "ul. Al. Manukian, Malatia-Sebastia",
+			"city": "Yerevan",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 40.171426,
+			"lng": 44.449938,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Urartu_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 3682,
+			"name": "Ararat",
+			"code": "ARA",
+			"country": "Armenia",
+			"founded": 1935
+		},
+		"venue": {
+			"api_football_id": 121,
+			"name": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
+			"address": "ul. Nar-Dos",
+			"city": "Yerevan",
+			"capacity": 14530,
+			"surface": "grass",
+			"lat": 40.171944,
+			"lng": 44.525833,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan_Republican_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3683,
+			"name": "Ararat-Armenia",
+			"code": null,
+			"country": "Armenia",
+			"founded": 2017
+		},
+		"venue": {
+			"api_football_id": 120,
+			"name": "Yerevan Football Academy",
+			"address": "Acharyan 35/31, Avan",
+			"city": "Yerevan",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 40.221111,
+			"lng": 44.555278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3684,
+			"name": "Artsakh",
+			"code": null,
+			"country": "Armenia",
+			"founded": 2017
+		},
+		"venue": {
+			"api_football_id": 20559,
+			"name": "Armaviri Hakob Tonoyani Stadium",
+			"address": null,
+			"city": "Armavir",
+			"capacity": 3300,
+			"surface": "grass",
+			"lat": 40.164722,
+			"lng": 44.045278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Armavir_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3686,
+			"name": "Shirak",
+			"code": "SHI",
+			"country": "Armenia",
+			"founded": 1958
+		},
+		"venue": {
+			"api_football_id": 2479,
+			"name": "Gyumri City Stadium",
+			"address": "Ozanyan Str. 6",
+			"city": "Gyumri",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 40.785833,
+			"lng": 43.833333,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gyumri_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 6279,
+			"name": "BKMA",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 120,
+			"name": "Yerevan Football Academy",
+			"address": "Acharyan 35/31, Avan",
+			"city": "Yerevan",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 40.221111,
+			"lng": 44.555278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 6286,
+			"name": "Van",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 4655,
+			"name": "Charentsavan City Stadium",
+			"address": null,
+			"city": "Charentsavan",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 40.408611,
+			"lng": 44.645556,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Charentsavan_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 6287,
+			"name": "West Armenia",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10489,
+			"name": "Kasakhi Marzik Stadium",
+			"address": "Linch Street",
+			"city": "Ashtarak",
+			"capacity": 3600,
+			"surface": "grass",
+			"lat": 40.291111,
+			"lng": 44.352222,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kasakhi_Marzik_Stadium"
+		},
+		"league": {
+			"api_football_id": 342,
+			"name": "Premier League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 688,
+			"name": "Gandzasar",
+			"code": "GAN",
+			"country": "Armenia",
+			"founded": 2021
+		},
+		"venue": {
+			"api_football_id": 19103,
+			"name": "Gandzasar Stadium",
+			"address": "M-2",
+			"city": "Kapan",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 39.207787,
+			"lng": 46.400674,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gandzasar_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 3687,
+			"name": "Alashkert II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 10489,
+			"name": "Kasakhi Marzik Stadium",
+			"address": "Linch Street",
+			"city": "Ashtarak",
+			"capacity": 3600,
+			"surface": "grass",
+			"lat": 40.291111,
+			"lng": 44.352222,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kasakhi_Marzik_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 3688,
+			"name": "Ararat II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2481,
+			"name": "Sports Complex Dzoraghbyur",
+			"address": null,
+			"city": "Dzoraghbyur",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 40.203611,
+			"lng": 44.651111,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Dzoraghbyur_Training_Centre"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 3689,
+			"name": "Ararat-Armenia II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 120,
+			"name": "Yerevan Football Academy",
+			"address": "Acharyan 35/31, Avan",
+			"city": "Yerevan",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 40.221111,
+			"lng": 44.555278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 3690,
+			"name": "Banants II",
+			"code": null,
+			"country": "Armenia",
+			"founded": 1992
+		},
+		"venue": {
+			"api_football_id": 4653,
+			"name": "Banants-3",
+			"address": "ul. Jivani, Malatia-Sebastia",
+			"city": "Yerevan",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 40.171362,
+			"lng": 44.449878,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 3696,
+			"name": "Pyunik II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2480,
+			"name": "Pyunik Training Centre",
+			"address": "Tsitsernakaberd Highway",
+			"city": "Yerevan",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 40.181944,
+			"lng": 44.49,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Pyunik_Training_Centre"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 3697,
+			"name": "Shirak II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 2479,
+			"name": "Gyumri City Stadium",
+			"address": "Ozanyan Str. 6",
+			"city": "Gyumri",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 40.785833,
+			"lng": 43.833333,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gyumri_City_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 6281,
+			"name": "Lernayin Artsakh",
+			"code": null,
+			"country": "Armenia",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 19915,
+			"name": "Vayk Stadium",
+			"address": "Yeritasardakan Street",
+			"city": "Vayk",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 39.689728,
+			"lng": 45.462568,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 11174,
+			"name": "Mika",
+			"code": "MIK",
+			"country": "Armenia",
+			"founded": 2018
+		},
+		"venue": {
+			"api_football_id": 7464,
+			"name": "Mika",
+			"address": "41 Manandyan Str.",
+			"city": "Yerevan",
+			"capacity": 7140,
+			"surface": "grass",
+			"lat": 40.149373,
+			"lng": 44.476449,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mika_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 17171,
+			"name": "BKMA II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 120,
+			"name": "Yerevan Football Academy",
+			"address": "Acharyan 35/31, Avan",
+			"city": "Yerevan",
+			"capacity": 1500,
+			"surface": "grass",
+			"lat": 40.221111,
+			"lng": 44.555278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 20087,
+			"name": "Syunik",
+			"code": null,
+			"country": "Armenia",
+			"founded": 2004
+		},
+		"venue": {
+			"api_football_id": 19103,
+			"name": "Gandzasar Stadium",
+			"address": "M-2",
+			"city": "Kapan",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 39.207787,
+			"lng": 46.400674,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gandzasar_Stadium"
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 21877,
+			"name": "Andranik",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 21878,
+			"name": "Nikarm",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 21879,
+			"name": "Noah II",
+			"code": null,
+			"country": "Armenia",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 21880,
+			"name": "Onor",
+			"code": null,
+			"country": "Armenia",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 343,
+			"name": "First League",
+			"country": "Armenia",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	}
+]

@@ -14,10 +14,11 @@
 			"city": "Pristina",
 			"capacity": 13500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.66297,
+			"lng": 21.15688,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fadil_Vokrri_Stadium"
 		},
 		"league": {
 			"api_football_id": 664,
@@ -42,10 +43,11 @@
 			"city": "Glogovac",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.616446,
+			"lng": 20.903551,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rexhep_Rexhepi_Stadium"
 		},
 		"league": {
 			"api_football_id": 664,
@@ -70,10 +72,11 @@
 			"city": "Suva Reka",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.353243,
+			"lng": 20.822570,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -98,10 +101,11 @@
 			"city": "Gnjilane",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.453612,
+			"lng": 21.464586,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -126,10 +130,11 @@
 			"city": "Gnjilane",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.453612,
+			"lng": 21.464586,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -154,10 +159,11 @@
 			"city": "Klinë",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.617034,
+			"lng": 20.580890,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -182,10 +188,11 @@
 			"city": "Besiana, Podujevo",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.905073,
+			"lng": 21.19489,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Zahir_Pajaziti_Stadium"
 		},
 		"league": {
 			"api_football_id": 664,
@@ -200,7 +207,7 @@
 			"api_football_id": 14402,
 			"name": "Liria Prizren",
 			"code": null,
-			"country": "Germany",
+			"country": "Kosovo",
 			"founded": 1930
 		},
 		"venue": {
@@ -210,10 +217,11 @@
 			"city": "Prizren",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.206992,
+			"lng": 20.729061,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -238,10 +246,11 @@
 			"city": "Malishevë",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.482245,
+			"lng": 20.724799,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -266,10 +275,11 @@
 			"city": "Kosovo Polje",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.634270,
+			"lng": 21.086662,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,
@@ -297,7 +307,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 664,

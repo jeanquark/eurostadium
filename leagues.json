@@ -304,8 +304,64 @@
     {
         "name": "First League",
         "slug": "first_league",
-        "api_football_id": 317,
+        "api_football_id": 371,
         "country": "Macedonia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Erovnuli Liga",
+        "slug": "erovnuli_liga",
+        "api_football_id": 327,
+        "country": "Georgia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Erovnuli Liga 2",
+        "slug": "erovnuli_liga_2",
+        "api_football_id": 326,
+        "country": "Georgia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 342,
+        "country": "Armenia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "First League",
+        "slug": "first_league",
+        "api_football_id": 343,
+        "country": "Armenia",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premyer Liqa",
+        "slug": "premyer_liqa",
+        "api_football_id": 419,
+        "country": "Azerbaidjan",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Birinci Dasta",
+        "slug": "birinci_dasta",
+        "api_football_id": 418,
+        "country": "Azerbaijan",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 389,
+        "country": "Kazakhstan",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 388,
+        "country": "Kazakhstan",
         "api_football_country_id": 0
     },
     {
@@ -561,20 +617,6 @@
         "api_football_country_id": 0
     },
     {
-        "name": "Erovnuli Liga",
-        "slug": "erovnuli_liga",
-        "api_football_id": 327,
-        "country": "Georgia",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Erovnuli Liga 2",
-        "slug": "erovnuli_liga_2",
-        "api_football_id": 326,
-        "country": "Georgia",
-        "api_football_country_id": 0
-    },
-    {
         "name": "National Division",
         "slug": "national_division",
         "api_football_id": 261,
@@ -593,20 +635,6 @@
         "slug": "1_deild",
         "api_football_id": 165,
         "country": "Iceland",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Premier League",
-        "slug": "premier_league",
-        "api_football_id": 389,
-        "country": "Kazakhstan",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "1. Division",
-        "slug": "1_division",
-        "api_football_id": 388,
-        "country": "Kazakhstan",
         "api_football_country_id": 0
     },
     {
