@@ -14,10 +14,11 @@
 			"city": "Almaty",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.221240,
+			"lng": 76.926998,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 389,
@@ -42,10 +43,11 @@
 			"city": "Almaty",
 			"capacity": 26242,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.238331,
+			"lng": 76.92435,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Almaty_Central_Stadium"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -70,10 +72,11 @@
 			"city": "Shymkent",
 			"capacity": 37000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.335493,
+			"lng": 69.593568,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium,_Shymkent"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -98,10 +101,11 @@
 			"city": "Kostanay",
 			"capacity": 8432,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.225974,
+			"lng": 63.636578,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kostanay_Central_Stadium"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -126,10 +130,11 @@
 			"city": "Aktau",
 			"capacity": 5000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.664659,
+			"lng": 51.147333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Zhastar_Stadium"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -154,10 +159,11 @@
 			"city": "Petropavlosvk",
 			"capacity": 12000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.874085,
+			"lng": 69.152074,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Karasai_Stadium"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -182,10 +188,11 @@
 			"city": "Zhetisay",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.771535,
+			"lng": 68.329679,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B6%D1%8B%D0%BC%D2%B1%D2%9B%D0%B0%D0%BD_%D0%9C%D2%B1%D2%A3%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_(%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD,_%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82)"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -210,10 +217,11 @@
 			"city": "Kokshetau",
 			"capacity": 4158,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.285278,
+			"lng": 69.391667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Okzhetpes_Stadium"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -238,10 +246,11 @@
 			"city": "Taldykorgan",
 			"capacity": 5850,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.019647,
+			"lng": 78.365206,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 389,
@@ -266,10 +275,11 @@
 			"city": "Kyzylorda",
 			"capacity": 10500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.826003,
+			"lng": 65.503370,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 389,
@@ -294,10 +304,11 @@
 			"city": "Aktobe",
 			"capacity": 13661,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.291389,
+			"lng": 57.160278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Aktobe)"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -322,10 +333,11 @@
 			"city": "Atyrau",
 			"capacity": 8690,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.094127,
+			"lng": 51.908638,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 389,
@@ -350,10 +362,11 @@
 			"city": "Karaganda",
 			"capacity": 19000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.818618,
+			"lng": 73.075122,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Shakhter_Stadium,_Karaganda"
 		},
 		"league": {
 			"api_football_id": 389,
@@ -381,7 +394,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 389,
@@ -406,10 +420,11 @@
 			"city": "Shymkent",
 			"capacity": 4500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.370957,
+			"lng": 69.696736,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -434,10 +449,11 @@
 			"city": "Aktobe",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.274286,
+			"lng": 57.237974,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -462,10 +478,11 @@
 			"city": "Ural&apos;sk",
 			"capacity": 8320,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.212221,
+			"lng": 51.351077,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -493,7 +510,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -518,10 +536,11 @@
 			"city": "Ėkibastyz",
 			"capacity": 6300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.729978,
+			"lng": 75.336727,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -546,10 +565,11 @@
 			"city": "Shymkent",
 			"capacity": 37000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.335493,
+			"lng": 69.593568,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium,_Shymkent"
 		},
 		"league": {
 			"api_football_id": 388,
@@ -574,10 +594,11 @@
 			"city": "Almaty",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.328393,
+			"lng": 76.980222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -602,10 +623,11 @@
 			"city": "Taraz",
 			"capacity": 23000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.901804,
+			"lng": 71.382334,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -630,10 +652,11 @@
 			"city": "Turkistan",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.1551,
+			"lng": 68.2025,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Turkistan_Arena"
 		},
 		"league": {
 			"api_football_id": 388,
@@ -661,7 +684,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -689,7 +713,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -714,10 +739,11 @@
 			"city": "Karaganda",
 			"capacity": 19000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.818618,
+			"lng": 73.075122,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Shakhter_Stadium,_Karaganda"
 		},
 		"league": {
 			"api_football_id": 388,
@@ -745,7 +771,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -770,10 +797,11 @@
 			"city": "Semipalatinsk",
 			"capacity": 11000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.414845,
+			"lng": 80.241250,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,
@@ -801,7 +829,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 388,

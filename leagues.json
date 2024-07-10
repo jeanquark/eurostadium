@@ -379,6 +379,132 @@
         "api_football_country_id": 0
     },
     {
+        "name": "Liga I",
+        "slug": "liga_1",
+        "api_football_id": 283,
+        "country": "Romania",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Liga II",
+        "slug": "liga_2",
+        "api_football_id": 284,
+        "country": "Romania",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Super Liga",
+        "slug": "super_liga",
+        "api_football_id": 394,
+        "country": "Moldova",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Liga 1",
+        "slug": "liga_1",
+        "api_football_id": 394,
+        "country": "Moldova",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "First League",
+        "slug": "first_league",
+        "api_football_id": 172,
+        "country": "Bulgaria",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Second League",
+        "slug": "second_league",
+        "api_football_id": 173,
+        "country": "Bulgaria",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 333,
+        "country": "Ukraine",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Persha Liga",
+        "slug": "persha_liga",
+        "api_football_id": 334,
+        "country": "Ukraine",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Super League 1",
+        "slug": "super_league_1",
+        "api_football_id": 197,
+        "country": "Greece",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Super League 2",
+        "slug": "super_league_2",
+        "api_football_id": 494,
+        "country": "Greece",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Division",
+        "slug": "1_division",
+        "api_football_id": 318,
+        "country": "Cyprus",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "2. Division",
+        "slug": "2_division",
+        "api_football_id": 319,
+        "country": "Cyprus",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Süper Lig",
+        "slug": "super_lig",
+        "api_football_id": 203,
+        "country": "Turkey",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "1. Lig",
+        "slug": "1_lig",
+        "api_football_id": 204,
+        "country": "Turkey",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premier League",
+        "slug": "premier_league",
+        "api_football_id": 393,
+        "country": "Malta",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Challenge League",
+        "slug": "challenge_league",
+        "api_football_id": 392,
+        "country": "Malta",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Ligat Ha'al",
+        "slug": "ligat_ha_al",
+        "api_football_id": 383,
+        "country": "Israel",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Liga Leumit",
+        "slug": "liga_leumit",
+        "api_football_id": 382,
+        "country": "Israel",
+        "api_football_country_id": 0
+    },
+    {
         "name": "Czech Liga",
         "slug": "czech_liga",
         "api_football_id": 345,
@@ -435,101 +561,17 @@
         "api_football_country_id": 0
     },
     {
-        "name": "Liga I",
-        "slug": "liga_1",
-        "api_football_id": 283,
-        "country": "Romania",
+        "name": "Úrvalsdeild",
+        "slug": "urvalsdeild",
+        "api_football_id": 164,
+        "country": "Iceland",
         "api_football_country_id": 0
     },
     {
-        "name": "Liga II",
-        "slug": "liga_2",
-        "api_football_id": 284,
-        "country": "Romania",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Super Liga",
-        "slug": "super_liga",
-        "api_football_id": 394,
-        "country": "Moldova",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Liga 1",
-        "slug": "liga_1",
-        "api_football_id": 394,
-        "country": "Moldova",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "First League",
-        "slug": "first_league",
-        "api_football_id": 172,
-        "country": "Bulgaria",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Second League",
-        "slug": "second_league",
-        "api_football_id": 173,
-        "country": "Bulgaria",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Premier League",
-        "slug": "premier_league",
-        "api_football_id": 393,
-        "country": "Malta",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Challenge League",
-        "slug": "challenge_league",
-        "api_football_id": 392,
-        "country": "Malta",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Super League 1",
-        "slug": "super_league_1",
-        "api_football_id": 197,
-        "country": "Greece",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Super League 2",
-        "slug": "super_league_2",
-        "api_football_id": 494,
-        "country": "Greece",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "1. Division",
-        "slug": "1_division",
-        "api_football_id": 318,
-        "country": "Cyprus",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "2. Division",
-        "slug": "2_division",
-        "api_football_id": 319,
-        "country": "Cyprus",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Süper Lig",
-        "slug": "super_lig",
-        "api_football_id": 203,
-        "country": "Turkey",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "1. Lig",
-        "slug": "1_lig",
-        "api_football_id": 204,
-        "country": "Turkey",
+        "name": "1. Deild",
+        "slug": "1_deild",
+        "api_football_id": 165,
+        "country": "Iceland",
         "api_football_country_id": 0
     },
     {
@@ -563,20 +605,6 @@
     {
         "name": "Premiership",
         "slug": "premiership",
-        "api_football_id": 179,
-        "country": "Scotland",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Championship",
-        "slug": "championship",
-        "api_football_id": 180,
-        "country": "Scotland",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Premiership",
-        "slug": "premiership",
         "api_football_id": 408,
         "country": "Northern Ireland",
         "api_football_country_id": 0
@@ -586,6 +614,20 @@
         "slug": "championship",
         "api_football_id": 407,
         "country": "Northern Ireland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Premiership",
+        "slug": "premiership",
+        "api_football_id": 179,
+        "country": "Scotland",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Championship",
+        "slug": "championship",
+        "api_football_id": 180,
+        "country": "Scotland",
         "api_football_country_id": 0
     },
     {
@@ -603,52 +645,10 @@
         "api_football_country_id": 0
     },
     {
-        "name": "Ligat Ha'al",
-        "slug": "ligat_ha_al",
-        "api_football_id": 383,
-        "country": "Israel",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Liga Leumit",
-        "slug": "liga_leumit",
-        "api_football_id": 382,
-        "country": "Israel",
-        "api_football_country_id": 0
-    },
-    {
         "name": "National Division",
         "slug": "national_division",
         "api_football_id": 261,
         "country": "Luxembourg",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Úrvalsdeild",
-        "slug": "urvalsdeild",
-        "api_football_id": 164,
-        "country": "Iceland",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "1. Deild",
-        "slug": "1_deild",
-        "api_football_id": 165,
-        "country": "Iceland",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Premier League",
-        "slug": "premier_league",
-        "api_football_id": 333,
-        "country": "Ukraine",
-        "api_football_country_id": 0
-    },
-    {
-        "name": "Persha Liga",
-        "slug": "persha_liga",
-        "api_football_id": 334,
-        "country": "Ukraine",
         "api_football_country_id": 0
     },
     {
