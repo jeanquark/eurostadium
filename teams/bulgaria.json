@@ -14,10 +14,11 @@
 			"city": "Razgrad",
 			"capacity": 10422,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.534556,
+			"lng": 26.527722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Huvepharma_Arena"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -42,10 +43,11 @@
 			"city": "Plovdiv",
 			"capacity": 22000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.026389,
+			"lng": 23.1,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Blagoevgrad)"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -70,10 +72,11 @@
 			"city": "Sofia",
 			"capacity": 29200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.705556,
+			"lng": 23.363333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Georgi_Asparuhov"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -98,10 +101,11 @@
 			"city": "Varna",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.215833,
+			"lng": 27.931389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Ticha"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -126,10 +130,11 @@
 			"city": "Sofia",
 			"capacity": 22015,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.684167,
+			"lng": 23.339722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Balgarska_Armia"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -154,10 +159,11 @@
 			"city": "Sofia",
 			"capacity": 25556,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.675361,
+			"lng": 23.272028,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Aleksandar_Shalamanov"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -182,10 +188,11 @@
 			"city": "Veliko Târnovo",
 			"capacity": 18000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.077222,
+			"lng": 25.620556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Ivaylo"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -210,10 +217,11 @@
 			"city": "Stara Zagora",
 			"capacity": 12128,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.432778,
+			"lng": 25.615278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Beroe"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -238,10 +246,11 @@
 			"city": "Plovdiv",
 			"capacity": 13800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.133889,
+			"lng": 24.771667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Lokomotiv_(Plovdiv)"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -266,10 +275,11 @@
 			"city": "Vratsa",
 			"capacity": 32000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.201111,
+			"lng": 23.5675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Vratsa)"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -294,10 +304,11 @@
 			"city": "Sofia",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.737639,
+			"lng": 23.314806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Lokomotiv_(Sofia)"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -322,10 +333,11 @@
 			"city": "Bistrica",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.59125,
+			"lng": 23.363417,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Bistritsa"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -350,10 +362,11 @@
 			"city": "Blagoevgrad",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.139861,
+			"lng": 24.764444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Plovdiv)"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -378,10 +391,11 @@
 			"city": "Kardzhali",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.641194,
+			"lng": 25.378056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arena_Arda"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -406,10 +420,11 @@
 			"city": "Pazardzhik",
 			"capacity": 13128,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.210833,
+			"lng": 24.3225,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Georgi_Benkovski"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -434,10 +449,11 @@
 			"city": "Dupnitsa",
 			"capacity": 16050,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.275556,
+			"lng": 23.135556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Bonchuk"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -462,10 +478,11 @@
 			"city": "Plovdiv",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.1075,
+			"lng": 24.708,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nikola_Shterev_-_Starika_Sports_Complex"
 		},
 		"league": {
 			"api_football_id": 172,
@@ -490,10 +507,11 @@
 			"city": "Rousse",
 			"capacity": 13000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.848056,
+			"lng": 25.963056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Ruse)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -518,10 +536,11 @@
 			"city": "Sofia",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.692222,
+			"lng": 23.287778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Septemvri_(Sofia)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -546,10 +565,11 @@
 			"city": "Razgrad",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.513582,
+			"lng": 26.536583,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 173,
@@ -574,10 +594,11 @@
 			"city": "Pleven",
 			"capacity": 25100,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.4125,
+			"lng": 24.608611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Pleven"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -602,10 +623,11 @@
 			"city": "Lovech",
 			"capacity": 7050,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.142639,
+			"lng": 24.724861,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Lovech)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -630,10 +652,11 @@
 			"city": "Radomir",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.538141,
+			"lng": 22.961660,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 173,
@@ -658,10 +681,11 @@
 			"city": "Balchik",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.408661,
+			"lng": 28.158354,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 173,
@@ -686,10 +710,11 @@
 			"city": "Plovdiv",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.155710,
+			"lng": 24.721091,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 173,
@@ -714,10 +739,11 @@
 			"city": "Montana",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.398611,
+			"lng": 23.225278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Ogosta"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -742,10 +768,11 @@
 			"city": "Dobrich",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.556028,
+			"lng": 27.826806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Druzhba_(Dobrich)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -770,10 +797,11 @@
 			"city": "Varna",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.218611,
+			"lng": 27.9125,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Spartak_(Varna)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -798,10 +826,11 @@
 			"city": "Vidin",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.993795,
+			"lng": 22.863510,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 173,
@@ -826,10 +855,11 @@
 			"city": "Gabrovo",
 			"capacity": 14000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.86,
+			"lng": 25.319722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Gabrovo)"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -854,10 +884,11 @@
 			"city": "Burgas",
 			"capacity": 18037,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.5125,
+			"lng": 27.470278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Lazur"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -882,10 +913,11 @@
 			"city": "Petrich",
 			"capacity": 9500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.389167,
+			"lng": 23.199444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Tsar_Samuil"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -910,10 +942,11 @@
 			"city": "Dupnitsa",
 			"capacity": 16050,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.275556,
+			"lng": 23.135556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Bonchuk"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -938,10 +971,11 @@
 			"city": "Svoge",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.962222,
+			"lng": 23.35,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Chavdar_Tsvetkov"
 		},
 		"league": {
 			"api_football_id": 173,
@@ -966,10 +1000,11 @@
 			"city": "Sofia",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 42.636639,
+			"lng": 23.315972,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arena_Tsarsko_Selo"
 		},
 		"league": {
 			"api_football_id": 173,

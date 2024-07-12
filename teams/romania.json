@@ -14,10 +14,11 @@
 			"city": "Bucureşti",
 			"capacity": 55611,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.437222,
+			"lng": 26.1525,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arena_Na%C8%9Bional%C4%83"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -42,10 +43,11 @@
 			"city": "Craiova",
 			"capacity": 30983,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.314,
+			"lng": 23.7843,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ion_Oblemenco_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -70,10 +72,11 @@
 			"city": "București",
 			"capacity": 8207,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.46889,
+			"lng": 26.07492,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arcul_de_Triumf_Stadium_(2021)"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -98,10 +101,11 @@
 			"city": "Cluj-Napoca",
 			"capacity": 23500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.779444,
+			"lng": 23.5775,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Dr._Constantin_R%C4%83dulescu_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -126,10 +130,11 @@
 			"city": "Voluntari",
 			"capacity": 4700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.499167,
+			"lng": 26.145556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Anghel_Iord%C4%83nescu_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -154,10 +159,11 @@
 			"city": "Sibiu",
 			"capacity": 13013,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.783056,
+			"lng": 24.143611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sibiu_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -182,10 +188,11 @@
 			"city": "Botoşani",
 			"capacity": 10600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.7483,
+			"lng": 26.6519,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Boto%C8%99ani_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -212,8 +219,9 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 47.184589,
+			"y": 27.561389,
+			"url": "https://en.wikipedia.org/wiki/Emil_Alexandrescu_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -238,10 +246,11 @@
 			"city": "Sfântu Gheorghe",
 			"capacity": 8400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.883611,
+			"lng": 25.806278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sepsi_Arena_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -266,10 +275,11 @@
 			"city": "Arad",
 			"capacity": 12700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.1925,
+			"lng": 21.311944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Francisc_von_Neuman_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -294,10 +304,11 @@
 			"city": "Mioveni",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.960278,
+			"lng": 24.940556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Or%C4%83%C8%99enesc_Stadium_(Mioveni)"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -322,10 +333,11 @@
 			"city": "Ovidiu",
 			"capacity": 4554,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.263889,
+			"lng": 28.555833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Gheorghe_Hagi_Academy)"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -350,10 +362,11 @@
 			"city": "Ploieşti",
 			"capacity": 15500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.940278,
+			"lng": 26.033333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ilie_Oan%C4%83_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -378,10 +391,11 @@
 			"city": "Cluj-Napoca",
 			"capacity": 30596,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.768333,
+			"lng": 23.572222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Cluj_Arena"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -406,10 +420,11 @@
 			"city": "Miercurea Ciuc",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.366944,
+			"lng": 25.802917,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Miercurea_Ciuc_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -434,10 +449,11 @@
 			"city": "București",
 			"capacity": 14073,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.455833,
+			"lng": 26.056944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rapid-Giule%C8%99ti_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -462,10 +478,11 @@
 			"city": "Galaţi",
 			"capacity": 13932,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.430194,
+			"lng": 28.022389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/O%C8%9Belul_Stadium_(1982)"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -490,10 +507,11 @@
 			"city": "Craiova",
 			"capacity": 30983,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.314,
+			"lng": 23.7843,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ion_Oblemenco_Stadium"
 		},
 		"league": {
 			"api_football_id": 283,
@@ -518,10 +536,11 @@
 			"city": "Chiajna",
 			"capacity": 5123,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.462778,
+			"lng": 25.975278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Concordia_Stadium_(Chiajna)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -546,10 +565,11 @@
 			"city": "Târgovişte",
 			"capacity": 8400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.931389,
+			"lng": 25.462222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Eugen_Popescu_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -574,10 +594,11 @@
 			"city": "Mioveni",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.960278,
+			"lng": 24.940556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Or%C4%83%C8%99enesc_Stadium_(Mioveni)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -602,10 +623,11 @@
 			"city": "Mioveni",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.960278,
+			"lng": 24.940556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Or%C4%83%C8%99enesc_Stadium_(Mioveni)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -630,10 +652,11 @@
 			"city": "Târgu Jiu",
 			"capacity": 12518,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.043639,
+			"lng": 23.270056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Constantina_Di%C8%9B%C4%83-Tomescu_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -658,10 +681,11 @@
 			"city": "Clinceni",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.377778,
+			"lng": 25.940833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Clinceni_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -686,10 +710,11 @@
 			"city": "Reşiţa",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.281667,
+			"lng": 21.889722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mircea_Chivu_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -714,10 +739,11 @@
 			"city": "Miercurea Ciuc",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.366944,
+			"lng": 25.802917,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Miercurea_Ciuc_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -742,10 +768,11 @@
 			"city": "Buzău",
 			"capacity": 13400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.146028,
+			"lng": 26.803333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Buz%C4%83u_Municipal_Stadium_(Cr%C3%A2ng_Stadium)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -770,10 +797,11 @@
 			"city": "Turnu Măgurele",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 43.760133,
+			"lng": 24.877442,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Turnu_M%C4%83gurele_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -798,10 +826,11 @@
 			"city": "Piatra Neamţ",
 			"capacity": 17500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.938525,
+			"lng": 26.355742,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ceahl%C4%83ul_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -826,10 +855,11 @@
 			"city": "Buftea",
 			"capacity": 450,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.547939,
+			"lng": 25.980362,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 284,
@@ -854,10 +884,11 @@
 			"city": "Slatina",
 			"capacity": 14059,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.423194,
+			"lng": 24.35,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/May_1_Stadium_(Slatina)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -882,10 +913,11 @@
 			"city": "Tunari",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.551944,
+			"lng": 26.142222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tunari_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -910,10 +942,11 @@
 			"city": "Dej",
 			"capacity": 6000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.14725,
+			"lng": 23.872278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Unirea_Stadium_(Dej)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -938,10 +971,11 @@
 			"city": "Slobozia",
 			"capacity": 6000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.56,
+			"lng": 27.373889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/May_1_Stadium_(Slobozia)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -966,10 +1000,11 @@
 			"city": "Cisnădie",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.710266,
+			"lng": 24.153314,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 284,
@@ -994,10 +1029,11 @@
 			"city": "București",
 			"capacity": 31254,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 44.412778,
+			"lng": 26.040556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Steaua_Stadium_(2021)"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -1022,10 +1058,11 @@
 			"city": "Dumbrăvița",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.799167,
+			"lng": 21.249778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C8%98tefan_Dobay_Stadium"
 		},
 		"league": {
 			"api_football_id": 284,
@@ -1050,10 +1087,11 @@
 			"city": "Hunedoara",
 			"capacity": 16500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 45.761639,
+			"lng": 22.912972,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Michael_Klein_Stadium_(1960)"
 		},
 		"league": {
 			"api_football_id": 284,

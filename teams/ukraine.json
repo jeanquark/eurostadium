@@ -1,0 +1,1162 @@
+[
+	{
+		"team": {
+			"api_football_id": 550,
+			"name": "Shakhtar Donetsk",
+			"code": "SHA",
+			"country": "Ukraine",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 20114,
+			"name": "NSK Olimpiiskyi",
+			"address": "vul. Velyka Vasylkivska 55",
+			"city": "Kiev",
+			"capacity": 70050,
+			"surface": "grass",
+			"lat": 50.433361,
+			"lng": 30.521861,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Olimpiyskiy_National_Sports_Complex"
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 572,
+			"name": "Dynamo Kyiv",
+			"code": "DIN",
+			"country": "Ukraine",
+			"founded": 1927
+		},
+		"venue": {
+			"api_football_id": 20113,
+			"name": "Stadion Dynamo im. Valeriy Lobanovskyi",
+			"address": "vul. Hrushevskoho 3",
+			"city": "Kiev",
+			"capacity": 16873,
+			"surface": "grass",
+			"lat": 50.450278,
+			"lng": 30.535278,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi_Dynamo_Stadium"
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 599,
+			"name": "Zorya Luhansk",
+			"code": "ZOR",
+			"country": "Ukraine",
+			"founded": 1923
+		},
+		"venue": {
+			"api_football_id": 20196,
+			"name": "Stadion Livyi Bereh",
+			"address": "vul. Sportyvna 8, Mlynovo",
+			"city": "Kiev",
+			"capacity": 4700,
+			"surface": "artificial turf",
+			"lat": 50.069148,
+			"lng": 31.450783,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 1121,
+			"name": "Vorskla Poltava",
+			"code": "VOR",
+			"country": "Ukraine",
+			"founded": 1955
+		},
+		"venue": {
+			"api_football_id": 20115,
+			"name": "Stadion Vorskla im. Oleksiya Butovskoho",
+			"address": "pl. Maydan Nezalezhnosti 16",
+			"city": "Poltava",
+			"capacity": 24795,
+			"surface": "grass",
+			"lat": 49.594833,
+			"lng": 34.549444,
+			"x": 0,
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Oleksiy_Butovsky_Vorskla_Stadium"
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 3615,
+			"name": "Chornomorets",
+			"code": "ODE",
+			"country": "Ukraine",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 2418,
+			"name": "Stadion Chornomorets",
+			"address": "vul. Marazliivska",
+			"city": "Odessa",
+			"capacity": 34164,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 3619,
+			"name": "Oleksandria",
+			"code": "OLE",
+			"country": "Ukraine",
+			"founded": 1991
+		},
+		"venue": {
+			"api_football_id": 20747,
+			"name": "CSC Nika",
+			"address": "vul. Shevchenka 58-6",
+			"city": "Aleksandriya",
+			"capacity": 7000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 3623,
+			"name": "Dnipro-1",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2017
+		},
+		"venue": {
+			"api_football_id": 20748,
+			"name": "Dnipro Arena",
+			"address": "vul. Khersonska 7",
+			"city": "Dnipro",
+			"capacity": 31003,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 3627,
+			"name": "Kolos Kovalivka",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20120,
+			"name": "Stadion Kolos",
+			"address": "vul. Dachna",
+			"city": "Kovalivka",
+			"capacity": 5050,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 3628,
+			"name": "Metalist 1925 Kharkiv",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 20196,
+			"name": "Stadion Livyi Bereh",
+			"address": "vul. Sportyvna 8, Mlynovo",
+			"city": "Kiev",
+			"capacity": 4700,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 3630,
+			"name": "Obolon'-Brovar",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 20122,
+			"name": "Obolon Arena",
+			"address": "vul. Pivnichna 26",
+			"city": "Kiev",
+			"capacity": 5103,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 3632,
+			"name": "Ruh Lviv",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20124,
+			"name": "Arena Lviv",
+			"address": "vul. Stryiska 199",
+			"city": "Lviv",
+			"capacity": 34915,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 4658,
+			"name": "Minai",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2015
+		},
+		"venue": {
+			"api_football_id": 3510,
+			"name": "Stadion Mynai",
+			"address": "Ploshcha Narodna 78",
+			"city": "Mynai",
+			"capacity": 1312,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 6489,
+			"name": "Kryvbas KR",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2001
+		},
+		"venue": {
+			"api_football_id": 11947,
+			"name": "Stadion SK Hirnyk",
+			"address": "vul. Svitlohirs&apos;ka",
+			"city": "Krivoj Rog",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 6496,
+			"name": "Polessya",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11948,
+			"name": "Tsentralnyi Stadion",
+			"address": "vul. Feshchenka-Chopivskoho 18",
+			"city": "Zhytomyr",
+			"capacity": 5928,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 6501,
+			"name": "Veres Rivne",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2018
+		},
+		"venue": {
+			"api_football_id": 20308,
+			"name": "Stadion Avanhard",
+			"address": "vul. Zamkova 34",
+			"city": "Rivne",
+			"capacity": 13000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 14434,
+			"name": "Epitsentr Dunayivtsi",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20140,
+			"name": "Stadion im. H.A. Tonkocheieva",
+			"address": "pr. Hrushevskoho 29",
+			"city": "Kamianets-Podilskyi",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 17161,
+			"name": "LNZ Cherkasy",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 12063,
+			"name": "Cherkasy Arena",
+			"address": "vul. Smilyanska 78",
+			"city": "Cherkasy",
+			"capacity": 10321,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 17162,
+			"name": "Livyi Bereh",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20196,
+			"name": "Stadion Livyi Bereh",
+			"address": "vul. Sportyvna 8, Mlynovo",
+			"city": "Kiev",
+			"capacity": 4700,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 333,
+			"name": "Premier League",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 3617,
+			"name": "Karpaty",
+			"code": "KAR",
+			"country": "Ukraine",
+			"founded": 1963
+		},
+		"venue": {
+			"api_football_id": 20119,
+			"name": "Stadion Ukraina",
+			"address": "vul. Lipova aleya 5",
+			"city": "Lviv",
+			"capacity": 28051,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 3620,
+			"name": "Ahrobiznes Volochysk",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20191,
+			"name": "Stadion Yunist",
+			"address": "vul. Lysenka 2",
+			"city": "Volochysk",
+			"capacity": 4000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 3624,
+			"name": "Hirnyk-Sport",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 1989
+		},
+		"venue": {
+			"api_football_id": 20192,
+			"name": "Stadion Yunist",
+			"address": "vul. Dobrovolskoho 4",
+			"city": "Horishni Plavni",
+			"capacity": 2500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 3625,
+			"name": "Inhulets",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2013
+		},
+		"venue": {
+			"api_football_id": 19774,
+			"name": "Stadion Inhulets",
+			"address": "28301",
+			"city": "Petrove",
+			"capacity": 1900,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 3631,
+			"name": "Prykarpattia",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 1998
+		},
+		"venue": {
+			"api_football_id": 20123,
+			"name": "Miskyi Tsentralnyi Stadion Rukh",
+			"address": "vul. Vyacheslav Chornovola 128",
+			"city": "Ivano-Frankivsk",
+			"capacity": 16000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 4657,
+			"name": "Kremin'",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 1959
+		},
+		"venue": {
+			"api_football_id": 3509,
+			"name": "Kremin'-Arena im. Olega Babaeva",
+			"address": "vul. Chkalova 6-A",
+			"city": "Kremenchuk",
+			"capacity": 2200,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 5627,
+			"name": "Metalurh Zaporizhya",
+			"code": "MET",
+			"country": "Ukraine",
+			"founded": 2009
+		},
+		"venue": {
+			"api_football_id": 1597,
+			"name": "Slavutych-Arena",
+			"address": "vul. Valeryia Lobanovskogo 21",
+			"city": "Zaporozhye",
+			"capacity": 11883,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 6486,
+			"name": "Bukovyna",
+			"code": "BUK",
+			"country": "Ukraine",
+			"founded": 1952
+		},
+		"venue": {
+			"api_football_id": 4761,
+			"name": "Stadion Bukovyna",
+			"address": "vul. Olhy Huzar 1",
+			"city": "Chernivtsi",
+			"capacity": 12076,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 6487,
+			"name": "Dinaz Vyshhorod",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 1999
+		},
+		"venue": {
+			"api_football_id": 12061,
+			"name": "Stadion Dinaz",
+			"address": "ul. Fastova",
+			"city": "Demidov",
+			"capacity": 2000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 6493,
+			"name": "Nyva Ternopil",
+			"code": "NYV",
+			"country": "Ukraine",
+			"founded": 2016
+		},
+		"venue": {
+			"api_football_id": 20125,
+			"name": "Ternopilskyi miskyi stadion im. Romana Shukhevycha",
+			"address": "vul. Stepana Bandery 15",
+			"city": "Ternopil",
+			"capacity": 15150,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 6495,
+			"name": "Podillya Khmelnytskyi",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20126,
+			"name": "Stadion Podillia",
+			"address": "vul. Prokurivska 83",
+			"city": "Khmelnytskyi",
+			"capacity": 10500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 13223,
+			"name": "Viktoriya Mykolaivka",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20771,
+			"name": "Stadion Yuvileinyi",
+			"address": "vul. Haharina 9",
+			"city": "Sumy",
+			"capacity": 25830,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 14433,
+			"name": "Chernihiv",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20194,
+			"name": "Stadion Yunist",
+			"address": "pr. Peremohy 110",
+			"city": "Chernihiv",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 14434,
+			"name": "Epitsentr Dunayivtsi",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20140,
+			"name": "Stadion im. H.A. Tonkocheieva",
+			"address": "pr. Hrushevskoho 29",
+			"city": "Kamianets-Podilskyi",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 14437,
+			"name": "Metal Kharkiv",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2020
+		},
+		"venue": {
+			"api_football_id": 10795,
+			"name": "Stadion Avanhard",
+			"address": "vul. Ivana Franka 1",
+			"city": "Uzhhorod",
+			"capacity": 10200,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 14441,
+			"name": "Yarud Mariupol'",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20316,
+			"name": "Stadion Kolos",
+			"address": "vul. Stadionna",
+			"city": "Boryspil",
+			"capacity": 5654,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 17162,
+			"name": "Livyi Bereh",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 20196,
+			"name": "Stadion Livyi Bereh",
+			"address": "vul. Sportyvna 8, Mlynovo",
+			"city": "Kiev",
+			"capacity": 4700,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	},
+	{
+		"team": {
+			"api_football_id": 17165,
+			"name": "SK Poltava",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2011
+		},
+		"venue": {
+			"api_football_id": 20004,
+			"name": "Stadion Molodizhnyy",
+			"address": "Zin&apos;kivs&apos;ka vul., 57",
+			"city": "Poltava",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 36
+	},
+	{
+		"team": {
+			"api_football_id": 21203,
+			"name": "Khust City",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19984,
+			"name": "Stadion Karpaty",
+			"address": "Vulytsya Borkanyuka, 15",
+			"city": "Khust",
+			"capacity": 1000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 37
+	},
+	{
+		"team": {
+			"api_football_id": 21319,
+			"name": "Nyva Buzova",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19985,
+			"name": "Stadion Yuvilejnyj",
+			"address": null,
+			"city": "Bucha",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 38
+	},
+	{
+		"team": {
+			"api_football_id": 21321,
+			"name": "Zvyahel",
+			"code": null,
+			"country": "Ukraine",
+			"founded": 2007
+		},
+		"venue": {
+			"api_football_id": 19658,
+			"name": "Stadion Avanhard",
+			"address": "vul. Zhytomyrska 13",
+			"city": "Zviahel",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 39
+	},
+	{
+		"team": {
+			"api_football_id": 21957,
+			"name": "UCSA",
+			"code": null,
+			"country": "Ukraine",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": null,
+			"name": null,
+			"address": null,
+			"city": null,
+			"capacity": null,
+			"surface": null,
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0,
+			"url": ""
+		},
+		"league": {
+			"api_football_id": 334,
+			"name": "Persha Liga",
+			"country": "Ukraine",
+			"api_football_country_id": 0
+		},
+		"no": 40
+	}
+]

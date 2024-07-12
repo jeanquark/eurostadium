@@ -400,13 +400,6 @@
         "api_football_country_id": 0
     },
     {
-        "name": "Liga 1",
-        "slug": "liga_1",
-        "api_football_id": 394,
-        "country": "Moldova",
-        "api_football_country_id": 0
-    },
-    {
         "name": "First League",
         "slug": "first_league",
         "api_football_id": 172,
