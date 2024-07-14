@@ -12,8 +12,8 @@
 }
 
 .region:hover {
-    fill: #FF0000;
-    cursor: pointer;
+    /* fill: #FF0000; */
+    /* cursor: pointer; */
 }
 
 .city:hover {

@@ -69,7 +69,6 @@ const displayCountryTooltip = () => {
 
             const element = svgContent.getElementById(countryId)
             element.classList.add("hover")
-
         }
 
         const handleMouseLeave = (e) => {
@@ -79,7 +78,9 @@ const displayCountryTooltip = () => {
                 tooltip.style.display = 'none'
             }
             const countryId = e.target.id
+            console.log('countryId: ', countryId);
             const element = svgContent.getElementById(countryId)
+            console.log('element.classList: ', element.classList);
             element.classList.remove("hover")
         }
 
