@@ -14,10 +14,11 @@
 			"city": "Piraeus",
 			"capacity": 33296,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.946111,
+			"lng": 23.664444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Karaiskakis_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -42,10 +43,11 @@
 			"city": "Athens",
 			"capacity": 33000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.036947,
+			"lng": 23.741358,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Agia_Sophia_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -70,10 +72,11 @@
 			"city": "Athens",
 			"capacity": 16620,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.987222,
+			"lng": 23.754167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Leoforos_Alexandras_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -98,10 +101,11 @@
 			"city": "Thessaloníki",
 			"capacity": 28803,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.613889,
+			"lng": 22.9725,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Toumba_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -126,10 +130,11 @@
 			"city": "Agrinio",
 			"capacity": 7200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.63,
+			"lng": 21.411667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Panetolikos_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -154,10 +159,11 @@
 			"city": "Ioannina",
 			"capacity": 7652,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.667647,
+			"lng": 20.848669,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://es.wikipedia.org/wiki/Estadio_Zosimades"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -182,10 +188,11 @@
 			"city": "Tripoli",
 			"capacity": 7717,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.5025,
+			"lng": 22.388611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Theodoros_Kolokotronis_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -210,10 +217,11 @@
 			"city": "Lamia",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.91,
+			"lng": 22.431111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lamia_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -238,10 +246,11 @@
 			"city": "Thessaloníki",
 			"capacity": 23220,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.6,
+			"lng": 22.969444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kleanthis_Vikelidis_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -266,10 +275,11 @@
 			"city": "Heraklion",
 			"capacity": 9000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.338056,
+			"lng": 25.114722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Theodoros_Vardinogiannis_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -294,10 +304,11 @@
 			"city": "Serres",
 			"capacity": 9500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.0847,
+			"lng": 23.5466,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Serres_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -322,10 +333,11 @@
 			"city": "Volos",
 			"capacity": 22700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.3875,
+			"lng": 22.931111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Panthessaliko_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -350,10 +362,11 @@
 			"city": "Athens",
 			"capacity": 4851,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.964250,
+			"lng": 23.775293,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 197,
@@ -378,10 +391,11 @@
 			"city": "Athens",
 			"capacity": 9035,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.004722,
+			"lng": 23.689722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Peristeri_Stadium"
 		},
 		"league": {
 			"api_football_id": 197,
@@ -406,10 +420,11 @@
 			"city": "Larissa",
 			"capacity": 16118,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.61561,
+			"lng": 22.39949,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/AEL_FC_Arena"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -434,10 +449,11 @@
 			"city": "Levadia",
 			"capacity": 5915,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.435897,
+			"lng": 22.882844,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Levadia_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -462,10 +478,11 @@
 			"city": "Karditsa",
 			"capacity": 4600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.362552,
+			"lng": 21.935127,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Municipal_Stadium_of_Karditsa"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -490,10 +507,11 @@
 			"city": "Athens",
 			"capacity": 4250,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.9601,
+			"lng": 23.7151,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Grigoris_Lamprakis_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -518,10 +536,11 @@
 			"city": "Perivolia",
 			"capacity": 4527,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.487260,
+			"lng": 24.000509,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -546,10 +565,11 @@
 			"city": "Thessaloníki",
 			"capacity": 6500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.581475,
+			"lng": 22.945114,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kalamaria_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -574,10 +594,11 @@
 			"city": "Patras",
 			"capacity": 11321,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.261667,
+			"lng": 21.745833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kostas_Davourlis_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -602,10 +623,11 @@
 			"city": "Mytilene",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.097819,
+			"lng": 26.554267,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mytilene_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -630,10 +652,11 @@
 			"city": "Kalamata",
 			"capacity": 5613,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.041370,
+			"lng": 22.120933,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -658,10 +681,11 @@
 			"city": "Volos",
 			"capacity": 22700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.3875,
+			"lng": 22.931111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Panthessaliko_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -686,10 +710,11 @@
 			"city": "Lefkas",
 			"capacity": 3300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.829245,
+			"lng": 20.699236,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -714,10 +739,11 @@
 			"city": "Rodos",
 			"capacity": 3693,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 36.438228,
+			"lng": 28.228233,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Diagoras_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -742,10 +768,11 @@
 			"city": "Athens",
 			"capacity": 8217,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.987169,
+			"lng": 23.676011,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stavros_Mavrothalassitis_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -770,10 +797,11 @@
 			"city": "Athens",
 			"capacity": 4999,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.977122,
+			"lng": 23.635,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Neapoli_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -798,10 +826,11 @@
 			"city": "Aridaea",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.968821,
+			"lng": 22.065427,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -826,10 +855,11 @@
 			"city": "Thessaloníki",
 			"capacity": 8100,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.677778,
+			"lng": 22.950278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Makedonikos_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -854,10 +884,11 @@
 			"city": "Archanes",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.245466,
+			"lng": 25.165553,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -882,10 +913,11 @@
 			"city": "Athens",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.930688,
+			"lng": 23.746332,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -910,10 +942,11 @@
 			"city": "Kozani",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.293597,
+			"lng": 21.782669,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -938,10 +971,11 @@
 			"city": "Thessaloníki",
 			"capacity": 27770,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.625497,
+			"lng": 22.967003,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kaftanzoglio_Stadium"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -969,7 +1003,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -994,10 +1029,11 @@
 			"city": "Athens",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.970802,
+			"lng": 23.683007,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -1025,7 +1061,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
@@ -1050,10 +1087,11 @@
 			"city": "Athens",
 			"capacity": 71030,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.036068,
+			"lng": 23.7876,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Olympic_Stadium_(Athens)"
 		},
 		"league": {
 			"api_football_id": 494,
@@ -1078,10 +1116,11 @@
 			"city": "Chalastra",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.630269,
+			"lng": 22.741193,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 494,
