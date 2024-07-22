@@ -98,6 +98,20 @@
         "api_football_country_id": 0
     },
     {
+        "name": "1. Deild",
+        "slug": "1_deild",
+        "api_football_id": 366,
+        "country": "Faroe-Islands",
+        "api_football_country_id": 0
+    },
+    {
+        "name": "Meistaradeildin",
+        "slug": "meisteradeildin",
+        "api_football_id": 367,
+        "country": "Faroe-Islands",
+        "api_football_country_id": 0
+    },
+    {
         "name": "Superliga",
         "slug": "superliga",
         "api_football_id": 119,

@@ -1,0 +1,562 @@
+[
+	{
+		"team": {
+			"api_football_id": 682,
+			"name": "NSI Runavik",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1957
+		},
+		"venue": {
+			"api_football_id": 611,
+			"name": "við Løkin",
+			"address": null,
+			"city": "Runavík, Eysturoy",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 4176,
+			"name": "B71",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1970
+		},
+		"venue": {
+			"api_football_id": 3190,
+			"name": "inni í Dal",
+			"address": "Skopunarvegur",
+			"city": "Sandur, Sandoy",
+			"capacity": 350,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 4179,
+			"name": "HB II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 609,
+			"name": "Gundadalur",
+			"address": "Gundadalsvegur",
+			"city": "Tórshavn, Streymoy",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 4180,
+			"name": "KÍ II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 610,
+			"name": "Injector Arena",
+			"address": "Gerigota",
+			"city": "Klaksvík, Borðoy",
+			"capacity": 4000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 4183,
+			"name": "Víkingur II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 2008
+		},
+		"venue": {
+			"api_football_id": 612,
+			"name": "Sarpugerði",
+			"address": null,
+			"city": "Norðragøta, Eysturoy",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 4185,
+			"name": "B36 II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 609,
+			"name": "Gundadalur",
+			"address": "Gundadalsvegur",
+			"city": "Tórshavn, Streymoy",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 4190,
+			"name": "EB / Streymur II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 3191,
+			"name": "Við Margáir",
+			"address": "Frammi í Dal",
+			"city": "Streymnes, Streymoy",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 4191,
+			"name": "Skála",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 3196,
+			"name": "Undir Mýruhjalla",
+			"address": "Ítróttarhøllin",
+			"city": "Skáli, Eysturoy",
+			"capacity": 1500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 10076,
+			"name": "Hoyvík",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1975
+		},
+		"venue": {
+			"api_football_id": 7104,
+			"name": "Gundadalur Niðari Vøllur",
+			"address": "Gundadalsvegur",
+			"city": "Tórshavn, Streymoy",
+			"capacity": 500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 13467,
+			"name": "B68 II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1962
+		},
+		"venue": {
+			"api_football_id": 3194,
+			"name": "Svangaskarð (graslíkisvøllur)",
+			"address": "A Svangaskarði",
+			"city": "Toftir, Eysturoy",
+			"capacity": 1450,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 366,
+			"name": "1. Deild",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 580,
+			"name": "Vikingur Gota",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 2008
+		},
+		"venue": {
+			"api_football_id": 612,
+			"name": "Sarpugerði",
+			"address": null,
+			"city": "Norðragøta, Eysturoy",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 678,
+			"name": "B36 Torshavn",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1936
+		},
+		"venue": {
+			"api_football_id": 609,
+			"name": "Gundadalur",
+			"address": "Gundadalsvegur",
+			"city": "Tórshavn, Streymoy",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 701,
+			"name": "KI Klaksvik",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1905
+		},
+		"venue": {
+			"api_football_id": 610,
+			"name": "Injector Arena",
+			"address": "Gerigota",
+			"city": "Klaksvík, Borðoy",
+			"capacity": 4000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 4133,
+			"name": "HB",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 609,
+			"name": "Gundadalur",
+			"address": "Gundadalsvegur",
+			"city": "Tórshavn, Streymoy",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 4174,
+			"name": "07 Vestur",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 2004
+		},
+		"venue": {
+			"api_football_id": 3188,
+			"name": "á Dungasandi",
+			"address": "Heimasands vegur",
+			"city": "Sørvágur, Vágar",
+			"capacity": 500,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 4177,
+			"name": "EB / Streymur",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1993
+		},
+		"venue": {
+			"api_football_id": 3191,
+			"name": "Við Margáir",
+			"address": "Frammi í Dal",
+			"city": "Streymnes, Streymoy",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 4184,
+			"name": "AB",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1973
+		},
+		"venue": {
+			"api_football_id": 3189,
+			"name": "Skansi Arena",
+			"address": "Tradargøta",
+			"city": "Argir, Streymoy",
+			"capacity": 2000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 4186,
+			"name": "B68",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1962
+		},
+		"venue": {
+			"api_football_id": 3194,
+			"name": "Svangaskarð (graslíkisvøllur)",
+			"address": "A Svangaskarði",
+			"city": "Toftir, Eysturoy",
+			"capacity": 1450,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 4187,
+			"name": "ÍF II",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 3195,
+			"name": "á Fløtugerði",
+			"address": "Fløtugerði",
+			"city": "Fuglafjørður, Eysturoy",
+			"capacity": 3000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 4192,
+			"name": "TB",
+			"code": null,
+			"country": "Faroe-Islands",
+			"founded": 1892
+		},
+		"venue": {
+			"api_football_id": 3198,
+			"name": "Við Stórá Stadium",
+			"address": "14 Lynggøta",
+			"city": "Trongisvágur",
+			"capacity": 1000,
+			"surface": "artificial turf",
+			"lat": 0,
+			"lng": 0,
+			"x": 0,
+			"y": 0
+		},
+		"league": {
+			"api_football_id": 367,
+			"name": "Meistaradeildin",
+			"country": "Faroe-Islands",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	}
+]
