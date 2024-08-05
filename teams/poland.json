@@ -14,10 +14,11 @@
 			"city": "Białystok",
 			"capacity": 22372,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.105972,
+			"lng": 23.149306,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bia%C5%82ystok_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -42,10 +43,11 @@
 			"city": "Wrocław",
 			"capacity": 42771,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.141167,
+			"lng": 16.943778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Wroc%C5%82aw_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -70,10 +72,11 @@
 			"city": "Warszawa",
 			"capacity": 31103,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.220461,
+			"lng": 21.040628,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Polish_Army_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -98,10 +101,11 @@
 			"city": "Zabrze",
 			"capacity": 31871,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.296317,
+			"lng": 18.768564,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arena_Zabrze"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -126,10 +130,11 @@
 			"city": "Lubin",
 			"capacity": 16068,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.41395,
+			"lng": 16.198261,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lubin_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -154,10 +159,11 @@
 			"city": "Kielce",
 			"capacity": 15550,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.861389,
+			"lng": 20.624722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kielce_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -182,10 +188,11 @@
 			"city": "Poznań",
 			"capacity": 43269,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.3975,
+			"lng": 16.857778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Pozna%C5%84_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -210,10 +217,11 @@
 			"city": "Szczecin",
 			"capacity": 21163,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.436576,
+			"lng": 14.518658,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Florian_Krygier_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -238,10 +246,11 @@
 			"city": "Gliwice",
 			"capacity": 9913,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.306583,
+			"lng": 18.695866,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Piotr_Wieczorek_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -266,10 +275,11 @@
 			"city": "Kraków",
 			"capacity": 15016,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.058056,
+			"lng": 19.919722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski_Cracovia_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -294,10 +304,11 @@
 			"city": "Kraków",
 			"capacity": 15016,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.058056,
+			"lng": 19.919722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski_Cracovia_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -322,10 +333,11 @@
 			"city": "Częstochowa",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.776748,
+			"lng": 19.159229,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rak%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -350,10 +362,11 @@
 			"city": "Mielec",
 			"capacity": 6864,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.298611,
+			"lng": 21.435833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mielec_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -378,10 +391,11 @@
 			"city": "Grodzisk Wielkopolski",
 			"capacity": 5383,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.229031,
+			"lng": 16.378128,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Dyskobolia_Grodzisk_Wielkopolski_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -406,10 +420,11 @@
 			"city": "Łódź",
 			"capacity": 18033,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.757639,
+			"lng": 19.4275,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Kr%C3%B3l_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -434,10 +449,11 @@
 			"city": "Radom",
 			"capacity": 8840,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.396444,
+			"lng": 21.146222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Czachor_Brothers_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -462,10 +478,11 @@
 			"city": "Chorzów",
 			"capacity": 55211,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.288333,
+			"lng": 18.973056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Silesian_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -490,10 +507,11 @@
 			"city": "Łódź",
 			"capacity": 18018,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.765,
+			"lng": 19.511667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Widzew_%C5%81%C3%B3d%C5%BA_Stadium"
 		},
 		"league": {
 			"api_football_id": 106,
@@ -518,10 +536,11 @@
 			"city": "Legnica",
 			"capacity": 6244,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.20361111,
+			"lng": -16.17,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://fr.wikipedia.org/wiki/Stade_municipal_de_Legnica"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -546,10 +565,11 @@
 			"city": "Kraków",
 			"capacity": 33268,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.063611,
+			"lng": 19.911944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Henryk_Reyman_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -577,7 +597,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -605,7 +626,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -633,7 +655,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -661,7 +684,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -689,7 +713,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -717,7 +742,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -745,7 +771,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -773,7 +800,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -801,7 +829,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -829,7 +858,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -857,7 +887,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -885,7 +916,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -913,7 +945,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -941,7 +974,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -969,7 +1003,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,
@@ -997,7 +1032,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 107,

@@ -17,7 +17,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -45,7 +46,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -73,7 +75,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -101,7 +104,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -129,7 +133,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -157,7 +162,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 271,
@@ -182,10 +188,11 @@
 			"city": "Debrecen",
 			"capacity": 20340,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.553889,
+			"lng": 21.633333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nagyerdei_Stadion"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -210,10 +217,11 @@
 			"city": "Miskolc",
 			"capacity": 15325,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.099444,
+			"lng": 20.717222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Di%C3%B3sgy%C5%91ri_Stadion"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -238,10 +246,11 @@
 			"city": "Kisvárda",
 			"capacity": 3385,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.225434,
+			"lng": 22.087968,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/V%C3%A1rkerti_Stadion"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -266,10 +275,11 @@
 			"city": "Budapest",
 			"capacity": 5322,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.490833,
+			"lng": 19.106667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Hidegkuti_N%C3%A1ndor_Stadion"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -294,10 +304,11 @@
 			"city": "Zalaegerszeg",
 			"capacity": 11200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.848611,
+			"lng": 16.848611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ZTE_Arena"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -322,10 +333,11 @@
 			"city": "Kecskemét",
 			"capacity": 6296,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.901389,
+			"lng": 19.668889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sz%C3%A9kt%C3%B3i_Stadion"
 		},
 		"league": {
 			"api_football_id": 271,
@@ -350,10 +362,11 @@
 			"city": "Budapest",
 			"capacity": 8200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.4425,
+			"lng": 19.155,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bozsik_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -378,10 +391,11 @@
 			"city": "Budapest",
 			"capacity": 5054,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.536978,
+			"lng": 19.080473,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Illovszky_Rudolf_Stadion"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -406,10 +420,11 @@
 			"city": "Szombathely",
 			"capacity": 8903,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.234762,
+			"lng": 16.607117,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Halad%C3%A1s_Sportkomplexum"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -434,10 +449,11 @@
 			"city": "Győr",
 			"capacity": 4578,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.6329,
+			"lng": 17.5927,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C3%A9nf%C5%91i_%C3%BAti_Stadion"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -462,10 +478,11 @@
 			"city": "Budapest",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.421717,
+			"lng": 19.028208,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Promontor_utcai_Stadion"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -490,10 +507,11 @@
 			"city": "Győr",
 			"capacity": 16000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.695769,
+			"lng": 17.663827,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ETO_Park"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -518,10 +536,11 @@
 			"city": "Balmazújváros",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.611561,
+			"lng": 21.349071,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Balmaz%C3%BAjv%C3%A1rosi_V%C3%A1rosi_Sportp%C3%A1lya"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -546,10 +565,11 @@
 			"city": "Budapest",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.390074,
+			"lng": 19.112656,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 272,
@@ -574,10 +594,11 @@
 			"city": "Csákvár",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.401305,
+			"lng": 18.468090,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 272,
@@ -602,10 +623,11 @@
 			"city": "Kazincbarcika",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.243889,
+			"lng": 20.610278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kolorcity_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -630,10 +652,11 @@
 			"city": "Mosonmagyaróvár",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.884694,
+			"lng": 17.276806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Wittmann_Antal_park"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -658,10 +681,11 @@
 			"city": "Siófok",
 			"capacity": 6500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.909167,
+			"lng": 18.061389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/R%C3%A9v%C3%A9sz_G%C3%A9za_utcai_Stadion"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -686,10 +710,11 @@
 			"city": "Tiszakécske",
 			"capacity": 4500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.935173,
+			"lng": 20.105520,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 272,
@@ -714,10 +739,11 @@
 			"city": "Szeged",
 			"capacity": 8256,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.261361,
+			"lng": 20.118139,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Szent_Gell%C3%A9rt_F%C3%B3rum"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -742,10 +768,11 @@
 			"city": "Kozármisleny",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.037912,
+			"lng": 18.290157,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 272,
@@ -770,10 +797,11 @@
 			"city": "Ajka",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.110337,
+			"lng": 17.548335,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 272,
@@ -798,10 +826,11 @@
 			"city": "Budapest",
 			"capacity": 9000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.523611,
+			"lng": 19.091667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sz%C5%91nyi_%C3%BAti_Stadion"
 		},
 		"league": {
 			"api_football_id": 272,
@@ -826,10 +855,11 @@
 			"city": "Pécs",
 			"capacity": 9884,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 46.068497,
+			"lng": 18.195891,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_PMFC"
 		},
 		"league": {
 			"api_football_id": 272,
