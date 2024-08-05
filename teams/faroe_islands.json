@@ -14,10 +14,11 @@
 			"city": "Runavík, Eysturoy",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.105833,
+			"lng": -6.723333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_L%C3%B8kin"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -42,10 +43,11 @@
 			"city": "Sandur, Sandoy",
 			"capacity": 350,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.86,
+			"lng": -6.828889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Inni_%C3%AD_Dal"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -72,8 +74,9 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 62.019349,
+			"y": -6.781139,
+			"url": "https://en.wikipedia.org/wiki/Gundadalur"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -98,10 +101,11 @@
 			"city": "Klaksvík, Borðoy",
 			"capacity": 4000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.225246,
+			"lng": -6.579201,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_Dj%C3%BApum%C3%BDrar"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -126,10 +130,11 @@
 			"city": "Norðragøta, Eysturoy",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.1995,
+			"lng": -6.7457,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sarpuger%C3%B0i"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -156,8 +161,9 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 62.019349,
+			"y": -6.781139,
+			"url": "https://en.wikipedia.org/wiki/Gundadalur"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -182,10 +188,11 @@
 			"city": "Streymnes, Streymoy",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.1941,
+			"lng": -7.0431,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_Marg%C3%A1ir"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -210,10 +217,11 @@
 			"city": "Skáli, Eysturoy",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.16,
+			"lng": -6.788611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Undir_M%C3%BDruhjalla"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -238,10 +246,11 @@
 			"city": "Tórshavn, Streymoy",
 			"capacity": 500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.019349,
+			"lng": -6.781139,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gundadalur#Ni%C3%B0ari_v%C3%B8llur"
 		},
 		"league": {
 			"api_football_id": 366,
@@ -269,7 +278,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 366,
@@ -297,7 +307,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 367,
@@ -324,8 +335,9 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 62.019349,
+			"y": -6.781139,
+			"url": "https://en.wikipedia.org/wiki/Gundadalur"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -350,10 +362,11 @@
 			"city": "Klaksvík, Borðoy",
 			"capacity": 4000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.225246,
+			"lng": -6.579201,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_Dj%C3%BApum%C3%BDrar"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -380,8 +393,9 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 62.019349,
+			"y": -6.781139,
+			"url": "https://en.wikipedia.org/wiki/Gundadalur"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -406,10 +420,11 @@
 			"city": "Sørvágur, Vágar",
 			"capacity": 500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.071583,
+			"lng": -7.310361,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%81_Dungasandi"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -434,10 +449,11 @@
 			"city": "Streymnes, Streymoy",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.1941,
+			"lng": -7.0431,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_Marg%C3%A1ir"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -462,10 +478,11 @@
 			"city": "Argir, Streymoy",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.995,
+			"lng": -6.802778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Inni_%C3%AD_Vika"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -490,10 +507,11 @@
 			"city": "Toftir, Eysturoy",
 			"capacity": 1450,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.099722,
+			"lng": -6.736111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Svangaskar%C3%B0"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -518,10 +536,11 @@
 			"city": "Fuglafjørður, Eysturoy",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.245018,
+			"lng": -6.814399,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%8D_Fl%C3%B8tuger%C3%B0i"
 		},
 		"league": {
 			"api_football_id": 367,
@@ -546,10 +565,11 @@
 			"city": "Trongisvágur",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.5623,
+			"lng": -6.8518,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Vi%C3%B0_St%C3%B3r%C3%A1"
 		},
 		"league": {
 			"api_football_id": 367,

@@ -14,10 +14,11 @@
 			"city": "Reykjavík",
 			"capacity": 2872,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.113333,
+			"lng": -21.792778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fylkisv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -42,10 +43,11 @@
 			"city": "Vestmannaeyjar",
 			"capacity": 3034,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.439414,
+			"lng": -20.28795,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/H%C3%A1steinsv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -70,10 +72,11 @@
 			"city": "Keflavík, Reykjanesbær",
 			"capacity": 4957,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.997997,
+			"lng": -22.559224,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 164,
@@ -98,10 +101,11 @@
 			"city": "Hafnarfjörður",
 			"capacity": 6738,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.075833,
+			"lng": -21.938611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kaplakriki"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -126,10 +130,11 @@
 			"city": "Reykjavík",
 			"capacity": 2801,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.145683,
+			"lng": -21.967728,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/KR-v%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -154,10 +159,11 @@
 			"city": "Akureyri",
 			"capacity": 1770,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 65.686083,
+			"lng": -18.095211,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Akureyrarv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -182,10 +188,11 @@
 			"city": "Reykjavík",
 			"capacity": 2489,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.132778,
+			"lng": -21.923611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Hl%C3%AD%C3%B0arendi_(stadium)"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -210,10 +217,11 @@
 			"city": "Garðabær",
 			"capacity": 2300,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.0875,
+			"lng": -21.928889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stj%C3%B6rnuv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -238,10 +246,11 @@
 			"city": "Kópavogur",
 			"capacity": 5501,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.103889,
+			"lng": -21.896667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/K%C3%B3pavogsv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -266,10 +275,11 @@
 			"city": "Reykjavík",
 			"capacity": 1613,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.116389,
+			"lng": -21.855139,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/V%C3%ADkingsv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -294,10 +304,11 @@
 			"city": "Kópavogur",
 			"capacity": 1452,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.082514,
+			"lng": -21.825144,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 164,
@@ -322,10 +333,11 @@
 			"city": "Reykjavík",
 			"capacity": 1600,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.1331,
+			"lng": -21.8908,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Framv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 164,
@@ -350,10 +362,11 @@
 			"city": "Reykjavík",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.13846,
+			"lng": -21.7882,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fj%C3%B6lnisv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 165,
@@ -378,10 +391,11 @@
 			"city": "Grindavík",
 			"capacity": 1750,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.844636,
+			"lng": -22.429628,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Grindav%C3%ADkurv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 165,
@@ -406,10 +420,11 @@
 			"city": "Akranes",
 			"capacity": 3054,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.317656,
+			"lng": -22.059753,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Akranesv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 165,
@@ -434,10 +449,11 @@
 			"city": "Reykjavík",
 			"capacity": 5478,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.143589,
+			"lng": -21.876011,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Valbjarnarv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 165,
@@ -462,10 +478,11 @@
 			"city": "Reykjavík",
 			"capacity": 1300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.1025,
+			"lng": -21.819444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Leiknisv%C3%B6llur"
 		},
 		"league": {
 			"api_football_id": 165,
@@ -490,10 +507,11 @@
 			"city": "Selfoss, Árborg",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.932715,
+			"lng": -20.992494,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -518,10 +536,11 @@
 			"city": "Akureyri",
 			"capacity": 1550,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 65.690502,
+			"lng": -18.119133,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -546,10 +565,11 @@
 			"city": "Seltjarnarnes",
 			"capacity": 1050,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.150146,
+			"lng": -21.995744,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -574,10 +594,11 @@
 			"city": "Njarðvík, Reykjanesbær",
 			"capacity": 2880,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.993784,
+			"lng": -22.561167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -602,10 +623,11 @@
 			"city": "Mosfellsbær",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 64.169166,
+			"lng": -21.685905,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -630,10 +652,11 @@
 			"city": "Hnífsdalur, Ísafjarðabær",
 			"capacity": 800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 66.072862,
+			"lng": -23.135986,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,
@@ -658,10 +681,11 @@
 			"city": "Þorlákshöfn",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.851193,
+			"lng": -21.380244,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 165,

@@ -14,10 +14,11 @@
 			"city": "Ta&apos;Qali",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.896667,
+			"lng": 14.415556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Centenary_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -42,10 +43,11 @@
 			"city": "Hamrun",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.887373,
+			"lng": 14.492521,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Victor_Tedesco_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -70,10 +72,11 @@
 			"city": "Ta&apos;Qali",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.896667,
+			"lng": 14.415556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Centenary_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -98,10 +101,11 @@
 			"city": "Birkirkara",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.895267,
+			"lng": 14.458855,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 393,
@@ -126,10 +130,11 @@
 			"city": "Pembroke",
 			"capacity": 800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.923889,
+			"lng": 14.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Luxol_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -154,10 +159,11 @@
 			"city": "Paola",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.883056,
+			"lng": 14.513056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tony_Bezzina_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -182,10 +188,11 @@
 			"city": "Ta&apos;Qali",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.896667,
+			"lng": 14.415556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Centenary_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -210,10 +217,11 @@
 			"city": "Gudja",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.851470,
+			"lng": 14.505987,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 393,
@@ -238,10 +246,11 @@
 			"city": "St. Paul&apos;s Bay",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.9453,
+			"lng": 14.4148,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sirens_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -266,10 +275,11 @@
 			"city": "Floriana",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.894444,
+			"lng": 14.505278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Independence_Arena_(Floriana)"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -294,10 +304,11 @@
 			"city": "Hamrun",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.887373,
+			"lng": 14.492521,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Victor_Tedesco_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -322,10 +333,11 @@
 			"city": "Mosta",
 			"capacity": 600,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.904722,
+			"lng": 14.434722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Charles_Abela_Memorial_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -350,10 +362,11 @@
 			"city": "Paola",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.883056,
+			"lng": 14.513056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tony_Bezzina_Stadium"
 		},
 		"league": {
 			"api_football_id": 393,
@@ -378,10 +391,11 @@
 			"city": "Marsaxlokk",
 			"capacity": 150,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.836433,
+			"lng": 14.543485,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 393,
@@ -406,10 +420,11 @@
 			"city": "Hamrun",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.887373,
+			"lng": 14.492521,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Victor_Tedesco_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -434,10 +449,11 @@
 			"city": "Lija",
 			"capacity": 500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.899663,
+			"lng": 14.447742,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -462,10 +478,11 @@
 			"city": "Hamrun",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.887373,
+			"lng": 14.492521,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Victor_Tedesco_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -490,10 +507,11 @@
 			"city": "Pembroke",
 			"capacity": 800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.923889,
+			"lng": 14.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Luxol_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -518,10 +536,11 @@
 			"city": "Pembroke",
 			"capacity": 800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.923889,
+			"lng": 14.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Luxol_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -546,10 +565,11 @@
 			"city": "Città Rohan",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.874936,
+			"lng": 14.442469,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -574,10 +594,11 @@
 			"city": "Zejtun",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.851783,
+			"lng": 14.535056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -602,10 +623,11 @@
 			"city": "Pembroke",
 			"capacity": 800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.923889,
+			"lng": 14.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Luxol_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -630,10 +652,11 @@
 			"city": "Pembroke",
 			"capacity": 400,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.930980,
+			"lng": 14.473785,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -658,10 +681,11 @@
 			"city": "Ħaż-Żabbar",
 			"capacity": 200,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.879226,
+			"lng": 14.529827,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -686,10 +710,11 @@
 			"city": "Ta&apos;Qali",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.896667,
+			"lng": 14.415556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Centenary_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -714,10 +739,11 @@
 			"city": "Tarxien",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.868552,
+			"lng": 14.512859,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -742,10 +768,11 @@
 			"city": "Hamrun",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.887373,
+			"lng": 14.492521,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Victor_Tedesco_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -770,10 +797,11 @@
 			"city": "Zurrieq",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.840445,
+			"lng": 14.475771,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 392,
@@ -798,10 +826,11 @@
 			"city": "Pembroke",
 			"capacity": 800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.923889,
+			"lng": 14.475278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Luxol_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,
@@ -826,10 +855,11 @@
 			"city": "St. Paul&apos;s Bay",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.9453,
+			"lng": 14.4148,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sirens_Stadium"
 		},
 		"league": {
 			"api_football_id": 392,

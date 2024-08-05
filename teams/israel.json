@@ -14,10 +14,11 @@
 			"city": "Beer Sheva",
 			"capacity": 16126,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.27315,
+			"lng": 34.779361,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Turner_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -42,10 +43,11 @@
 			"city": "Tel-Aviv",
 			"capacity": 29400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.051728,
+			"lng": 34.761439,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -70,10 +72,11 @@
 			"city": "Jerusalem",
 			"capacity": 33500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.751167,
+			"lng": 35.190617,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Teddy_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -98,10 +101,11 @@
 			"city": "Haifa",
 			"capacity": 30820,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.783111,
+			"lng": 34.965167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sammy_Ofer_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -126,10 +130,11 @@
 			"city": "Haifa",
 			"capacity": 30820,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.783111,
+			"lng": 34.965167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sammy_Ofer_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -154,10 +159,11 @@
 			"city": "Sakhnin",
 			"capacity": 8500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.866692,
+			"lng": 35.31085,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Doha_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -182,10 +188,11 @@
 			"city": "Jerusalem",
 			"capacity": 33500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.751167,
+			"lng": 35.190617,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Teddy_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -210,10 +217,11 @@
 			"city": "Petach-Tikva",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.104197,
+			"lng": 34.865078,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -238,10 +246,11 @@
 			"city": "Petach-Tikva",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.104197,
+			"lng": 34.865078,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -266,10 +275,11 @@
 			"city": "Netanya",
 			"capacity": 13610,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.294333,
+			"lng": 34.864575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Netanya_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -294,10 +304,11 @@
 			"city": "Tel-Aviv",
 			"capacity": 29400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.051728,
+			"lng": 34.761439,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -322,10 +333,11 @@
 			"city": "Netanya",
 			"capacity": 13610,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.294333,
+			"lng": 34.864575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Netanya_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -350,10 +362,11 @@
 			"city": "Ashdod",
 			"capacity": 7980,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.810278,
+			"lng": 34.648333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yud-Alef_Stadium"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -378,10 +391,11 @@
 			"city": "Nazareth Illit",
 			"capacity": 5200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.6898,
+			"lng": 35.311325,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Green_Stadium,_Nof_HaGalil"
 		},
 		"league": {
 			"api_football_id": 383,
@@ -406,10 +420,11 @@
 			"city": "Accre",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.907897,
+			"lng": 35.086067,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Acre_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -434,10 +449,11 @@
 			"city": "Afula",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.627222,
+			"lng": 35.317222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Afula_Illit_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -462,10 +478,11 @@
 			"city": "Nazareth Illit",
 			"capacity": 4480,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.6898,
+			"lng": 35.311325,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Green_Stadium,_Nof_HaGalil"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -490,10 +507,11 @@
 			"city": "Ramat Gan",
 			"capacity": 41583,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.100278,
+			"lng": 34.824167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ramat_Gan_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -520,8 +538,9 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0
+			"x": 32.130248,
+			"y": 34.858986,
+			"url": "https://en.wikipedia.org/wiki/Grundman_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -546,10 +565,11 @@
 			"city": "Rishon LeZion",
 			"capacity": 6900,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.974994,
+			"lng": 34.752839,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haberfeld_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -574,10 +594,11 @@
 			"city": "Umm al-Fahm",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.5332,
+			"lng": 35.1558,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/HaShalom_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -602,10 +623,11 @@
 			"city": "Kafr Qasim",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.126417,
+			"lng": 34.965694,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kfar_Qassem_Football_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -630,10 +652,11 @@
 			"city": "Kfar-Saba",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.181115,
+			"lng": 34.927071,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Levita_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -658,10 +681,11 @@
 			"city": "Petach-Tikva",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.104197,
+			"lng": 34.865078,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -686,10 +710,11 @@
 			"city": "Herzliya",
 			"capacity": 8300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.167839,
+			"lng": 34.824793,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Herzliya_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -714,10 +739,11 @@
 			"city": "Tel-Aviv",
 			"capacity": 29400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.051728,
+			"lng": 34.761439,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -742,10 +768,11 @@
 			"city": "Kiryat-Shmona",
 			"capacity": 5300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 33.208056,
+			"lng": 35.575694,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kiryat_Shmona_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -770,10 +797,11 @@
 			"city": "Tiberias",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.797028,
+			"lng": 35.521139,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tiberias_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -798,10 +826,11 @@
 			"city": "Ramla",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 31.924667,
+			"lng": 34.866528,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ramla_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 382,
@@ -826,10 +855,11 @@
 			"city": "Tira",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.237470,
+			"lng": 34.954232,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 382,
@@ -857,7 +887,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 382,

@@ -14,10 +14,11 @@
 			"city": "Kolossi",
 			"capacity": 10700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.693333,
+			"lng": 32.939167,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Alphamega_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -42,10 +43,11 @@
 			"city": "Larnaca",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.926389,
+			"lng": 33.597778,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/AEK_Arena_%E2%80%93_Georgios_Karapatakis"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -70,10 +72,11 @@
 			"city": "Levkosía",
 			"capacity": 22859,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.114528,
+			"lng": 33.362833,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/GSP_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -98,10 +101,11 @@
 			"city": "Larnaca",
 			"capacity": 10230,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.9375,
+			"lng": 33.620833,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Antonis_Papadopoulos_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -126,10 +130,11 @@
 			"city": "Kolossi",
 			"capacity": 10700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.693333,
+			"lng": 32.939167,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Alphamega_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -154,10 +159,11 @@
 			"city": "Peristerona",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.129167,
+			"lng": 33.083889,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Katokopia_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -182,10 +188,11 @@
 			"city": "Larnaca",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.929722,
+			"lng": 33.613056,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Ammochostos_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -210,10 +217,11 @@
 			"city": "Levkosía",
 			"capacity": 22859,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.114528,
+			"lng": 33.362833,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/GSP_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -238,10 +246,11 @@
 			"city": "Paphos",
 			"capacity": 9394,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.769186,
+			"lng": 32.440144,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Stelios_Kyriakides_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -266,10 +275,11 @@
 			"city": "Parekklisia",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.736200,
+			"lng": 33.160754,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 318,
@@ -294,10 +304,11 @@
 			"city": "Kolossi",
 			"capacity": 10700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.693333,
+			"lng": 32.939167,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Alphamega_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -322,10 +333,11 @@
 			"city": "Dasaki Achnas",
 			"capacity": 5422,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.033889,
+			"lng": 33.765,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Dasaki_Stadium"
 		},
 		"league": {
 			"api_football_id": 318,
@@ -350,10 +362,11 @@
 			"city": "Pano Polemidia",
 			"capacity": 1500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.702019,
+			"lng": 32.988743,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 318,
@@ -378,10 +391,11 @@
 			"city": "Athienou",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.062024,
+			"lng": 33.532742,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 318,
@@ -406,10 +420,11 @@
 			"city": "Paralímni",
 			"capacity": 5800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.030833,
+			"lng": 33.987222,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Paralimni_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -434,10 +449,11 @@
 			"city": "Aradippou",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.948599,
+			"lng": 33.587935,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -462,10 +478,11 @@
 			"city": "Larnaca",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.926389,
+			"lng": 33.597778,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/AEK_Arena_%E2%80%93_Georgios_Karapatakis"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -490,10 +507,11 @@
 			"city": "Chloraka",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.7924,
+			"lng": 32.4126,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Chloraka_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -518,10 +536,11 @@
 			"city": "Agia Napa",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.993504,
+			"lng": 34.006609,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -546,10 +565,11 @@
 			"city": "Nisou",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.018440,
+			"lng": 33.396129,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -574,10 +594,11 @@
 			"city": "Lefkosía",
 			"capacity": 16000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.146111,
+			"lng": 33.314444,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Makario_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -602,10 +623,11 @@
 			"city": "Aradippou",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.948599,
+			"lng": 33.587935,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -630,10 +652,11 @@
 			"city": "Strovolos",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.132749,
+			"lng": 33.318033,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -658,10 +681,11 @@
 			"city": "Lefkosía",
 			"capacity": 16000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.146111,
+			"lng": 33.314444,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Makario_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -686,10 +710,11 @@
 			"city": "Ypsonas",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.679135,
+			"lng": 32.955103,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -714,10 +739,11 @@
 			"city": "Polis Chrysochous",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.038066,
+			"lng": 32.432488,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -742,10 +768,11 @@
 			"city": "Peyia",
 			"capacity": 3828,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 34.874834,
+			"lng": 32.382491,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
@@ -770,10 +797,11 @@
 			"city": "Dasaki Achnas",
 			"capacity": 5422,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.033889,
+			"lng": 33.765,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Dasaki_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -798,10 +826,11 @@
 			"city": "Lefkosía",
 			"capacity": 16000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.146111,
+			"lng": 33.314444,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": "https://en.wikipedia.org/wiki/Makario_Stadium"
 		},
 		"league": {
 			"api_football_id": 319,
@@ -826,10 +855,11 @@
 			"city": "Sotira",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 35.024116,
+			"lng": 33.936502,
 			"x": 0,
-			"y": 0
+			"y": "",
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 319,
