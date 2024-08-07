@@ -14,10 +14,11 @@
 			"city": "Dudelange",
 			"capacity": 2558,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.472222,
+			"lng": 6.084722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Jos_Nosbaum"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -42,10 +43,11 @@
 			"city": "Esch-sur-Alzette",
 			"capacity": 3826,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.492222,
+			"lng": 5.989722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_%C3%89mile_Mayrisch"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -70,10 +72,11 @@
 			"city": "Niedercorn",
 			"capacity": 2800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.5461,
+			"lng": 5.9034,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Jos_Haupert"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -98,10 +101,11 @@
 			"city": "Differdange",
 			"capacity": 2400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.51392,
+			"lng": 5.889765,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Municipal_de_la_Ville_de_Differdange"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -126,10 +130,11 @@
 			"city": "Luxembourg",
 			"capacity": 5814,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.604722,
+			"lng": 6.140278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Achille_Hammerel"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -154,10 +159,11 @@
 			"city": "Pétange",
 			"capacity": 2400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.557212,
+			"lng": 5.856485,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Municipal,_P%C3%A9tange"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -182,10 +188,11 @@
 			"city": "Rumelange",
 			"capacity": 2950,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.456824,
+			"lng": 6.033157,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,
@@ -210,10 +217,11 @@
 			"city": "Esch-sur-Alzette",
 			"capacity": 5400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.485833,
+			"lng": 5.976944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_de_la_Fronti%C3%A8re"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -238,10 +246,11 @@
 			"city": "Bascharage",
 			"capacity": 2500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.562735,
+			"lng": 5.905852,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,
@@ -266,10 +275,11 @@
 			"city": "Strossen",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.617838,
+			"lng": 6.071651,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,
@@ -294,10 +304,11 @@
 			"city": "Mondorf-les-Bains",
 			"capacity": 3600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.686868,
+			"lng": 6.448519,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Stade_John_Gr%C3%BCn"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -322,10 +333,11 @@
 			"city": "Rosport",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.80846,
+			"lng": 6.505675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/VictoriArena"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -350,10 +362,11 @@
 			"city": "Hostert",
 			"capacity": 1500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.659225,
+			"lng": 6.227982,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Stade_Jos_Becker"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -378,10 +391,11 @@
 			"city": "Weidingen",
 			"capacity": 1200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.974083,
+			"lng": 5.941781,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Am_P%C3%ABtz"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -406,10 +420,11 @@
 			"city": "Hesperange",
 			"capacity": 3058,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.575111,
+			"lng": 6.157408,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Alphonse_Theis"
 		},
 		"league": {
 			"api_football_id": 261,
@@ -434,10 +449,11 @@
 			"city": "Mersch",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.748201,
+			"lng": 6.105889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,
@@ -462,10 +478,11 @@
 			"city": "Mondercange",
 			"capacity": 3304,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.545827,
+			"lng": 5.978261,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,
@@ -490,10 +507,11 @@
 			"city": "Schifflange",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.511053,
+			"lng": 6.015372,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 261,

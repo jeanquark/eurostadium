@@ -594,11 +594,11 @@
 			"city": "Płock",
 			"capacity": 15004,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.562004,
+			"lng": 19.684067,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Kazimierz_G%C3%B3rski_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -623,11 +623,11 @@
 			"city": "Sosnowiec",
 			"capacity": 11600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.2884,
+			"lng": 19.1707,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Zag%C5%82%C4%99biowski_Park_Sportowy"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -652,11 +652,11 @@
 			"city": "Gdańsk",
 			"capacity": 43615,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.39,
+			"lng": 18.640278,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -681,11 +681,11 @@
 			"city": "Gdynia",
 			"capacity": 15139,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.493136,
+			"lng": 18.531214,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Gdynia_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -710,8 +710,8 @@
 			"city": "Głogów",
 			"capacity": 2895,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.655985,
+			"lng": 16.096952,
 			"x": 0,
 			"y": 0,
 			"url": ""
@@ -739,11 +739,11 @@
 			"city": "Katowice",
 			"capacity": 10052,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.279747,
+			"lng": 19.001203,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/GKS_Katowice_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -768,11 +768,11 @@
 			"city": "Nieciecza",
 			"capacity": 4666,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.158361,
+			"lng": 20.849158,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Nieciecza_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -797,8 +797,8 @@
 			"city": "Opole",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.676287,
+			"lng": 17.932181,
 			"x": 0,
 			"y": 0,
 			"url": ""
@@ -826,11 +826,11 @@
 			"city": "Bielsko-Biała",
 			"capacity": 15292,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.817419,
+			"lng": 19.054267,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -855,11 +855,11 @@
 			"city": "Tychy",
 			"capacity": 15300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.1242,
+			"lng": 18.9906,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Tychy_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -884,11 +884,11 @@
 			"city": "Łęczna",
 			"capacity": 7464,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.301561,
+			"lng": 22.876035,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/%C5%81%C4%99czna_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -913,11 +913,11 @@
 			"city": "Rzeszów",
 			"capacity": 12700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.021440,
+			"lng": 21.996290,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Stal_Rzesz%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -942,11 +942,11 @@
 			"city": "Rzeszów",
 			"capacity": 12700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.021440,
+			"lng": 21.996290,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Stal_Rzesz%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -971,8 +971,8 @@
 			"city": "Pruszków",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.169081,
+			"lng": 20.813022,
 			"x": 0,
 			"y": 0,
 			"url": ""
@@ -1000,11 +1000,11 @@
 			"city": "Lublin",
 			"capacity": 15500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.232375,
+			"lng": 22.557465,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Arena_Lublin"
 		},
 		"league": {
 			"api_football_id": 107,
@@ -1029,11 +1029,11 @@
 			"city": "Warszawa",
 			"capacity": 7150,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.255497,
+			"lng": 21.001332,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Kazimierz_Sosnkowski_Stadium"
 		},
 		"league": {
 			"api_football_id": 107,
