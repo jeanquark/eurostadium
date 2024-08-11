@@ -14,10 +14,11 @@
 			"city": "Lommel",
 			"capacity": 12911,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.23916667,
+			"lng": 5.30611111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://fr.wikipedia.org/wiki/Stade_Soeverein"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -42,10 +43,11 @@
 			"city": "Heverlee",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.868333,
+			"lng": 4.694167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Den_Dreef"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -70,10 +72,11 @@
 			"city": "Westerlo",
 			"capacity": 8035,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.094817,
+			"lng": 4.928806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Het_Kuipje"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -98,10 +101,11 @@
 			"city": "Malines",
 			"capacity": 16715,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.037184,
+			"lng": 4.486397,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Achter_de_Kazerne"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -126,10 +130,11 @@
 			"city": "Brussel",
 			"capacity": 28063,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.834167,
+			"lng": 4.298333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Constant_Vanden_Stock_Stadium"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -154,10 +159,11 @@
 			"city": "Brugge",
 			"capacity": 29062,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.193333,
+			"lng": 3.180556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Jan_Breydel_Stadium"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -182,10 +188,11 @@
 			"city": "Gent",
 			"capacity": 20185,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.016111,
+			"lng": 3.734167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Planet_Group_Arena"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -210,10 +217,11 @@
 			"city": "Luik",
 			"capacity": 27670,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.61,
+			"lng": 5.543333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_Maurice_Dufrasne"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -238,10 +246,11 @@
 			"city": "Kortrijk",
 			"capacity": 9399,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.830432,
+			"lng": 3.248906,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Guldensporen_Stadion"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -266,10 +275,11 @@
 			"city": "St.-Trond",
 			"capacity": 14600,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.813474,
+			"lng": 5.166256,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stayen"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -294,10 +304,11 @@
 			"city": "Charleroi",
 			"capacity": 18000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.414609,
+			"lng": 4.453787,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_du_Pays_de_Charleroi"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -322,10 +333,11 @@
 			"city": "Eupen",
 			"capacity": 8363,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.626389,
+			"lng": 6.045833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kehrwegstadion"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -350,10 +362,11 @@
 			"city": "Deurne",
 			"capacity": 23057,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.2325,
+			"lng": 4.472222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bosuilstadion"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -378,10 +391,11 @@
 			"city": "Brugge",
 			"capacity": 29062,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.193333,
+			"lng": 3.180556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Jan_Breydel_Stadium"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -406,10 +420,11 @@
 			"city": "Genk",
 			"capacity": 24956,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.005,
+			"lng": 5.533333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Cegeka_Arena"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -434,10 +449,11 @@
 			"city": "Brussels",
 			"capacity": 9400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.817778,
+			"lng": 4.329167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Joseph_Marien_Stadium"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -462,10 +478,11 @@
 			"city": "Bruxelles",
 			"capacity": 15266,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.855,
+			"lng": 4.311,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Edmond_Machtens_Stadium"
 		},
 		"league": {
 			"api_football_id": 144,
@@ -490,10 +507,11 @@
 			"city": "Lommel",
 			"capacity": 12911,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.23916667,
+			"lng": 5.30611111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://fr.wikipedia.org/wiki/Stade_Soeverein"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -518,10 +536,11 @@
 			"city": "Anvers",
 			"capacity": 13405,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.185,
+			"lng": 4.382222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Olympisch_Stadion_(Antwerp)"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -546,10 +565,11 @@
 			"city": "Waregem",
 			"capacity": 12300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.883056,
+			"lng": 3.428889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Elindus_Arena"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -574,10 +594,11 @@
 			"city": "Oostende",
 			"capacity": 8432,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.2169,
+			"lng": 2.8865,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Diaz_Arena"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -602,10 +623,11 @@
 			"city": "Beveren",
 			"capacity": 8235,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.214139,
+			"lng": 4.243931,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Freethiel_Stadion"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -630,10 +652,11 @@
 			"city": "Boussu",
 			"capacity": 8500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.41333333,
+			"lng": 3.77916667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://fr.wikipedia.org/wiki/Stade_Robert_Urbain"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -658,10 +681,11 @@
 			"city": "Deinze",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.983844,
+			"lng": 3.520403,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://nl.wikipedia.org/wiki/Dakota_Arena"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -686,10 +710,11 @@
 			"city": "Denderleeuw",
 			"capacity": 6429,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.883683,
+			"lng": 4.071185,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Van_Roystadion"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -714,10 +739,11 @@
 			"city": "Lier",
 			"capacity": 14538,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.144167,
+			"lng": 4.573611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Herman_Vanderpoortenstadion"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -742,10 +768,11 @@
 			"city": "Ans",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.660198,
+			"lng": 5.527453,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 145,
@@ -770,10 +797,11 @@
 			"city": "Maasmechelen",
 			"capacity": 6490,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.99444444,
+			"lng": 5.70361111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://fr.wikipedia.org/wiki/Stade_du_Patro_Eisden"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -798,10 +826,11 @@
 			"city": "Seraing",
 			"capacity": 14326,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.600556,
+			"lng": 5.503611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stade_du_Pairay"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -826,10 +855,11 @@
 			"city": "Roulers",
 			"capacity": 9593,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.952013,
+			"lng": 3.105504,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Schiervelde_Stadion"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -854,10 +884,11 @@
 			"city": "Geel",
 			"capacity": 10524,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.1703,
+			"lng": 4.96834,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Leunen"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -882,10 +913,11 @@
 			"city": "Brussel",
 			"capacity": 28063,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.834167,
+			"lng": 4.298333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Constant_Vanden_Stock_Stadium"
 		},
 		"league": {
 			"api_football_id": 145,
@@ -913,7 +945,8 @@
 			"lat": 0,
 			"lng": 0,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 145,

@@ -14,10 +14,11 @@
 			"city": "İstanbul",
 			"capacity": 43500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.039167,
+			"lng": 28.994722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -42,10 +43,11 @@
 			"city": "İstanbul",
 			"capacity": 17319,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.122778,
+			"lng": 28.808611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ba%C5%9Fak%C5%9Fehir_Fatih_Terim_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -70,10 +72,11 @@
 			"city": "Konya",
 			"capacity": 42276,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.946,
+			"lng": 32.488,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Konya_Metropolitan_Municipality_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -98,10 +101,11 @@
 			"city": "İstanbul",
 			"capacity": 53586,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.987778,
+			"lng": 29.036944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -126,10 +130,11 @@
 			"city": "İstanbul",
 			"capacity": 52695,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.102778,
+			"lng": 28.990556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rams_Park"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -154,10 +159,11 @@
 			"city": "Alanya",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 36.5626,
+			"lng": 32.0792,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Alanya_Oba_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -182,10 +188,11 @@
 			"city": "Trabzon",
 			"capacity": 41513,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.999167,
+			"lng": 39.645833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%9Eenol_G%C3%BCne%C5%9F_Sports_Complex"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -210,10 +217,11 @@
 			"city": "Kayseri",
 			"capacity": 40458,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.737222,
+			"lng": 35.423056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kadir_Has_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -238,10 +246,11 @@
 			"city": "Sivas",
 			"capacity": 27532,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.728333,
+			"lng": 36.983889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/New_Sivas_4_Eyl%C3%BCl_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -266,10 +275,11 @@
 			"city": "İstanbul",
 			"capacity": 14234,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.03277778,
+			"lng": 28.97222222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -294,10 +304,11 @@
 			"city": "Antalya",
 			"capacity": 33032,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 36.88861111,
+			"lng": 30.66888889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Antalya_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -322,10 +333,11 @@
 			"city": "Rize",
 			"capacity": 15558,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.04202,
+			"lng": 40.5733,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rize_City_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -350,10 +362,11 @@
 			"city": "Ankara",
 			"capacity": 20560,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.980278,
+			"lng": 32.613889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Eryaman_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -378,10 +391,11 @@
 			"city": "Adana",
 			"capacity": 33543,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.063333,
+			"lng": 35.375,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/New_Adana_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -406,10 +420,11 @@
 			"city": "Gaziantep",
 			"capacity": 35558,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.123889,
+			"lng": 37.3825,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gaziantep_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -434,10 +449,11 @@
 			"city": "Mersin",
 			"capacity": 25534,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 36.820556,
+			"lng": 34.538611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mersin_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -462,10 +478,11 @@
 			"city": "İstanbul",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.024444,
+			"lng": 28.697778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Esenyurt_Necmi_Kad%C4%B1o%C4%9Flu_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -490,10 +507,11 @@
 			"city": "İstanbul",
 			"capacity": 76092,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.074444,
+			"lng": 28.765833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Atat%C3%BCrk_Olympic_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -518,10 +536,11 @@
 			"city": "İstanbul",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.888056,
+			"lng": 29.227778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Pendik_Stadyumu"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -546,10 +565,11 @@
 			"city": "Samsun",
 			"capacity": 34658,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.227778,
+			"lng": 36.4575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Samsun_19_May%C4%B1s_Stadium"
 		},
 		"league": {
 			"api_football_id": 203,
@@ -574,10 +594,11 @@
 			"city": "İzmir",
 			"capacity": 30035,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.396821,
+			"lng": 27.07595,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/G%C3%BCrsel_Aksel_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -602,10 +623,11 @@
 			"city": "Ankara",
 			"capacity": 20560,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.980278,
+			"lng": 32.613889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Eryaman_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -630,10 +652,11 @@
 			"city": "Erzurum",
 			"capacity": 23700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.911111,
+			"lng": 41.238056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kaz%C4%B1m_Karabekir_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -658,10 +681,11 @@
 			"city": "Adana",
 			"capacity": 33543,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.063333,
+			"lng": 35.375,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/New_Adana_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -686,10 +710,11 @@
 			"city": "İzmir",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.437289,
+			"lng": 27.150889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Alsancak_Mustafa_Denizli_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -714,10 +739,11 @@
 			"city": "Bolu",
 			"capacity": 8881,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.736306,
+			"lng": 31.60675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bolu_Atat%C3%BCrk_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -742,10 +768,11 @@
 			"city": "Giresun",
 			"capacity": 22028,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.889167,
+			"lng": 38.439167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%87otanak_Sports_Complex"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -770,10 +797,11 @@
 			"city": "İstanbul",
 			"capacity": 3513,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.058754,
+			"lng": 29.109389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 204,
@@ -798,10 +826,11 @@
 			"city": "Bodrum",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.040556,
+			"lng": 27.431667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://de.wikipedia.org/wiki/Bodrum_%C4%B0l%C3%A7e_Stadyumu"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -826,10 +855,11 @@
 			"city": "Bandırma",
 			"capacity": 12725,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.338056,
+			"lng": 27.984722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Band%C4%B1rma_17_Eyl%C3%BCl_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -854,10 +884,11 @@
 			"city": "İstanbul",
 			"capacity": 2367,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.0475,
+			"lng": 28.93,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 204,
@@ -882,10 +913,11 @@
 			"city": "Ankara",
 			"capacity": 4883,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.999158,
+			"lng": 32.880739,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ankara_Aktepe_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -910,10 +942,11 @@
 			"city": "Manisa",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.623006,
+			"lng": 27.439933,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Manisa_19_May%C4%B1s_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -938,10 +971,11 @@
 			"city": "Adapazarı",
 			"capacity": 28710,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.780556,
+			"lng": 30.432222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/New_Sakarya_Atat%C3%BCrk_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -966,10 +1000,11 @@
 			"city": "İstanbul",
 			"capacity": 7000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.00244,
+			"lng": 29.22609,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sancaktepe_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -994,10 +1029,11 @@
 			"city": "Şanlıurfa",
 			"capacity": 28965,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.147778,
+			"lng": 38.806667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_11_Nisan_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -1022,10 +1058,11 @@
 			"city": "Çorum",
 			"capacity": 15000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.534444,
+			"lng": 34.922778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://tr.wikipedia.org/wiki/%C3%87orum_%C5%9Eehir_Stadyumu"
 		},
 		"league": {
 			"api_football_id": 204,
@@ -1050,10 +1087,11 @@
 			"city": "Kocaeli",
 			"capacity": 35000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.774722,
+			"lng": 30.0175,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kocaeli_Stadium"
 		},
 		"league": {
 			"api_football_id": 204,

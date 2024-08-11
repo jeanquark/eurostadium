@@ -14,10 +14,11 @@
 			"city": "Belfast",
 			"capacity": 18614,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.5825,
+			"lng": -5.955278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Windsor_Park"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -42,10 +43,11 @@
 			"city": "Ballymena",
 			"capacity": 4390,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.8701,
+			"lng": -6.26507,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ballymena_Showgrounds"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -70,10 +72,11 @@
 			"city": "Coleraine",
 			"capacity": 3960,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.132778,
+			"lng": -6.660278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/The_Showgrounds_(Coleraine)"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -98,10 +101,11 @@
 			"city": "Belfast",
 			"capacity": 3383,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.624294,
+			"lng": -5.921925,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Seaview_(football_ground)"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -126,10 +130,11 @@
 			"city": "Belfast",
 			"capacity": 5442,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.619444,
+			"lng": -5.947222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Solitude_(football_ground)"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -154,10 +159,11 @@
 			"city": "Lurgan",
 			"capacity": 4160,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.453889,
+			"lng": -6.336389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mourneview_Park"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -182,10 +188,11 @@
 			"city": "Loughgall",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.407025,
+			"lng": -6.611441,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 408,
@@ -210,10 +217,11 @@
 			"city": "Newry",
 			"capacity": 2822,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.150444,
+			"lng": -6.320606,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/The_Showgrounds_(Newry)"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -238,10 +246,11 @@
 			"city": "Carrickfergus",
 			"capacity": 6000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.719722,
+			"lng": -5.800278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Taylors_Avenue"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -266,10 +275,11 @@
 			"city": "Dungannon",
 			"capacity": 2154,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.4895,
+			"lng": -6.746,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stangmore_Park"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -294,10 +304,11 @@
 			"city": "Belfast",
 			"capacity": 26556,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.602964,
+			"lng": -5.891319,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/The_Oval_(Belfast)"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -322,10 +333,11 @@
 			"city": "Londonderry",
 			"capacity": 7000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.990556,
+			"lng": -7.336111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ryan_McBride_Brandywell_Stadium"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -350,10 +362,11 @@
 			"city": "Larne",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.849803,
+			"lng": -5.826258,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Inver_Park"
 		},
 		"league": {
 			"api_football_id": 408,
@@ -378,10 +391,11 @@
 			"city": "Bangor",
 			"capacity": 1895,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.651625,
+			"lng": -5.684475,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Clandeboye_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -406,10 +420,11 @@
 			"city": "Ballinamallard",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.41435,
+			"lng": -7.59975,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ferney_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -434,10 +449,11 @@
 			"city": "Ballyclare",
 			"capacity": 5333,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.750694,
+			"lng": -6.001942,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Dixon_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -462,10 +478,11 @@
 			"city": "Castlederg",
 			"capacity": 1200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.707334,
+			"lng": -7.599728,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 407,
@@ -490,10 +507,11 @@
 			"city": "Belfast",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.599487,
+			"lng": -5.878344,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 407,
@@ -518,10 +536,11 @@
 			"city": "Belfast",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.612387,
+			"lng": -5.865489,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 407,
@@ -546,10 +565,11 @@
 			"city": "Belfast",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.567814,
+			"lng": -5.854394,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 407,
@@ -574,10 +594,11 @@
 			"city": "Portadown",
 			"capacity": 5732,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.413056,
+			"lng": -6.457778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Shamrock_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -602,10 +623,11 @@
 			"city": "Londonderry",
 			"capacity": 7000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.990556,
+			"lng": -7.336111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ryan_McBride_Brandywell_Stadium"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -630,10 +652,11 @@
 			"city": "Portadown",
 			"capacity": 1250,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.409527,
+			"lng": -6.438282,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 407,
@@ -658,10 +681,11 @@
 			"city": "Armagh",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.339332,
+			"lng": -6.626184,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Holm_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -686,10 +710,11 @@
 			"city": "Bangor",
 			"capacity": 1895,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.651625,
+			"lng": -5.684475,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Clandeboye_Park"
 		},
 		"league": {
 			"api_football_id": 407,
@@ -714,10 +739,11 @@
 			"city": "Larne",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 54.849803,
+			"lng": -5.826258,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Inver_Park"
 		},
 		"league": {
 			"api_football_id": 407,

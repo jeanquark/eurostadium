@@ -14,10 +14,11 @@
 			"city": "Zwolle",
 			"capacity": 14000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.517222,
+			"lng": 6.120833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/MAC%C2%B3PARK_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -42,10 +43,11 @@
 			"city": "Amsterdam",
 			"capacity": 55885,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.314167,
+			"lng": 4.941944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 88,
@@ -70,10 +72,11 @@
 			"city": "Rotterdam",
 			"capacity": 4500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.916944,
+			"lng": 4.520556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Van_Donge_%26_De_Roo_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -98,10 +101,11 @@
 			"city": "Eindhoven",
 			"capacity": 36500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.441667,
+			"lng": 5.4675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Philips_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -126,10 +130,11 @@
 			"city": "‘s-Gravenhage",
 			"capacity": 15000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.0628,
+			"lng": 4.3831,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ADO_Den_Haag_Stadium"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -154,10 +159,11 @@
 			"city": "Doetinchem",
 			"capacity": 12600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.955833,
+			"lng": 6.309722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Vijverberg"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -182,10 +188,11 @@
 			"city": "Arnhem",
 			"capacity": 25500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.962778,
+			"lng": 5.892778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/GelreDome"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -210,10 +217,11 @@
 			"city": "Alkmaar",
 			"capacity": 19500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.612778,
+			"lng": 4.742222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/AFAS_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -238,10 +246,11 @@
 			"city": "Breda",
 			"capacity": 19000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.595,
+			"lng": 4.750278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rat_Verlegh_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -266,10 +275,11 @@
 			"city": "Sittard",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.992069,
+			"lng": 5.843675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fortuna_Sittard_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -294,10 +304,11 @@
 			"city": "Almelo",
 			"capacity": 13500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.338889,
+			"lng": 6.650556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Erve_Asito"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -322,10 +333,11 @@
 			"city": "Utrecht",
 			"capacity": 24426,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.078333,
+			"lng": 5.145833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Galgenwaard"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -350,10 +362,11 @@
 			"city": "Emmen",
 			"capacity": 8600,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.774722,
+			"lng": 6.945556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Oude_Meerdijk"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -378,10 +391,11 @@
 			"city": "Rotterdam",
 			"capacity": 51117,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.893889,
+			"lng": 4.523056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Kuip"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -406,10 +420,11 @@
 			"city": "Heerenveen",
 			"capacity": 27224,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.958611,
+			"lng": 5.936111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Abe_Lenstra_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -434,10 +449,11 @@
 			"city": "Dordrecht",
 			"capacity": 4235,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.8025,
+			"lng": 4.689167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Krommedijk"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -462,10 +478,11 @@
 			"city": "Deventer",
 			"capacity": 10400,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.260416,
+			"lng": 6.172578,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Adelaarshorst"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -490,10 +507,11 @@
 			"city": "Nijmegen",
 			"capacity": 12540,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.8225,
+			"lng": 5.836667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Goffertstadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -518,10 +536,11 @@
 			"city": "Kerkrade",
 			"capacity": 19979,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.856944,
+			"lng": 6.005833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Parkstad_Limburg_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -546,10 +565,11 @@
 			"city": "Enschede",
 			"capacity": 30205,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.236667,
+			"lng": 6.8375,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Grolsch_Veste"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -574,10 +594,11 @@
 			"city": "Volendam",
 			"capacity": 7384,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.494444,
+			"lng": 5.066389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kras_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -602,10 +623,11 @@
 			"city": "Waalwijk",
 			"capacity": 7508,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.686944,
+			"lng": 5.088611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mandemakers_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -630,10 +652,11 @@
 			"city": "Almere",
 			"capacity": 4501,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.3944,
+			"lng": 5.2405,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Yanmar_Stadion"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -658,10 +681,11 @@
 			"city": "Rotterdam",
 			"capacity": 11026,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.919485,
+			"lng": 4.433619,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sparta_Stadion_Het_Kasteel"
 		},
 		"league": {
 			"api_football_id": 88,
@@ -686,10 +710,11 @@
 			"city": "Tilburg",
 			"capacity": 14700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.542778,
+			"lng": 5.066944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Koning_Willem_II_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -714,10 +739,11 @@
 			"city": "‘s-Gravenhage",
 			"capacity": 15000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.0628,
+			"lng": 4.3831,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ADO_Den_Haag_Stadium"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -742,10 +768,11 @@
 			"city": "Doetinchem",
 			"capacity": 12600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.955833,
+			"lng": 6.309722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Vijverberg"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -770,10 +797,11 @@
 			"city": "Groningen",
 			"capacity": 22579,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.206111,
+			"lng": 6.591389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Euroborg"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -798,10 +826,11 @@
 			"city": "Breda",
 			"capacity": 19000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.595,
+			"lng": 4.750278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Rat_Verlegh_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -826,10 +855,11 @@
 			"city": "Venlo",
 			"capacity": 8000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.351944,
+			"lng": 6.179722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Koel"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -854,10 +884,11 @@
 			"city": "Emmen",
 			"capacity": 8600,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.774722,
+			"lng": 6.945556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Oude_Meerdijk"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -882,10 +913,11 @@
 			"city": "Dordrecht",
 			"capacity": 4235,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.8025,
+			"lng": 4.689167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Krommedijk"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -910,10 +942,11 @@
 			"city": "Eindhoven",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.460833,
+			"lng": 5.438889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Herdgang"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -938,10 +971,11 @@
 			"city": "Maastricht",
 			"capacity": 10000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.8575,
+			"lng": 5.717778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Geusselt"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -966,10 +1000,11 @@
 			"city": "Kerkrade",
 			"capacity": 19979,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.856944,
+			"lng": 6.005833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Parkstad_Limburg_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -994,10 +1029,11 @@
 			"city": "Wijdewormer",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.472722,
+			"lng": 4.846594,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1022,10 +1058,11 @@
 			"city": "Leeuwarden",
 			"capacity": 11230,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 53.205278,
+			"lng": 5.814722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Cambuur_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1050,10 +1087,11 @@
 			"city": "&apos;s-Hertogenbosch",
 			"capacity": 9000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.701667,
+			"lng": 5.329722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/De_Vliert"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1078,10 +1116,11 @@
 			"city": "Eindhoven",
 			"capacity": 5400,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.411667,
+			"lng": 5.479444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Jan_Louwers_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1106,10 +1145,11 @@
 			"city": "Oss",
 			"capacity": 4700,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.755113,
+			"lng": 5.528175,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Frans_Heesen_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1134,10 +1174,11 @@
 			"city": "Helmond",
 			"capacity": 4200,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 51.486389,
+			"lng": 5.68,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/GS_Staalwerken_Stadion"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1162,10 +1203,11 @@
 			"city": "Amsterdam-Duivendrecht",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.313333,
+			"lng": 4.928889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sportpark_De_Toekomst"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1190,10 +1232,11 @@
 			"city": "Velsen-Zuid",
 			"capacity": 5200,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.455,
+			"lng": 4.635,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sportpark_Schoonenberg"
 		},
 		"league": {
 			"api_football_id": 89,
@@ -1218,10 +1261,11 @@
 			"city": "Utrecht",
 			"capacity": 1014,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 52.074687,
+			"lng": 5.146346,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sportcomplex_Zoudenbalch"
 		},
 		"league": {
 			"api_football_id": 89,
