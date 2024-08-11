@@ -14,10 +14,11 @@
 			"city": "Trenčín",
 			"capacity": 15712,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.89868,
+			"lng": 18.044738,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Siho%C5%A5"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -42,10 +43,11 @@
 			"city": "Bratislava",
 			"capacity": 30000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.1636,
+			"lng": 17.1369,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/N%C3%A1rodn%C3%BD_futbalov%C3%BD_%C5%A1tadi%C3%B3n"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -70,10 +72,11 @@
 			"city": "Trnava",
 			"capacity": 19200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.373333,
+			"lng": 17.591667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Anton_Malatinsk%C3%BD_Stadium"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -98,10 +101,11 @@
 			"city": "Dunajská Streda",
 			"capacity": 12700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 47.998889,
+			"lng": 17.618333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/MOL_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -126,10 +130,11 @@
 			"city": "Podbrezová",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.807583,
+			"lng": 19.523333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ZELPO_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -154,10 +159,11 @@
 			"city": "Ružomberok",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.0825,
+			"lng": 19.283889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_pod_%C4%8Cebra%C5%A5om"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -182,10 +188,11 @@
 			"city": "Michalovce",
 			"capacity": 4460,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.763161,
+			"lng": 21.9097,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_futbalov%C3%BD_%C5%A1tadi%C3%B3n"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -210,10 +217,11 @@
 			"city": "Zlaté Moravce",
 			"capacity": 4008,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.399167,
+			"lng": 18.403889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/ViOn_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -238,10 +246,11 @@
 			"city": "Žilina",
 			"capacity": 11181,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.229119,
+			"lng": 18.744789,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_pod_Dub%C5%88om"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -266,10 +275,11 @@
 			"city": "Banská Bystrica",
 			"capacity": 9881,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.731947,
+			"lng": 19.131503,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/N%C3%A1rodn%C3%BD_Atletick%C3%BD_%C5%A0tadi%C3%B3n"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -294,10 +304,11 @@
 			"city": "Košice",
 			"capacity": 12658,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.696667,
+			"lng": 21.245,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ko%C5%A1ick%C3%A1_futbalov%C3%A1_ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -322,10 +333,11 @@
 			"city": "Bratislava",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.133333,
+			"lng": 17.115833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Petr%C5%BEalka"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -350,10 +362,11 @@
 			"city": "Skalica",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.839536,
+			"lng": 17.226686,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_Skalica"
 		},
 		"league": {
 			"api_football_id": 332,
@@ -378,10 +391,11 @@
 			"city": "Žiar nad Hronom",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.587333,
+			"lng": 18.863333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_%C5%BDiar_nad_Hronom"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -406,10 +420,11 @@
 			"city": "Šaľa",
 			"capacity": 1126,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.164517,
+			"lng": 17.880979,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -434,10 +449,11 @@
 			"city": "Liptovský Mikuláš",
 			"capacity": 5113,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.0775,
+			"lng": 19.649167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadium_Liptovsk%C3%BD_Mikul%C3%A1%C5%A1"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -462,10 +478,11 @@
 			"city": "Bratislava",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.133333,
+			"lng": 17.115833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Petr%C5%BEalka"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -490,10 +507,11 @@
 			"city": "Púchov",
 			"capacity": 5964,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.1175,
+			"lng": 18.32,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_P%C3%BAchov"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -518,10 +536,11 @@
 			"city": "Trebišov",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.622829,
+			"lng": 21.724365,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -546,10 +565,11 @@
 			"city": "Bratislava",
 			"capacity": 13295,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.166178,
+			"lng": 17.142502,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Pasienky"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -574,10 +594,11 @@
 			"city": "Šamorín",
 			"capacity": 2200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.040334,
+			"lng": 17.320952,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -602,10 +623,11 @@
 			"city": "Žilina",
 			"capacity": 11181,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.229119,
+			"lng": 18.744789,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_pod_Dub%C5%88om"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -630,10 +652,11 @@
 			"city": "Stropkov",
 			"capacity": 2954,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.198019,
+			"lng": 21.649679,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -658,10 +681,11 @@
 			"city": "Spišská Nová Ves",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.941299,
+			"lng": 20.562525,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -686,10 +710,11 @@
 			"city": "Myjava",
 			"capacity": 2795,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.761139,
+			"lng": 17.565472,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadium_Myjava"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -714,10 +739,11 @@
 			"city": "Malženice",
 			"capacity": 1000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.452131,
+			"lng": 17.671134,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -742,10 +768,11 @@
 			"city": "Považská Bystrica",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.116991,
+			"lng": 18.428753,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 506,
@@ -770,10 +797,11 @@
 			"city": "Humenné",
 			"capacity": 14750,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.92947,
+			"lng": 21.90511,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Humenn%C3%A9"
 		},
 		"league": {
 			"api_football_id": 506,
@@ -798,10 +826,11 @@
 			"city": "Dolný Kubín",
 			"capacity": 1950,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.206333,
+			"lng": 19.291833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_MUDr._Ivana_Chod%C3%A1ka"
 		},
 		"league": {
 			"api_football_id": 506,

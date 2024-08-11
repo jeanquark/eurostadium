@@ -14,10 +14,11 @@
 			"city": "Praha",
 			"capacity": 21000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.0675,
+			"lng": 14.471667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fortuna_Arena"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -42,10 +43,11 @@
 			"city": "Plzeň",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.75,
+			"lng": 13.385556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Doosan_Arena"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -70,10 +72,11 @@
 			"city": "Zlín",
 			"capacity": 6375,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.231389,
+			"lng": 17.669444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Letn%C3%A1_Stadion_(Zl%C3%ADn)"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -98,10 +101,11 @@
 			"city": "Praha",
 			"capacity": 20854,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.099722,
+			"lng": 14.415833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Letn%C3%A1"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -126,10 +130,11 @@
 			"city": "Mladá Boleslav",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.427222,
+			"lng": 14.916944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lokotrans_Ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -154,10 +159,11 @@
 			"city": "Liberec",
 			"capacity": 9900,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.776111,
+			"lng": 15.05,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_u_Nisy"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -182,10 +188,11 @@
 			"city": "Jablonec nad Nisou",
 			"capacity": 6280,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.715,
+			"lng": 15.162222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_St%C5%99elnice"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -210,10 +217,11 @@
 			"city": "Olomouc",
 			"capacity": 12566,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.6,
+			"lng": 17.248333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Andr%C5%AFv_stadion"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -238,10 +246,11 @@
 			"city": "Ostrava",
 			"capacity": 15275,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.804444,
+			"lng": 18.255833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_stadion_(Ostrava)"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -266,10 +275,11 @@
 			"city": "Praha",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.066944,
+			"lng": 14.454167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C4%8Eol%C3%AD%C4%8Dek"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -294,10 +304,11 @@
 			"city": "Karviná",
 			"capacity": 4838,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.8453,
+			"lng": 18.5613,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_stadion_(Karvin%C3%A1)"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -322,10 +333,11 @@
 			"city": "Uherské Hradiště",
 			"capacity": 8121,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.065556,
+			"lng": 17.471389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_fotbalov%C3%BD_stadion_Miroslava_Valenty"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -350,10 +362,11 @@
 			"city": "Teplice",
 			"capacity": 18221,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.64,
+			"lng": 13.818056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Na_St%C3%ADnadlech"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -378,10 +391,11 @@
 			"city": "Hradec Králové",
 			"capacity": 9300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.2064,
+			"lng": 15.8454,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mal%C5%A1ovick%C3%A1_ar%C3%A9na"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -406,10 +420,11 @@
 			"city": "Pardubice",
 			"capacity": 4625,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.041111,
+			"lng": 15.771111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/CFIG_Arena"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -434,10 +449,11 @@
 			"city": "Tábor",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.419912,
+			"lng": 14.663660,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 345,
@@ -462,10 +478,11 @@
 			"city": "Ceské Budejovice",
 			"capacity": 6746,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 48.966944,
+			"lng": 14.4675,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_St%C5%99eleck%C3%BD_ostrov"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -490,10 +507,11 @@
 			"city": "Drnovice",
 			"capacity": 6616,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.275561,
+			"lng": 16.953611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://nl.wikipedia.org/wiki/Sportovn%C3%AD_are%C3%A1l_Drnovice"
 		},
 		"league": {
 			"api_football_id": 345,
@@ -518,10 +536,11 @@
 			"city": "Praha",
 			"capacity": 8150,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.111944,
+			"lng": 14.3875,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Juliska"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -546,10 +565,11 @@
 			"city": "Opava",
 			"capacity": 7758,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.949725,
+			"lng": 17.890092,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_v_M%C4%9Bstsk%C3%BDch_sadech"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -574,10 +594,11 @@
 			"city": "Příbram",
 			"capacity": 9100,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.676944,
+			"lng": 13.976389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Na_Litavce"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -602,10 +623,11 @@
 			"city": "Chrudim",
 			"capacity": 2350,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.947322,
+			"lng": 15.804296,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 346,
@@ -630,10 +652,11 @@
 			"city": "Olomouc",
 			"capacity": 2900,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.575181,
+			"lng": 17.300418,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 346,
@@ -658,10 +681,11 @@
 			"city": "Tábor",
 			"capacity": 2000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.419912,
+			"lng": 14.663660,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 346,
@@ -686,10 +710,11 @@
 			"city": "Varnsdorf",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.914902,
+			"lng": 14.618924,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_stadion_v_Kotlin%C4%9B"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -714,10 +739,11 @@
 			"city": "Praha",
 			"capacity": 5600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.083917,
+			"lng": 14.444606,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/FK_Viktoria_Stadion"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -742,10 +768,11 @@
 			"city": "Vlašim",
 			"capacity": 6000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.702603,
+			"lng": 14.8915,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Koll%C3%A1rova_ulice"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -770,10 +797,11 @@
 			"city": "Jihlava",
 			"capacity": 4500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.402,
+			"lng": 15.5735,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_v_Jir%C3%A1skov%C4%9B_ulici"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -798,10 +826,11 @@
 			"city": "Brno",
 			"capacity": 12550,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.227162,
+			"lng": 16.586276,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/M%C4%9Bstsk%C3%BD_fotbalov%C3%BD_stadion_Srbsk%C3%A1"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -826,10 +855,11 @@
 			"city": "Brno",
 			"capacity": 2070,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.202261,
+			"lng": 16.696255,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 346,
@@ -854,10 +884,11 @@
 			"city": "Kroměříž",
 			"capacity": 4197,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.289883,
+			"lng": 17.402386,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion_SK_Han%C3%A1ck%C3%A1_Slavia_Krom%C4%9B%C5%99%C3%AD%C5%BE"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -882,10 +913,11 @@
 			"city": "Drnovice",
 			"capacity": 6616,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.275561,
+			"lng": 16.953611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://nl.wikipedia.org/wiki/Sportovn%C3%AD_are%C3%A1l_Drnovice"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -910,10 +942,11 @@
 			"city": "Praha",
 			"capacity": 5600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 50.083917,
+			"lng": 14.444606,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/FK_Viktoria_Stadion"
 		},
 		"league": {
 			"api_football_id": 346,
@@ -938,10 +971,11 @@
 			"city": "Olomouc",
 			"capacity": 12566,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 49.6,
+			"lng": 17.248333,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Andr%C5%AFv_stadion"
 		},
 		"league": {
 			"api_football_id": 346,

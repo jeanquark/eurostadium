@@ -14,10 +14,11 @@
 			"city": "Bergen",
 			"capacity": 17686,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.366944,
+			"lng": 5.3575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Brann_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -42,10 +43,11 @@
 			"city": "Kristiansund",
 			"capacity": 4444,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.124722,
+			"lng": 7.718056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kristiansund_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -70,10 +72,11 @@
 			"city": "Kjeller",
 			"capacity": 11637,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.964,
+			"lng": 11.063,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%85r%C3%A5sen_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -98,10 +101,11 @@
 			"city": "Bærum",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.921111,
+			"lng": 10.581111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nadderud_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -126,10 +130,11 @@
 			"city": "Drammen",
 			"capacity": 8935,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.734444,
+			"lng": 10.201389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Marienlyst_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -154,10 +159,11 @@
 			"city": "Tromsø",
 			"capacity": 8585,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 69.648954,
+			"lng": 18.934582,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Romssa_Arena"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -182,10 +188,11 @@
 			"city": "Oslo",
 			"capacity": 18000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.917778,
+			"lng": 10.806944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Intility_Arena"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -210,10 +217,11 @@
 			"city": "Bodø",
 			"capacity": 8270,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 67.276667,
+			"lng": 14.384444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Aspmyra_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -238,10 +246,11 @@
 			"city": "Haugesund",
 			"capacity": 8950,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.413,
+			"lng": 5.279,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Haugesund_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -266,10 +275,11 @@
 			"city": "Molde",
 			"capacity": 11800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.733333,
+			"lng": 7.147778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Aker_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -294,10 +304,11 @@
 			"city": "Skien",
 			"capacity": 13500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.211111,
+			"lng": 9.589722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Skagerak_Arena"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -322,10 +333,11 @@
 			"city": "Trondheim",
 			"capacity": 21850,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.4123,
+			"lng": 10.4045,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lerkendal_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -350,10 +362,11 @@
 			"city": "Sandefjord",
 			"capacity": 6598,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.13725,
+			"lng": 10.17969,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sandefjord_Arena"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -378,10 +391,11 @@
 			"city": "Sarpsborg",
 			"capacity": 8022,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.286111,
+			"lng": 11.0975,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Sarpsborg_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -406,10 +420,11 @@
 			"city": "Ålesund",
 			"capacity": 10778,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.469722,
+			"lng": 6.187194,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Color_Line_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -434,10 +449,11 @@
 			"city": "Stavanger",
 			"capacity": 16508,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.914722,
+			"lng": 5.730556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Viking_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -462,10 +478,11 @@
 			"city": "Hamar",
 			"capacity": 8068,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.795556,
+			"lng": 11.092222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Briskeby_Stadion"
 		},
 		"league": {
 			"api_football_id": 103,
@@ -490,10 +507,11 @@
 			"city": "Kristiansund",
 			"capacity": 4444,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.124722,
+			"lng": 7.718056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kristiansund_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -518,10 +536,11 @@
 			"city": "Ranheim",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.428376,
+			"lng": 10.52401,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/EXTRA_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -546,10 +565,11 @@
 			"city": "Kristiansand",
 			"capacity": 14563,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.153611,
+			"lng": 8.028611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/S%C3%B8r_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -574,10 +594,11 @@
 			"city": "Sogndal",
 			"capacity": 5623,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.231722,
+			"lng": 7.08575,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fosshaugane_Campus"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -602,10 +623,11 @@
 			"city": "Bryne",
 			"capacity": 10133,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.729767,
+			"lng": 5.649772,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bryne_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -630,10 +652,11 @@
 			"city": "Oslo",
 			"capacity": 3300,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.89,
+			"lng": 10.780833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/KFUM_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -658,10 +681,11 @@
 			"city": "Kongsvinger",
 			"capacity": 5684,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.195278,
+			"lng": 11.987222,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gjemselund_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -686,10 +710,11 @@
 			"city": "Sandnes",
 			"capacity": 6046,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.861369,
+			"lng": 5.720963,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%98ster_Hus_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -714,10 +739,11 @@
 			"city": "Bergen",
 			"capacity": 3507,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.469639,
+			"lng": 5.314611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%85sane_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -742,10 +768,11 @@
 			"city": "Fredrikstad",
 			"capacity": 12565,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.213,
+			"lng": 10.927,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Fredrikstad_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -770,10 +797,11 @@
 			"city": "Ulsteinvik",
 			"capacity": 4081,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.339694,
+			"lng": 5.881472,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nye_H%C3%B8ddvoll"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -798,10 +826,11 @@
 			"city": "Grimstad",
 			"capacity": 3766,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.3455,
+			"lng": 8.59172,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/J.J._Ugland_Stadion_%E2%80%93_Levermyr"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -826,10 +855,11 @@
 			"city": "Mjøndalen",
 			"capacity": 4350,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.746949,
+			"lng": 10.014616,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Consto_Arena"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -854,10 +884,11 @@
 			"city": "Raufoss",
 			"capacity": 3042,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.72103,
+			"lng": 10.602567,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nammo_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,
@@ -882,10 +913,11 @@
 			"city": "Oslo",
 			"capacity": 2623,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.942664,
+			"lng": 10.786234,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 104,
@@ -910,10 +942,11 @@
 			"city": "Moss",
 			"capacity": 9410,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.420833,
+			"lng": 10.671389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mell%C3%B8s_Stadion"
 		},
 		"league": {
 			"api_football_id": 104,

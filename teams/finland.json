@@ -14,10 +14,11 @@
 			"city": "Mariehamn, Ahvenanmaa (Åland",
 			"capacity": 5637,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.102222,
+			"lng": 19.935278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Wikl%C3%B6f_Holding_Arena"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -42,10 +43,11 @@
 			"city": "Helsinki",
 			"capacity": 10770,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.1875,
+			"lng": 24.9225,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bolt_Arena"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -70,10 +72,11 @@
 			"city": "Vaasa",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.085278,
+			"lng": 21.627778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Hietalahti_Stadium"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -98,10 +101,11 @@
 			"city": "Seinäjoki",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.77861,
+			"lng": 22.81472,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/OmaSP_Stadion"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -126,10 +130,11 @@
 			"city": "Tammerfors",
 			"capacity": 16820,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.4925,
+			"lng": 23.764167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tampere_Stadium"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -154,10 +159,11 @@
 			"city": "Åbo",
 			"capacity": 9372,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.442778,
+			"lng": 22.291667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Veritas_Stadion"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -182,10 +188,11 @@
 			"city": "Kuopio",
 			"capacity": 7890,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.88463,
+			"lng": 27.6718,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Kuopio_Football_Stadium"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -210,10 +217,11 @@
 			"city": "Lahti",
 			"capacity": 14465,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.983056,
+			"lng": 25.634167,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Lahti_Stadium"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -238,10 +246,11 @@
 			"city": "Esbo",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.179111,
+			"lng": 24.781306,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tapiolan_urheilupuisto"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -266,10 +275,11 @@
 			"city": null,
 			"capacity": 4780,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.4575,
+			"lng": 26.939722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Arto_Tolsa_Areena"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -294,10 +304,11 @@
 			"city": "Oulu",
 			"capacity": 6996,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 65.019722,
+			"lng": 25.465833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Raatti_Stadium"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -322,10 +333,11 @@
 			"city": "Valkeakoski",
 			"capacity": 5000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.268056,
+			"lng": 24.020278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tehtaan_kentt%C3%A4"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -350,10 +362,11 @@
 			"city": "Helsinki",
 			"capacity": 2500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.234757,
+			"lng": 24.96253,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mustapekka_Areena"
 		},
 		"league": {
 			"api_football_id": 244,
@@ -378,10 +391,11 @@
 			"city": "Åbo",
 			"capacity": 9372,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.442778,
+			"lng": 22.291667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Veritas_Stadion"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -406,10 +420,11 @@
 			"city": "Jyväskylä",
 			"capacity": 5576,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.244722,
+			"lng": 25.740833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Harjun_stadion"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -434,10 +449,11 @@
 			"city": "Helsinki",
 			"capacity": 10770,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.1875,
+			"lng": 24.9225,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bolt_Arena"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -462,10 +478,11 @@
 			"city": "Jacobstad",
 			"capacity": 4600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.673611,
+			"lng": 22.695,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Jakobstads_Centralplan"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -490,10 +507,11 @@
 			"city": "Raseborg",
 			"capacity": 2500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.973523,
+			"lng": 23.443098,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 245,
@@ -518,10 +536,11 @@
 			"city": "Helsinki",
 			"capacity": 2500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.234757,
+			"lng": 24.96253,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mustapekka_Areena"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -546,10 +565,11 @@
 			"city": "Järvenpää",
 			"capacity": 1227,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.465517,
+			"lng": 25.095043,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 245,
@@ -574,10 +594,11 @@
 			"city": "Mikkeli",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 61.686944,
+			"lng": 27.266667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Mikkelin_Urheilupuisto"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -602,10 +623,11 @@
 			"city": "Helsinki",
 			"capacity": 1000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.1875,
+			"lng": 24.9492,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Brahenkentt%C3%A4"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -630,10 +652,11 @@
 			"city": "Salo",
 			"capacity": 2500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.381225,
+			"lng": 23.137729,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 245,
@@ -658,10 +681,11 @@
 			"city": "Seinäjoki",
 			"capacity": 6000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.77861,
+			"lng": 22.81472,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/OmaSP_Stadion"
 		},
 		"league": {
 			"api_football_id": 245,
@@ -686,10 +710,11 @@
 			"city": "Kokkola",
 			"capacity": 3000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.841972,
+			"lng": 23.122410,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 245,

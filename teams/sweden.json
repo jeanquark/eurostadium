@@ -14,10 +14,11 @@
 			"city": "Stockholm",
 			"capacity": 33000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.29081,
+			"lng": 18.08534,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -42,10 +43,11 @@
 			"city": "Stockholm",
 			"capacity": 33000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.29081,
+			"lng": 18.08534,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -70,10 +72,11 @@
 			"city": "Göteborg",
 			"capacity": 18800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.70623,
+			"lng": 11.98014,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -98,10 +101,11 @@
 			"city": "Göteborg",
 			"capacity": 7000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.719167,
+			"lng": 11.930556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bravida_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -126,10 +130,11 @@
 			"city": "Uppsala",
 			"capacity": 10522,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.84958,
+			"lng": 17.64532,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Studenternas_IP"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -154,10 +159,11 @@
 			"city": "Stockholm",
 			"capacity": 7350,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.362222,
+			"lng": 17.851667,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Grimsta_IP"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -182,10 +188,11 @@
 			"city": "Borås",
 			"capacity": 16899,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.734444,
+			"lng": 12.934722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Bor%C3%A5s_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -210,10 +217,11 @@
 			"city": "Kalmar",
 			"capacity": 12182,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.69123,
+			"lng": 16.31493,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Guldf%C3%A5geln_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -238,10 +246,11 @@
 			"city": "Malmö",
 			"capacity": 24148,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.583611,
+			"lng": 12.987806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadion,_Malm%C3%B6"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -266,10 +275,11 @@
 			"city": "Solna",
 			"capacity": 54329,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.3725,
+			"lng": 18,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Strawberry_Arena"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -294,10 +304,11 @@
 			"city": "Norrköping",
 			"capacity": 17234,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.584444,
+			"lng": 16.173056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Nya_Parken"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -322,10 +333,11 @@
 			"city": "Halmstad",
 			"capacity": 15500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.684167,
+			"lng": 12.866389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/%C3%96rjans_Vall"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -350,10 +362,11 @@
 			"city": "Värnamo",
 			"capacity": 5070,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.195917,
+			"lng": 14.042806,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Finnvedsvallen"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -378,10 +391,11 @@
 			"city": "Varberg",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.09836,
+			"lng": 12.26547,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/P%C3%A5skbergsvallen"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -406,10 +420,11 @@
 			"city": "Degerfors",
 			"capacity": 12500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.238333,
+			"lng": 14.443056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stora_Valla"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -434,10 +449,11 @@
 			"city": "Sölvesborg",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.011956,
+			"lng": 14.716251,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Strandvallen"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -462,10 +478,11 @@
 			"city": "Västra Frölunda",
 			"capacity": 5000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.663889,
+			"lng": 11.909444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
 		},
 		"league": {
 			"api_football_id": 113,
@@ -490,10 +507,11 @@
 			"city": "Örebro",
 			"capacity": 14500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.266111,
+			"lng": 15.223056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Eyravallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -518,10 +536,11 @@
 			"city": "Trelleborg",
 			"capacity": 10500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.38515,
+			"lng": 13.160983,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/V%C3%A5ngavallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -546,10 +565,11 @@
 			"city": "Sundsvall",
 			"capacity": 8034,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 62.394117,
+			"lng": 17.301278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Idrottsparken_(Sundsvall)"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -574,10 +594,11 @@
 			"city": "Östersund",
 			"capacity": 8466,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 63.194851,
+			"lng": 14.655848,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/J%C3%A4mtkraft_Arena"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -602,10 +623,11 @@
 			"city": "Jönköping",
 			"capacity": 6321,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.7833,
+			"lng": 14.141864,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Stadsparksvallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -630,10 +652,11 @@
 			"city": "Eskilstuna",
 			"capacity": 7800,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.370556,
+			"lng": 16.495,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Tunavallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -658,10 +681,11 @@
 			"city": "Helsingborg",
 			"capacity": 16673,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.049444,
+			"lng": 12.706944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -686,10 +710,11 @@
 			"city": "Falkenberg",
 			"capacity": 6214,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.894,
+			"lng": 12.5115,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Falcon_Alkoholfri_Arena"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -714,10 +739,11 @@
 			"city": "Gävle",
 			"capacity": 6432,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.692153,
+			"lng": 17.135373,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gavlevallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -742,10 +768,11 @@
 			"city": "Göteborg",
 			"capacity": 18800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.70623,
+			"lng": 11.98014,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -770,10 +797,11 @@
 			"city": "Göteborg",
 			"capacity": 18800,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.70623,
+			"lng": 11.98014,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -798,10 +826,11 @@
 			"city": "Växjö",
 			"capacity": 12173,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.879722,
+			"lng": 14.776389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Visma_Arena"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -826,10 +855,11 @@
 			"city": "Borlänge",
 			"capacity": 6500,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 60.495,
+			"lng": 15.433889,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Domnarvsvallen"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -854,10 +884,11 @@
 			"city": "Landskrona",
 			"capacity": 11500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.889934,
+			"lng": 12.83761,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Landskrona_IP"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -882,10 +913,11 @@
 			"city": "Västerås",
 			"capacity": 8900,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.627535,
+			"lng": 16.530669,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Hitachi_Energy_Arena"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -910,10 +942,11 @@
 			"city": "Skövde",
 			"capacity": 4646,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 58.378889,
+			"lng": 13.840556,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/S%C3%B6dermalms_IP"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -938,10 +971,11 @@
 			"city": "Västra Frölunda",
 			"capacity": 5000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.663889,
+			"lng": 11.909444,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
 		},
 		"league": {
 			"api_football_id": 114,
@@ -966,10 +1000,11 @@
 			"city": "Södertälje",
 			"capacity": 6710,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 59.18756,
+			"lng": 17.57043,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje_Fotbollsarena"
 		},
 		"league": {
 			"api_football_id": 114,
