@@ -14,10 +14,11 @@
 			"city": "Lisboa",
 			"capacity": 65647,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.7527,
+			"lng": -9.1847,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Luz"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -42,10 +43,11 @@
 			"city": "Porto",
 			"capacity": 50399,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.1618,
+			"lng": -8.5839,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Drag%C3%A3o"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -70,10 +72,11 @@
 			"city": "Moreira de Cónegos",
 			"capacity": 13000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.378056,
+			"lng": -8.354722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Parque_de_Jogos_Comendador_Joaquim_de_Almeida_Freitas"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -98,10 +101,11 @@
 			"city": "Portimão",
 			"capacity": 9544,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.135833,
+			"lng": -8.539722,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Portim%C3%A3o"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -126,10 +130,11 @@
 			"city": "Braga",
 			"capacity": 30286,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.5625,
+			"lng": -8.43,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Braga"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -154,10 +159,11 @@
 			"city": "Porto",
 			"capacity": 28263,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.162222,
+			"lng": -8.642778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Bessa"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -182,10 +188,11 @@
 			"city": "Chaves",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.7506,
+			"lng": -7.46499,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Eng._Manuel_Branco_Teixeira"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -210,10 +217,11 @@
 			"city": "Guimarães",
 			"capacity": 30165,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.445833,
+			"lng": -8.301111,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_D._Afonso_Henriques"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -238,10 +246,11 @@
 			"city": "Vila do Conde",
 			"capacity": 12815,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.362778,
+			"lng": -8.740278,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Arcos"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -266,10 +275,11 @@
 			"city": "Lisboa",
 			"capacity": 50466,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.761111,
+			"lng": -9.160833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Alvalade"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -294,10 +304,11 @@
 			"city": "Estoril",
 			"capacity": 8015,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.715833,
+			"lng": -9.406389,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Ant%C3%B3nio_Coimbra_da_Mota"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -322,10 +333,11 @@
 			"city": "Faro",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.022778,
+			"lng": -7.928611,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Lu%C3%ADs"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -350,10 +362,11 @@
 			"city": "Arouca",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.933,
+			"lng": -8.2503,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Arouca"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -378,10 +391,11 @@
 			"city": "Vila Nova de Famalicão",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.401389,
+			"lng": -8.5225,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_22_de_Junho"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -406,10 +420,11 @@
 			"city": "Barcelos",
 			"capacity": 12046,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.551,
+			"lng": -8.623,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Cidade_de_Barcelos"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -434,10 +449,11 @@
 			"city": "Caldas de Vizela",
 			"capacity": 6565,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.388796,
+			"lng": -8.307328,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 94,
@@ -462,10 +478,11 @@
 			"city": "Jamor, Oeiras",
 			"capacity": 38000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.7089,
+			"lng": -9.2628,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Nacional"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -490,10 +507,11 @@
 			"city": "Amadora",
 			"capacity": 9288,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.751944,
+			"lng": -9.228056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Gomes"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -518,10 +536,11 @@
 			"city": "Vila das Aves",
 			"capacity": 8560,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.366932,
+			"lng": -8.411789,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_CD_Aves"
 		},
 		"league": {
 			"api_football_id": 94,
@@ -546,10 +565,11 @@
 			"city": "Santa Maria da Feira",
 			"capacity": 5449,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.926689,
+			"lng": -8.545814,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marcolino_de_Castro"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -574,10 +594,11 @@
 			"city": "Ilha da Madeira",
 			"capacity": 10932,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.645561,
+			"lng": -16.928331,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Mar%C3%ADtimo"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -602,10 +623,11 @@
 			"city": "Tondela",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.512041,
+			"lng": -8.082825,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jo%C3%A3o_Cardoso"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -630,10 +652,11 @@
 			"city": "Ilha da Madeira",
 			"capacity": 5200,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 32.670625,
+			"lng": -16.883525,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Madeira"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -658,10 +681,11 @@
 			"city": "Ponta Delgada, Ilha de São Miguel, Açores",
 			"capacity": 13277,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 37.763708,
+			"lng": -25.622589,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Miguel_(Ponta_Delgada)"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -686,10 +710,11 @@
 			"city": "Seixal",
 			"capacity": 2720,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.640556,
+			"lng": -9.091944,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Benfica_Campus"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -714,10 +739,11 @@
 			"city": "Oliveira de Azeméis",
 			"capacity": 2670,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.8419,
+			"lng": -8.4703,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Carlos_Os%C3%B3rio"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -742,10 +768,11 @@
 			"city": "Paços de Ferreira",
 			"capacity": 9146,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.271353,
+			"lng": -8.385581,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Mata_Real"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -770,10 +797,11 @@
 			"city": "Penafiel",
 			"capacity": 6500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.2117,
+			"lng": -8.277919,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_25_de_Abril"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -798,10 +826,11 @@
 			"city": "Viseu",
 			"capacity": 14368,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.659444,
+			"lng": -7.900833,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Fontelo"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -826,10 +855,11 @@
 			"city": "Pedroso, Vila Nova de Gaia",
 			"capacity": 8500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.067158,
+			"lng": -8.544812,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jorge_Sampaio"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -854,10 +884,11 @@
 			"city": "Matosinhos",
 			"capacity": 9730,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.183969,
+			"lng": -8.666919,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Mar"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -882,10 +913,11 @@
 			"city": "Mafra",
 			"capacity": 2900,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.940802,
+			"lng": -9.341495,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 95,
@@ -910,10 +942,11 @@
 			"city": "Leiria",
 			"capacity": 23888,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.748611,
+			"lng": -8.813056,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Dr._Magalh%C3%A3es_Pessoa"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -938,10 +971,11 @@
 			"city": "Torres Vedras",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 39.094878,
+			"lng": -9.256594,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Manuel_Marques"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -966,10 +1000,11 @@
 			"city": "Vila Verde",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.649413,
+			"lng": -8.423059,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 95,
@@ -994,10 +1029,11 @@
 			"city": "Lourosa",
 			"capacity": 11000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 40.987881,
+			"lng": -8.543601,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 95,
@@ -1022,10 +1058,11 @@
 			"city": "Lisboa",
 			"capacity": 19856,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 38.702778,
+			"lng": -9.207778,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Restelo"
 		},
 		"league": {
 			"api_football_id": 95,
@@ -1050,10 +1087,11 @@
 			"city": "Vila das Aves",
 			"capacity": 8560,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 41.366932,
+			"lng": -8.411789,
 			"x": 0,
-			"y": 0
+			"y": 0,
+			"url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_CD_Aves"
 		},
 		"league": {
 			"api_football_id": 95,

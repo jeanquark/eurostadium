@@ -14,11 +14,11 @@
 			"city": "Vejle",
 			"capacity": 10418,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.713814,
+			"lng": 9.557161,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Vejle_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -43,11 +43,11 @@
 			"city": "Herning",
 			"capacity": 12152,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.116868,
+			"lng": 8.951669,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/MCH_Arena"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -72,11 +72,11 @@
 			"city": "Farum",
 			"capacity": 10300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.815847,
+			"lng": 12.353289,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Right_to_Dream_Park"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -101,8 +101,8 @@
 			"city": "København",
 			"capacity": 38065,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.702469,
+			"lng": 12.572203,
 			"x": 0,
 			"y": 0,
 			"url": ""
@@ -130,11 +130,11 @@
 			"city": "Randers",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.46594,
+			"lng": 10.010262,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Randers_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -159,11 +159,11 @@
 			"city": "Odense",
 			"capacity": 15790,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.397771,
+			"lng": 10.350055,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Odense_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -188,11 +188,11 @@
 			"city": "Århus",
 			"capacity": 22175,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.132033,
+			"lng": 10.196589,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Aarhus_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -217,11 +217,11 @@
 			"city": "Brøndby",
 			"capacity": 29000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.648889,
+			"lng": 12.418611,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Br%C3%B8ndby_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -246,11 +246,11 @@
 			"city": "Lyngby",
 			"capacity": 10100,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.78134,
+			"lng": 12.505628,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Lyngby_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -275,11 +275,11 @@
 			"city": "Viborg",
 			"capacity": 9566,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.455897,
+			"lng": 9.402064,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Viborg_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -304,11 +304,11 @@
 			"city": "Hvidovre",
 			"capacity": 15600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.631922,
+			"lng": 12.482878,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Hvidovre_Stadium"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -333,11 +333,11 @@
 			"city": "Silkeborg",
 			"capacity": 10000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.184302,
+			"lng": 9.575658,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/JYSK_Park"
 		},
 		"league": {
 			"api_football_id": 119,
@@ -362,11 +362,11 @@
 			"city": "Haderslev",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.261359,
+			"lng": 9.487791,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Haderslev_Football_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -391,11 +391,11 @@
 			"city": "Hjørring",
 			"capacity": 7500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.457661,
+			"lng": 9.998506,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Hj%C3%B8rring_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -420,11 +420,11 @@
 			"city": "Aalborg",
 			"capacity": 13797,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 57.0515,
+			"lng": 9.8991,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Aalborg_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -449,11 +449,11 @@
 			"city": "Horsens",
 			"capacity": 12452,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.871555,
+			"lng": 9.857161,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Forum_Horsens_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -478,11 +478,11 @@
 			"city": "Hobro",
 			"capacity": 6600,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.635,
+			"lng": 9.82,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Hobro_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -507,11 +507,11 @@
 			"city": "Fredericia",
 			"capacity": 4000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.57825,
+			"lng": 9.7286,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Fredericia_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -536,11 +536,11 @@
 			"city": "Helsingør",
 			"capacity": 6733,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 56.046583,
+			"lng": 12.596181,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Helsing%C3%B8r_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -565,11 +565,11 @@
 			"city": "Køge",
 			"capacity": 10000,
 			"surface": "artificial turf",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.413596,
+			"lng": 12.134179,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Herf%C3%B8lge_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -594,11 +594,11 @@
 			"city": "Næstved",
 			"capacity": 14300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.2231,
+			"lng": 11.7664,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/N%C3%A6stved_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -623,11 +623,11 @@
 			"city": "Kolding",
 			"capacity": 10000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.494167,
+			"lng": 9.459167,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/Kolding_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -652,11 +652,11 @@
 			"city": "København",
 			"capacity": 7000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.704126,
+			"lng": 12.57485,
 			"x": 0,
 			"y": 0,
-			"url": ""
+			"url": "https://en.wikipedia.org/wiki/%C3%98sterbro_Stadium"
 		},
 		"league": {
 			"api_football_id": 120,
@@ -681,8 +681,8 @@
 			"city": "Hillerød",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
+			"lat": 55.945237,
+			"lng": 12.295911,
 			"x": 0,
 			"y": 0,
 			"url": ""
