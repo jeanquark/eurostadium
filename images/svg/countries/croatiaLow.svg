@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Croatia - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-croatia" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="13.492149" topLatitude="46.542610" rightLongitude="19.400320" bottomLatitude="42.403920"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="13.492149" topLatitude="46.542610" rightLongitude="19.400320" bottomLatitude="42.403920"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"HR-01"},{id:"HR-02"},{id:"HR-03"},{id:"HR-04"},{id:"HR-05"},{id:"HR-06"},{id:"HR-07"},{id:"HR-08"},{id:"HR-09"},{id:"HR-10"},{id:"HR-11"},{id:"HR-12"},{id:"HR-13"},{id:"HR-14"},{id:"HR-15"},{id:"HR-16"},{id:"HR-17"},{id:"HR-18"},{id:"HR-19"},{id:"HR-20"},{id:"HR-21"}-->

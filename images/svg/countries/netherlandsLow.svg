@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Netherlands - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+
+<!-- https://www.amcharts.com/svg-maps -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-netherlands" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="3.359304" topLatitude="53.560347" rightLongitude="7.227792" bottomLatitude="50.750938"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="3.359304" topLatitude="53.560347" rightLongitude="7.227792" bottomLatitude="50.750938"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"NL-DR"},{id:"NL-FL"},{id:"NL-FR"},{id:"NL-GE"},{id:"NL-GR"},{id:"NL-LI"},{id:"NL-NB"},{id:"NL-NH"},{id:"NL-OV"},{id:"NL-UT"},{id:"NL-ZE"},{id:"NL-ZH"}-->

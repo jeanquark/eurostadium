@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Luxembourg - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-luxembourg" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="5.736110" topLatitude="50.183529" rightLongitude="6.529993" bottomLatitude="49.447341"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="5.736110" topLatitude="50.183529" rightLongitude="6.529993" bottomLatitude="49.447341"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"LU-D"},{id:"LU-G"},{id:"LU-L"}-->

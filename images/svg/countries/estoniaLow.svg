@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Estonia - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-estonia" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="21.770501" topLatitude="59.668926" rightLongitude="28.208948" bottomLatitude="57.509646"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="21.770501" topLatitude="59.668926" rightLongitude="28.208948" bottomLatitude="57.509646"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"EE-84"},{id:"EE-65"},{id:"EE-44"},{id:"EE-78"},{id:"EE-51"},{id:"EE-86"},{id:"EE-67"},{id:"EE-59"},{id:"EE-39"},{id:"EE-57"},{id:"EE-82"},{id:"EE-49"},{id:"EE-70"},{id:"EE-74"},{id:"EE-37"}-->

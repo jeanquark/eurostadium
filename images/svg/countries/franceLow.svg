@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type="text/css" href="/styles/home.css"?>
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-germany" viewBox="0 0 595.64178 584.59808">
-  
+<!-- (c) ammap.com | SVG map of Finland - Low -->
+<!-- https://www.amcharts.com/svg-maps -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-france" viewBox="0 0 595.64178 584.59808">
   <defs
      id="defs4">
     <style

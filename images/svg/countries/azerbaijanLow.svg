@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Azerbaijan - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-azerbaijan" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="44.760601" topLatitude="41.906070" rightLongitude="50.614493" bottomLatitude="38.353659"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="44.760601" topLatitude="41.906070" rightLongitude="50.614493" bottomLatitude="38.353659"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"AM-GR"},{id:"AZ-ABS"},{id:"AZ-AGA"},{id:"AZ-AGC"},{id:"AZ-AGM"},{id:"AZ-AGS"},{id:"AZ-AGU"},{id:"AZ-AST"},{id:"AZ-BA"},{id:"AZ-BAB"},{id:"AZ-BAL"},{id:"AZ-BAR"},{id:"AZ-BEY"},{id:"AZ-BIL"},{id:"AZ-CAB"},{id:"AZ-CAL"},{id:"AZ-CUL"},{id:"AZ-DAS"},{id:"AZ-FUZ"},{id:"AZ-GA"},{id:"AZ-GAD"},{id:"AZ-GOR"},{id:"AZ-GOY"},{id:"AZ-GYG"},{id:"AZ-HAC"},{id:"AZ-IMI"},{id:"AZ-ISM"},{id:"AZ-KAL"},{id:"AZ-KAN"},{id:"AZ-KUR"},{id:"AZ-LA"},{id:"AZ-LAC"},{id:"AZ-LAN"},{id:"AZ-LER"},{id:"AZ-MAS"},{id:"AZ-MI"},{id:"AZ-NA"},{id:"AZ-NEF"},{id:"AZ-NV"},{id:"AZ-OGU"},{id:"AZ-ORD"},{id:"AZ-QAB"},{id:"AZ-QAX"},{id:"AZ-QAZ"},{id:"AZ-QBA"},{id:"AZ-QBI"},{id:"AZ-QOB"},{id:"AZ-QUS"},{id:"AZ-SA"},{id:"AZ-SAB"},{id:"AZ-SAD"},{id:"AZ-SAH"},{id:"AZ-SAK"},{id:"AZ-SAL"},{id:"AZ-SAR"},{id:"AZ-SAT"},{id:"AZ-SBN"},{id:"AZ-SIY"},{id:"AZ-SKR"},{id:"AZ-SM"},{id:"AZ-SMI"},{id:"AZ-SMX"},{id:"AZ-SR"},{id:"AZ-SUS"},{id:"AZ-TAR"},{id:"AZ-TOV"},{id:"AZ-UCA"},{id:"AZ-XAC"},{id:"AZ-XCI"},{id:"AZ-XIZ"},{id:"AZ-XVD"},{id:"AZ-YAR"},{id:"AZ-YE"},{id:"AZ-YEV"},{id:"AZ-ZAN"},{id:"AZ-ZAQ"},{id:"AZ-ZAR"}-->

@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Ukraine - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+
+<!-- https://www.amcharts.com/svg-maps -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-ukraine" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="22.138115" topLatitude="52.374337" rightLongitude="40.216930" bottomLatitude="44.387017"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="22.138115" topLatitude="52.374337" rightLongitude="40.216930" bottomLatitude="44.387017"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"UA-40"},{id:"UA-43"},{id:"UA-71"},{id:"UA-74"},{id:"UA-77"},{id:"UA-12"},{id:"UA-14"},{id:"UA-26"},{id:"UA-63"},{id:"UA-65"},{id:"UA-68"},{id:"UA-30"},{id:"UA-32"},{id:"UA-35"},{id:"UA-09"},{id:"UA-46"},{id:"UA-48"},{id:"UA-51"},{id:"UA-53"},{id:"UA-56"},{id:"UA-59"},{id:"UA-61"},{id:"UA-21"},{id:"UA-05"},{id:"UA-07"},{id:"UA-23"},{id:"UA-18"}-->

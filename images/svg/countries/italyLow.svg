@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Italy - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-italy" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="6.624181" topLatitude="47.087088" rightLongitude="18.517034" bottomLatitude="35.490552"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="6.624181" topLatitude="47.087088" rightLongitude="18.517034" bottomLatitude="35.490552"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"VA"},{id:"SM"},{id:"FR-H"},{id:"MT"},{id:"IT_65"},{id:"IT-77"},{id:"IT-78"},{id:"IT-72"},{id:"IT-45"},{id:"IT-36"},{id:"IT-62"},{id:"IT-42"},{id:"IT-25"},{id:"IT-57"},{id:"IT-67"},{id:"IT-21"},{id:"IT-75"},{id:"IT-88"},{id:"IT-82"},{id:"IT-52"},{id:"IT-32"},{id:"IT-55"},{id:"IT-23"},{id:"IT-34"}-->

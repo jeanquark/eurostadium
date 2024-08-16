@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Turkey - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+
+<!-- https://www.amcharts.com/svg-maps -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-turkey" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="25.663689" topLatitude="42.099732" rightLongitude="44.819611" bottomLatitude="35.805510"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="25.663689" topLatitude="42.099732" rightLongitude="44.819611" bottomLatitude="35.805510"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"TR-01"},{id:"TR-02"},{id:"TR-03"},{id:"TR-04"},{id:"TR-68"},{id:"TR-05"},{id:"TR-06"},{id:"TR-07"},{id:"TR-75"},{id:"TR-08"},{id:"TR-09"},{id:"TR-10"},{id:"TR-74"},{id:"TR-72"},{id:"TR-69"},{id:"TR-11"},{id:"TR-12"},{id:"TR-13"},{id:"TR-14"},{id:"TR-15"},{id:"TR-16"},{id:"TR-17"},{id:"TR-18"},{id:"TR-19"},{id:"TR-20"},{id:"TR-21"},{id:"TR-81"},{id:"TR-22"},{id:"TR-23"},{id:"TR-24"},{id:"TR-25"},{id:"TR-26"},{id:"TR-27"},{id:"TR-28"},{id:"TR-29"},{id:"TR-30"},{id:"TR-31"},{id:"TR-33"},{id:"TR-36"},{id:"TR-32"},{id:"TR-34"},{id:"TR-35"},{id:"TR-46"},{id:"TR-78"},{id:"TR-70"},{id:"TR-36"},{id:"TR-37"},{id:"TR-38"},{id:"TR-79"},{id:"TR-71"},{id:"TR-39"},{id:"TR-40"},{id:"TR-41"},{id:"TR-42"},{id:"TR-43"},{id:"TR-44"},{id:"TR-45"},{id:"TR-47"},{id:"TR-48"},{id:"TR-49"},{id:"TR-50"},{id:"TR-51"},{id:"TR-52"},{id:"TR-80"},{id:"TR-53"},{id:"TR-54"},{id:"TR-55"},{id:"TR-63"},{id:"TR-56"},{id:"TR-57"},{id:"TR-73"},{id:"TR-58"},{id:"TR-59"},{id:"TR-60"},{id:"TR-61"},{id:"TR-62"},{id:"TR-64"},{id:"TR-65"},{id:"TR-77"},{id:"TR-66"},{id:"TR-67"}-->

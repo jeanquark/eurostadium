@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Belgium -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-belgium" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="2.543698" topLatitude="51.499939" rightLongitude="6.408540" bottomLatitude="49.497691"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="2.543698" topLatitude="51.499939" rightLongitude="6.408540" bottomLatitude="49.497691"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"BE-VAN"},{id:"BE-BWR"},{id:"BE-BRU"},{id:"BE-WHT"},{id:"BE-WLG"},{id:"BE-VLI"},{id:"BEW-LX"},{id:"BE-WNA"},{id:"BE-VOV"},{id:"BE-VBR"},{id:"BE-VWV"}-->

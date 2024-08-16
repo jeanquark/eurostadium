@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Czech Republic Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-czech_republic" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="12.090946" topLatitude="51.055243" rightLongitude="18.859518" bottomLatitude="48.551226"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="12.090946" topLatitude="51.055243" rightLongitude="18.859518" bottomLatitude="48.551226"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"CZ-JC"},{id:"CZ-JM"},{id:"CZ-KA"},{id:"CZ-KR"},{id:"CZ-LI"},{id:"CZ-MO"},{id:"CZ-OL"},{id:"CZ-PA"},{id:"CZ-ZL"},{id:"CZ-PL"},{id:"CZ-PR"},{id:"CZ-ST"},{id:"CZ-US"},{id:"CZ-VY"}-->

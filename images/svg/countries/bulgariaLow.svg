@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Bulgaria - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-bulgaria" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="22.356421" topLatitude="44.212643" rightLongitude="28.610539" bottomLatitude="41.235569"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="22.356421" topLatitude="44.212643" rightLongitude="28.610539" bottomLatitude="41.235569"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"BG-01"},{id:"BG-02"},{id:"BG-03"},{id:"BG-04"},{id:"BG-05"},{id:"BG-06"},{id:"BG-07"},{id:"BG-08"},{id:"BG-09"},{id:"BG-10"},{id:"BG-11"},{id:"BG-12"},{id:"BG-13"},{id:"BG-14"},{id:"BG-15"},{id:"BG-16"},{id:"BG-17"},{id:"BG-18"},{id:"BG-19"},{id:"BG-20"},{id:"BG-21"},{id:"BG-22"},{id:"BG-23"},{id:"BG-24"},{id:"BG-25"},{id:"BG-26"},{id:"BG-28"},{id:"BG-27"}-->

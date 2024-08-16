@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Greece - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-greece" viewBox="0 0 300 800">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="19.375819" topLatitude="41.7448887" rightLongitude="29.609274" bottomLatitude="34.803673"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="19.375819" topLatitude="41.7448887" rightLongitude="29.609274" bottomLatitude="34.803673"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"GR-A"},{id:"GR-B"},{id:"GR-C"},{id:"GR-D"},{id:"GR-E"},{id:"GR-F"},{id:"GR-G"},{id:"GR-H"},{id:"GR-I"},{id:"GR-J"},{id:"GR-K"},{id:"GR-L"},{id:"GR-M"},{id:"GR-69"}-->

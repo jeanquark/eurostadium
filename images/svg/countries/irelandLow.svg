@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Ireland - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-ireland" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="-10.617130" topLatitude="55.384293" rightLongitude="-5.429497" bottomLatitude="51.419835"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="-10.617130" topLatitude="55.384293" rightLongitude="-5.429497" bottomLatitude="51.419835"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"GB-NIR"},{id:"IE-CW"},{id:"IE-CN"},{id:"IE-CE"},{id:"IE-CO"},{id:"IE-DL"},{id:"IE-D"},{id:"IE-G"},{id:"IE-KE"},{id:"IE-KK"},{id:"IE-KY"},{id:"IE-LD"},{id:"IE-LH"},{id:"IE-LK"},{id:"IE-LM"},{id:"IE-LS"},{id:"IE-MH"},{id:"IE-MN"},{id:"IE-MO"},{id:"IE-OY"},{id:"IE-RN"},{id:"IE-SO"},{id:"IE-TA"},{id:"IE-WD"},{id:"IE-WH"},{id:"IE-WX"},{id:"IE-WW"}-->

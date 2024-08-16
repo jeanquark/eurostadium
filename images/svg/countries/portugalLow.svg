@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Portugal - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+
+<!-- https://www.amcharts.com/svg-maps -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-portugal" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="-31.270171" topLatitude="42.155925" rightLongitude="-6.187163" bottomLatitude="32.400528"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="-31.270171" topLatitude="42.155925" rightLongitude="-6.187163" bottomLatitude="32.400528"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"PT-01"},{id:"PT-02"},{id:"PT-03"},{id:"PT-04"},{id:"PT-05"},{id:"PT-06"},{id:"PT-07"},{id:"PT-08"},{id:"PT-09"},{id:"PT-10"},{id:"PT-11"},{id:"PT-12"},{id:"PT-13"},{id:"PT-14"},{id:"PT-15"},{id:"PT-16"},{id:"PT-17"},{id:"PT-18"},{id:"PT-20"},{id:"PT-30"}-->

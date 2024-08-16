@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Moldova - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-moldova" viewBox="0 0 1000 1000">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,7 +15,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="26.648880" topLatitude="48.495637" rightLongitude="30.175684" bottomLatitude="45.461826"></amcharts:ammap>
+		<!-- <amcharts:ammap projection="mercator" leftLongitude="26.648880" topLatitude="48.495637" rightLongitude="30.175684" bottomLatitude="45.461826"></amcharts:ammap> -->
 
 		<!-- All areas are listed in the line below. You can use this list in your script. -->
 		<!--{id:"MD-AN"},{id:"MD-BA"},{id:"MD-BD"},{id:"MD-BR"},{id:"MD-BS"},{id:"MD-CA"},{id:"MD-CL"},{id:"MD-CM"},{id:"MD-CR"},{id:"MD-CS"},{id:"MD-CT"},{id:"MD-CU"},{id:"MD-DO"},{id:"MD-DR"},{id:"MD-DU"},{id:"MD-ED"},{id:"MD-FA"},{id:"MD-FL"},{id:"MD-GA"},{id:"MD-GL"},{id:"MD-HI"},{id:"MD-IA"},{id:"MD-LE"},{id:"MD-NI"},{id:"MD-OC"},{id:"MD-OR"},{id:"MD-RE"},{id:"MD-RI"},{id:"MD-SD"},{id:"MD-SI"},{id:"MD-SN"},{id:"MD-SO"},{id:"MD-ST"},{id:"MD-SV"},{id:"MD-TA"},{id:"MD-TE"},{id:"MD-UN"}-->
