@@ -47,6 +47,14 @@ svgObject.addEventListener(
                         console.log('country: ', country)
                         if (country) {
                             svgObject.data = `./images/svg/countries/${country}Low.svg`
+                            // let elements = svgContent.getElementsByClassName('country')
+                            // for (var i = 0; i < elements.length; i++) {
+                            //     elements[i].classList.remove("hover")
+                            // }
+                            const tooltip = document.getElementById('tooltip')
+                            if (tooltip) {
+                                tooltip.style.display = 'none'
+                            }
                             // fetchStadiums(country)
                         }
                     }
@@ -85,7 +93,7 @@ svgObject.addEventListener(
                 customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
 
                 return customPan
-            },
+            }
         })
     }
 )

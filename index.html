@@ -30,7 +30,7 @@
                 <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
                 <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
                 <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
-                <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button>
+                <!-- <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button> -->
                 <a href="tests/modal.html">Modal</a>
                 <br /><br />
             </div>
@@ -77,39 +77,7 @@
     <script src="/js/index3.js"></script>
 
     <script>
-        const calculateSVGCoord = async () => {
-            console.log('calcultateSVGCoord')
-            const country = 'finland'
-            const data1 = await fetch(`./js/countriesSvgMapCoord.json`)
-            const coordData = await data1.json()
-            console.log('coordData: ', coordData)
-            // return
-            const data2 = await fetch(`./teams/${country}.json`)
-            const teams = await data2.json()
-            console.log('teams: ', teams);
-            // const teamId = 531
-            const array = []
-
-            const lng_min = coordData[country]['leftLongitude']
-            const lng_max = coordData[country]['rightLongitude']
-            const lat_min = coordData[country]['bottomLatitude']
-            const lat_max = coordData[country]['topLatitude']
-            const x_max = coordData[country]['xMax']
-            const y_max = coordData[country]['yMax']
-            // console.log('lng_min: ', lng_min)
-            // return
-
-            for (let i = 0; i < teams.length; i++) {
-                let obj = {}
-                obj['venueId'] = teams[i]['venue']['api_football_id']
-                obj['x'] = (((teams[i]['venue']['lng'] - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1)
-                obj['y'] = (((lat_max - teams[i]['venue']['lat']) * y_max) / (lat_max - lat_min)).toFixed(1)
-                array.push(obj)
-            }
-
-            console.log('array: ', array)
-
-        }
+        
     </script>
 </body>
 
