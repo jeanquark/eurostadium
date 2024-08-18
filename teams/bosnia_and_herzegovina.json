@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 43.345556,
 			"lng": 17.795278,
-			"x": 0,
-			"y": 0,
+			"x": 325.9,
+			"y": 418.4,
 			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Bijelim_Brijegom"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 43.378611,
 			"lng": 17.598056,
-			"x": 0,
-			"y": 0,
+			"x": 295,
+			"y": 411.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Pecara"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 43.846667,
 			"lng": 18.387222,
-			"x": 0,
-			"y": 0,
+			"x": 418.6,
+			"y": 309.8,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Grbavica"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 43.873889,
 			"lng": 18.408611,
-			"x": 0,
-			"y": 0,
+			"x": 422,
+			"y": 303.9,
 			"url": "https://en.wikipedia.org/wiki/Ko%C5%A1evo_City_Stadium"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "grass",
 			"lat": 43.061667,
 			"lng": 17.682778,
-			"x": 0,
-			"y": 0,
+			"x": 308.3,
+			"y": 480,
 			"url": "https://en.wikipedia.org/wiki/Stadium_Perica-Pero_Pavlovi%C4%87"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "grass",
 			"lat": 44.54172,
 			"lng": 18.661528,
-			"x": 0,
-			"y": 0,
+			"x": 461.6,
+			"y": 159.1,
 			"url": "https://en.wikipedia.org/wiki/Tu%C5%A1anj_City_Stadium"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 44.690549,
 			"lng": 18.997981,
-			"x": 0,
-			"y": 0,
+			"x": 514.3,
+			"y": 126.9,
 			"url": ""
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 44.7761,
 			"lng": 17.1996,
-			"x": 0,
-			"y": 0,
+			"x": 232.6,
+			"y": 108.3,
 			"url": "https://en.wikipedia.org/wiki/Banja_Luka_City_Stadium"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 43.658621,
 			"lng": 17.949823,
-			"x": 0,
-			"y": 0,
+			"x": 350.1,
+			"y": 350.6,
 			"url": "https://en.wikipedia.org/wiki/Konjic_City_Stadium"
 		},
 		"league": {
@@ -277,8 +277,8 @@
 			"surface": "grass",
 			"lat": 43.378384,
 			"lng": 17.854382,
-			"x": 0,
-			"y": 0,
+			"x": 335.2,
+			"y": 411.3,
 			"url": "https://hr.wikipedia.org/wiki/Stadion_Ro%C4%91eni"
 		},
 		"league": {
@@ -304,10 +304,10 @@
 			"city": "Doboj",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 44.732230,
+			"lat": 44.73223,
 			"lng": 18.093904,
-			"x": 0,
-			"y": 0,
+			"x": 372.7,
+			"y": 117.9,
 			"url": ""
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": null,
 			"lat": 43.469444,
 			"lng": 17.327778,
-			"x": 0,
-			"y": 0,
+			"x": 252.7,
+			"y": 391.6,
 			"url": "https://en.wikipedia.org/wiki/Mokri_Dolac_Stadium"
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 44.109444,
 			"lng": 18.117222,
-			"x": 0,
-			"y": 0,
+			"x": 376.3,
+			"y": 252.9,
 			"url": "https://bs.wikipedia.org/wiki/MGM_Farm_Arena"
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 44.54172,
 			"lng": 18.661528,
-			"x": 0,
-			"y": 0,
+			"x": 461.6,
+			"y": 159.1,
 			"url": "https://en.wikipedia.org/wiki/Tu%C5%A1anj_City_Stadium"
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 44.205723,
 			"lng": 17.907122,
-			"x": 0,
-			"y": 0,
+			"x": 343.4,
+			"y": 232,
 			"url": "https://en.wikipedia.org/wiki/Bilino_Polje_Stadium"
 		},
 		"league": {
@@ -450,9 +450,9 @@
 			"capacity": 4000,
 			"surface": "grass",
 			"lat": 43.671865,
-			"lng": 18.983110,
-			"x": 0,
-			"y": 0,
+			"lng": 18.98311,
+			"x": 511.9,
+			"y": 347.7,
 			"url": ""
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 44.132108,
 			"lng": 18.119338,
-			"x": 0,
-			"y": 0,
+			"x": 376.7,
+			"y": 247.9,
 			"url": ""
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "grass",
 			"lat": 44.605526,
 			"lng": 17.982879,
-			"x": 0,
-			"y": 0,
+			"x": 355.3,
+			"y": 145.3,
 			"url": ""
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 44.886944,
 			"lng": 18.412778,
-			"x": 0,
-			"y": 0,
+			"x": 422.6,
+			"y": 84.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Banja_Ilid%C5%BEa_(Grada%C4%8Dac)"
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 44.694458,
 			"lng": 18.297518,
-			"x": 0,
-			"y": 0,
+			"x": 404.6,
+			"y": 126,
 			"url": "https://bs.wikipedia.org/wiki/Stadion_Luke_(Gra%C4%8Danica)"
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 44.413958,
 			"lng": 18.535047,
-			"x": 0,
-			"y": 0,
+			"x": 441.8,
+			"y": 186.8,
 			"url": ""
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "grass",
 			"lat": 44.806667,
 			"lng": 15.863889,
-			"x": 0,
-			"y": 0,
+			"x": 23.4,
+			"y": 101.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Bori%C4%87ima"
 		},
 		"league": {
@@ -654,8 +654,8 @@
 			"surface": "grass",
 			"lat": 43.821719,
 			"lng": 18.195861,
-			"x": 0,
-			"y": 0,
+			"x": 388.6,
+			"y": 315.2,
 			"url": ""
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": "grass",
 			"lat": 44.542492,
 			"lng": 18.093153,
-			"x": 0,
-			"y": 0,
+			"x": 372.6,
+			"y": 159,
 			"url": ""
 		},
 		"league": {
@@ -712,8 +712,8 @@
 			"surface": "grass",
 			"lat": 44.703535,
 			"lng": 18.487801,
-			"x": 0,
-			"y": 0,
+			"x": 434.4,
+			"y": 124.1,
 			"url": ""
 		},
 		"league": {
@@ -741,8 +741,8 @@
 			"surface": "grass",
 			"lat": 43.715035,
 			"lng": 17.235814,
-			"x": 0,
-			"y": 0,
+			"x": 238.3,
+			"y": 338.3,
 			"url": ""
 		},
 		"league": {
@@ -770,8 +770,8 @@
 			"surface": "grass",
 			"lat": 44.129373,
 			"lng": 18.587184,
-			"x": 0,
-			"y": 0,
+			"x": 449.9,
+			"y": 248.5,
 			"url": ""
 		},
 		"league": {
@@ -799,8 +799,8 @@
 			"surface": "grass",
 			"lat": 44.778619,
 			"lng": 18.679598,
-			"x": 0,
-			"y": 0,
+			"x": 464.4,
+			"y": 107.8,
 			"url": ""
 		},
 		"league": {

@@ -1,1 +1,1017 @@
-[{"team":{"api_football_id":363,"name":"Hammarby FF","code":"HAM","country":"Sweden","founded":1897},"venue":{"api_football_id":1506,"name":"Tele2 Arena","address":"Arenaslingan 14, Johanneshov","city":"Stockholm","capacity":33000,"surface":"artificial turf","lat":59.29081,"lng":18.08534,"x":427.5,"y":1287.9,"url":"https://en.wikipedia.org/wiki/Tele2_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":1},{"team":{"api_football_id":364,"name":"Djurgardens IF","code":"DJU","country":"Sweden","founded":1891},"venue":{"api_football_id":1506,"name":"Tele2 Arena","address":"Arenaslingan 14, Johanneshov","city":"Stockholm","capacity":33000,"surface":"artificial turf","lat":59.29081,"lng":18.08534,"x":427.5,"y":1287.9,"url":"https://en.wikipedia.org/wiki/Tele2_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":2},{"team":{"api_football_id":366,"name":"IFK Goteborg","code":"GOT","country":"Sweden","founded":1904},"venue":{"api_football_id":1509,"name":"Gamla Ullevi","address":"Ullevigatan 5","city":"Göteborg","capacity":18800,"surface":"grass","lat":57.70623,"lng":11.98014,"x":53.6,"y":1496.8,"url":"https://en.wikipedia.org/wiki/Gamla_Ullevi"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":3},{"team":{"api_football_id":367,"name":"BK Hacken","code":"HAC","country":"Sweden","founded":1940},"venue":{"api_football_id":1511,"name":"Bravida Arena","address":"Inlandsgatan 48","city":"Göteborg","capacity":7000,"surface":"artificial turf","lat":57.719167,"lng":11.930556,"x":50.5,"y":1495,"url":"https://en.wikipedia.org/wiki/Bravida_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":4},{"team":{"api_football_id":370,"name":"Sirius","code":"SIR","country":"Sweden","founded":1907},"venue":{"api_football_id":1524,"name":"Studenternas IP","address":"Ulleråkersvägen 6","city":"Uppsala","capacity":10522,"surface":"artificial turf","lat":59.84958,"lng":17.64532,"x":400.5,"y":1214.2,"url":"https://en.wikipedia.org/wiki/Studenternas_IP"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":5},{"team":{"api_football_id":371,"name":"IF Brommapojkarna","code":"BRO","country":"Sweden","founded":1942},"venue":{"api_football_id":1503,"name":"Grimsta IP","address":"Gulddragargränd 100, Hässelby-Vällingby","city":"Stockholm","capacity":7350,"surface":"artificial turf","lat":59.362222,"lng":17.851667,"x":413.2,"y":1278.5,"url":"https://en.wikipedia.org/wiki/Grimsta_IP"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":6},{"team":{"api_football_id":372,"name":"IF elfsborg","code":"ELF","country":"Sweden","founded":1904},"venue":{"api_football_id":1507,"name":"Borås Arena","address":"Ălgårdsvägen 32","city":"Borås","capacity":16899,"surface":"artificial turf","lat":57.734444,"lng":12.934722,"x":112,"y":1493,"url":"https://en.wikipedia.org/wiki/Bor%C3%A5s_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":7},{"team":{"api_football_id":374,"name":"kalmar FF","code":"KAL","country":"Sweden","founded":1910},"venue":{"api_football_id":1517,"name":"Guldfågeln Arena","address":"Trångsundsvägen, Bilen","city":"Kalmar","capacity":12182,"surface":"grass","lat":56.69123,"lng":16.31493,"x":319.1,"y":1630.5,"url":"https://en.wikipedia.org/wiki/Guldf%C3%A5geln_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":8},{"team":{"api_football_id":375,"name":"Malmo FF","code":"MAL","country":"Sweden","founded":1910},"venue":{"api_football_id":1518,"name":"Eleda Stadion","address":"Eric Persson väg 1","city":"Malmö","capacity":24148,"surface":"grass","lat":55.583611,"lng":12.987806,"x":115.3,"y":1776.5,"url":"https://en.wikipedia.org/wiki/Stadion,_Malm%C3%B6"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":9},{"team":{"api_football_id":377,"name":"AIK stockholm","code":"AIK","country":"Sweden","founded":1891},"venue":{"api_football_id":1501,"name":"Friends Arena","address":"Råsta Strandväg 1","city":"Solna","capacity":54329,"surface":"grass","lat":59.3725,"lng":18,"x":422.3,"y":1277.1,"url":"https://en.wikipedia.org/wiki/Strawberry_Arena"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":10},{"team":{"api_football_id":378,"name":"IFK Norrkoping","code":"NOR","country":"Sweden","founded":1897},"venue":{"api_football_id":11553,"name":"PlatinumCars Arena","address":"Ektorpsgatan 1","city":"Norrköping","capacity":17234,"surface":"artificial turf","lat":58.584444,"lng":16.173056,"x":310.4,"y":1381,"url":"https://en.wikipedia.org/wiki/Nya_Parken"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":11},{"team":{"api_football_id":766,"name":"Halmstad","code":"HAL","country":"Sweden","founded":1914},"venue":{"api_football_id":1512,"name":"Örjans Vall","address":"Laxövägen","city":"Halmstad","capacity":15500,"surface":"grass","lat":56.684167,"lng":12.866389,"x":107.9,"y":1631.5,"url":"https://en.wikipedia.org/wiki/%C3%96rjans_Vall"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":12},{"team":{"api_football_id":2163,"name":"IFK Varnamo","code":"VAR","country":"Sweden","founded":1912},"venue":{"api_football_id":1937,"name":"Finnvedsvallen","address":"Sandgatan","city":"Värnamo","capacity":5070,"surface":"grass","lat":57.195917,"lng":14.042806,"x":179.9,"y":1564,"url":"https://en.wikipedia.org/wiki/Finnvedsvallen"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":13},{"team":{"api_football_id":2171,"name":"Varbergs BoIS FC","code":"VAR","country":"Sweden","founded":1925},"venue":{"api_football_id":10496,"name":"Varberg Energi Arena","address":"Kattegattsvägen 20","city":"Varberg","capacity":5000,"surface":"grass","lat":57.09836,"lng":12.26547,"x":71.1,"y":1576.9,"url":"https://en.wikipedia.org/wiki/P%C3%A5skbergsvallen"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":14},{"team":{"api_football_id":2172,"name":"Degerfors IF","code":"DEG","country":"Sweden","founded":1907},"venue":{"api_football_id":1505,"name":"Stora Valla","address":"Stora Vallavägen 1","city":"Degerfors","capacity":12500,"surface":"grass","lat":59.238333,"lng":14.443056,"x":204.4,"y":1294.8,"url":"https://en.wikipedia.org/wiki/Stora_Valla"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":15},{"team":{"api_football_id":2240,"name":"Mjallby AIF","code":"MJA","country":"Sweden","founded":1939},"venue":{"api_football_id":1519,"name":"Strandvallen","address":"Campingvägen 44, Hällevik","city":"Sölvesborg","capacity":7500,"surface":"grass","lat":56.011956,"lng":14.716251,"x":221.2,"y":1720.1,"url":"https://en.wikipedia.org/wiki/Strandvallen"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":16},{"team":{"api_football_id":6706,"name":"Utsikten","code":"UTS","country":"Sweden","founded":1935},"venue":{"api_football_id":4861,"name":"Ruddalens IP 1","address":"Musikvägen","city":"Västra Frölunda","capacity":5000,"surface":"artificial turf","lat":57.663889,"lng":11.909444,"x":49.3,"y":1502.3,"url":"https://en.wikipedia.org/wiki/Ruddalens_IP"},"league":{"api_football_id":113,"name":"Allsvenskan","country":"Sweden","api_football_country_id":0},"no":17},{"team":{"api_football_id":365,"name":"Orebro SK","code":"ORE","country":"Sweden","founded":1908},"venue":{"api_football_id":1521,"name":"Behrn Arena","address":"Rudbecksgatan 52 G","city":"Örebro","capacity":14500,"surface":"artificial turf","lat":59.266111,"lng":15.223056,"x":252.2,"y":1291.1,"url":"https://en.wikipedia.org/wiki/Eyravallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":18},{"team":{"api_football_id":369,"name":"trelleborgs FF","code":"TRE","country":"Sweden","founded":1926},"venue":{"api_football_id":1526,"name":"Vångavallen","address":"Östervångsvägen","city":"Trelleborg","capacity":10500,"surface":"grass","lat":55.38515,"lng":13.160983,"x":125.9,"y":1802.7,"url":"https://en.wikipedia.org/wiki/V%C3%A5ngavallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":19},{"team":{"api_football_id":373,"name":"GIF Sundsvall","code":"SUN","country":"Sweden","founded":1903},"venue":{"api_football_id":1510,"name":"NP3 Arena","address":"Universitetsallén 6","city":"Sundsvall","capacity":8034,"surface":"artificial turf","lat":62.394117,"lng":17.301278,"x":379.5,"y":878.8,"url":"https://en.wikipedia.org/wiki/Idrottsparken_(Sundsvall)"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":20},{"team":{"api_football_id":376,"name":"Ostersunds FK","code":"OST","country":"Sweden","founded":1996},"venue":{"api_football_id":1523,"name":"Jämtkraft Arena","address":"Arenavägen, Norr","city":"Östersund","capacity":8466,"surface":"artificial turf","lat":63.194851,"lng":14.655848,"x":217.5,"y":773.3,"url":"https://en.wikipedia.org/wiki/J%C3%A4mtkraft_Arena"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":21},{"team":{"api_football_id":764,"name":"Jonkopings Sodra","code":"JON","country":"Sweden","founded":1922},"venue":{"api_football_id":1516,"name":"Stadsparksvallen","address":"Skjutsarbacken 12","city":"Jönköping","capacity":6321,"surface":"grass","lat":57.7833,"lng":14.141864,"x":186,"y":1486.6,"url":"https://en.wikipedia.org/wiki/Stadsparksvallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":22},{"team":{"api_football_id":765,"name":"AFC Eskilstuna","code":"AFC","country":"Sweden","founded":2005},"venue":{"api_football_id":1528,"name":"Tunavallen","address":"Tunavallsgränden 2","city":"Eskilstuna","capacity":7800,"surface":"artificial turf","lat":59.370556,"lng":16.495,"x":330.1,"y":1277.4,"url":"https://en.wikipedia.org/wiki/Tunavallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":23},{"team":{"api_football_id":811,"name":"Helsingborg","code":"HEL","country":"Sweden","founded":1907},"venue":{"api_football_id":1513,"name":"Olympia","address":"Mellersta Stenbocksgatan","city":"Helsingborg","capacity":16673,"surface":"grass","lat":56.049444,"lng":12.706944,"x":98.1,"y":1715.1,"url":"https://en.wikipedia.org/wiki/Olympia_(Helsingborg)"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":24},{"team":{"api_football_id":812,"name":"falkenbergs FF","code":"FAL","country":"Sweden","founded":1928},"venue":{"api_football_id":1508,"name":"Falcon Alkoholfri Arena","address":"Kristineslättsallén","city":"Falkenberg","capacity":6214,"surface":"grass","lat":56.894,"lng":12.5115,"x":86.1,"y":1603.8,"url":"https://en.wikipedia.org/wiki/Falcon_Alkoholfri_Arena"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":25},{"team":{"api_football_id":813,"name":"gefle IF","code":"GEF","country":"Sweden","founded":1882},"venue":{"api_football_id":1504,"name":"Gavlevallen","address":"Gavlehovsvägen 15","city":"Gävle","capacity":6432,"surface":"artificial turf","lat":60.692153,"lng":17.135373,"x":369.3,"y":1103.2,"url":"https://en.wikipedia.org/wiki/Gavlevallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":26},{"team":{"api_football_id":2166,"name":"Orgryte IS","code":"ORG","country":"Sweden","founded":1887},"venue":{"api_football_id":1509,"name":"Gamla Ullevi","address":"Ullevigatan 5","city":"Göteborg","capacity":18800,"surface":"grass","lat":57.70623,"lng":11.98014,"x":53.6,"y":1496.8,"url":"https://en.wikipedia.org/wiki/Gamla_Ullevi"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":27},{"team":{"api_football_id":2170,"name":"Gais","code":"GAI","country":"Sweden","founded":1894},"venue":{"api_football_id":1509,"name":"Gamla Ullevi","address":"Ullevigatan 5","city":"Göteborg","capacity":18800,"surface":"grass","lat":57.70623,"lng":11.98014,"x":53.6,"y":1496.8,"url":"https://en.wikipedia.org/wiki/Gamla_Ullevi"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":28},{"team":{"api_football_id":2174,"name":"Osters IF","code":"OST","country":"Sweden","founded":1930},"venue":{"api_football_id":11916,"name":"Visma Arena","address":"Bollgatan 1","city":"Växjö","capacity":12173,"surface":"grass","lat":56.879722,"lng":14.776389,"x":224.8,"y":1605.7,"url":"https://en.wikipedia.org/wiki/Visma_Arena"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":29},{"team":{"api_football_id":2175,"name":"IK brage","code":"BRA","country":"Sweden","founded":1925},"venue":{"api_football_id":18631,"name":"Borlänge Energi Arena Domnarvsvallen","address":"Stenhålsgatan","city":"Borlänge","capacity":6500,"surface":"artificial turf","lat":60.495,"lng":15.433889,"x":265.1,"y":1129.1,"url":"https://en.wikipedia.org/wiki/Domnarvsvallen"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":30},{"team":{"api_football_id":2176,"name":"Landskrona BoIS","code":"LAN","country":"Sweden","founded":1915},"venue":{"api_football_id":1936,"name":"Landskrona Idrottsplats","address":"Idrottsvägen 11","city":"Landskrona","capacity":11500,"surface":"grass","lat":55.889934,"lng":12.83761,"x":106.1,"y":1736.2,"url":"https://en.wikipedia.org/wiki/Landskrona_IP"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":31},{"team":{"api_football_id":2241,"name":"Vasteras SK FK","code":"VAS","country":"Sweden","founded":1904},"venue":{"api_football_id":19703,"name":"Hitachi Energy Arena","address":"PONTUS WIDÉNS VÄG 5","city":"Västerås","capacity":8900,"surface":"artificial turf","lat":59.627535,"lng":16.530669,"x":332.3,"y":1243.5,"url":"https://en.wikipedia.org/wiki/Hitachi_Energy_Arena"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":32},{"team":{"api_football_id":6698,"name":"Skövde AIK","code":"SKO","country":"Sweden","founded":1919},"venue":{"api_football_id":4894,"name":"Södermalms IP","address":"Ekeskogsvägen","city":"Skövde","capacity":4646,"surface":"grass","lat":58.378889,"lng":13.840556,"x":167.5,"y":1408.1,"url":"https://en.wikipedia.org/wiki/S%C3%B6dermalms_IP"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":33},{"team":{"api_football_id":6706,"name":"Utsikten","code":"UTS","country":"Sweden","founded":1935},"venue":{"api_football_id":4861,"name":"Ruddalens IP 1","address":"Musikvägen","city":"Västra Frölunda","capacity":5000,"surface":"artificial turf","lat":57.663889,"lng":11.909444,"x":49.3,"y":1502.3,"url":"https://en.wikipedia.org/wiki/Ruddalens_IP"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":34},{"team":{"api_football_id":16601,"name":"United Nordic","code":null,"country":"Sweden","founded":2020},"venue":{"api_football_id":1525,"name":"Södertälje Fotbollsarena","address":"Genetaleden 5, Geneta","city":"Södertälje","capacity":6710,"surface":"artificial turf","lat":59.18756,"lng":17.57043,"x":395.9,"y":1301.5,"url":"https://en.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje_Fotbollsarena"},"league":{"api_football_id":114,"name":"Superettan","country":"Sweden","api_football_country_id":0},"no":35}]
+[
+	{
+		"team": {
+			"api_football_id": 363,
+			"name": "Hammarby FF",
+			"code": "HAM",
+			"country": "Sweden",
+			"founded": 1897
+		},
+		"venue": {
+			"api_football_id": 1506,
+			"name": "Tele2 Arena",
+			"address": "Arenaslingan 14, Johanneshov",
+			"city": "Stockholm",
+			"capacity": 33000,
+			"surface": "artificial turf",
+			"lat": 59.29081,
+			"lng": 18.08534,
+			"x": 427.5,
+			"y": 1287.9,
+			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 364,
+			"name": "Djurgardens IF",
+			"code": "DJU",
+			"country": "Sweden",
+			"founded": 1891
+		},
+		"venue": {
+			"api_football_id": 1506,
+			"name": "Tele2 Arena",
+			"address": "Arenaslingan 14, Johanneshov",
+			"city": "Stockholm",
+			"capacity": 33000,
+			"surface": "artificial turf",
+			"lat": 59.29081,
+			"lng": 18.08534,
+			"x": 427.5,
+			"y": 1287.9,
+			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 366,
+			"name": "IFK Goteborg",
+			"code": "GOT",
+			"country": "Sweden",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 1509,
+			"name": "Gamla Ullevi",
+			"address": "Ullevigatan 5",
+			"city": "Göteborg",
+			"capacity": 18800,
+			"surface": "grass",
+			"lat": 57.70623,
+			"lng": 11.98014,
+			"x": 53.6,
+			"y": 1496.8,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 367,
+			"name": "BK Hacken",
+			"code": "HAC",
+			"country": "Sweden",
+			"founded": 1940
+		},
+		"venue": {
+			"api_football_id": 1511,
+			"name": "Bravida Arena",
+			"address": "Inlandsgatan 48",
+			"city": "Göteborg",
+			"capacity": 7000,
+			"surface": "artificial turf",
+			"lat": 57.719167,
+			"lng": 11.930556,
+			"x": 50.5,
+			"y": 1495,
+			"url": "https://en.wikipedia.org/wiki/Bravida_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 370,
+			"name": "Sirius",
+			"code": "SIR",
+			"country": "Sweden",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1524,
+			"name": "Studenternas IP",
+			"address": "Ulleråkersvägen 6",
+			"city": "Uppsala",
+			"capacity": 10522,
+			"surface": "artificial turf",
+			"lat": 59.84958,
+			"lng": 17.64532,
+			"x": 400.5,
+			"y": 1214.2,
+			"url": "https://en.wikipedia.org/wiki/Studenternas_IP"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 371,
+			"name": "IF Brommapojkarna",
+			"code": "BRO",
+			"country": "Sweden",
+			"founded": 1942
+		},
+		"venue": {
+			"api_football_id": 1503,
+			"name": "Grimsta IP",
+			"address": "Gulddragargränd 100, Hässelby-Vällingby",
+			"city": "Stockholm",
+			"capacity": 7350,
+			"surface": "artificial turf",
+			"lat": 59.362222,
+			"lng": 17.851667,
+			"x": 413.2,
+			"y": 1278.5,
+			"url": "https://en.wikipedia.org/wiki/Grimsta_IP"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 372,
+			"name": "IF elfsborg",
+			"code": "ELF",
+			"country": "Sweden",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 1507,
+			"name": "Borås Arena",
+			"address": "Ălgårdsvägen 32",
+			"city": "Borås",
+			"capacity": 16899,
+			"surface": "artificial turf",
+			"lat": 57.734444,
+			"lng": 12.934722,
+			"x": 112,
+			"y": 1493,
+			"url": "https://en.wikipedia.org/wiki/Bor%C3%A5s_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 374,
+			"name": "kalmar FF",
+			"code": "KAL",
+			"country": "Sweden",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 1517,
+			"name": "Guldfågeln Arena",
+			"address": "Trångsundsvägen, Bilen",
+			"city": "Kalmar",
+			"capacity": 12182,
+			"surface": "grass",
+			"lat": 56.69123,
+			"lng": 16.31493,
+			"x": 319.1,
+			"y": 1630.5,
+			"url": "https://en.wikipedia.org/wiki/Guldf%C3%A5geln_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 375,
+			"name": "Malmo FF",
+			"code": "MAL",
+			"country": "Sweden",
+			"founded": 1910
+		},
+		"venue": {
+			"api_football_id": 1518,
+			"name": "Eleda Stadion",
+			"address": "Eric Persson väg 1",
+			"city": "Malmö",
+			"capacity": 24148,
+			"surface": "grass",
+			"lat": 55.583611,
+			"lng": 12.987806,
+			"x": 115.3,
+			"y": 1776.5,
+			"url": "https://en.wikipedia.org/wiki/Stadion,_Malm%C3%B6"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 377,
+			"name": "AIK stockholm",
+			"code": "AIK",
+			"country": "Sweden",
+			"founded": 1891
+		},
+		"venue": {
+			"api_football_id": 1501,
+			"name": "Friends Arena",
+			"address": "Råsta Strandväg 1",
+			"city": "Solna",
+			"capacity": 54329,
+			"surface": "grass",
+			"lat": 59.3725,
+			"lng": 18,
+			"x": 422.3,
+			"y": 1277.1,
+			"url": "https://en.wikipedia.org/wiki/Strawberry_Arena"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 378,
+			"name": "IFK Norrkoping",
+			"code": "NOR",
+			"country": "Sweden",
+			"founded": 1897
+		},
+		"venue": {
+			"api_football_id": 11553,
+			"name": "PlatinumCars Arena",
+			"address": "Ektorpsgatan 1",
+			"city": "Norrköping",
+			"capacity": 17234,
+			"surface": "artificial turf",
+			"lat": 58.584444,
+			"lng": 16.173056,
+			"x": 310.4,
+			"y": 1381,
+			"url": "https://en.wikipedia.org/wiki/Nya_Parken"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 766,
+			"name": "Halmstad",
+			"code": "HAL",
+			"country": "Sweden",
+			"founded": 1914
+		},
+		"venue": {
+			"api_football_id": 1512,
+			"name": "Örjans Vall",
+			"address": "Laxövägen",
+			"city": "Halmstad",
+			"capacity": 15500,
+			"surface": "grass",
+			"lat": 56.684167,
+			"lng": 12.866389,
+			"x": 107.9,
+			"y": 1631.5,
+			"url": "https://en.wikipedia.org/wiki/%C3%96rjans_Vall"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 2163,
+			"name": "IFK Varnamo",
+			"code": "VAR",
+			"country": "Sweden",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 1937,
+			"name": "Finnvedsvallen",
+			"address": "Sandgatan",
+			"city": "Värnamo",
+			"capacity": 5070,
+			"surface": "grass",
+			"lat": 57.195917,
+			"lng": 14.042806,
+			"x": 179.9,
+			"y": 1564,
+			"url": "https://en.wikipedia.org/wiki/Finnvedsvallen"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 2171,
+			"name": "Varbergs BoIS FC",
+			"code": "VAR",
+			"country": "Sweden",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 10496,
+			"name": "Varberg Energi Arena",
+			"address": "Kattegattsvägen 20",
+			"city": "Varberg",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 57.09836,
+			"lng": 12.26547,
+			"x": 71.1,
+			"y": 1576.9,
+			"url": "https://en.wikipedia.org/wiki/P%C3%A5skbergsvallen"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 2172,
+			"name": "Degerfors IF",
+			"code": "DEG",
+			"country": "Sweden",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1505,
+			"name": "Stora Valla",
+			"address": "Stora Vallavägen 1",
+			"city": "Degerfors",
+			"capacity": 12500,
+			"surface": "grass",
+			"lat": 59.238333,
+			"lng": 14.443056,
+			"x": 204.4,
+			"y": 1294.8,
+			"url": "https://en.wikipedia.org/wiki/Stora_Valla"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 2240,
+			"name": "Mjallby AIF",
+			"code": "MJA",
+			"country": "Sweden",
+			"founded": 1939
+		},
+		"venue": {
+			"api_football_id": 1519,
+			"name": "Strandvallen",
+			"address": "Campingvägen 44, Hällevik",
+			"city": "Sölvesborg",
+			"capacity": 7500,
+			"surface": "grass",
+			"lat": 56.011956,
+			"lng": 14.716251,
+			"x": 221.2,
+			"y": 1720.1,
+			"url": "https://en.wikipedia.org/wiki/Strandvallen"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 6706,
+			"name": "Utsikten",
+			"code": "UTS",
+			"country": "Sweden",
+			"founded": 1935
+		},
+		"venue": {
+			"api_football_id": 4861,
+			"name": "Ruddalens IP 1",
+			"address": "Musikvägen",
+			"city": "Västra Frölunda",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 57.663889,
+			"lng": 11.909444,
+			"x": 49.3,
+			"y": 1502.3,
+			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
+		},
+		"league": {
+			"api_football_id": 113,
+			"name": "Allsvenskan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 365,
+			"name": "Orebro SK",
+			"code": "ORE",
+			"country": "Sweden",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 1521,
+			"name": "Behrn Arena",
+			"address": "Rudbecksgatan 52 G",
+			"city": "Örebro",
+			"capacity": 14500,
+			"surface": "artificial turf",
+			"lat": 59.266111,
+			"lng": 15.223056,
+			"x": 252.2,
+			"y": 1291.1,
+			"url": "https://en.wikipedia.org/wiki/Eyravallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 369,
+			"name": "trelleborgs FF",
+			"code": "TRE",
+			"country": "Sweden",
+			"founded": 1926
+		},
+		"venue": {
+			"api_football_id": 1526,
+			"name": "Vångavallen",
+			"address": "Östervångsvägen",
+			"city": "Trelleborg",
+			"capacity": 10500,
+			"surface": "grass",
+			"lat": 55.38515,
+			"lng": 13.160983,
+			"x": 125.9,
+			"y": 1802.7,
+			"url": "https://en.wikipedia.org/wiki/V%C3%A5ngavallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 373,
+			"name": "GIF Sundsvall",
+			"code": "SUN",
+			"country": "Sweden",
+			"founded": 1903
+		},
+		"venue": {
+			"api_football_id": 1510,
+			"name": "NP3 Arena",
+			"address": "Universitetsallén 6",
+			"city": "Sundsvall",
+			"capacity": 8034,
+			"surface": "artificial turf",
+			"lat": 62.394117,
+			"lng": 17.301278,
+			"x": 379.5,
+			"y": 878.8,
+			"url": "https://en.wikipedia.org/wiki/Idrottsparken_(Sundsvall)"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 376,
+			"name": "Ostersunds FK",
+			"code": "OST",
+			"country": "Sweden",
+			"founded": 1996
+		},
+		"venue": {
+			"api_football_id": 1523,
+			"name": "Jämtkraft Arena",
+			"address": "Arenavägen, Norr",
+			"city": "Östersund",
+			"capacity": 8466,
+			"surface": "artificial turf",
+			"lat": 63.194851,
+			"lng": 14.655848,
+			"x": 217.5,
+			"y": 773.3,
+			"url": "https://en.wikipedia.org/wiki/J%C3%A4mtkraft_Arena"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 764,
+			"name": "Jonkopings Sodra",
+			"code": "JON",
+			"country": "Sweden",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 1516,
+			"name": "Stadsparksvallen",
+			"address": "Skjutsarbacken 12",
+			"city": "Jönköping",
+			"capacity": 6321,
+			"surface": "grass",
+			"lat": 57.7833,
+			"lng": 14.141864,
+			"x": 186,
+			"y": 1486.6,
+			"url": "https://en.wikipedia.org/wiki/Stadsparksvallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 765,
+			"name": "AFC Eskilstuna",
+			"code": "AFC",
+			"country": "Sweden",
+			"founded": 2005
+		},
+		"venue": {
+			"api_football_id": 1528,
+			"name": "Tunavallen",
+			"address": "Tunavallsgränden 2",
+			"city": "Eskilstuna",
+			"capacity": 7800,
+			"surface": "artificial turf",
+			"lat": 59.370556,
+			"lng": 16.495,
+			"x": 330.1,
+			"y": 1277.4,
+			"url": "https://en.wikipedia.org/wiki/Tunavallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 811,
+			"name": "Helsingborg",
+			"code": "HEL",
+			"country": "Sweden",
+			"founded": 1907
+		},
+		"venue": {
+			"api_football_id": 1513,
+			"name": "Olympia",
+			"address": "Mellersta Stenbocksgatan",
+			"city": "Helsingborg",
+			"capacity": 16673,
+			"surface": "grass",
+			"lat": 56.049444,
+			"lng": 12.706944,
+			"x": 98.1,
+			"y": 1715.1,
+			"url": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 812,
+			"name": "falkenbergs FF",
+			"code": "FAL",
+			"country": "Sweden",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 1508,
+			"name": "Falcon Alkoholfri Arena",
+			"address": "Kristineslättsallén",
+			"city": "Falkenberg",
+			"capacity": 6214,
+			"surface": "grass",
+			"lat": 56.894,
+			"lng": 12.5115,
+			"x": 86.1,
+			"y": 1603.8,
+			"url": "https://en.wikipedia.org/wiki/Falcon_Alkoholfri_Arena"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 813,
+			"name": "gefle IF",
+			"code": "GEF",
+			"country": "Sweden",
+			"founded": 1882
+		},
+		"venue": {
+			"api_football_id": 1504,
+			"name": "Gavlevallen",
+			"address": "Gavlehovsvägen 15",
+			"city": "Gävle",
+			"capacity": 6432,
+			"surface": "artificial turf",
+			"lat": 60.692153,
+			"lng": 17.135373,
+			"x": 369.3,
+			"y": 1103.2,
+			"url": "https://en.wikipedia.org/wiki/Gavlevallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 2166,
+			"name": "Orgryte IS",
+			"code": "ORG",
+			"country": "Sweden",
+			"founded": 1887
+		},
+		"venue": {
+			"api_football_id": 1509,
+			"name": "Gamla Ullevi",
+			"address": "Ullevigatan 5",
+			"city": "Göteborg",
+			"capacity": 18800,
+			"surface": "grass",
+			"lat": 57.70623,
+			"lng": 11.98014,
+			"x": 53.6,
+			"y": 1496.8,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 2170,
+			"name": "Gais",
+			"code": "GAI",
+			"country": "Sweden",
+			"founded": 1894
+		},
+		"venue": {
+			"api_football_id": 1509,
+			"name": "Gamla Ullevi",
+			"address": "Ullevigatan 5",
+			"city": "Göteborg",
+			"capacity": 18800,
+			"surface": "grass",
+			"lat": 57.70623,
+			"lng": 11.98014,
+			"x": 53.6,
+			"y": 1496.8,
+			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	},
+	{
+		"team": {
+			"api_football_id": 2174,
+			"name": "Osters IF",
+			"code": "OST",
+			"country": "Sweden",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 11916,
+			"name": "Visma Arena",
+			"address": "Bollgatan 1",
+			"city": "Växjö",
+			"capacity": 12173,
+			"surface": "grass",
+			"lat": 56.879722,
+			"lng": 14.776389,
+			"x": 224.8,
+			"y": 1605.7,
+			"url": "https://en.wikipedia.org/wiki/Visma_Arena"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 29
+	},
+	{
+		"team": {
+			"api_football_id": 2175,
+			"name": "IK brage",
+			"code": "BRA",
+			"country": "Sweden",
+			"founded": 1925
+		},
+		"venue": {
+			"api_football_id": 18631,
+			"name": "Borlänge Energi Arena Domnarvsvallen",
+			"address": "Stenhålsgatan",
+			"city": "Borlänge",
+			"capacity": 6500,
+			"surface": "artificial turf",
+			"lat": 60.495,
+			"lng": 15.433889,
+			"x": 265.1,
+			"y": 1129.1,
+			"url": "https://en.wikipedia.org/wiki/Domnarvsvallen"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 30
+	},
+	{
+		"team": {
+			"api_football_id": 2176,
+			"name": "Landskrona BoIS",
+			"code": "LAN",
+			"country": "Sweden",
+			"founded": 1915
+		},
+		"venue": {
+			"api_football_id": 1936,
+			"name": "Landskrona Idrottsplats",
+			"address": "Idrottsvägen 11",
+			"city": "Landskrona",
+			"capacity": 11500,
+			"surface": "grass",
+			"lat": 55.889934,
+			"lng": 12.83761,
+			"x": 106.1,
+			"y": 1736.2,
+			"url": "https://en.wikipedia.org/wiki/Landskrona_IP"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 31
+	},
+	{
+		"team": {
+			"api_football_id": 2241,
+			"name": "Vasteras SK FK",
+			"code": "VAS",
+			"country": "Sweden",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 19703,
+			"name": "Hitachi Energy Arena",
+			"address": "PONTUS WIDÉNS VÄG 5",
+			"city": "Västerås",
+			"capacity": 8900,
+			"surface": "artificial turf",
+			"lat": 59.627535,
+			"lng": 16.530669,
+			"x": 332.3,
+			"y": 1243.5,
+			"url": "https://en.wikipedia.org/wiki/Hitachi_Energy_Arena"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 32
+	},
+	{
+		"team": {
+			"api_football_id": 6698,
+			"name": "Skövde AIK",
+			"code": "SKO",
+			"country": "Sweden",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 4894,
+			"name": "Södermalms IP",
+			"address": "Ekeskogsvägen",
+			"city": "Skövde",
+			"capacity": 4646,
+			"surface": "grass",
+			"lat": 58.378889,
+			"lng": 13.840556,
+			"x": 167.5,
+			"y": 1408.1,
+			"url": "https://en.wikipedia.org/wiki/S%C3%B6dermalms_IP"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 33
+	},
+	{
+		"team": {
+			"api_football_id": 6706,
+			"name": "Utsikten",
+			"code": "UTS",
+			"country": "Sweden",
+			"founded": 1935
+		},
+		"venue": {
+			"api_football_id": 4861,
+			"name": "Ruddalens IP 1",
+			"address": "Musikvägen",
+			"city": "Västra Frölunda",
+			"capacity": 5000,
+			"surface": "artificial turf",
+			"lat": 57.663889,
+			"lng": 11.909444,
+			"x": 49.3,
+			"y": 1502.3,
+			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 34
+	},
+	{
+		"team": {
+			"api_football_id": 16601,
+			"name": "United Nordic",
+			"code": null,
+			"country": "Sweden",
+			"founded": 2020
+		},
+		"venue": {
+			"api_football_id": 1525,
+			"name": "Södertälje Fotbollsarena",
+			"address": "Genetaleden 5, Geneta",
+			"city": "Södertälje",
+			"capacity": 6710,
+			"surface": "artificial turf",
+			"lat": 59.18756,
+			"lng": 17.57043,
+			"x": 395.9,
+			"y": 1301.5,
+			"url": "https://en.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje_Fotbollsarena"
+		},
+		"league": {
+			"api_football_id": 114,
+			"name": "Superettan",
+			"country": "Sweden",
+			"api_football_country_id": 0
+		},
+		"no": 35
+	}
+]

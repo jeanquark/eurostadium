@@ -16,9 +16,9 @@
 			"surface": "grass",
 			"lat": 55.849722,
 			"lng": -4.205556,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Celtic_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Celtic_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -45,9 +45,9 @@
 			"surface": "grass",
 			"lat": 55.961667,
 			"lng": -3.165556,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Easter_Road"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Easter_Road"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -74,9 +74,9 @@
 			"surface": "artificial turf",
 			"lat": 55.604167,
 			"lng": -4.508056,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Rugby_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Rugby_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -103,9 +103,9 @@
 			"surface": "grass",
 			"lat": 55.850556,
 			"lng": -4.443889,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/St_Mirren_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/St_Mirren_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -132,9 +132,9 @@
 			"surface": "grass",
 			"lat": 57.159167,
 			"lng": -2.088889,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Pittodrie_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Pittodrie_Stadium"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -161,9 +161,9 @@
 			"surface": "grass",
 			"lat": 56.474722,
 			"lng": -2.973611,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Dens_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Dens_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -190,9 +190,9 @@
 			"surface": "grass",
 			"lat": 55.939167,
 			"lng": -3.232222,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Tynecastle_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Tynecastle_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -219,9 +219,9 @@
 			"surface": "grass",
 			"lat": 55.885833,
 			"lng": -3.521944,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Almondvale_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Almondvale_Stadium"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -248,9 +248,9 @@
 			"surface": "grass",
 			"lat": 55.78,
 			"lng": -3.98,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Fir_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Fir_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -277,9 +277,9 @@
 			"surface": "grass",
 			"lat": 55.853056,
 			"lng": -4.309167,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Ibrox_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Ibrox_Stadium"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -306,9 +306,9 @@
 			"surface": "grass",
 			"lat": 56.409722,
 			"lng": -3.476944,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/McDiarmid_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/McDiarmid_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -335,9 +335,9 @@
 			"surface": "grass",
 			"lat": 55.881389,
 			"lng": -4.269444,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Firhill_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Firhill_Stadium"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -364,9 +364,9 @@
 			"surface": "grass",
 			"lat": 57.595833,
 			"lng": -4.418889,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Victoria_Park,_Dingwall"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Victoria_Park,_Dingwall"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -393,9 +393,9 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Stark%27s_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -422,9 +422,9 @@
 			"surface": "artificial turf",
 			"lat": 55.859722,
 			"lng": -3.959722,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Excelsior_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Excelsior_Stadium"
 		},
 		"league": {
 			"api_football_id": 179,
@@ -451,9 +451,9 @@
 			"surface": "artificial turf",
 			"lat": 55.782222,
 			"lng": -4.058611,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/New_Douglas_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/New_Douglas_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -480,9 +480,9 @@
 			"surface": "grass",
 			"lat": 55.881389,
 			"lng": -4.269444,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Firhill_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Firhill_Stadium"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -509,9 +509,9 @@
 			"surface": "grass",
 			"lat": 57.494722,
 			"lng": -4.2175,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Caledonian_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Caledonian_Stadium"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -538,9 +538,9 @@
 			"surface": "grass",
 			"lat": 55.941389,
 			"lng": -4.726944,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Cappielow"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Cappielow"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -567,9 +567,9 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Stark%27s_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -596,9 +596,9 @@
 			"surface": "grass",
 			"lat": 56.474722,
 			"lng": -2.968889,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Tannadice_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Tannadice_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -625,9 +625,9 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Stark%27s_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -654,9 +654,9 @@
 			"surface": "grass",
 			"lat": 56.075278,
 			"lng": -3.441944,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/East_End_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/East_End_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -683,9 +683,9 @@
 			"surface": "artificial turf",
 			"lat": 56.116667,
 			"lng": -3.778611,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Recreation_Park,_Alloa"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Recreation_Park,_Alloa"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -712,9 +712,9 @@
 			"surface": "grass",
 			"lat": 56.552222,
 			"lng": -2.591389,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Gayfield_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Gayfield_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -741,9 +741,9 @@
 			"surface": "artificial turf",
 			"lat": 56.713889,
 			"lng": -2.458889,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Links_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Links_Park"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -770,9 +770,9 @@
 			"surface": "artificial turf",
 			"lat": 55.859722,
 			"lng": -3.959722,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Excelsior_Stadium"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Excelsior_Stadium"
 		},
 		"league": {
 			"api_football_id": 180,
@@ -799,9 +799,9 @@
 			"surface": "grass",
 			"lat": 55.825833,
 			"lng": -4.251944,
-			"x": 0,
-			"y": 0,
-			"url" : "https://en.wikipedia.org/wiki/Hampden_Park"
+			"x": null,
+			"y": null,
+			"url": "https://en.wikipedia.org/wiki/Hampden_Park"
 		},
 		"league": {
 			"api_football_id": 180,

@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 56.954997,
 			"lng": 24.158839,
-			"x": 0,
-			"y": 0,
+			"x": 542.6,
+			"y": 347.9,
 			"url": "https://en.wikipedia.org/wiki/Daugava_Stadium_(Riga)"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 57.004379,
 			"lng": 24.175378,
-			"x": 0,
-			"y": 0,
+			"x": 545.4,
+			"y": 332.7,
 			"url": ""
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 56.949591,
 			"lng": 23.610199,
-			"x": 0,
-			"y": 0,
+			"x": 451,
+			"y": 349.6,
 			"url": "https://en.wikipedia.org/wiki/Sloka_Stadium"
 		},
 		"league": {
@@ -102,9 +102,9 @@
 			"capacity": 1000,
 			"surface": "artificial turf",
 			"lat": 56.951659,
-			"lng": 23.118460,
-			"x": 0,
-			"y": 0,
+			"lng": 23.11846,
+			"x": 368.9,
+			"y": 349,
 			"url": ""
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "artificial turf",
 			"lat": 55.874667,
 			"lng": 26.550619,
-			"x": 0,
-			"y": 0,
+			"x": 941.9,
+			"y": 680.3,
 			"url": "https://en.wikipedia.org/wiki/Celtnieks_Stadium"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "artificial turf",
 			"lat": 57.54101,
 			"lng": 25.440471,
-			"x": 0,
-			"y": 0,
+			"x": 756.6,
+			"y": 167.6,
 			"url": "https://en.wikipedia.org/wiki/J%C4%81nis_Dali%C5%86%C5%A1_Stadium"
 		},
 		"league": {
@@ -188,10 +188,10 @@
 			"city": "Riga",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 56.966430,
+			"lat": 56.96643,
 			"lng": 24.118364,
-			"x": 0,
-			"y": 0,
+			"x": 535.8,
+			"y": 344.4,
 			"url": ""
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 56.908,
 			"lng": 24.155,
-			"x": 0,
-			"y": 0,
+			"x": 542,
+			"y": 362.4,
 			"url": "https://en.wikipedia.org/wiki/LNK_Sporta_Parks"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 56.961372,
 			"lng": 24.116408,
-			"x": 0,
-			"y": 0,
+			"x": 535.5,
+			"y": 346,
 			"url": "https://en.wikipedia.org/wiki/Skonto_Stadium"
 		},
 		"league": {
@@ -275,10 +275,10 @@
 			"city": "Riga",
 			"capacity": 2000,
 			"surface": "artificial turf",
-			"lat": 56.966430,
+			"lat": 56.96643,
 			"lng": 24.118364,
-			"x": 0,
-			"y": 0,
+			"x": 535.8,
+			"y": 344.4,
 			"url": ""
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 56.6608,
 			"lng": 23.7558,
-			"x": 0,
-			"y": 0,
+			"x": 475.3,
+			"y": 438.5,
 			"url": "https://en.wikipedia.org/wiki/Zemgale_Olympic_Center"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -654,8 +654,8 @@
 			"surface": "artificial turf",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {
@@ -712,8 +712,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -3490.5,
+			"y": 17871,
 			"url": ""
 		},
 		"league": {

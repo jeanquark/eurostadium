@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 41.933889,
 			"lng": 12.454722,
-			"x": 0,
-			"y": 0,
+			"x": 299.1,
+			"y": 352,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Olimpico"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 44.714722,
 			"lng": 10.649722,
-			"x": 0,
-			"y": 0,
+			"x": 206.5,
+			"y": 162.1,
 			"url": "https://en.wikipedia.org/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 45.478056,
 			"lng": 9.123889,
-			"x": 0,
-			"y": 0,
+			"x": 128.2,
+			"y": 109.9,
 			"url": "https://en.wikipedia.org/wiki/San_Siro"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 39.2,
 			"lng": 9.1375,
-			"x": 0,
-			"y": 0,
+			"x": 128.9,
+			"y": 538.8,
 			"url": "https://en.wikipedia.org/wiki/Unipol_Domus"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "grass",
 			"lat": 40.828,
 			"lng": 14.193,
-			"x": 0,
-			"y": 0,
+			"x": 388.3,
+			"y": 427.6,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "grass",
 			"lat": 46.0816,
 			"lng": 13.2001,
-			"x": 0,
-			"y": 0,
+			"x": 337.4,
+			"y": 68.7,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Friuli"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 44.416389,
 			"lng": 8.9525,
-			"x": 0,
-			"y": 0,
+			"x": 119.5,
+			"y": 182.4,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 45.109444,
 			"lng": 7.641111,
-			"x": 0,
-			"y": 0,
+			"x": 52.2,
+			"y": 135.1,
 			"url": "https://en.wikipedia.org/wiki/Juventus_Stadium"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 41.933889,
 			"lng": 12.454722,
-			"x": 0,
-			"y": 0,
+			"x": 299.1,
+			"y": 352,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Olimpico"
 		},
 		"league": {
@@ -277,8 +277,8 @@
 			"surface": "grass",
 			"lat": 45.708889,
 			"lng": 9.680833,
-			"x": 0,
-			"y": 0,
+			"x": 156.8,
+			"y": 94.2,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Atleti_Azzurri_d%27Italia"
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 44.492222,
 			"lng": 11.309722,
-			"x": 0,
-			"y": 0,
+			"x": 240.4,
+			"y": 177.3,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "grass",
 			"lat": 43.780833,
 			"lng": 11.282222,
-			"x": 0,
-			"y": 0,
+			"x": 239,
+			"y": 225.9,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi"
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 45.041667,
 			"lng": 7.65,
-			"x": 0,
-			"y": 0,
+			"x": 52.6,
+			"y": 139.7,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino"
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 45.435278,
 			"lng": 10.968611,
-			"x": 0,
-			"y": 0,
+			"x": 222.9,
+			"y": 112.8,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Marcantonio_Bentegodi"
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 45.478056,
 			"lng": 9.123889,
-			"x": 0,
-			"y": 0,
+			"x": 128.2,
+			"y": 109.9,
 			"url": "https://en.wikipedia.org/wiki/San_Siro"
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "grass",
 			"lat": 43.726389,
 			"lng": 10.955,
-			"x": 0,
-			"y": 0,
+			"x": 222.2,
+			"y": 229.6,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Carlo_Castellani"
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 41.634167,
 			"lng": 13.321944,
-			"x": 0,
-			"y": 0,
+			"x": 343.6,
+			"y": 372.5,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Benito_Stirpe"
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "grass",
 			"lat": 40.645,
 			"lng": 14.823889,
-			"x": 0,
-			"y": 0,
+			"x": 420.7,
+			"y": 440.1,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Arechi"
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 40.365278,
 			"lng": 18.208889,
-			"x": 0,
-			"y": 0,
+			"x": 594.3,
+			"y": 459.2,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Via_del_mare"
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 45.582778,
 			"lng": 9.308056,
-			"x": 0,
-			"y": 0,
+			"x": 137.7,
+			"y": 102.8,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Brianteo"
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 44.416389,
 			"lng": 8.9525,
-			"x": 0,
-			"y": 0,
+			"x": 119.5,
+			"y": 182.4,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris"
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "grass",
 			"lat": 42.861111,
 			"lng": 13.594167,
-			"x": 0,
-			"y": 0,
+			"x": 357.6,
+			"y": 288.7,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Cino_e_Lillo_Del_Duca"
 		},
 		"league": {
@@ -654,8 +654,8 @@
 			"surface": "grass",
 			"lat": 41.084736,
 			"lng": 16.840072,
-			"x": 0,
-			"y": 0,
+			"x": 524.1,
+			"y": 410,
 			"url": "https://en.wikipedia.org/wiki/Stadio_San_Nicola"
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": "grass",
 			"lat": 45.642778,
 			"lng": 11.781111,
-			"x": 0,
-			"y": 0,
+			"x": 264.6,
+			"y": 98.7,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Pier_Cesare_Tombolato"
 		},
 		"league": {
@@ -712,8 +712,8 @@
 			"surface": "artificial turf",
 			"lat": 44.102222,
 			"lng": 9.808611,
-			"x": 0,
-			"y": 0,
+			"x": 163.4,
+			"y": 203.9,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Alberto_Picco"
 		},
 		"league": {
@@ -741,8 +741,8 @@
 			"surface": "grass",
 			"lat": 42.562222,
 			"lng": 12.635278,
-			"x": 0,
-			"y": 0,
+			"x": 308.4,
+			"y": 309.1,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Libero_Liberati"
 		},
 		"league": {
@@ -770,8 +770,8 @@
 			"surface": "grass",
 			"lat": 45.427761,
 			"lng": 12.363731,
-			"x": 0,
-			"y": 0,
+			"x": 294.5,
+			"y": 113.4,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Pier_Luigi_Penzo"
 		},
 		"league": {
@@ -799,8 +799,8 @@
 			"surface": "grass",
 			"lat": 45.570556,
 			"lng": 10.236944,
-			"x": 0,
-			"y": 0,
+			"x": 185.3,
+			"y": 103.6,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Mario_Rigamonti"
 		},
 		"league": {
@@ -828,8 +828,8 @@
 			"surface": "grass",
 			"lat": 45.140278,
 			"lng": 10.034722,
-			"x": 0,
-			"y": 0,
+			"x": 175,
+			"y": 133,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Giovanni_Zini"
 		},
 		"league": {
@@ -857,8 +857,8 @@
 			"surface": "grass",
 			"lat": 38.152767,
 			"lng": 13.342275,
-			"x": 0,
-			"y": 0,
+			"x": 344.7,
+			"y": 610.3,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera"
 		},
 		"league": {
@@ -886,8 +886,8 @@
 			"surface": "grass",
 			"lat": 44.794917,
 			"lng": 10.338444,
-			"x": 0,
-			"y": 0,
+			"x": 190.6,
+			"y": 156.6,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Ennio_Tardini"
 		},
 		"league": {
@@ -915,8 +915,8 @@
 			"surface": "grass",
 			"lat": 43.725278,
 			"lng": 10.4,
-			"x": 0,
-			"y": 0,
+			"x": 193.7,
+			"y": 229.7,
 			"url": "https://en.wikipedia.org/wiki/Arena_Garibaldi_%E2%80%93_Stadio_Romeo_Anconetani"
 		},
 		"league": {
@@ -944,8 +944,8 @@
 			"surface": "grass",
 			"lat": 44.714722,
 			"lng": 10.649722,
-			"x": 0,
-			"y": 0,
+			"x": 206.5,
+			"y": 162.1,
 			"url": "https://en.wikipedia.org/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore"
 		},
 		"league": {
@@ -973,8 +973,8 @@
 			"surface": "grass",
 			"lat": 45.029722,
 			"lng": 9.689722,
-			"x": 0,
-			"y": 0,
+			"x": 157.3,
+			"y": 140.5,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Leonardo_Garilli"
 		},
 		"league": {
@@ -1002,8 +1002,8 @@
 			"surface": "grass",
 			"lat": 45.813889,
 			"lng": 9.072222,
-			"x": 0,
-			"y": 0,
+			"x": 125.6,
+			"y": 87,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Giuseppe_Sinigaglia"
 		},
 		"league": {
@@ -1031,8 +1031,8 @@
 			"surface": "grass",
 			"lat": 44.653611,
 			"lng": 10.923333,
-			"x": 0,
-			"y": 0,
+			"x": 220.6,
+			"y": 166.2,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Alberto_Braglia"
 		},
 		"league": {
@@ -1060,8 +1060,8 @@
 			"surface": "grass",
 			"lat": 46.491981,
 			"lng": 11.346002,
-			"x": 0,
-			"y": 0,
+			"x": 242.2,
+			"y": 40.7,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Druso"
 		},
 		"league": {
@@ -1089,8 +1089,8 @@
 			"surface": "grass",
 			"lat": 38.91555556,
 			"lng": 16.58777778,
-			"x": 0,
-			"y": 0,
+			"x": 511.2,
+			"y": 558.2,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Nicola_Ceravolo"
 		},
 		"league": {
@@ -1118,8 +1118,8 @@
 			"surface": "grass",
 			"lat": 45.432222,
 			"lng": 11.858333,
-			"x": 0,
-			"y": 0,
+			"x": 268.5,
+			"y": 113.1,
 			"url": "https://en.wikipedia.org/wiki/Stadio_Euganeo"
 		},
 		"league": {
@@ -1147,8 +1147,8 @@
 			"surface": "grass",
 			"lat": 39.31,
 			"lng": 16.231111,
-			"x": 0,
-			"y": 0,
+			"x": 492.9,
+			"y": 531.3,
 			"url": "https://en.wikipedia.org/wiki/Stadio_San_Vito-Gigi_Marulla"
 		},
 		"league": {

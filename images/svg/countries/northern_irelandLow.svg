@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/styles/home.css"?>
+<!-- https://www.amcharts.com/svg-maps -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-northern_ireland"
+   viewBox="0 0 128.99998 103.99996">
+  <path
+     inkscape:connector-curvature="0"
+     d="m 91.04882,0.25 -0.69922,0.0996 -0.5,0.30078 -0.5,0.30078 -0.59961,0.5 1.09961,0.19922 1.19922,-0.0996 1.09961,0.0996 1.10156,0.90039 -0.20117,0.40039 v 0.29883 0.40039 l -0.0996,0.59961 0.30078,-0.5 0.5,-0.90039 0.29883,-1.09961 -0.09962,-0.79882 -0.5,-0.30078 z m -11.29883,5.20117 -1,0.0996 -1,0.59961 -0.90039,0.80078 -0.40039,0.39844 -0.30078,0.60156 -0.79883,0.59961 -3.30078,0.19922 -5.29883,2.5 -3.90039,0.20117 -2.20117,0.0996 -0.89844,-0.30078 -2,-1.40039 h -0.80078 l -0.19922,1.20117 -0.30078,3.69922 -0.59961,0.80078 -0.5,0.59961 -0.59961,1.30078 -0.30078,1.5 v 1.09961 l -0.69922,0.5 -1,1.29883 -0.60156,0.40039 -1.59961,0.20117 L 48.94921,22.25 48.24999,21.84961 46.94921,21.15039 46.04882,21.05078 43.94921,21.75 l -0.69922,-0.09961 0.39844,-1.5 -0.89844,0.30078 -0.40039,0.59961 -0.40039,0.5 -0.40039,0.5 -2.90039,0.40039 -0.59961,0.5 -0.5,0.5 -1.29883,2.09961 0.19922,0.69922 -0.0996,0.0996 -0.30078,0.10156 -0.19922,0.59961 0.29883,2.09961 -0.0996,0.69922 -0.29883,0.5 -0.10156,0.10156 -0.89844,0.39844 -0.40039,0.5 -0.0996,1 0.19922,2 v 0.90039 l -0.5,1.70117 -0.80078,1.5 -3.39844,4.19922 -0.30078,1.09961 -0.0996,2 0.19922,0.70117 0.20117,0.19922 v 0.19922 l -0.6016,0.30079 -0.5,-0.0996 -0.79883,-0.40039 -1.40039,0.40039 -1.59961,-0.5 -0.90039,0.5 L 22.3496,48.75001 20.74999,49.6504 19.14843,49.75 17.54882,48.95117 16.24999,47.75 h -0.60156 l -1.59961,1.59961 -2.40039,1.20117 0.80078,0.59961 0.30078,0.19922 -0.40039,1.20117 0.40039,0.79883 0.79883,0.5 0.80078,0.30078 0.40039,0.19922 0.5,1 0.29883,0.40039 0.40039,0.0996 0.80078,-0.59961 0.29883,-0.0996 0.70117,0.40039 1.5,1.29883 0.69922,0.30078 0.80078,-0.40039 0.69922,-0.5 0.5,0.0996 0.0996,1.60156 -1.90039,0.69922 -4.69922,4.5 -1.80078,0.69922 -1.79883,-0.0996 -3.59961,-0.79883 -0.90039,1.09961 -1,1.40039 -0.59961,1.19922 -0.20117,0.30078 -0.59961,0.5 -1.09961,0.69922 -2.5,0.69922 -0.90039,0.5 -0.19922,0.10156 0.59961,0.59961 0.09962,0.59961 0.0996,0.69922 0.5,0.60156 1.09961,1.29883 2,2.80078 1.10156,1.19922 1.19922,0.59961 h 1.30078 l 1,2.5 0.59961,1.20117 0.79883,0.90039 0.5,0.0996 0.30078,0.19922 1.90039,0.30078 0.69922,0.5 0.30078,1.29883 0.0996,3.5 0.69922,1.30078 0.90039,0.5 2.5,0.40039 2.80078,-0.20117 0.90039,0.10156 3.29883,2.59961 0.40039,0.5 0.0996,0.69922 0.0996,0.70117 0.60156,0.39844 5,1.20117 1,-0.20117 1.89844,-1.59961 1.20117,0.0996 -0.59961,0.70117 0.19926,0.09963 h 0.5 l 0.40039,0.0996 0.29883,0.70117 0.10156,0.29883 0.19922,0.0996 0.69922,-0.19922 2.30078,0.80078 0.5,-0.10156 h 0.19922 l -1,-2.19922 v -0.59961 l 0.30078,-0.40037 1.40039,-0.80078 0.19922,0.20117 -0.0996,0.5 -0.0996,0.79883 V 95.75 96.45117 l 0.0996,0.29883 0.69922,-0.29883 0.40039,-0.5 0.30078,-0.70117 0.19922,-0.79883 -0.19922,-0.80078 0.90039,-0.5 L 43.64844,92.75 43.25,92.34961 43.04883,92.05078 43.25,91.25 l 0.29883,-0.5 0.40039,-0.40039 0.5,-0.39844 2.59961,-0.70117 1,-0.69922 L 47.75,87.25 48.44922,86.34961 46.75,84.95117 47.04883,83.84961 45.44921,83.05078 45.3496,82.15039 h 0.19922 l 0.40039,0.0996 0.19922,-0.40039 0.10156,0.10156 0.29883,-0.80078 -0.0996,-0.19922 -0.19922,-0.40039 -0.10156,-0.5 0.10156,-0.30078 0.0996,-0.0996 0.19922,-0.0996 0.80078,0.0996 h 0.40039 l 1.5,-1.09961 2.29883,-3.70117 1.40039,-1.29883 1.40039,-0.0996 1.59961,0.79883 2.90039,2.40039 0.40039,0.59961 0.39844,1.30078 0.40039,0.19922 0.5,0.0996 0.30078,0.30078 0.5,1.30078 0.5,1.5 0.0996,1.09961 -0.40039,0.79883 -0.79883,0.5 1.69923,0.80078 0.40039,0.5 0.19922,0.69922 0.20117,0.80078 0.19922,0.80078 0.80078,1.29883 0.89844,1 1,0.90039 1,0.59961 0.60156,0.0996 0.39844,-0.39844 0.30078,-0.5 0.5,-0.30077 h 0.59961 l 0.5,0.30078 1,0.89844 0.70117,0.80078 0.29883,0.40039 0.30078,1.5 -0.40039,1.40039 -1.09961,1.39844 0.5,0.90039 -0.0996,0.90039 -0.70117,1.90039 0.70117,0.59961 1.29883,1.5 0.70117,0.40039 0.19922,-0.20117 0.30078,-0.39844 0.19922,-0.40039 0.30078,-0.20117 0.29883,-0.0996 0.70117,0.30078 h 0.39844 l 4,-1.5 h 1.30077 v 0.0996 l 0.19922,0.40039 0.30078,0.29883 0.30078,0.20117 h 0.29883 l 1.20117,-0.40039 1.09961,-0.19922 0.29883,-0.30078 0.20117,-0.59961 V 99.84961 L 84.75,99.25 l 0.0996,-0.5 0.59961,-1.09961 0.40039,0.0996 0.40039,0.5 0.5,0.40039 0.59961,-0.0996 0.69922,-0.40039 h 0.70117 l 0.69922,0.5 0.30078,-0.5 1,0.40039 1.39844,0.0996 1.20117,0.5 0.59961,1.40039 0.59961,0.0996 3.59961,1.30078 -0.39844,0.0996 -1,0.5 v 0.40039 l 0.89844,0.69922 0.70117,0.0996 1.79883,-0.19922 0.70117,-0.30078 1.90039,-1.5 1.5,-1.5 2,-1 0.79883,-1.09961 0.5,-1.30078 0.40039,-1.59961 0.30078,-1.59961 0.0996,-1.59961 v -0.30078 l -0.0996,-2.69922 0.29883,-1 0.90039,-0.30078 0.90039,-0.19922 2.09961,-0.80078 2,-0.19922 2.69922,0.29883 0.5,0.60156 0.20117,0.59961 0.40039,0.0996 0.39844,-0.19922 0.30078,-0.20117 0.30078,-1.69922 0.19922,-0.0996 0.59961,0.19922 0.20117,-0.0996 1.5,-1.59961 1.29883,-1.80078 0.5,-2.30078 -0.40039,-3.09961 -1.39844,-1.5 -2,0.59961 -2.10156,1.30078 -1.89844,0.69922 0.5,-0.89844 1.69922,-1.30075 0.40039,-0.80078 1.29883,-4.19922 -0.39844,-0.5 0.29883,-0.5 v -0.19922 l 0.0996,-0.40039 -0.59961,-0.20117 -0.29883,-0.69922 V 67.75 l 0.19922,-1 -1.40039,-0.79883 0.30078,-0.40039 1,-0.20117 0.79883,-0.29883 -0.59961,-0.40039 -1.69922,-0.19922 -0.40039,-0.20117 -0.40039,-0.40039 -0.5,-0.39844 h -0.69922 l 0.5,-0.5 0.40039,-0.70117 0.0996,-0.79883 -0.30076,-0.80078 v -0.5 l 1.40039,0.0996 1.30078,0.70117 3.19922,3.09961 0.80078,1.40039 0.5,1.79883 0.19922,2.59961 -0.19922,1.20117 -1.10156,1.40039 -0.29883,0.89844 0.0996,0.90039 0.30078,0.90039 0.5,0.69922 0.5,0.30078 0.5,1.59961 0.5,1.09961 0.5,0.60156 0.69923,-0.10155 0.5,-1.19922 0.69922,-0.40039 -0.59961,-0.79883 0.20117,-0.70117 0.59961,-0.5 0.5,-0.59961 0.0996,-1.40039 -0.30078,-1.29883 0.30078,-1 0.90039,-1.40039 0.29883,-0.5 v -0.40039 l -0.19921,-0.30078 v -0.5 l 0.30078,-0.69922 -0.30078,-0.30078 -1.5,-2.29883 -0.19922,-1.09961 -0.30078,-3.20117 -0.30078,-0.59961 -0.79883,-0.5 -0.5,-1.09961 -0.80078,-2.90039 -0.0996,-0.80078 v -0.69922 l -0.19922,-0.5 -0.5,-0.0996 -0.40039,-0.30078 -0.40039,-0.79884 -0.19922,-0.30078 -0.20117,-0.30078 -5.69922,0.90039 -1,-0.0996 -0.70117,-0.5 -0.79883,-0.30078 -1,0.40039 -1.59961,1.30078 -1.60156,0.79883 -0.5,0.5 -1,1.60156 v 0.0996 l -0.5,0.5 -0.29883,0.5 -0.30078,0.40039 -0.59961,-0.10156 -0.19922,-0.39844 V 56.75 l -0.20117,-0.69922 -0.59961,-0.40039 0.59961,-1.09961 1.09961,-2.09961 0.60156,-0.80078 0.29883,-0.40039 1.30078,-1.09961 1.19922,-0.69922 2.80078,-0.80078 1.40039,-0.69922 1.09961,-1.20117 0.59961,-1.79883 0.0996,-0.40039 0.0996,-1.90039 -0.59961,-2.5 -0.90039,-1.40039 -1.39844,-1.29883 -1.40039,-0.40039 -0.80078,1.40039 3,3.19922 0.80078,1.80078 h -0.20117 l -1.1992,-1.70117 -1.30078,-0.59961 -1.19922,-0.69922 -0.5,-2.30078 -0.19922,-1.09961 -0.30078,-1 -0.40039,-0.90039 -0.40039,-0.59961 -0.39844,-0.40039 -0.70117,-0.69922 -0.29883,-0.30078 -0.30078,-0.59961 -0.30078,-1.30078 -0.19922,-0.59961 -1,-1.40039 -1.09961,-1 -1.30078,-0.69922 -1.29883,-0.20117 -0.10156,-0.59961 0.80078,-3 0.0996,-1.5 -0.29883,-0.79883 -0.30077,-0.20117 -0.30078,-0.29883 -0.69922,-0.30078 -0.69922,-0.09961 -0.80078,0.09961 -0.90039,-0.0996 -0.40039,-0.80078 0.70117,-1.69922 0.29883,-1.40039 0.20117,-4.59961 -0.5,-0.80078 -1.70117,-2 -0.39844,-0.19922 -0.40039,-0.59961 -0.90039,-0.5 -1.90039,-0.30078 -0.90039,0.19922 -1.79883,0.70117 -1,0.19922 -0.80078,-0.19922 -4.5,-2.59961 L 84.3496,5.6504 82.54882,6.84962 81.44921,6.45118 Z"
+     id="GBDRY" />
+  <circle
+     r="0"
+     id="0"
+     cy="377.65039"
+     cx="-221.95079"
+     class="50.45652698633212|-12.9181900793958" />
+  <circle
+     r="0"
+     id="1"
+     cy="39.550415"
+     cx="140.14922"
+     class="54.83183622502271|-5.186948213106515" />
+  <circle
+     r="0"
+     id="2"
+     cy="-439.2496"
+     cx="429.84924"
+     class="60.30097277338595|0.9980452799249111" />
+  <circle
+     r="0"
+     id="circle239"
+     cy="28.350403"
+     cx="45.149223"
+     class="Derry" />
+  <circle
+     r="0"
+     id="circle241"
+     cy="43.050415"
+     cx="36.649223"
+     class="Strabane" />
+  <circle
+     r="0"
+     id="circle243"
+     cy="76.250366"
+     cx="21.349203"
+     class="Fermanagh" />
+  <circle
+     r="0"
+     id="circle245"
+     cy="68.350403"
+     cx="59.749199"
+     class="Dungannon" />
+  <circle
+     r="0"
+     id="circle247"
+     cy="80.150391"
+     cx="72.849205"
+     class="Armagh" />
+  <circle
+     r="0"
+     id="circle249"
+     cy="91.750366"
+     cx="88.849205"
+     class="Newry and Mourne" />
+  <circle
+     r="0"
+     id="circle251"
+     cy="168.45038"
+     cx="233.9492"
+     class="Flintshire" />
+  <circle
+     r="0"
+     id="circle253"
+     cy="172.25037"
+     cx="254.24919"
+     class="Cheshire West and Chester" />
+  <circle
+     r="0"
+     id="circle255"
+     cy="183.15039"
+     cx="241.04918"
+     class="Wrexham" />
+  <circle
+     r="0"
+     id="circle257"
+     cy="218.3504"
+     cx="253.64922"
+     class="Shropshire" />
+  <circle
+     r="0"
+     id="circle259"
+     cy="244.3504"
+     cx="223.64922"
+     class="Powys" />
+  <circle
+     r="0"
+     id="circle261"
+     cy="254.45038"
+     cx="254.4492"
+     class="Herefordshire" />
+  <circle
+     r="0"
+     id="circle263"
+     cy="278.75037"
+     cx="248.64922"
+     class="Monmouthshire" />
+  <circle
+     r="0"
+     id="circle265"
+     cy="274.8504"
+     cx="286.64923"
+     class="Gloucestershire" />
+  <circle
+     r="0"
+     id="circle267"
+     cy="-17.649597"
+     cx="255.04918"
+     class="Scottish Borders" />
+  <circle
+     r="0"
+     id="circle269"
+     cy="10.350402"
+     cx="288.54919"
+     class="Northumberland" />
+  <circle
+     r="0"
+     id="circle271"
+     cy="58.050415"
+     cx="245.24919"
+     class="Cumbria" />
+  <circle
+     r="0"
+     id="circle273"
+     cy="16.050415"
+     cx="198.84923"
+     class="Dumfries and Galloway" />
+  <circle
+     r="0"
+     id="circle275"
+     cy="28.150391"
+     cx="58.249199"
+     class="Limavady" />
+  <circle
+     r="0"
+     id="circle277"
+     cy="21.150391"
+     cx="69.049217"
+     class="Coleraine" />
+  <circle
+     r="0"
+     id="circle279"
+     cy="15.15039"
+     cx="95.349205"
+     class="Moyle" />
+  <circle
+     r="0"
+     id="circle281"
+     cy="38.950378"
+     cx="107.7492"
+     class="Larne" />
+  <circle
+     r="0"
+     id="circle283"
+     cy="46.850403"
+     cx="110.64922"
+     class="Carrickfergus" />
+  <circle
+     r="0"
+     id="circle285"
+     cy="48.950378"
+     cx="103.14922"
+     class="Newtownabbey" />
+  <circle
+     r="0"
+     id="circle287"
+     cy="58.050415"
+     cx="104.14922"
+     class="Belfast" />
+  <circle
+     r="0"
+     id="circle289"
+     cy="54.550415"
+     cx="113.34921"
+     class="North Down" />
+  <circle
+     r="0"
+     id="circle291"
+     cy="59.250366"
+     cx="122.04919"
+     class="Ards" />
+  <circle
+     r="0"
+     id="circle293"
+     cy="78.350403"
+     cx="110.2492"
+     class="Down" />
+  <circle
+     r="0"
+     id="circle295"
+     cy="-68.749603"
+     cx="207.74919"
+     class="Clackmannanshire" />
+  <circle
+     r="0"
+     id="circle297"
+     cy="-80.549622"
+     cx="175.84923"
+     class="Stirling" />
+  <circle
+     r="0"
+     id="circle299"
+     cy="-54.749603"
+     cx="205.74919"
+     class="Falkirk" />
+  <circle
+     r="0"
+     id="circle301"
+     cy="-47.349609"
+     cx="217.04918"
+     class="West Lothian" />
+  <circle
+     r="0"
+     id="circle303"
+     cy="-49.149597"
+     cx="227.64922"
+     class="Edinburgh" />
+  <circle
+     r="0"
+     id="circle305"
+     cy="-41.749603"
+     cx="238.54918"
+     class="Midlothian" />
+  <circle
+     r="0"
+     id="circle307"
+     cy="-52.349609"
+     cx="255.24919"
+     class="East Lothian" />
+  <circle
+     r="0"
+     id="circle309"
+     cy="24.450378"
+     cx="313.34924"
+     class="North Tyneside" />
+  <circle
+     r="0"
+     id="circle311"
+     cy="29.650391"
+     cx="315.64923"
+     class="South Tyneside" />
+  <circle
+     r="0"
+     id="circle313"
+     cy="37.750366"
+     cx="314.64923"
+     class="Sunderland" />
+  <circle
+     r="0"
+     id="circle315"
+     cy="53.950378"
+     cx="291.84924"
+     class="Durham" />
+  <circle
+     r="0"
+     id="circle317"
+     cy="53.050415"
+     cx="324.44922"
+     class="Hartlepool" />
+  <circle
+     r="0"
+     id="circle319"
+     cy="62.150391"
+     cx="334.94922"
+     class="Redcar and Cleveland" />
+  <circle
+     r="0"
+     id="circle321"
+     cy="90.350403"
+     cx="308.64923"
+     class="North Yorkshire" />
+  <circle
+     r="0"
+     id="circle323"
+     cy="114.55042"
+     cx="357.84924"
+     class="East Riding of Yorkshire" />
+  <circle
+     r="0"
+     id="circle325"
+     cy="125.8504"
+     cx="365.34924"
+     class="Kingston upon Hull" />
+  <circle
+     r="0"
+     id="circle327"
+     cy="137.55042"
+     cx="353.74921"
+     class="North Lincolnshire" />
+  <circle
+     r="0"
+     id="circle329"
+     cy="144.15039"
+     cx="377.44922"
+     class="North East Lincolnshire" />
+  <circle
+     r="0"
+     id="circle331"
+     cy="175.95038"
+     cx="369.54919"
+     class="Lincolnshire" />
+  <circle
+     r="0"
+     id="circle333"
+     cy="211.45038"
+     cx="427.54919"
+     class="Norfolk" />
+  <circle
+     r="0"
+     id="circle335"
+     cy="249.95038"
+     cx="430.24921"
+     class="Suffolk" />
+  <circle
+     r="0"
+     id="circle337"
+     cy="276.95038"
+     cx="404.84924"
+     class="Essex" />
+  <circle
+     r="0"
+     id="circle339"
+     cy="296.15039"
+     cx="416.94922"
+     class="Southend-on-Sea" />
+  <circle
+     r="0"
+     id="circle341"
+     cy="299.8504"
+     cx="400.54919"
+     class="Thurrock" />
+  <circle
+     r="0"
+     id="circle343"
+     cy="324.25037"
+     cx="419.64923"
+     class="Kent" />
+  <circle
+     r="0"
+     id="circle345"
+     cy="303.75037"
+     cx="408.84924"
+     class="Medway" />
+  <circle
+     r="0"
+     id="circle347"
+     cy="342.25037"
+     cx="392.74921"
+     class="East Sussex" />
+  <circle
+     r="0"
+     id="circle349"
+     cy="348.65039"
+     cx="376.94922"
+     class="Brighton and Hove" />
+  <circle
+     r="0"
+     id="circle351"
+     cy="341.45038"
+     cx="360.44922"
+     class="West Sussex" />
+  <circle
+     r="0"
+     id="circle353"
+     cy="329.8504"
+     cx="330.04919"
+     class="Hampshire" />
+  <circle
+     r="0"
+     id="circle355"
+     cy="350.8504"
+     cx="333.54919"
+     class="Portsmouth" />
+  <circle
+     r="0"
+     id="circle357"
+     cy="343.8504"
+     cx="319.04919"
+     class="Southampton" />
+  <circle
+     r="0"
+     id="circle359"
+     cy="352.45038"
+     cx="275.14923"
+     class="Dorset" />
+  <circle
+     r="0"
+     id="circle361"
+     cy="357.15039"
+     cx="294.24921"
+     class="Bournemouth" />
+  <circle
+     r="0"
+     id="circle363"
+     cy="356.55042"
+     cx="291.14923"
+     class="Poole" />
+  <circle
+     r="0"
+     id="circle365"
+     cy="355.65039"
+     cx="201.34923"
+     class="Devon" />
+  <circle
+     r="0"
+     id="circle367"
+     cy="377.95038"
+     cx="214.74919"
+     class="Torbay" />
+  <circle
+     r="0"
+     id="circle369"
+     cy="381.65039"
+     cx="189.74919"
+     class="Plymouth" />
+  <circle
+     r="0"
+     id="circle371"
+     cy="370.45038"
+     cx="171.4492"
+     class="Cornwall" />
+  <circle
+     r="0"
+     id="circle373"
+     cy="331.65039"
+     cx="251.4492"
+     class="Somerset" />
+  <circle
+     r="0"
+     id="circle375"
+     cy="306.95038"
+     cx="253.04918"
+     class="North Somerset" />
+  <circle
+     r="0"
+     id="circle377"
+     cy="304.95038"
+     cx="262.44922"
+     class="Bristol" />
+  <circle
+     r="0"
+     id="circle379"
+     cy="297.25037"
+     cx="268.24921"
+     class="South Gloucestershire" />
+  <circle
+     r="0"
+     id="circle381"
+     cy="293.55042"
+     cx="245.54918"
+     class="Newport" />
+  <circle
+     r="0"
+     id="circle383"
+     cy="299.55042"
+     cx="234.04918"
+     class="Cardiff" />
+  <circle
+     r="0"
+     id="circle385"
+     cy="304.15039"
+     cx="226.14922"
+     class="Vale of Glamorgan" />
+  <circle
+     r="0"
+     id="circle387"
+     cy="295.75037"
+     cx="216.14922"
+     class="Bridgend" />
+  <circle
+     r="0"
+     id="circle389"
+     cy="287.75037"
+     cx="207.74919"
+     class="Neath Port Talbot" />
+  <circle
+     r="0"
+     id="circle391"
+     cy="285.75037"
+     cx="197.4492"
+     class="Swansea" />
+  <circle
+     r="0"
+     id="circle393"
+     cy="271.8504"
+     cx="189.04918"
+     class="Carmarthenshire" />
+  <circle
+     r="0"
+     id="circle395"
+     cy="269.65039"
+     cx="154.64922"
+     class="Pembrokeshire" />
+  <circle
+     r="0"
+     id="circle397"
+     cy="238.25037"
+     cx="198.84923"
+     class="Ceredigion" />
+  <circle
+     r="0"
+     id="circle399"
+     cy="197.15039"
+     cx="199.84923"
+     class="Gwynedd" />
+  <circle
+     r="0"
+     id="circle401"
+     cy="174.95038"
+     cx="207.24919"
+     class="Conwy" />
+  <circle
+     r="0"
+     id="circle403"
+     cy="179.55042"
+     cx="226.04918"
+     class="Denbighshire" />
+  <circle
+     r="0"
+     id="circle405"
+     cy="156.45038"
+     cx="239.84923"
+     class="Halton" />
+  <circle
+     r="0"
+     id="circle407"
+     cy="159.75037"
+     cx="257.44922"
+     class="Halton" />
+  <circle
+     r="0"
+     id="circle409"
+     cy="151.65039"
+     cx="250.04918"
+     class="Knowsley" />
+  <circle
+     r="0"
+     id="circle411"
+     cy="151.15039"
+     cx="244.84923"
+     class="Liverpool" />
+  <circle
+     r="0"
+     id="circle413"
+     cy="139.55042"
+     cx="240.4492"
+     class="Sefton" />
+  <circle
+     r="0"
+     id="circle415"
+     cy="112.65039"
+     cx="259.74921"
+     class="Lancashire" />
+  <circle
+     r="0"
+     id="circle417"
+     cy="119.25037"
+     cx="242.54918"
+     class="Blackpool" />
+  <circle
+     r="0"
+     id="circle419"
+     cy="3.4503777"
+     cx="164.34923"
+     class="South Ayrshire" />
+  <circle
+     r="0"
+     id="circle421"
+     cy="-32.749603"
+     cx="161.84923"
+     class="North Ayshire" />
+  <circle
+     r="0"
+     id="circle423"
+     cy="-48.349609"
+     cx="161.24919"
+     class="Inverclyde" />
+  <circle
+     r="0"
+     id="circle425"
+     cy="-43.749603"
+     cx="171.64922"
+     class="Renfrewshire" />
+  <circle
+     r="0"
+     id="circle427"
+     cy="-56.749603"
+     cx="170.84923"
+     class="West Dunbartonshire" />
+  <circle
+     r="0"
+     id="circle429"
+     cy="-80.849609"
+     cx="134.4492"
+     class="Argyll and Bute" />
+  <circle
+     r="0"
+     id="circle431"
+     cy="-171.54962"
+     cx="153.54918"
+     class="Highland" />
+  <circle
+     r="0"
+     id="circle433"
+     cy="-184.2496"
+     cx="232.34923"
+     class="Moray" />
+  <circle
+     r="0"
+     id="circle435"
+     cy="-162.54962"
+     cx="260.04919"
+     class="Aberdeenshire" />
+  <circle
+     r="0"
+     id="circle437"
+     cy="-155.54962"
+     cx="279.94922"
+     class="Aberdeen" />
+  <circle
+     r="0"
+     id="circle439"
+     cy="-120.1496"
+     cx="246.9492"
+     class="Angus" />
+  <circle
+     r="0"
+     id="circle441"
+     cy="-97.949615"
+     cx="244.9492"
+     class="Dundee" />
+  <circle
+     r="0"
+     id="circle443"
+     cy="-105.1496"
+     cx="207.64922"
+     class="Perthshire and Kinross" />
+  <circle
+     r="0"
+     id="circle445"
+     cy="-78.249603"
+     cx="236.9492"
+     class="Fife" />
+  <circle
+     r="0"
+     id="circle447"
+     cy="361.3504"
+     cx="322.64923"
+     class="Isle of Wight" />
+  <circle
+     r="0"
+     id="circle449"
+     cy="161.75037"
+     cx="178.74919"
+     class="Anglesey" />
+  <circle
+     r="0"
+     id="circle451"
+     cy="-248.84961"
+     cx="74.749199"
+     class="Eilean Siar" />
+  <circle
+     r="0"
+     id="circle453"
+     cy="-324.2496"
+     cx="235.04918"
+     class="Orkney" />
+  <circle
+     r="0"
+     id="circle455"
+     cy="-439.14963"
+     cx="323.04919"
+     class="Shetland Islands" />
+  <circle
+     r="0"
+     id="circle457"
+     cy="416.8504"
+     cx="88.149223"
+     class="Isles of Scilly" />
+  <circle
+     r="0"
+     id="circle459"
+     cy="289.3504"
+     cx="233.54918"
+     class="Caerphilly" />
+  <circle
+     r="0"
+     id="circle461"
+     cy="290.45038"
+     cx="223.84923"
+     class="Rhondda, Cynon, Taff" />
+  <circle
+     r="0"
+     id="circle463"
+     cy="279.65039"
+     cx="233.9492"
+     class="Blaenau Gwent" />
+  <circle
+     r="0"
+     id="circle465"
+     cy="286.3504"
+     cx="241.4492"
+     class="Torfaen" />
+  <circle
+     r="0"
+     id="circle467"
+     cy="281.95038"
+     cx="225.84923"
+     class="Merthyr Tydfil" />
+  <circle
+     r="0"
+     id="circle469"
+     cy="-45.349609"
+     cx="197.9492"
+     class="North Lanarkshire" />
+  <circle
+     r="0"
+     id="circle471"
+     cy="-53.049622"
+     cx="186.14922"
+     class="East Dunbartonshire" />
+  <circle
+     r="0"
+     id="circle473"
+     cy="-44.249603"
+     cx="184.34923"
+     class="Glasgow" />
+  <circle
+     r="0"
+     id="circle475"
+     cy="-36.149597"
+     cx="179.64922"
+     class="East Renfrewshire" />
+  <circle
+     r="0"
+     id="circle477"
+     cy="-11.34961"
+     cx="181.54918"
+     class="East Ayrshire" />
+  <circle
+     r="0"
+     id="circle479"
+     cy="-23.149597"
+     cx="204.64922"
+     class="South Lanarkshire" />
+  <circle
+     r="0"
+     id="circle481"
+     cy="41.550415"
+     cx="70.249199"
+     class="Magherafelt" />
+  <circle
+     r="0"
+     id="circle483"
+     cy="59.250366"
+     cx="42.749199"
+     class="Omagh" />
+  <circle
+     r="0"
+     id="circle485"
+     cy="54.350403"
+     cx="65.049217"
+     class="Mid Ulster" />
+  <circle
+     r="0"
+     id="circle487"
+     cy="67.050415"
+     cx="84.649223"
+     class="Craigavon" />
+  <circle
+     r="0"
+     id="circle489"
+     cy="79.250366"
+     cx="95.249199"
+     class="Banbridge" />
+  <circle
+     r="0"
+     id="circle491"
+     cy="50.550415"
+     cx="89.649223"
+     class="Antrim" />
+  <circle
+     r="0"
+     id="circle493"
+     cy="64.650391"
+     cx="97.249199"
+     class="Lisburn" />
+  <circle
+     r="0"
+     id="circle495"
+     cy="21.950378"
+     cx="80.549217"
+     class="Ballymoney" />
+  <circle
+     r="0"
+     id="circle497"
+     cy="34.050415"
+     cx="90.649223"
+     class="Ballymena" />
+  <circle
+     r="0"
+     id="circle499"
+     cy="63.050415"
+     cx="108.44921"
+     class="Castlereagh" />
+  <circle
+     r="0"
+     id="circle501"
+     cy="303.95038"
+     cx="375.44922"
+     class="Wandsworth" />
+  <circle
+     r="0"
+     id="circle503"
+     cy="306.8504"
+     cx="374.04919"
+     class="Merton" />
+  <circle
+     r="0"
+     id="circle505"
+     cy="299.15039"
+     cx="375.84924"
+     class="Westminster" />
+  <circle
+     r="0"
+     id="circle507"
+     cy="300.3504"
+     cx="374.44922"
+     class="Kensington and Chelsea" />
+  <circle
+     r="0"
+     id="circle509"
+     cy="302.25037"
+     cx="366.44922"
+     class="Hounslow" />
+  <circle
+     r="0"
+     id="circle511"
+     cy="298.55042"
+     cx="367.74921"
+     class="Ealing" />
+  <circle
+     r="0"
+     id="circle513"
+     cy="300.3504"
+     cx="372.94922"
+     class="Hammersmith and Fulham" />
+  <circle
+     r="0"
+     id="circle515"
+     cy="62.250366"
+     cx="320.04919"
+     class="Stockton-on-Tees" />
+  <circle
+     r="0"
+     id="circle517"
+     cy="64.350403"
+     cx="311.74921"
+     class="Darlington" />
+  <circle
+     r="0"
+     id="circle519"
+     cy="63.750366"
+     cx="324.44922"
+     class="Middlesbrough" />
+  <circle
+     r="0"
+     id="circle521"
+     cy="305.65039"
+     cx="367.64923"
+     class="Richmond upon Thames" />
+  <circle
+     r="0"
+     id="circle523"
+     cy="298.65039"
+     cx="378.94922"
+     class="City" />
+  <circle
+     r="0"
+     id="circle525"
+     cy="298.8504"
+     cx="382.14923"
+     class="Tower Hamlets" />
+  <circle
+     r="0"
+     id="circle527"
+     cy="30.450378"
+     cx="303.44922"
+     class="Gateshead" />
+  <circle
+     r="0"
+     id="circle529"
+     cy="25.250366"
+     cx="306.94922"
+     class="Newcastle upon Tyne" />
+  <circle
+     r="0"
+     id="circle531"
+     cy="110.55042"
+     cx="332.14923"
+     class="York" />
+  <circle
+     r="0"
+     id="circle533"
+     cy="151.05042"
+     cx="255.14922"
+     class="Merseyside" />
+  <circle
+     r="0"
+     id="circle535"
+     cy="289.15039"
+     cx="379.24921"
+     class="Enfield" />
+  <circle
+     r="0"
+     id="circle537"
+     cy="273.15039"
+     cx="376.74921"
+     class="Hertfordshire" />
+  <circle
+     r="0"
+     id="circle539"
+     cy="291.95038"
+     cx="373.84924"
+     class="Barnet" />
+  <circle
+     r="0"
+     id="circle541"
+     cy="293.15039"
+     cx="382.84924"
+     class="Waltham Forest" />
+  <circle
+     r="0"
+     id="circle543"
+     cy="294.45038"
+     cx="387.34924"
+     class="Redbridge" />
+  <circle
+     r="0"
+     id="circle545"
+     cy="295.3504"
+     cx="394.24921"
+     class="Havering" />
+  <circle
+     r="0"
+     id="circle547"
+     cy="237.25037"
+     cx="385.34924"
+     class="Cambridgeshire" />
+  <circle
+     r="0"
+     id="circle549"
+     cy="303.15039"
+     cx="390.24921"
+     class="Bexley" />
+  <circle
+     r="0"
+     id="circle551"
+     cy="310.45038"
+     cx="375.54919"
+     class="Sutton" />
+  <circle
+     r="0"
+     id="circle553"
+     cy="257.05042"
+     cx="348.64923"
+     class="Milton Keynes" />
+  <circle
+     r="0"
+     id="circle555"
+     cy="272.25037"
+     cx="341.84924"
+     class="Buckinghamshire" />
+  <circle
+     r="0"
+     id="circle557"
+     cy="294.95038"
+     cx="362.94922"
+     class="Hillingdon" />
+  <circle
+     r="0"
+     id="circle559"
+     cy="295.8504"
+     cx="370.74921"
+     class="Brent" />
+  <circle
+     r="0"
+     id="circle561"
+     cy="271.65039"
+     cx="364.34924"
+     class="Luton" />
+  <circle
+     r="0"
+     id="circle563"
+     cy="293.55042"
+     cx="366.84924"
+     class="Harrow" />
+  <circle
+     r="0"
+     id="circle565"
+     cy="263.55042"
+     cx="357.94922"
+     class="Central Bedfordshire" />
+  <circle
+     r="0"
+     id="circle567"
+     cy="249.05042"
+     cx="360.94922"
+     class="Bedford" />
+  <circle
+     r="0"
+     id="circle569"
+     cy="212.45038"
+     cx="352.44922"
+     class="Rutland" />
+  <circle
+     r="0"
+     id="circle571"
+     cy="174.75037"
+     cx="337.64923"
+     class="Nottinghamshire" />
+  <circle
+     r="0"
+     id="circle573"
+     cy="240.95038"
+     cx="340.94922"
+     class="Northamptonshire" />
+  <circle
+     r="0"
+     id="circle575"
+     cy="296.45038"
+     cx="376.24921"
+     class="Camden" />
+  <circle
+     r="0"
+     id="circle577"
+     cy="296.75037"
+     cx="378.64923"
+     class="Islington" />
+  <circle
+     r="0"
+     id="circle579"
+     cy="217.55042"
+     cx="368.74921"
+     class="Peterborough" />
+  <circle
+     r="0"
+     id="circle581"
+     cy="303.55042"
+     cx="377.84924"
+     class="Lambeth" />
+  <circle
+     r="0"
+     id="circle583"
+     cy="301.25037"
+     cx="379.84924"
+     class="Southwark" />
+  <circle
+     r="0"
+     id="circle585"
+     cy="143.75037"
+     cx="333.04919"
+     class="Doncaster" />
+  <circle
+     r="0"
+     id="circle587"
+     cy="311.05042"
+     cx="379.74921"
+     class="Croydon" />
+  <circle
+     r="0"
+     id="circle589"
+     cy="304.45038"
+     cx="382.64923"
+     class="Lewisham" />
+  <circle
+     r="0"
+     id="circle591"
+     cy="293.45038"
+     cx="378.54919"
+     class="Haringey" />
+  <circle
+     r="0"
+     id="circle593"
+     cy="307.95038"
+     cx="370.44922"
+     class="Kingston upon Thames" />
+  <circle
+     r="0"
+     id="circle595"
+     cy="298.25037"
+     cx="385.24921"
+     class="Newham" />
+  <circle
+     r="0"
+     id="circle597"
+     cy="302.8504"
+     cx="385.94922"
+     class="Greenwich" />
+  <circle
+     r="0"
+     id="circle599"
+     cy="296.3504"
+     cx="380.64923"
+     class="Hackney" />
+  <circle
+     r="0"
+     id="circle601"
+     cy="297.65039"
+     cx="389.84924"
+     class="Barking and Dagenham" />
+  <circle
+     r="0"
+     id="circle603"
+     cy="210.8504"
+     cx="339.04919"
+     class="Leicestershire" />
+  <circle
+     r="0"
+     id="circle605"
+     cy="168.8504"
+     cx="276.04919"
+     class="Cheshire East" />
+  <circle
+     r="0"
+     id="circle607"
+     cy="176.3504"
+     cx="309.54919"
+     class="Derbyshire" />
+  <circle
+     r="0"
+     id="circle609"
+     cy="154.3504"
+     cx="321.74921"
+     class="Rotherham" />
+  <circle
+     r="0"
+     id="circle611"
+     cy="154.8504"
+     cx="311.54919"
+     class="Sheffield" />
+  <circle
+     r="0"
+     id="circle613"
+     cy="184.65039"
+     cx="281.44922"
+     class="Stoke-on-Trent" />
+  <circle
+     r="0"
+     id="circle615"
+     cy="207.15039"
+     cx="267.84924"
+     class="Telford and Wrekin" />
+  <circle
+     r="0"
+     id="circle617"
+     cy="198.05042"
+     cx="290.14923"
+     class="Staffordshire" />
+  <circle
+     r="0"
+     id="circle619"
+     cy="310.25037"
+     cx="386.24921"
+     class="Bromley" />
+  <circle
+     r="0"
+     id="circle621"
+     cy="244.55042"
+     cx="281.74921"
+     class="Worcestershire" />
+  <circle
+     r="0"
+     id="circle623"
+     cy="246.55042"
+     cx="309.04919"
+     class="Warwickshire" />
+  <circle
+     r="0"
+     id="circle625"
+     cy="279.05042"
+     cx="318.34924"
+     class="Oxfordshire" />
+  <circle
+     r="0"
+     id="circle627"
+     cy="143.45038"
+     cx="260.54919"
+     class="Wigan" />
+  <circle
+     r="0"
+     id="circle629"
+     cy="155.25037"
+     cx="281.44922"
+     class="Stockport" />
+  <circle
+     r="0"
+     id="circle631"
+     cy="155.75037"
+     cx="263.64923"
+     class="Warrington" />
+  <circle
+     r="0"
+     id="circle633"
+     cy="303.25037"
+     cx="320.84924"
+     class="West Berkshire" />
+  <circle
+     r="0"
+     id="circle635"
+     cy="306.25037"
+     cx="340.74921"
+     class="Wokingham" />
+  <circle
+     r="0"
+     id="circle637"
+     cy="307.3504"
+     cx="347.44922"
+     class="Bracknell Forest" />
+  <circle
+     r="0"
+     id="circle639"
+     cy="299.3504"
+     cx="348.04919"
+     class="Royal Borough of Windsor and Maidenhead" />
+  <circle
+     r="0"
+     id="circle641"
+     cy="302.25037"
+     cx="357.54919"
+     class="Slough" />
+  <circle
+     r="0"
+     id="circle643"
+     cy="303.95038"
+     cx="334.04919"
+     class="Reading" />
+  <circle
+     r="0"
+     id="circle645"
+     cy="318.8504"
+     cx="362.04919"
+     class="Surrey" />
+  <circle
+     r="0"
+     id="circle647"
+     cy="129.8504"
+     cx="268.14923"
+     class="Blackburn with Darwen" />
+  <circle
+     r="0"
+     id="circle649"
+     cy="296.8504"
+     cx="301.24921"
+     class="Swindon" />
+  <circle
+     r="0"
+     id="circle651"
+     cy="312.15039"
+     cx="268.14923"
+     class="Bath and North East Somerset" />
+  <circle
+     r="0"
+     id="circle653"
+     cy="317.75037"
+     cx="291.74921"
+     class="Wiltshire" />
+  <circle
+     r="0"
+     id="circle655"
+     cy="126.75037"
+     cx="290.64923"
+     class="Calderdale" />
+  <circle
+     r="0"
+     id="circle657"
+     cy="136.95038"
+     cx="300.54919"
+     class="Kirklees" />
+  <circle
+     r="0"
+     id="circle659"
+     cy="190.15039"
+     cx="328.24921"
+     class="Nottingham" />
+  <circle
+     r="0"
+     id="circle661"
+     cy="215.3504"
+     cx="330.24921"
+     class="Leicester" />
+  <circle
+     r="0"
+     id="circle663"
+     cy="193.8504"
+     cx="314.34924"
+     class="Derby" />
+  <circle
+     r="0"
+     id="circle665"
+     cy="121.75037"
+     cx="313.84924"
+     class="Leeds" />
+  <circle
+     r="0"
+     id="circle667"
+     cy="117.45038"
+     cx="298.34924"
+     class="Bradford" />
+  <circle
+     r="0"
+     id="circle669"
+     cy="134.65039"
+     cx="316.94922"
+     class="Wakefield" />
+  <circle
+     r="0"
+     id="circle671"
+     cy="143.65039"
+     cx="312.64923"
+     class="Barnsley" />
+  <circle
+     r="0"
+     id="circle673"
+     cy="146.25037"
+     cx="270.14923"
+     class="Salford" />
+  <circle
+     r="0"
+     id="circle675"
+     cy="138.65039"
+     cx="269.64923"
+     class="Bolton" />
+  <circle
+     r="0"
+     id="circle677"
+     cy="153.05042"
+     cx="271.94922"
+     class="Trafford" />
+  <circle
+     r="0"
+     id="circle679"
+     cy="149.75037"
+     cx="277.14923"
+     class="Manchester" />
+  <circle
+     r="0"
+     id="circle681"
+     cy="142.3504"
+     cx="288.04919"
+     class="Oldham" />
+  <circle
+     r="0"
+     id="circle683"
+     cy="136.3504"
+     cx="281.24921"
+     class="Rochdale" />
+  <circle
+     r="0"
+     id="circle685"
+     cy="149.3504"
+     cx="284.84924"
+     class="Tameside" />
+  <circle
+     r="0"
+     id="circle687"
+     cy="138.8504"
+     cx="274.94922"
+     class="Bury" />
+  <circle
+     r="0"
+     id="circle689"
+     cy="231.15039"
+     cx="302.44922"
+     class="Solihull" />
+  <circle
+     r="0"
+     id="circle691"
+     cy="231.75037"
+     cx="311.24921"
+     class="Coventry" />
+  <circle
+     r="0"
+     id="circle693"
+     cy="226.3504"
+     cx="295.64923"
+     class="Birmingham" />
+  <circle
+     r="0"
+     id="circle695"
+     cy="222.65039"
+     cx="289.24921"
+     class="Sandwell" />
+  <circle
+     r="0"
+     id="circle697"
+     cy="226.75037"
+     cx="283.94922"
+     class="Dudley" />
+  <circle
+     r="0"
+     id="circle699"
+     cy="216.25037"
+     cx="291.64923"
+     class="Walsall" />
+  <circle
+     r="0"
+     id="circle701"
+     cy="216.55042"
+     cx="284.14923"
+     class="Wolverhampton" />
+</svg>

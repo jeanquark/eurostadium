@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 43.534556,
 			"lng": 26.527722,
-			"x": 0,
-			"y": 0,
+			"x": 408.6,
+			"y": 90.1,
 			"url": "https://en.wikipedia.org/wiki/Huvepharma_Arena"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 42.026389,
 			"lng": 23.1,
-			"x": 0,
-			"y": 0,
+			"x": 72.8,
+			"y": 290.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Blagoevgrad)"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 42.705556,
 			"lng": 23.363333,
-			"x": 0,
-			"y": 0,
+			"x": 98.6,
+			"y": 200.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Georgi_Asparuhov"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 43.215833,
 			"lng": 27.931389,
-			"x": 0,
-			"y": 0,
+			"x": 546,
+			"y": 132.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Ticha"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "grass",
 			"lat": 42.684167,
 			"lng": 23.339722,
-			"x": 0,
-			"y": 0,
+			"x": 96.3,
+			"y": 203.2,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Balgarska_Armia"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "grass",
 			"lat": 42.675361,
 			"lng": 23.272028,
-			"x": 0,
-			"y": 0,
+			"x": 89.7,
+			"y": 204.4,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Aleksandar_Shalamanov"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 43.077222,
 			"lng": 25.620556,
-			"x": 0,
-			"y": 0,
+			"x": 319.7,
+			"y": 150.9,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Ivaylo"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 42.432778,
 			"lng": 25.615278,
-			"x": 0,
-			"y": 0,
+			"x": 319.2,
+			"y": 236.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Beroe"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 42.133889,
 			"lng": 24.771667,
-			"x": 0,
-			"y": 0,
+			"x": 236.6,
+			"y": 276.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Lokomotiv_(Plovdiv)"
 		},
 		"league": {
@@ -277,8 +277,8 @@
 			"surface": "grass",
 			"lat": 43.201111,
 			"lng": 23.5675,
-			"x": 0,
-			"y": 0,
+			"x": 118.6,
+			"y": 134.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Vratsa)"
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 42.737639,
 			"lng": 23.314806,
-			"x": 0,
-			"y": 0,
+			"x": 93.9,
+			"y": 196.1,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Lokomotiv_(Sofia)"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "grass",
 			"lat": 42.59125,
 			"lng": 23.363417,
-			"x": 0,
-			"y": 0,
+			"x": 98.6,
+			"y": 215.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Bistritsa"
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 42.139861,
 			"lng": 24.764444,
-			"x": 0,
-			"y": 0,
+			"x": 235.9,
+			"y": 275.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Plovdiv)"
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 41.641194,
 			"lng": 25.378056,
-			"x": 0,
-			"y": 0,
+			"x": 295.9,
+			"y": 341.8,
 			"url": "https://en.wikipedia.org/wiki/Arena_Arda"
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 42.210833,
 			"lng": 24.3225,
-			"x": 0,
-			"y": 0,
+			"x": 192.6,
+			"y": 266.1,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Georgi_Benkovski"
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "grass",
 			"lat": 42.275556,
 			"lng": 23.135556,
-			"x": 0,
-			"y": 0,
+			"x": 76.3,
+			"y": 257.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Bonchuk"
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 42.1075,
 			"lng": 24.708,
-			"x": 0,
-			"y": 0,
+			"x": 230.3,
+			"y": 279.8,
 			"url": "https://en.wikipedia.org/wiki/Nikola_Shterev_-_Starika_Sports_Complex"
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "grass",
 			"lat": 43.848056,
 			"lng": 25.963056,
-			"x": 0,
-			"y": 0,
+			"x": 353.2,
+			"y": 48.5,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Ruse)"
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 42.692222,
 			"lng": 23.287778,
-			"x": 0,
-			"y": 0,
+			"x": 91.2,
+			"y": 202.1,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Septemvri_(Sofia)"
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 43.513582,
 			"lng": 26.536583,
-			"x": 0,
-			"y": 0,
+			"x": 409.4,
+			"y": 92.9,
 			"url": ""
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 43.4125,
 			"lng": 24.608611,
-			"x": 0,
-			"y": 0,
+			"x": 220.6,
+			"y": 106.4,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Pleven"
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "grass",
 			"lat": 43.142639,
 			"lng": 24.724861,
-			"x": 0,
-			"y": 0,
+			"x": 232,
+			"y": 142.2,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Lovech)"
 		},
 		"league": {
@@ -653,9 +653,9 @@
 			"capacity": 5000,
 			"surface": "grass",
 			"lat": 42.538141,
-			"lng": 22.961660,
-			"x": 0,
-			"y": 0,
+			"lng": 22.96166,
+			"x": 59.3,
+			"y": 222.6,
 			"url": ""
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": "grass",
 			"lat": 43.408661,
 			"lng": 28.158354,
-			"x": 0,
-			"y": 0,
+			"x": 568.3,
+			"y": 106.9,
 			"url": ""
 		},
 		"league": {
@@ -710,10 +710,10 @@
 			"city": "Plovdiv",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 42.155710,
+			"lat": 42.15571,
 			"lng": 24.721091,
-			"x": 0,
-			"y": 0,
+			"x": 231.6,
+			"y": 273.4,
 			"url": ""
 		},
 		"league": {
@@ -741,8 +741,8 @@
 			"surface": "grass",
 			"lat": 43.398611,
 			"lng": 23.225278,
-			"x": 0,
-			"y": 0,
+			"x": 85.1,
+			"y": 108.2,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Ogosta"
 		},
 		"league": {
@@ -770,8 +770,8 @@
 			"surface": "grass",
 			"lat": 43.556028,
 			"lng": 27.826806,
-			"x": 0,
-			"y": 0,
+			"x": 535.8,
+			"y": 87.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Druzhba_(Dobrich)"
 		},
 		"league": {
@@ -799,8 +799,8 @@
 			"surface": "grass",
 			"lat": 43.218611,
 			"lng": 27.9125,
-			"x": 0,
-			"y": 0,
+			"x": 544.2,
+			"y": 132.1,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Spartak_(Varna)"
 		},
 		"league": {
@@ -827,9 +827,9 @@
 			"capacity": 15000,
 			"surface": "grass",
 			"lat": 43.993795,
-			"lng": 22.863510,
-			"x": 0,
-			"y": 0,
+			"lng": 22.86351,
+			"x": 49.7,
+			"y": 29.1,
 			"url": ""
 		},
 		"league": {
@@ -857,8 +857,8 @@
 			"surface": "grass",
 			"lat": 42.86,
 			"lng": 25.319722,
-			"x": 0,
-			"y": 0,
+			"x": 290.2,
+			"y": 179.8,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Hristo_Botev_(Gabrovo)"
 		},
 		"league": {
@@ -886,8 +886,8 @@
 			"surface": "grass",
 			"lat": 42.5125,
 			"lng": 27.470278,
-			"x": 0,
-			"y": 0,
+			"x": 500.9,
+			"y": 226,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Lazur"
 		},
 		"league": {
@@ -915,8 +915,8 @@
 			"surface": "grass",
 			"lat": 41.389167,
 			"lng": 23.199444,
-			"x": 0,
-			"y": 0,
+			"x": 82.6,
+			"y": 375.3,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Tsar_Samuil"
 		},
 		"league": {
@@ -944,8 +944,8 @@
 			"surface": "grass",
 			"lat": 42.275556,
 			"lng": 23.135556,
-			"x": 0,
-			"y": 0,
+			"x": 76.3,
+			"y": 257.5,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Bonchuk"
 		},
 		"league": {
@@ -973,8 +973,8 @@
 			"surface": "grass",
 			"lat": 42.962222,
 			"lng": 23.35,
-			"x": 0,
-			"y": 0,
+			"x": 97.3,
+			"y": 166.2,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Chavdar_Tsvetkov"
 		},
 		"league": {
@@ -1002,8 +1002,8 @@
 			"surface": "grass",
 			"lat": 42.636639,
 			"lng": 23.315972,
-			"x": 0,
-			"y": 0,
+			"x": 94,
+			"y": 209.5,
 			"url": "https://en.wikipedia.org/wiki/Arena_Tsarsko_Selo"
 		},
 		"league": {

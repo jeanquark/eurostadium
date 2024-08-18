@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 42.444728,
 			"lng": 19.264378,
-			"x": 0,
-			"y": 0,
+			"x": 260.8,
+			"y": 479.7,
 			"url": "https://en.wikipedia.org/wiki/Podgorica_City_Stadium"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 42.784947,
 			"lng": 18.953731,
-			"x": 0,
-			"y": 0,
+			"x": 162.7,
+			"y": 334,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Nik%C5%A1i%C4%87)"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 43.362349,
 			"lng": 19.362245,
-			"x": 0,
-			"y": 0,
+			"x": 291.7,
+			"y": 86.8,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Pljevlja)"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 42.104444,
 			"lng": 19.09,
-			"x": 0,
-			"y": 0,
+			"x": 205.7,
+			"y": 625.4,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Topolica"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "grass",
 			"lat": 42.203591,
 			"lng": 18.945928,
-			"x": 0,
-			"y": 0,
+			"x": 160.2,
+			"y": 583,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Mitar_Mi%C4%87o_Goli%C5%A1"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "grass",
 			"lat": 42.432531,
 			"lng": 18.695344,
-			"x": 0,
-			"y": 0,
+			"x": 81.1,
+			"y": 484.9,
 			"url": "https://en.wikipedia.org/wiki/Stadion_u_Parku"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 42.359917,
 			"lng": 19.326333,
-			"x": 0,
-			"y": 0,
+			"x": 280.3,
+			"y": 516,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Tu%C5%A1ko_Polje"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 43.030389,
 			"lng": 19.742417,
-			"x": 0,
-			"y": 0,
+			"x": 411.7,
+			"y": 228.9,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Bijelo_Polje)"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 42.598777,
 			"lng": 19.940186,
-			"x": 0,
-			"y": 0,
+			"x": 474.2,
+			"y": 413.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Pod_Racinom"
 		},
 		"league": {
@@ -277,8 +277,8 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 0,
-			"y": 0,
+			"x": 245.9,
+			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 41.9125,
 			"lng": 19.243889,
-			"x": 0,
-			"y": 0,
+			"x": 254.3,
+			"y": 707.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Olympic"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 0,
-			"y": 0,
+			"x": 245.9,
+			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -5821.7,
+			"y": 18653.7,
 			"url": ""
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 42.554083,
 			"lng": 19.102944,
-			"x": 0,
-			"y": 0,
+			"x": 209.8,
+			"y": 432.9,
 			"url": "https://en.wikipedia.org/wiki/Bra%C4%87a_Vela%C5%A1evi%C4%87_Stadium"
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 42.392578,
 			"lng": 18.924401,
-			"x": 0,
-			"y": 0,
+			"x": 153.4,
+			"y": 502,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Sveti_Petar_Cetinjski"
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "grass",
 			"lat": 42.843324,
 			"lng": 19.866268,
-			"x": 0,
-			"y": 0,
+			"x": 450.8,
+			"y": 309,
 			"url": "https://en.wikipedia.org/wiki/Berane_City_Stadium"
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 42.420295,
 			"lng": 18.764979,
-			"x": 0,
-			"y": 0,
+			"x": 103.1,
+			"y": 490.2,
 			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Vrmcem"
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "grass",
 			"lat": 42.45183,
 			"lng": 18.501421,
-			"x": 0,
-			"y": 0,
+			"x": 19.9,
+			"y": 476.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Solila"
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 42.465111,
 			"lng": 19.295167,
-			"x": 0,
-			"y": 0,
+			"x": 270.5,
+			"y": 471,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Zlatica"
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 0,
-			"y": 0,
+			"x": 245.9,
+			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 41.9125,
 			"lng": 19.243889,
-			"x": 0,
-			"y": 0,
+			"x": 254.3,
+			"y": 707.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Olympic"
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": null,
 			"lat": 42.393386,
 			"lng": 19.194119,
-			"x": 0,
-			"y": 0,
+			"x": 238.6,
+			"y": 501.7,
 			"url": ""
 		},
 		"league": {

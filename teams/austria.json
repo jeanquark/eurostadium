@@ -1,0 +1,786 @@
+[
+	{
+		"team": {
+			"api_football_id": 571,
+			"name": "Red Bull Salzburg",
+			"code": "SAL",
+			"country": "Austria",
+			"founded": 1933
+		},
+		"venue": {
+			"api_football_id": 148,
+			"name": "Red Bull Arena",
+			"address": "Stadionstrasse 2/3",
+			"city": "Wals-Siezenheim",
+			"capacity": 31895,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 1
+	},
+	{
+		"team": {
+			"api_football_id": 601,
+			"name": "Austria Vienna",
+			"code": "AUS",
+			"country": "Austria",
+			"founded": 1911
+		},
+		"venue": {
+			"api_football_id": 136,
+			"name": "Generali Arena",
+			"address": "Fischhofgasse 14",
+			"city": "Wien",
+			"capacity": 18944,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 2
+	},
+	{
+		"team": {
+			"api_football_id": 618,
+			"name": "SCR Altach",
+			"code": "ALT",
+			"country": "Austria",
+			"founded": 1929
+		},
+		"venue": {
+			"api_football_id": 146,
+			"name": "CASHPOINT Arena",
+			"address": "Schnabelholz 1",
+			"city": "Altach",
+			"capacity": 8500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 3
+	},
+	{
+		"team": {
+			"api_football_id": 637,
+			"name": "Sturm Graz",
+			"code": "STU",
+			"country": "Austria",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 150,
+			"name": "Merkur Arena",
+			"address": "Stadionplatz 1 A",
+			"city": "Graz",
+			"capacity": 16764,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 4
+	},
+	{
+		"team": {
+			"api_football_id": 781,
+			"name": "Rapid Vienna",
+			"code": "RAP",
+			"country": "Austria",
+			"founded": 1899
+		},
+		"venue": {
+			"api_football_id": 145,
+			"name": "Allianz Stadion",
+			"address": "Gerhard Hanappi Platz 1, Hütteldorf",
+			"city": "Wien",
+			"capacity": 28345,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 5
+	},
+	{
+		"team": {
+			"api_football_id": 1025,
+			"name": "Wolfsberger AC",
+			"code": "WOL",
+			"country": "Austria",
+			"founded": 1931
+		},
+		"venue": {
+			"api_football_id": 1761,
+			"name": "Lavanttal Arena",
+			"address": "Don-Bosco-Weg 1",
+			"city": "Wolfsberg",
+			"capacity": 9000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 6
+	},
+	{
+		"team": {
+			"api_football_id": 1026,
+			"name": "Lask Linz",
+			"code": "LAS",
+			"country": "Austria",
+			"founded": 1908
+		},
+		"venue": {
+			"api_football_id": 143,
+			"name": "Raiffeisen Arena",
+			"address": "Ziegeleistraße 76, Froschberg",
+			"city": "Linz",
+			"capacity": 19080,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 7
+	},
+	{
+		"team": {
+			"api_football_id": 1072,
+			"name": "TSV Hartberg",
+			"code": "HAR",
+			"country": "Austria",
+			"founded": 1946
+		},
+		"venue": {
+			"api_football_id": 140,
+			"name": "PROfertil ARENA",
+			"address": "Stefan-Seedoch-Allee 26",
+			"city": "Hartberg",
+			"capacity": 5420,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 8
+	},
+	{
+		"team": {
+			"api_football_id": 1394,
+			"name": "FC BW Linz",
+			"code": "LIN",
+			"country": "Austria",
+			"founded": 1997
+		},
+		"venue": {
+			"api_football_id": 11873,
+			"name": "Hofmann Personal Stadion",
+			"address": "Straßerau 3",
+			"city": "Linz",
+			"capacity": 6000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 9
+	},
+	{
+		"team": {
+			"api_football_id": 1398,
+			"name": "WSG Wattens",
+			"code": "WAT",
+			"country": "Austria",
+			"founded": 1930
+		},
+		"venue": {
+			"api_football_id": 152,
+			"name": "Tivoli Stadion Tirol",
+			"address": "Stadionstrasse 1b",
+			"city": "Innsbruck",
+			"capacity": 16008,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 10
+	},
+	{
+		"team": {
+			"api_football_id": 1399,
+			"name": "Austria Lustenau",
+			"code": "LUS",
+			"country": "Austria",
+			"founded": 1914
+		},
+		"venue": {
+			"api_football_id": 10523,
+			"name": "ImmoAgentur Stadion Bregenz",
+			"address": "Sägerstraße 2",
+			"city": "Bregenz",
+			"capacity": 11112,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 11
+	},
+	{
+		"team": {
+			"api_football_id": 1405,
+			"name": "Austria Klagenfurt",
+			"code": null,
+			"country": "Austria",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 11874,
+			"name": "Wörthersee Stadion",
+			"address": "Südring 207",
+			"city": "Klagenfurt am Wörthersee",
+			"capacity": 32000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 218,
+			"name": "Bundesliga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 12
+	},
+	{
+		"team": {
+			"api_football_id": 1023,
+			"name": "Admira Wacker",
+			"code": "ADM",
+			"country": "Austria",
+			"founded": 2008
+		},
+		"venue": {
+			"api_football_id": 20412,
+			"name": "DATENPOL ARENA",
+			"address": "Johann Steinböck Straße 5b",
+			"city": "Maria Enzersdorf",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 13
+	},
+	{
+		"team": {
+			"api_football_id": 1027,
+			"name": "SKN ST. Polten",
+			"code": "POL",
+			"country": "Austria",
+			"founded": 2000
+		},
+		"venue": {
+			"api_football_id": 149,
+			"name": "NV ARENA",
+			"address": "Dr.-Adolf-Schärf-Straße 25a",
+			"city": "St. Pölten",
+			"capacity": 8000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 14
+	},
+	{
+		"team": {
+			"api_football_id": 1028,
+			"name": "Ried",
+			"code": "RIE",
+			"country": "Austria",
+			"founded": 1912
+		},
+		"venue": {
+			"api_football_id": 19921,
+			"name": "Innviertel Arena",
+			"address": "Volksfestplatz 2",
+			"city": "Ried Im Innkreis",
+			"capacity": 7680,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 15
+	},
+	{
+		"team": {
+			"api_football_id": 1395,
+			"name": "Floridsdorfer AC",
+			"code": "TEA",
+			"country": "Austria",
+			"founded": 1904
+		},
+		"venue": {
+			"api_football_id": 19920,
+			"name": "FAC-Platz",
+			"address": "Hopfengasse 8",
+			"city": "Wien",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 16
+	},
+	{
+		"team": {
+			"api_football_id": 1397,
+			"name": "SV Horn",
+			"code": "HOR",
+			"country": "Austria",
+			"founded": 1922
+		},
+		"venue": {
+			"api_football_id": 10507,
+			"name": "Sparkasse Horn Arena",
+			"address": "Altbachweg 10",
+			"city": "Horn",
+			"capacity": 5500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 17
+	},
+	{
+		"team": {
+			"api_football_id": 1400,
+			"name": "FC Liefering",
+			"code": "LIE",
+			"country": "Austria",
+			"founded": 1947
+		},
+		"venue": {
+			"api_football_id": 148,
+			"name": "Red Bull Arena",
+			"address": "Stadionstrasse 2/3",
+			"city": "Wals-Siezenheim",
+			"capacity": 31895,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 18
+	},
+	{
+		"team": {
+			"api_football_id": 1401,
+			"name": "SV Kapfenberg",
+			"code": "KAP",
+			"country": "Austria",
+			"founded": 1919
+		},
+		"venue": {
+			"api_football_id": 19512,
+			"name": "Stadion Kapfenberg",
+			"address": "Johann-Brandl-Gasse 25",
+			"city": "Kapfenberg",
+			"capacity": 12000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 19
+	},
+	{
+		"team": {
+			"api_football_id": 1402,
+			"name": "SV Lafnitz",
+			"code": "LAF",
+			"country": "Austria",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 1725,
+			"name": "Sportplatz Lafnitz",
+			"address": "Sportplatzweg",
+			"city": "Lafnitz",
+			"capacity": 3000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 20
+	},
+	{
+		"team": {
+			"api_football_id": 1404,
+			"name": "SKU Amstetten",
+			"code": "AMS",
+			"country": "Austria",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 133,
+			"name": "Ertl Glas-Stadion",
+			"address": "Stadthallestraße 2",
+			"city": "Amstetten",
+			"capacity": 3300,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 21
+	},
+	{
+		"team": {
+			"api_football_id": 4255,
+			"name": "Dornbirn",
+			"code": "DOR",
+			"country": "Austria",
+			"founded": 1913
+		},
+		"venue": {
+			"api_football_id": 20339,
+			"name": "Sparkasse Arena Birkenwiese",
+			"address": "Höchsterstrasse 78a",
+			"city": "Dornbirn",
+			"capacity": 5000,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 22
+	},
+	{
+		"team": {
+			"api_football_id": 4256,
+			"name": "Grazer AK",
+			"code": null,
+			"country": "Austria",
+			"founded": 1902
+		},
+		"venue": {
+			"api_football_id": 150,
+			"name": "Merkur Arena",
+			"address": "Stadionplatz 1 A",
+			"city": "Graz",
+			"capacity": 16764,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 23
+	},
+	{
+		"team": {
+			"api_football_id": 4990,
+			"name": "First Vienna",
+			"code": "FIR",
+			"country": "Austria",
+			"founded": 1894
+		},
+		"venue": {
+			"api_football_id": 19947,
+			"name": "Naturarena Hohe Warte",
+			"address": "Klabundgasse",
+			"city": "Wien",
+			"capacity": 7260,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 24
+	},
+	{
+		"team": {
+			"api_football_id": 4993,
+			"name": "Stripfing",
+			"code": null,
+			"country": "Austria",
+			"founded": null
+		},
+		"venue": {
+			"api_football_id": 19920,
+			"name": "FAC-Platz",
+			"address": "Hopfengasse 8",
+			"city": "Wien",
+			"capacity": 3500,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 25
+	},
+	{
+		"team": {
+			"api_football_id": 8251,
+			"name": "Sturm Graz II",
+			"code": "STU",
+			"country": "Austria",
+			"founded": 1909
+		},
+		"venue": {
+			"api_football_id": 3733,
+			"name": "Solarstadion der Stadt Gleisdorf",
+			"address": "Stadionstraße 1",
+			"city": "Gleisdorf",
+			"capacity": 1700,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 26
+	},
+	{
+		"team": {
+			"api_football_id": 8259,
+			"name": "Schwarz-Weiß Bregenz",
+			"code": "BRE",
+			"country": "Austria",
+			"founded": 2005
+		},
+		"venue": {
+			"api_football_id": 10523,
+			"name": "ImmoAgentur Stadion Bregenz",
+			"address": "Sägerstraße 2",
+			"city": "Bregenz",
+			"capacity": 11112,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 27
+	},
+	{
+		"team": {
+			"api_football_id": 8326,
+			"name": "Leoben",
+			"code": null,
+			"country": "Austria",
+			"founded": 1928
+		},
+		"venue": {
+			"api_football_id": 19960,
+			"name": "Monte Schlacko Arena",
+			"address": "Annabergstraße 10",
+			"city": "Leoben",
+			"capacity": 8450,
+			"surface": "grass",
+			"lat": 0,
+			"lng": 0,
+			"x": -760.1,
+			"y": 5816
+		},
+		"league": {
+			"api_football_id": 219,
+			"name": "2. Liga",
+			"country": "Austria",
+			"api_football_country_id": 0
+		},
+		"no": 28
+	}
+]

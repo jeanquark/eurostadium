@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 42.66297,
 			"lng": 21.15688,
-			"x": 0,
-			"y": 0,
+			"x": 384.6,
+			"y": 284.5,
 			"url": "https://en.wikipedia.org/wiki/Fadil_Vokrri_Stadium"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 42.616446,
 			"lng": 20.903551,
-			"x": 0,
-			"y": 0,
+			"x": 296.8,
+			"y": 306.3,
 			"url": "https://en.wikipedia.org/wiki/Rexhep_Rexhepi_Stadium"
 		},
 		"league": {
@@ -73,9 +73,9 @@
 			"capacity": 1500,
 			"surface": "artificial turf",
 			"lat": 42.353243,
-			"lng": 20.822570,
-			"x": 0,
-			"y": 0,
+			"lng": 20.82257,
+			"x": 268.7,
+			"y": 429.7,
 			"url": ""
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "artificial turf",
 			"lat": 42.453612,
 			"lng": 21.464586,
-			"x": 0,
-			"y": 0,
+			"x": 491.3,
+			"y": 382.6,
 			"url": ""
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "artificial turf",
 			"lat": 42.453612,
 			"lng": 21.464586,
-			"x": 0,
-			"y": 0,
+			"x": 491.3,
+			"y": 382.6,
 			"url": ""
 		},
 		"league": {
@@ -160,9 +160,9 @@
 			"capacity": 3000,
 			"surface": "grass",
 			"lat": 42.617034,
-			"lng": 20.580890,
-			"x": 0,
-			"y": 0,
+			"lng": 20.58089,
+			"x": 185,
+			"y": 306.1,
 			"url": ""
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 42.905073,
 			"lng": 21.19489,
-			"x": 0,
-			"y": 0,
+			"x": 397.8,
+			"y": 171.1,
 			"url": "https://en.wikipedia.org/wiki/Zahir_Pajaziti_Stadium"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 42.206992,
 			"lng": 20.729061,
-			"x": 0,
-			"y": 0,
+			"x": 236.3,
+			"y": 498.2,
 			"url": ""
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "artificial turf",
 			"lat": 42.482245,
 			"lng": 20.724799,
-			"x": 0,
-			"y": 0,
+			"x": 234.8,
+			"y": 369.2,
 			"url": ""
 		},
 		"league": {
@@ -275,10 +275,10 @@
 			"city": "Kosovo Polje",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 42.634270,
+			"lat": 42.63427,
 			"lng": 21.086662,
-			"x": 0,
-			"y": 0,
+			"x": 360.3,
+			"y": 298,
 			"url": ""
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -6949.4,
+			"y": 20277.3,
 			"url": ""
 		},
 		"league": {

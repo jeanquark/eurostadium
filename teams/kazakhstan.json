@@ -14,10 +14,10 @@
 			"city": "Almaty",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 43.221240,
+			"lat": 43.22124,
 			"lng": 76.926998,
-			"x": 0,
-			"y": 0,
+			"x": 591,
+			"y": 356.9,
 			"url": ""
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 43.238331,
 			"lng": 76.92435,
-			"x": 0,
-			"y": 0,
+			"x": 590.9,
+			"y": 356.4,
 			"url": "https://en.wikipedia.org/wiki/Almaty_Central_Stadium"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 42.335493,
 			"lng": 69.593568,
-			"x": 0,
-			"y": 0,
+			"x": 448.6,
+			"y": 382.8,
 			"url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium,_Shymkent"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 53.225974,
 			"lng": 63.636578,
-			"x": 0,
-			"y": 0,
+			"x": 332.9,
+			"y": 64.5,
 			"url": "https://en.wikipedia.org/wiki/Kostanay_Central_Stadium"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "artificial turf",
 			"lat": 43.664659,
 			"lng": 51.147333,
-			"x": 0,
-			"y": 0,
+			"x": 90.4,
+			"y": 343.9,
 			"url": "https://en.wikipedia.org/wiki/Zhastar_Stadium"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "artificial turf",
 			"lat": 54.874085,
 			"lng": 69.152074,
-			"x": 0,
-			"y": 0,
+			"x": 440,
+			"y": 16.3,
 			"url": "https://en.wikipedia.org/wiki/Karasai_Stadium"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 40.771535,
 			"lng": 68.329679,
-			"x": 0,
-			"y": 0,
+			"x": 424,
+			"y": 428.5,
 			"url": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B6%D1%8B%D0%BC%D2%B1%D2%9B%D0%B0%D0%BD_%D0%9C%D2%B1%D2%A3%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2_(%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD,_%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82)"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 53.285278,
 			"lng": 69.391667,
-			"x": 0,
-			"y": 0,
+			"x": 444.7,
+			"y": 62.8,
 			"url": "https://en.wikipedia.org/wiki/Okzhetpes_Stadium"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "grass",
 			"lat": 45.019647,
 			"lng": 78.365206,
-			"x": 0,
-			"y": 0,
+			"x": 618.9,
+			"y": 304.3,
 			"url": ""
 		},
 		"league": {
@@ -276,9 +276,9 @@
 			"capacity": 10500,
 			"surface": "grass",
 			"lat": 44.826003,
-			"lng": 65.503370,
-			"x": 0,
-			"y": 0,
+			"lng": 65.50337,
+			"x": 369.2,
+			"y": 310,
 			"url": ""
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 50.291389,
 			"lng": 57.160278,
-			"x": 0,
-			"y": 0,
+			"x": 207.2,
+			"y": 150.2,
 			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Aktobe)"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "grass",
 			"lat": 47.094127,
 			"lng": 51.908638,
-			"x": 0,
-			"y": 0,
+			"x": 105.2,
+			"y": 243.7,
 			"url": ""
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 49.818618,
 			"lng": 73.075122,
-			"x": 0,
-			"y": 0,
+			"x": 516.2,
+			"y": 164.1,
 			"url": "https://en.wikipedia.org/wiki/Shakhter_Stadium,_Karaganda"
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 42.370957,
 			"lng": 69.696736,
-			"x": 0,
-			"y": 0,
+			"x": 450.6,
+			"y": 381.7,
 			"url": ""
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "grass",
 			"lat": 50.274286,
 			"lng": 57.237974,
-			"x": 0,
-			"y": 0,
+			"x": 208.7,
+			"y": 150.7,
 			"url": ""
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 51.212221,
 			"lng": 51.351077,
-			"x": 0,
-			"y": 0,
+			"x": 94.4,
+			"y": 123.3,
 			"url": ""
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 51.729978,
 			"lng": 75.336727,
-			"x": 0,
-			"y": 0,
+			"x": 560.1,
+			"y": 108.2,
 			"url": ""
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 42.335493,
 			"lng": 69.593568,
-			"x": 0,
-			"y": 0,
+			"x": 448.6,
+			"y": 382.8,
 			"url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium,_Shymkent"
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 43.328393,
 			"lng": 76.980222,
-			"x": 0,
-			"y": 0,
+			"x": 592,
+			"y": 353.7,
 			"url": ""
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "grass",
 			"lat": 42.901804,
 			"lng": 71.382334,
-			"x": 0,
-			"y": 0,
+			"x": 483.3,
+			"y": 366.2,
 			"url": ""
 		},
 		"league": {
@@ -654,8 +654,8 @@
 			"surface": "grass",
 			"lat": 43.1551,
 			"lng": 68.2025,
-			"x": 0,
-			"y": 0,
+			"x": 421.6,
+			"y": 358.8,
 			"url": "https://de.wikipedia.org/wiki/Turkistan_Arena"
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {
@@ -712,8 +712,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {
@@ -741,8 +741,8 @@
 			"surface": "grass",
 			"lat": 49.818618,
 			"lng": 73.075122,
-			"x": 0,
-			"y": 0,
+			"x": 516.2,
+			"y": 164.1,
 			"url": "https://en.wikipedia.org/wiki/Shakhter_Stadium,_Karaganda"
 		},
 		"league": {
@@ -770,8 +770,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {
@@ -798,9 +798,9 @@
 			"capacity": 11000,
 			"surface": "grass",
 			"lat": 50.414845,
-			"lng": 80.241250,
-			"x": 0,
-			"y": 0,
+			"lng": 80.24125,
+			"x": 655.3,
+			"y": 146.6,
 			"url": ""
 		},
 		"league": {
@@ -828,8 +828,8 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": 0,
-			"y": 0,
+			"x": -902.6,
+			"y": 1620,
 			"url": ""
 		},
 		"league": {

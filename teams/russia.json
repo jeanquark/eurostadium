@@ -16,8 +16,8 @@
 			"surface": "grass",
 			"lat": 55.791389,
 			"lng": 37.516111,
-			"x": 0,
-			"y": 0,
+			"x": 127.2,
+			"y": 487.6,
 			"url": "https://en.wikipedia.org/wiki/VEB_Arena"
 		},
 		"league": {
@@ -45,8 +45,8 @@
 			"surface": "grass",
 			"lat": 55.817861,
 			"lng": 37.44025,
-			"x": 0,
-			"y": 0,
+			"x": 126.7,
+			"y": 487.1,
 			"url": "https://en.wikipedia.org/wiki/Lukoil_Arena"
 		},
 		"league": {
@@ -74,8 +74,8 @@
 			"surface": "grass",
 			"lat": 59.973,
 			"lng": 30.2205,
-			"x": 0,
-			"y": 0,
+			"x": 74.9,
+			"y": 409.3,
 			"url": "https://en.wikipedia.org/wiki/Krestovsky_Stadium"
 		},
 		"league": {
@@ -103,8 +103,8 @@
 			"surface": "grass",
 			"lat": 55.803611,
 			"lng": 37.741111,
-			"x": 0,
-			"y": 0,
+			"x": 128.8,
+			"y": 487.3,
 			"url": "https://en.wikipedia.org/wiki/Lokomotiv_Stadium_(Moscow)"
 		},
 		"league": {
@@ -132,8 +132,8 @@
 			"surface": "grass",
 			"lat": 45.044167,
 			"lng": 39.029444,
-			"x": 0,
-			"y": 0,
+			"x": 138.1,
+			"y": 688.6,
 			"url": "https://en.wikipedia.org/wiki/Krasnodar_Stadium"
 		},
 		"league": {
@@ -161,8 +161,8 @@
 			"surface": "grass",
 			"lat": 47.209444,
 			"lng": 39.737778,
-			"x": 0,
-			"y": 0,
+			"x": 143.2,
+			"y": 648.1,
 			"url": "https://en.wikipedia.org/wiki/Rostov_Arena"
 		},
 		"league": {
@@ -190,8 +190,8 @@
 			"surface": "grass",
 			"lat": 54.174583,
 			"lng": 37.602722,
-			"x": 0,
-			"y": 0,
+			"x": 127.8,
+			"y": 517.8,
 			"url": "https://en.wikipedia.org/wiki/Arsenal_Stadium_(Tula)"
 		},
 		"league": {
@@ -219,8 +219,8 @@
 			"surface": "grass",
 			"lat": 53.277778,
 			"lng": 50.237222,
-			"x": 0,
-			"y": 0,
+			"x": 218.5,
+			"y": 534.6,
 			"url": "https://en.wikipedia.org/wiki/Solidarnost_Samara_Arena"
 		},
 		"league": {
@@ -248,8 +248,8 @@
 			"surface": "artificial turf",
 			"lat": 51.78505,
 			"lng": 55.22116,
-			"x": 0,
-			"y": 0,
+			"x": 254.2,
+			"y": 562.5,
 			"url": "https://en.wikipedia.org/wiki/Gazovik_Stadium_(Orenburg)"
 		},
 		"league": {
@@ -277,8 +277,8 @@
 			"surface": "grass",
 			"lat": 55.821111,
 			"lng": 49.160833,
-			"x": 0,
-			"y": 0,
+			"x": 210.8,
+			"y": 487,
 			"url": "https://en.wikipedia.org/wiki/Ak_Bars_Arena"
 		},
 		"league": {
@@ -306,8 +306,8 @@
 			"surface": "grass",
 			"lat": 56.8325,
 			"lng": 60.573611,
-			"x": 0,
-			"y": 0,
+			"x": 292.6,
+			"y": 468.1,
 			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg)"
 		},
 		"league": {
@@ -335,8 +335,8 @@
 			"surface": "grass",
 			"lat": 43.323176,
 			"lng": 45.745252,
-			"x": 0,
-			"y": 0,
+			"x": 186.3,
+			"y": 720.8,
 			"url": "https://en.wikipedia.org/wiki/Akhmat-Arena"
 		},
 		"league": {
@@ -364,8 +364,8 @@
 			"surface": "grass",
 			"lat": 55.791389,
 			"lng": 37.559722,
-			"x": 0,
-			"y": 0,
+			"x": 127.5,
+			"y": 487.6,
 			"url": "https://en.wikipedia.org/wiki/VTB_Arena"
 		},
 		"league": {
@@ -393,8 +393,8 @@
 			"surface": "grass",
 			"lat": 51.672778,
 			"lng": 39.204167,
-			"x": 0,
-			"y": 0,
+			"x": 139.3,
+			"y": 564.6,
 			"url": "https://en.wikipedia.org/wiki/Tsentralnyi_Profsoyuz_Stadion_(Voronezh)"
 		},
 		"league": {
@@ -422,8 +422,8 @@
 			"surface": "grass",
 			"lat": 54.698056,
 			"lng": 20.533889,
-			"x": 0,
-			"y": 0,
+			"x": 5.4,
+			"y": 508,
 			"url": "https://en.wikipedia.org/wiki/Kaliningrad_Stadium"
 		},
 		"league": {
@@ -451,8 +451,8 @@
 			"surface": "grass",
 			"lat": 56.3375,
 			"lng": 43.963333,
-			"x": 0,
-			"y": 0,
+			"x": 173.5,
+			"y": 477.3,
 			"url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium"
 		},
 		"league": {
@@ -480,8 +480,8 @@
 			"surface": "grass",
 			"lat": 43.402267,
 			"lng": 39.956111,
-			"x": 0,
-			"y": 0,
+			"x": 144.7,
+			"y": 719.3,
 			"url": "https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium"
 		},
 		"league": {
@@ -509,8 +509,8 @@
 			"surface": "artificial turf",
 			"lat": 53.401517,
 			"lng": 49.502037,
-			"x": 0,
-			"y": 0,
+			"x": 213.2,
+			"y": 532.3,
 			"url": ""
 		},
 		"league": {
@@ -538,8 +538,8 @@
 			"surface": "grass",
 			"lat": 54.174583,
 			"lng": 37.602722,
-			"x": 0,
-			"y": 0,
+			"x": 127.8,
+			"y": 517.8,
 			"url": "https://en.wikipedia.org/wiki/Arsenal_Stadium_(Tula)"
 		},
 		"league": {
@@ -567,8 +567,8 @@
 			"surface": "grass",
 			"lat": 48.478889,
 			"lng": 135.046389,
-			"x": 0,
-			"y": 0,
+			"x": 826.9,
+			"y": 624.3,
 			"url": "https://en.wikipedia.org/wiki/Lenin_Stadium_(Khabarovsk)"
 		},
 		"league": {
@@ -596,8 +596,8 @@
 			"surface": "grass",
 			"lat": 55.998403,
 			"lng": 92.884664,
-			"x": 0,
-			"y": 0,
+			"x": 524.4,
+			"y": 483.7,
 			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Krasnoyarsk)"
 		},
 		"league": {
@@ -625,8 +625,8 @@
 			"surface": "grass",
 			"lat": 55.8853,
 			"lng": 37.4542,
-			"x": 0,
-			"y": 0,
+			"x": 126.8,
+			"y": 485.8,
 			"url": "https://en.wikipedia.org/wiki/Arena_Khimki"
 		},
 		"league": {
@@ -654,8 +654,8 @@
 			"surface": "grass",
 			"lat": 51.539215,
 			"lng": 45.998533,
-			"x": 0,
-			"y": 0,
+			"x": 188.1,
+			"y": 567.1,
 			"url": "https://en.wikipedia.org/wiki/Lokomotiv_Stadium_(Saratov)"
 		},
 		"league": {
@@ -683,8 +683,8 @@
 			"surface": "grass",
 			"lat": 57.628729,
 			"lng": 39.867486,
-			"x": 0,
-			"y": 0,
+			"x": 144.1,
+			"y": 453.2,
 			"url": "https://en.wikipedia.org/wiki/Shinnik_Stadium"
 		},
 		"league": {
@@ -712,8 +712,8 @@
 			"surface": "grass",
 			"lat": 57.1617,
 			"lng": 65.5139,
-			"x": 0,
-			"y": 0,
+			"x": 328.1,
+			"y": 461.9,
 			"url": "https://en.wikipedia.org/wiki/Geolog_Stadium"
 		},
 		"league": {
@@ -741,8 +741,8 @@
 			"surface": "grass",
 			"lat": 55.633363,
 			"lng": 51.802533,
-			"x": 0,
-			"y": 0,
+			"x": 229.7,
+			"y": 490.5,
 			"url": ""
 		},
 		"league": {
@@ -770,8 +770,8 @@
 			"surface": "grass",
 			"lat": 46.381944,
 			"lng": 48.050833,
-			"x": 0,
-			"y": 0,
+			"x": 202.8,
+			"y": 663.5,
 			"url": "https://en.wikipedia.org/wiki/Central_Stadium_(Astrakhan)"
 		},
 		"league": {
@@ -799,8 +799,8 @@
 			"surface": "artificial turf",
 			"lat": 55.804832,
 			"lng": 37.698722,
-			"x": 0,
-			"y": 0,
+			"x": 128.5,
+			"y": 487.3,
 			"url": ""
 		},
 		"league": {
@@ -828,8 +828,8 @@
 			"surface": "artificial turf",
 			"lat": 53.401517,
 			"lng": 49.502037,
-			"x": 0,
-			"y": 0,
+			"x": 213.2,
+			"y": 532.3,
 			"url": ""
 		},
 		"league": {
@@ -857,8 +857,8 @@
 			"surface": "grass",
 			"lat": 43.023056,
 			"lng": 44.695,
-			"x": 0,
-			"y": 0,
+			"x": 178.7,
+			"y": 726.4,
 			"url": "https://en.wikipedia.org/wiki/Republican_Spartak_Stadium"
 		},
 		"league": {
@@ -885,9 +885,9 @@
 			"capacity": 15000,
 			"surface": "grass",
 			"lat": 44.713785,
-			"lng": 37.779350,
-			"x": 0,
-			"y": 0,
+			"lng": 37.77935,
+			"x": 129.1,
+			"y": 694.7,
 			"url": ""
 		},
 		"league": {
@@ -915,8 +915,8 @@
 			"surface": "grass",
 			"lat": 55.732078,
 			"lng": 52.417819,
-			"x": 0,
-			"y": 0,
+			"x": 234.1,
+			"y": 488.7,
 			"url": "https://en.wikipedia.org/wiki/KAMAZ_Stadium"
 		},
 		"league": {
@@ -944,8 +944,8 @@
 			"surface": "grass",
 			"lat": 59.951944,
 			"lng": 30.286389,
-			"x": 0,
-			"y": 0,
+			"x": 75.3,
+			"y": 409.7,
 			"url": "https://en.wikipedia.org/wiki/Petrovsky_Stadium"
 		},
 		"league": {
@@ -973,8 +973,8 @@
 			"surface": "grass",
 			"lat": 42.907901,
 			"lng": 47.618587,
-			"x": 0,
-			"y": 0,
+			"x": 199.7,
+			"y": 728.5,
 			"url": "https://en.wikipedia.org/wiki/Anzhi_Arena"
 		},
 		"league": {
@@ -1002,8 +1002,8 @@
 			"surface": "artificial turf",
 			"lat": 55.8065,
 			"lng": 37.7377,
-			"x": 0,
-			"y": 0,
+			"x": 128.8,
+			"y": 487.3,
 			"url": "https://en.wikipedia.org/wiki/Sapsan_Arena"
 		},
 		"league": {
@@ -1031,8 +1031,8 @@
 			"surface": "grass",
 			"lat": 45.025278,
 			"lng": 38.999444,
-			"x": 0,
-			"y": 0,
+			"x": 137.9,
+			"y": 688.9,
 			"url": "https://en.wikipedia.org/wiki/Kuban_Stadium"
 		},
 		"league": {
