@@ -34,22 +34,23 @@
                 <a href="tests/modal.html">Modal</a>
                 <br /><br />
             </div>
-            <div id="svgWrapper" class="col-6" style="border: 2px solid purple">
-                <object type="image/svg+xml" id="svgObject"
-                    style="width: 100%; border: 2px dashed blue;">
+            <div class="col-6" id="svgWrapper">
+                <object type="image/svg+xml" id="svgObject" style="width: 100%; border: 2px dashed blue;">
                     <img src="./images/no-image.png" />
                 </object>
                 <div id="tooltip" class=""></div>
             </div>
-            <div class="col-4 border-3">
-                <button hx-on:click="displayStadiums('all')">All teams</button><br />
-                <button hx-on:click="displayStadiums('first_league')">Top league teams</button><br />
-                <button hx-on:click="displayStadiums('second_league')">2nd league teams</button><br />
-                <button hx-on:click="displayStadiums('sm')">
-                    < 20 000</button><br />
-                        <button hx-on:click="displayStadiums('md')">20 000 < 40 000</button><br />
-                                <button hx-on:click="displayStadiums('lg')">40 000 < 60 000</button><br />
-                                        <button hx-on:click="displayStadiums('xl')">> 60 000</button><br />
+            <div class="col-6">
+                <div style="border: 2px dashed purple">
+                    <button hx-on:click="displayStadiums('all')">All teams</button><br />
+                    <button hx-on:click="displayStadiums('first_league')">Top league teams</button><br />
+                    <button hx-on:click="displayStadiums('second_league')">2nd league teams</button><br />
+                    <button hx-on:click="displayStadiums('sm')">
+                        < 20 000</button><br />
+                            <button hx-on:click="displayStadiums('md')">20 000 < 40 000</button><br />
+                                    <button hx-on:click="displayStadiums('lg')">40 000 < 60 000</button><br />
+                                            <button hx-on:click="displayStadiums('xl')">> 60 000</button><br />
+                </div>
             </div>
         </div>
         <div class="row">
@@ -77,7 +78,7 @@
     <script src="/js/index3.js"></script>
 
     <script>
-        
+
     </script>
 </body>
 

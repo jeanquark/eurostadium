@@ -14,10 +14,11 @@
 			"city": "Wals-Siezenheim",
 			"capacity": 31895,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.816389,
+			"lng": 12.998333,
+			"x": 279.8,
+			"y": 142.2,
+			"url": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Salzburg)"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -42,10 +43,11 @@
 			"city": "Wien",
 			"capacity": 18944,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.162222,
+			"lng": 16.386667,
+			"x": 550.9,
+			"y": 101.2,
+			"url": "https://en.wikipedia.org/wiki/Franz_Horr_Stadium"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -70,10 +72,11 @@
 			"city": "Altach",
 			"capacity": 8500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.353889,
+			"lng": 9.636667,
+			"x": 10.8,
+			"y": 197.1,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Schnabelholz"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -98,10 +101,11 @@
 			"city": "Graz",
 			"capacity": 16764,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.046111,
+			"lng": 15.454444,
+			"x": 476.3,
+			"y": 233.6,
+			"url": "https://en.wikipedia.org/wiki/Liebenauer_Stadium"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -126,10 +130,11 @@
 			"city": "Wien",
 			"capacity": 28345,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.197778,
+			"lng": 16.265278,
+			"x": 541.2,
+			"y": 97,
+			"url": "https://en.wikipedia.org/wiki/Allianz_Stadion"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -154,10 +159,11 @@
 			"city": "Wolfsberg",
 			"capacity": 9000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 46.826389,
+			"lng": 14.851944,
+			"x": 428.1,
+			"y": 259.7,
+			"url": "https://en.wikipedia.org/wiki/Lavanttal-Arena"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -182,10 +188,11 @@
 			"city": "Linz",
 			"capacity": 19080,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.293333,
+			"lng": 14.276389,
+			"x": 382,
+			"y": 85.6,
+			"url": "https://en.wikipedia.org/wiki/Raiffeisen_Arena_(Linz)"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -210,10 +217,11 @@
 			"city": "Hartberg",
 			"capacity": 5420,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.280976,
+			"lng": 15.977211,
+			"x": 518.1,
+			"y": 205.8,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Hartberg"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -238,10 +246,11 @@
 			"city": "Linz",
 			"capacity": 6000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.316371,
+			"lng": 14.298862,
+			"x": 383.8,
+			"y": 82.9,
+			"url": "https://en.wikipedia.org/wiki/Donauparkstadion"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -266,10 +275,11 @@
 			"city": "Innsbruck",
 			"capacity": 16008,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.255833,
+			"lng": 11.410833,
+			"x": 152.8,
+			"y": 208.8,
+			"url": "https://en.wikipedia.org/wiki/Tivoli_Stadion_Tirol"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -294,10 +304,11 @@
 			"city": "Bregenz",
 			"capacity": 11112,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.503911,
+			"lng": 9.733397,
+			"x": 18.6,
+			"y": 179.3,
+			"url": "https://en.wikipedia.org/wiki/Casino_Stadium"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -322,10 +333,11 @@
 			"city": "Klagenfurt am Wörthersee",
 			"capacity": 32000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 46.608889,
+			"lng": 14.278056,
+			"x": 382.2,
+			"y": 285.5,
+			"url": "https://en.wikipedia.org/wiki/W%C3%B6rthersee_Stadion"
 		},
 		"league": {
 			"api_football_id": 218,
@@ -350,10 +362,11 @@
 			"city": "Maria Enzersdorf",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.0975,
+			"lng": 16.310833,
+			"x": 544.8,
+			"y": 108.9,
+			"url": "https://en.wikipedia.org/wiki/Motion_invest_Arena"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -378,10 +391,11 @@
 			"city": "St. Pölten",
 			"capacity": 8000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.2209,
+			"lng": 15.6531,
+			"x": 492.2,
+			"y": 94.2,
+			"url": "https://en.wikipedia.org/wiki/NV_Arena"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -406,10 +420,11 @@
 			"city": "Ried Im Innkreis",
 			"capacity": 7680,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.207778,
+			"lng": 13.478333,
+			"x": 318.2,
+			"y": 95.8,
+			"url": "https://en.wikipedia.org/wiki/Josko_Arena"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -434,10 +449,11 @@
 			"city": "Wien",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.269836,
+			"lng": 16.393717,
+			"x": 551.4,
+			"y": 88.4,
+			"url": "https://de.wikipedia.org/wiki/FAC-Platz"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -462,10 +478,11 @@
 			"city": "Horn",
 			"capacity": 5500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.6704,
+			"lng": 15.6635,
+			"x": 493,
+			"y": 40.9,
+			"url": "https://en.wikipedia.org/wiki/Sparkasse_Horn_Arena"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -490,10 +507,11 @@
 			"city": "Wals-Siezenheim",
 			"capacity": 31895,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.816389,
+			"lng": 12.998333,
+			"x": 279.8,
+			"y": 142.2,
+			"url": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Salzburg)"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -518,10 +536,11 @@
 			"city": "Kapfenberg",
 			"capacity": 12000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.443889,
+			"lng": 15.300556,
+			"x": 464,
+			"y": 186.4,
+			"url": "https://en.wikipedia.org/wiki/Franz_Fekete_Stadium"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -546,10 +565,11 @@
 			"city": "Lafnitz",
 			"capacity": 3000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.3735,
+			"lng": 16.011606,
+			"x": 520.9,
+			"y": 194.8,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 219,
@@ -574,10 +594,11 @@
 			"city": "Amstetten",
 			"capacity": 3300,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.115159,
+			"lng": 14.877402,
+			"x": 430.1,
+			"y": 106.8,
+			"url": "https://en.wikipedia.org/wiki/Union-Platz"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -602,10 +623,11 @@
 			"city": "Dornbirn",
 			"capacity": 5000,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.41647,
+			"lng": 9.72409,
+			"x": 17.8,
+			"y": 189.7,
+			"url": "https://en.wikipedia.org/wiki/Stadion_Birkenwiese"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -630,10 +652,11 @@
 			"city": "Graz",
 			"capacity": 16764,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.046111,
+			"lng": 15.454444,
+			"x": 476.3,
+			"y": 233.6,
+			"url": "https://en.wikipedia.org/wiki/Liebenauer_Stadium"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -658,10 +681,11 @@
 			"city": "Wien",
 			"capacity": 7260,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.249444,
+			"lng": 16.357778,
+			"x": 548.6,
+			"y": 90.9,
+			"url": "https://en.wikipedia.org/wiki/Hohe_Warte_Stadium"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -686,10 +710,11 @@
 			"city": "Wien",
 			"capacity": 3500,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 48.269836,
+			"lng": 16.393717,
+			"x": 551.4,
+			"y": 88.4,
+			"url": "https://de.wikipedia.org/wiki/FAC-Platz"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -714,10 +739,11 @@
 			"city": "Gleisdorf",
 			"capacity": 1700,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.097915,
+			"lng": 15.704558,
+			"x": 496.3,
+			"y": 227.5,
+			"url": ""
 		},
 		"league": {
 			"api_football_id": 219,
@@ -742,10 +768,11 @@
 			"city": "Bregenz",
 			"capacity": 11112,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.503911,
+			"lng": 9.733397,
+			"x": 18.6,
+			"y": 179.3,
+			"url": "https://en.wikipedia.org/wiki/Casino_Stadium"
 		},
 		"league": {
 			"api_football_id": 219,
@@ -770,10 +797,11 @@
 			"city": "Leoben",
 			"capacity": 8450,
 			"surface": "grass",
-			"lat": 0,
-			"lng": 0,
-			"x": -760.1,
-			"y": 5816
+			"lat": 47.3768,
+			"lng": 15.0788,
+			"x": 446.2,
+			"y": 194.4,
+			"url": "https://en.wikipedia.org/wiki/Donawitz_Stadium"
 		},
 		"league": {
 			"api_football_id": 219,

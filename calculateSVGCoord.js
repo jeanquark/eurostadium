@@ -1,20 +1,13 @@
 const fs = require('fs');
 
 const calculateSVGCoord = async () => {
-    const country = 'norway'
+    const country = 'england_and_wales'
     const data1 = fs.readFileSync(`./js/countriesSvgMapCoord.json`)
-    // console.log('data1: ', data1);
     const coordData = JSON.parse(data1);
-    // console.log('coordData: ', coordData)
-    // return
-    // for (let i = 0; i < coordData.length; i++) {
-    for (const country in coordData) {
-        // const country = coordData[i]
+    // for (const country in coordData) {
         console.log('country: ', country)
-        // continue;
         const data2 = fs.readFileSync(`./teams/${country}.json`)
         const teams = JSON.parse(data2);
-        // console.log('teams: ', teams);
         const array = []
     
         const lng_min = coordData[country]['leftLongitude']
@@ -38,7 +31,7 @@ const calculateSVGCoord = async () => {
             if (err) throw err;
             console.log('write complete!');
         });
-    }
+    // }
 }
 
 calculateSVGCoord()

@@ -70,31 +70,31 @@ svgObject.addEventListener(
             displayStadiumTooltip(country)
         }
 
-        svgPanZoom('#svgObject', {
-            zoomEnabled: true,
-            controlIconsEnabled: false,
-            fit: 1,
-            center: 1,
-            minZoom: 1,
-            maxZoom: 8,
-            beforePan: function (oldPan, newPan) {
-                var stopHorizontal = false,
-                    stopVertical = false,
-                    gutterWidth = 300,
-                    gutterHeight = 300,
-                    sizes = this.getSizes(),
-                    leftLimit = -((sizes.viewBox.x + sizes.viewBox.width) * sizes.realZoom) + gutterWidth,
-                    rightLimit = sizes.width - gutterWidth - sizes.viewBox.x * sizes.realZoom,
-                    topLimit = -((sizes.viewBox.y + sizes.viewBox.height) * sizes.realZoom) + gutterHeight,
-                    bottomLimit = sizes.height - gutterHeight - sizes.viewBox.y * sizes.realZoom
+        // svgPanZoom('#svgObject', {
+        //     zoomEnabled: true,
+        //     controlIconsEnabled: false,
+        //     fit: 1,
+        //     center: 1,
+        //     minZoom: 1,
+        //     maxZoom: 8,
+        //     beforePan: function (oldPan, newPan) {
+        //         var stopHorizontal = false,
+        //             stopVertical = false,
+        //             gutterWidth = 300,
+        //             gutterHeight = 300,
+        //             sizes = this.getSizes(),
+        //             leftLimit = -((sizes.viewBox.x + sizes.viewBox.width) * sizes.realZoom) + gutterWidth,
+        //             rightLimit = sizes.width - gutterWidth - sizes.viewBox.x * sizes.realZoom,
+        //             topLimit = -((sizes.viewBox.y + sizes.viewBox.height) * sizes.realZoom) + gutterHeight,
+        //             bottomLimit = sizes.height - gutterHeight - sizes.viewBox.y * sizes.realZoom
 
-                customPan = {}
-                customPan.x = Math.max(leftLimit, Math.min(rightLimit, newPan.x))
-                customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
+        //         customPan = {}
+        //         customPan.x = Math.max(leftLimit, Math.min(rightLimit, newPan.x))
+        //         customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
 
-                return customPan
-            }
-        })
+        //         return customPan
+        //     }
+        // })
     }
 )
 
@@ -154,17 +154,40 @@ const displayCountryTooltip = () => {
             // const countryName = country.charAt(0).toUpperCase() + country.slice(1);
             population = e.target.getAttribute('data-pop')
             tooltip.innerHTML = `
-                <div class="d-flex">
-                    <img src="../images/flags/${countryId}.png" width="60" />
-                    <h3 class="text-center">${countryName}</h3>
+                <div class="row">
+                    <div class="col-2" style="display: flex;
+                    align-items: center;">
+                        <img src="../images/flags/${countryId}.png" width="60" />
+                    </div>
+                    <div class="col-4" style="display: flex; justify-content: center;
+                    align-items: center;">
+                        <div style="display: flex-column;">
+                            <h2 class="text-center">${countryName}</h2>
+                            <h5 class="text-center">Pop: ${population}</h5>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <img src="../images/countries/${countryId}.jpg" width="100%" />
+                    </div>
                 </div>
-                <h4 class="text-center">Pop: ${population}</h4>
 
-                <ul>
-                    <li>${leaguesArray[0]}</li>
-                    <li>${leaguesArray[1]}</li>
-                </ul>
-                <img src="../images/countries/${countryId}.jpg" width="200" />
+                <div class="row align-center mt-4">
+                    <div class="col-6">
+                        <img src="../images/countries/${countryId}_stadium.jpg" width="100%" />
+                    </div>
+                    <div class="col-6">
+                        <div class="row justify-center">
+                            <div class="col-6 text-center">
+                                <h3>${leaguesArray[0]}</h3>
+                                <img src="/images/leagues/${countryId}/${leaguesArray[0]}.png" width="60" />
+                            </div>
+                            <div class="col-6 text-center">
+                                <h3>${leaguesArray[1]}</h3>
+                                <img src="/images/leagues/${countryId}/${leaguesArray[1]}.png" width="60" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 `
 
             const element = svgContent.getElementById(countryId)

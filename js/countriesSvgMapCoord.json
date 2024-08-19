@@ -95,13 +95,13 @@
         "xMax": 980.48608,
         "yMax": 792.64435
     },
-    "england": {
-        "leftLongitude": -6.40250000, //-6.24.09
-        "topLatitude": 55.81111111, //55.48.40
-        "rightLongitude": 1.76277778, //1.45.46
-        "bottomLatitude": 49.86305556, //49.51.47
-        "xMax": 0,
-        "yMax": 0
+    "england_and_wales": {
+        "leftLongitude": -6.40250000,
+        "topLatitude": 55.81111111,
+        "rightLongitude": 1.76277778,
+        "bottomLatitude": 49.86305556,
+        "xMax": 380.89841,
+        "yMax": 458.80078
     },
     "estonia": {
         "leftLongitude": "21.770501",
@@ -280,12 +280,12 @@
         "yMax": 723.61823
     },
     "northern_ireland": {
-        "leftLongitude": -8.17750000, //-8.10.39
-        "topLatitude": 55.31277778, //55.18.46
-        "rightLongitude": -5.43277778, //-5.25.58
-        "bottomLatitude": 54.02250000, //54.01.21
-        "xMax": 0,
-        "yMax": 0
+        "leftLongitude": -8.17750000,
+        "topLatitude": 55.31277778,
+        "rightLongitude": -5.43277778,
+        "bottomLatitude": 54.02250000,
+        "xMax": 128.99998,
+        "yMax": 103.99996
     },
     "norway": {
         "leftLongitude": "4.641249",
@@ -328,12 +328,12 @@
         "yMax": 760.43396
     },
     "scotland": {
-        "leftLongitude": "-7.66611111", //-7.39.58
-        "topLatitude": "60.85666667", //60.51.24
-        "rightLongitude": "-0.72444444", //-0.43.28
-        "bottomLatitude": "54.63416667", //54.38.03
-        "xMax": 0,
-        "yMax": 0
+        "leftLongitude": "-7.66611111",
+        "topLatitude": "60.85666667",
+        "rightLongitude": "-0.72444444",
+        "bottomLatitude": "54.63416667",
+        "xMax": 320.5,
+        "yMax": 547.24915
     },
     "serbia": {
         "leftLongitude": "18.814598",
