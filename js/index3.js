@@ -1,9 +1,22 @@
 window.onload = (event) => {
-    console.log('page is fully loaded!')
+    try {
+        console.log('page is fully loaded!')
 
-    svgObject = document.getElementById('svgObject')
-    console.log('svgObject: ', svgObject)
-    svgObject.data = `./images/svg/europe-with-russia.svg`
+        // document.getElementById("wrapper").innerHTML = `
+        //     <div class="col-6" id="svgWrapper">
+        //         <object type="image/svg+xml" id="svgObject" style="width: 100%; border: 2px dashed blue;">
+        //             <img src="./images/no-image.png" />
+        //         </object>
+        //         <div id="tooltip" class=""></div>
+        //     </div>
+        // `;
+        svgObject = document.getElementById('svgObject')
+        console.log('svgObject: ', svgObject)
+        svgObject.data = `./images/svg/europe-with-russia.svg`
+        initSVG()
+    } catch (error) {
+        console.log('error: ', error);
+    }
 }
 
 const displayMap = (map) => {
@@ -11,92 +24,96 @@ const displayMap = (map) => {
 }
 
 let country
-svgObject = document.getElementById('svgObject')
-svgObject.addEventListener(
-    'load',
-    async () => {
-        const svgContent = svgObject.contentDocument
+// const initSVG = () => {
+    svgObject = document.getElementById('svgObject')
+    svgObject.addEventListener(
+        'load',
+        async () => {
+            console.log('initSVG()')
+            let svgObject = document.getElementById('svgObject')
+            const svgContent = svgObject.contentDocument
+            console.log('svgContent: ', svgContent);
 
-        let flag = 0
-        svgContent.addEventListener(
-            'mousedown',
-            (e) => {
-                flag = 0
-                console.log('mousedown', flag)
-            },
-            false
-        )
-        svgContent.addEventListener(
-            'mousemove',
-            (e) => {
-                flag = 1
-                // console.log('mousemove', flag)
-            },
-            false
-        )
-        svgContent.addEventListener(
-            'mouseup',
-            (e) => {
-                if (flag == 0) {
-                    console.log('click')
-                    // console.clear()
-                    // console.log('e1: ', e)
-                    const path = e.target.closest('path')
-                    if (path) {
-                        country = path.getAttribute('data-country')
-                        console.log('country: ', country)
-                        if (country) {
-                            svgObject.data = `./images/svg/countries/${country}Low.svg`
-                            // let elements = svgContent.getElementsByClassName('country')
-                            // for (var i = 0; i < elements.length; i++) {
-                            //     elements[i].classList.remove("hover")
-                            // }
-                            const tooltip = document.getElementById('tooltip')
-                            if (tooltip) {
-                                tooltip.style.display = 'none'
+            let flag = 0
+            svgContent.addEventListener(
+                'mousedown',
+                (e) => {
+                    flag = 0
+                    console.log('mousedown', flag)
+                },
+                false
+            )
+            svgContent.addEventListener(
+                'mousemove',
+                (e) => {
+                    flag = 1
+                    // console.log('mousemove', flag)
+                },
+                false
+            )
+            svgContent.addEventListener(
+                'mouseup',
+                (e) => {
+                    if (flag == 0) {
+                        console.log('click')
+                        // console.clear()
+                        // console.log('e1: ', e)
+                        const path = e.target.closest('path')
+                        if (path) {
+                            country = path.getAttribute('data-country')
+                            console.log('country: ', country)
+                            if (country) {
+                                svgObject.data = `./images/svg/countries/${country}.svg`
+                                // let elements = svgContent.getElementsByClassName('country')
+                                // for (var i = 0; i < elements.length; i++) {
+                                //     elements[i].classList.remove("hover")
+                                // }
+                                const tooltip = document.getElementById('tooltip')
+                                if (tooltip) {
+                                    tooltip.style.display = 'none'
+                                }
+                                // fetchStadiums(country)
                             }
-                            // fetchStadiums(country)
                         }
+                    } else if (flag == 1) {
+                        console.log('drag')
                     }
-                } else if (flag == 1) {
-                    console.log('drag')
-                }
-                // console.log('mouseup')
-            },
-            false
-        )
-        displayCountryTooltip()
-        if (country) {
-            displayStadiumTooltip(country)
-        }
+                    // console.log('mouseup')
+                },
+                false
+            )
+            displayCountryTooltip()
+            if (country) {
+                displayStadiumTooltip(country)
+            }
 
-        // svgPanZoom('#svgObject', {
-        //     zoomEnabled: true,
-        //     controlIconsEnabled: false,
-        //     fit: 1,
-        //     center: 1,
-        //     minZoom: 1,
-        //     maxZoom: 8,
-        //     beforePan: function (oldPan, newPan) {
-        //         var stopHorizontal = false,
-        //             stopVertical = false,
-        //             gutterWidth = 300,
-        //             gutterHeight = 300,
-        //             sizes = this.getSizes(),
-        //             leftLimit = -((sizes.viewBox.x + sizes.viewBox.width) * sizes.realZoom) + gutterWidth,
-        //             rightLimit = sizes.width - gutterWidth - sizes.viewBox.x * sizes.realZoom,
-        //             topLimit = -((sizes.viewBox.y + sizes.viewBox.height) * sizes.realZoom) + gutterHeight,
-        //             bottomLimit = sizes.height - gutterHeight - sizes.viewBox.y * sizes.realZoom
+    // svgPanZoom('#svgObject', {
+    //     zoomEnabled: true,
+    //     controlIconsEnabled: false,
+    //     fit: 1,
+    //     center: 1,
+    //     minZoom: 1,
+    //     maxZoom: 8,
+    //     beforePan: function (oldPan, newPan) {
+    //         var stopHorizontal = false,
+    //             stopVertical = false,
+    //             gutterWidth = 300,
+    //             gutterHeight = 300,
+    //             sizes = this.getSizes(),
+    //             leftLimit = -((sizes.viewBox.x + sizes.viewBox.width) * sizes.realZoom) + gutterWidth,
+    //             rightLimit = sizes.width - gutterWidth - sizes.viewBox.x * sizes.realZoom,
+    //             topLimit = -((sizes.viewBox.y + sizes.viewBox.height) * sizes.realZoom) + gutterHeight,
+    //             bottomLimit = sizes.height - gutterHeight - sizes.viewBox.y * sizes.realZoom
 
-        //         customPan = {}
-        //         customPan.x = Math.max(leftLimit, Math.min(rightLimit, newPan.x))
-        //         customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
+    //         customPan = {}
+    //         customPan.x = Math.max(leftLimit, Math.min(rightLimit, newPan.x))
+    //         customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
 
-        //         return customPan
-        //     }
-        // })
-    }
-)
+    //         return customPan
+    //     }
+    // })
+    })
+// }
 
 const displayCountryTooltip = () => {
     try {
