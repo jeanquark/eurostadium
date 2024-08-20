@@ -20,6 +20,7 @@ window.onload = (event) => {
 }
 
 const displayMap = (map) => {
+    document.getElementById('buttonsPanel').classList.add("hidden")
     svgObject.data = `./images/svg/${map}.svg`
 }
 
@@ -54,19 +55,22 @@ svgObject.addEventListener('load', async () => {
         (e) => {
             if (flag == 0) {
                 console.log('click')
-                const mapEurope = document.getElementById('mapEurope')
-                console.log('mapEurope: ', mapEurope)
-                mapEurope.classList.add('hidden')
-                const mapCountry = document.getElementById('mapCountry')
-                mapCountry.classList.remove('hidden')
-                svgObject = document.getElementById('svgObject')
+                // const mapEurope = document.getElementById('mapEurope')
+                // console.log('mapEurope: ', mapEurope)
+                // mapEurope.classList.add('hidden')
+                // const mapCountry = document.getElementById('mapCountry')
+                // mapCountry.classList.remove('hidden')
+                // svgObject = document.getElementById('svgObject')
                 // console.clear()
                 // console.log('e1: ', e)
                 const path = e.target.closest('path')
+                // console.log('path: ', path)
                 if (path) {
-                    country = path.getAttribute('data-country')
-                    console.log('country: ', country)
+                    country = path.getAttribute('id')
+                    // console.log('svgObject.data: ', svgObject.data)
+                    // if (country == '') {}
                     if (country) {
+                        document.getElementById('buttonsPanel').classList.remove("hidden")
                         svgObject.data = `./images/svg/countries/${country}.svg`
                         // let elements = svgContent.getElementsByClassName('country')
                         // for (var i = 0; i < elements.length; i++) {
@@ -78,8 +82,10 @@ svgObject.addEventListener('load', async () => {
                         }
                         // fetchStadiums(country)
                     }
+                } else {
+                    displayMap('europe-with-russia')
                 }
-                console.log('svgObject.data2: ', svgObject.data);
+                // console.log('svgObject.data2: ', svgObject.data);
             } else if (flag == 1) {
                 console.log('drag')
             }
@@ -115,6 +121,23 @@ svgObject.addEventListener('load', async () => {
             customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
 
             return customPan
+        },
+        onZoom: (newZoom) => {
+            // console.log('onZoom: ', newZoom)
+            const stadiumObj = svgContent.getElementById('stadiums')
+            // console.log('stadiumObj: ', stadiumObj)
+            const circleRadius = stadiumObj.getAttribute('data-circle-radius') || 10
+            // console.log('circleRadius: ', circleRadius);
+            var cities = stadiumObj.querySelectorAll(".city");
+            for (var i = 0; i < cities.length; i++) {
+                // console.log('cities[i]: ', cities[i])
+                const abc = cities[i].getAttribute('r')
+                // console.log('abc: ', abc);
+                cities[i].setAttribute('r', parseInt(circleRadius - newZoom))
+            }
+            // const abc = stadiumObj.getAttribute('data-circle-radius')
+            // console.log('abc: ', abc);
+            // stadiumObj.setAttribute('data-circle-radius', '2')
         }
     })
 })
@@ -133,21 +156,28 @@ const displayCountryTooltip = () => {
             const pageX = e.pageX
             const pageY = e.pageY
             const scrollTop = document.documentElement.scrollTop
+            console.log('innerWidth: ', innerWidth);
+            console.log('innerHeight: ', innerHeight);
+            console.log('scrollTop: ', scrollTop);
+            // console.log('pageX: ', pageX);
+            // console.log('pageY: ', pageY);
 
             const tooltip = document.getElementById('tooltip')
             // console.log('tooltip: ', tooltip)
             if (tooltip) {
                 tooltip.style.display = 'block'
-                if (pageY - scrollTop > innerHeight / 2) {
-                    tooltip.style.top = `${pageY - 0}px`
-                } else {
-                    tooltip.style.top = `${pageY + 100}px`
-                }
-                if (pageX < innerWidth / 2) {
-                    tooltip.style.left = `${pageX + 5}px`
-                } else {
-                    tooltip.style.left = `${pageX - 400 - 0}px`
-                }
+                tooltip.style.top = '0px'
+                tooltip.style.left = '0px'
+                // if (pageY - scrollTop > innerHeight / 2) {
+                //     tooltip.style.top = `${pageY - 0}px`
+                // } else {
+                //     tooltip.style.top = `${pageY + 0}px`
+                // }
+                // if (pageX < innerWidth / 2) {
+                //     tooltip.style.left = `${pageX + 000}px`
+                // } else {
+                //     tooltip.style.left = `${pageX - 000 - 0}px`
+                // }
             }
 
             let countryId
@@ -213,7 +243,10 @@ const displayCountryTooltip = () => {
                 `
 
             const element = svgContent.getElementById(countryId)
+            // console.log('element: ', element);
             element.classList.add('hover')
+            // const abc = svgContent.getElementById(countryId).classList
+            // console.log('abc: ', abc);
         }
 
         const handleMouseLeave = (e) => {
@@ -250,6 +283,8 @@ const displayStadiumTooltip = async (country) => {
         // return
 
         if (stadiumObj) {
+            const circleRadius = stadiumObj.getAttribute('data-circle-radius')
+            console.log('circleRadius: ', circleRadius);
             const data = await fetch(`./teams/${country}.json`)
             const teams = await data.json()
             console.log('teams: ', teams)
@@ -260,7 +295,7 @@ const displayStadiumTooltip = async (country) => {
                 newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
                 newElement.setAttribute('cx', teams[i]['venue']['x'])
                 newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
-                newElement.setAttribute('r', 5)
+                newElement.setAttribute('r', circleRadius | 5)
                 newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
                 newElement.setAttribute('data-city', teams[i]['venue']['city'])
                 newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])

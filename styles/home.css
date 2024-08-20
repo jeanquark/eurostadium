@@ -8,7 +8,7 @@
 
 .hover {
     fill: #FF0000 !important;
-    cursor: pointer;
+    cursor: pointer !important;
 }
 
 .region:hover {
