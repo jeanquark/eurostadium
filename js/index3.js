@@ -125,19 +125,21 @@ svgObject.addEventListener('load', async () => {
         onZoom: (newZoom) => {
             // console.log('onZoom: ', newZoom)
             const stadiumObj = svgContent.getElementById('stadiums')
-            // console.log('stadiumObj: ', stadiumObj)
-            const circleRadius = stadiumObj.getAttribute('data-circle-radius') || 10
-            // console.log('circleRadius: ', circleRadius);
-            var cities = stadiumObj.querySelectorAll(".city");
-            for (var i = 0; i < cities.length; i++) {
-                // console.log('cities[i]: ', cities[i])
-                const abc = cities[i].getAttribute('r')
+            if (stadiumObj) {
+                // console.log('stadiumObj: ', stadiumObj)
+                const circleRadius = stadiumObj.getAttribute('data-circle-radius') || 10
+                // console.log('circleRadius: ', circleRadius);
+                var cities = stadiumObj.querySelectorAll(".city");
+                for (var i = 0; i < cities.length; i++) {
+                    // console.log('cities[i]: ', cities[i])
+                    const abc = cities[i].getAttribute('r')
+                    // console.log('abc: ', abc);
+                    cities[i].setAttribute('r', parseInt(circleRadius - newZoom))
+                }
+                // const abc = stadiumObj.getAttribute('data-circle-radius')
                 // console.log('abc: ', abc);
-                cities[i].setAttribute('r', parseInt(circleRadius - newZoom))
+                // stadiumObj.setAttribute('data-circle-radius', '2')
             }
-            // const abc = stadiumObj.getAttribute('data-circle-radius')
-            // console.log('abc: ', abc);
-            // stadiumObj.setAttribute('data-circle-radius', '2')
         }
     })
 })
@@ -156,18 +158,29 @@ const displayCountryTooltip = () => {
             const pageX = e.pageX
             const pageY = e.pageY
             const scrollTop = document.documentElement.scrollTop
+            const clientX = e.clientX
+            const clientY = e.clientY
             console.log('innerWidth: ', innerWidth);
-            console.log('innerHeight: ', innerHeight);
-            console.log('scrollTop: ', scrollTop);
+            const SvgWidth = document.getElementById('svgWrapper').offsetWidth
+            // console.log('innerHeight: ', innerHeight);
+            // console.log('scrollTop: ', scrollTop);
             // console.log('pageX: ', pageX);
             // console.log('pageY: ', pageY);
+            const rect = e.target.getBoundingClientRect()
+            // console.log('rect: ', rect);
+            // const width = rect.left + rect.right
+            console.log('clientX: ', clientX);
+            const offsetLeft = document.getElementById('svgWrapper').offsetLeft
+            const offsetWidth = document.getElementById('svgWrapper').offsetWidth
+            console.log('offsetLeft: ', offsetLeft);
+            console.log('offsetWidth: ', offsetWidth);
 
             const tooltip = document.getElementById('tooltip')
             // console.log('tooltip: ', tooltip)
             if (tooltip) {
                 tooltip.style.display = 'block'
                 tooltip.style.top = '0px'
-                tooltip.style.left = '0px'
+                tooltip.style.left = offsetLeft + clientX + 20 + 'px'
                 // if (pageY - scrollTop > innerHeight / 2) {
                 //     tooltip.style.top = `${pageY - 0}px`
                 // } else {
