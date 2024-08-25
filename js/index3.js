@@ -160,7 +160,10 @@ const displayCountryTooltip = () => {
             const scrollTop = document.documentElement.scrollTop
             const clientX = e.clientX
             const clientY = e.clientY
-            console.log('innerWidth: ', innerWidth);
+            console.clear()
+            // console.log('e: ', e)
+            // console.log('innerWidth: ', innerWidth);
+            console.log('innerHeight: ', innerHeight);
             const SvgWidth = document.getElementById('svgWrapper').offsetWidth
             // console.log('innerHeight: ', innerHeight);
             // console.log('scrollTop: ', scrollTop);
@@ -169,18 +172,42 @@ const displayCountryTooltip = () => {
             const rect = e.target.getBoundingClientRect()
             // console.log('rect: ', rect);
             // const width = rect.left + rect.right
-            console.log('clientX: ', clientX);
+            // console.log('clientX: ', clientX);
+            console.log('clientY: ', clientY)
             const offsetLeft = document.getElementById('svgWrapper').offsetLeft
             const offsetWidth = document.getElementById('svgWrapper').offsetWidth
-            console.log('offsetLeft: ', offsetLeft);
-            console.log('offsetWidth: ', offsetWidth);
+            const offsetHeight = document.getElementById('svgWrapper').offsetHeight
+            const offsetTop = document.getElementById('svgWrapper').offsetTop
+            // console.log('offsetHeight: ', offsetHeight)
+            // console.log('offsetLeft: ', offsetLeft);
+            // console.log('offsetWidth: ', offsetWidth);
+            // console.log('offsetTop: ', offsetTop);
 
             const tooltip = document.getElementById('tooltip')
             // console.log('tooltip: ', tooltip)
             if (tooltip) {
+                // tooltip.style.width = '400px'
                 tooltip.style.display = 'block'
-                tooltip.style.top = '0px'
-                tooltip.style.left = offsetLeft + clientX + 20 + 'px'
+                const tooltipRect = tooltip.getBoundingClientRect()
+                console.log('tooltipRect: ', tooltipRect);
+                const diff = innerHeight - clientY
+                // console.log('diff: ', diff)
+                // console.log('tooltipRect.bottom: ', tooltipRect.bottom);
+                const abc = tooltipRect.y + tooltipRect.height
+                console.log('abc: ', abc)
+                const def = parseInt(innerHeight - (clientY + 158))
+                console.log('def: ', def)
+                if (true) {
+                    // tooltip.style.top = clientY - parseInt(tooltipRect.height/2) - 158 + 'px'
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height/2) - 0 + 'px'
+                } else {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height/2) + 'px'
+                }
+                if (clientX > offsetWidth/2) {
+                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
+                } else {
+                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
+                }
                 // if (pageY - scrollTop > innerHeight / 2) {
                 //     tooltip.style.top = `${pageY - 0}px`
                 // } else {
