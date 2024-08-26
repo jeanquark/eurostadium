@@ -15,44 +15,16 @@ svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
     // svgContent.addEventListener("touchstart", console.log('touchstart'));
-    let flag = 0
+    
+    if (hasTouchSupport() && hasSmallScreen()) {
+        console.log('Mobile device detected')
+        eventListenerMobile()
+    } else {
+        console.log('Desktop device detected')
+        eventListenerDesktop()
+        displayCountryTooltip()
+    }
 
-    svgContent.addEventListener(
-        'touchstart',
-        (e) => {
-            flag = 0
-            console.log('touchstart', flag)
-        },
-        false
-    )
-    svgContent.addEventListener(
-        'touchmove',
-        (e) => {
-            flag = 1
-            console.log('touchmove', flag)
-        },
-        false
-    )
-    svgContent.addEventListener(
-        'touchend',
-        (e) => {
-            if (flag == 0) {
-                console.log('click')
-                const path = e.target.closest('path')
-                country = path.getAttribute('id')
-                console.log('country: ', country);
-                if (country) {
-                    console.log('country2: ', country)
-                    document.getElementById('buttonsPanel').classList.remove("hidden")
-                    svgObject.data = `./images/svg/countries/${country}.svg`
-                    // displayStadiumTooltip(country)
-                }
-            } else if (flag == 1) {
-                console.log('drag')
-            }
-        },
-        false
-    )
     console.log('country3: ', country);
     if (country) {
         displayStadiumTooltip(country)
@@ -65,6 +37,23 @@ svgObject.addEventListener('load', async () => {
         center: 1,
         minZoom: 1,
         maxZoom: 8,
+        beforePan: function (oldPan, newPan) {
+            var stopHorizontal = false,
+                stopVertical = false,
+                gutterWidth = 300,
+                gutterHeight = 300,
+                sizes = this.getSizes(),
+                leftLimit = -((sizes.viewBox.x + sizes.viewBox.width) * sizes.realZoom) + gutterWidth,
+                rightLimit = sizes.width - gutterWidth - sizes.viewBox.x * sizes.realZoom,
+                topLimit = -((sizes.viewBox.y + sizes.viewBox.height) * sizes.realZoom) + gutterHeight,
+                bottomLimit = sizes.height - gutterHeight - sizes.viewBox.y * sizes.realZoom
+
+            customPan = {}
+            customPan.x = Math.max(leftLimit, Math.min(rightLimit, newPan.x))
+            customPan.y = Math.max(topLimit, Math.min(bottomLimit, newPan.y))
+
+            return customPan
+        },
         onZoom: (newZoom) => {
             // console.log('onZoom: ', newZoom)
             const stadiumObj = svgContent.getElementById('stadiums')
@@ -126,15 +115,266 @@ const displayStadiumTooltip = async (country) => {
     }
 }
 
+const eventListenerDesktop = () => {
+    console.log('eventListenerDesktop')
+    let svgObject = document.getElementById('svgObject')
+    const svgContent = svgObject.contentDocument
+    let flag = 0
+
+    svgContent.addEventListener(
+        'mousedown',
+        (e) => {
+            flag = 0
+            // console.log('mousedown', flag)
+        },
+        false
+    )
+    svgContent.addEventListener(
+        'mousemove',
+        (e) => {
+            flag = 1
+            // console.log('mousemove', flag)
+        },
+        false
+    )
+    svgContent.addEventListener(
+        'mouseup',
+        (e) => {
+            if (flag == 0) {
+                console.log('click')
+                const path = e.target.closest('path')
+                if (path) {
+                    country = path.getAttribute('id')
+                    if (country) {
+                        document.getElementById('buttonsPanel').classList.remove("hidden")
+                        svgObject.data = `./images/svg/countries/${country}.svg`
+                        const tooltip = document.getElementById('tooltip')
+                        if (tooltip) {
+                            tooltip.style.display = 'none'
+                        }
+                    }
+                } else {
+                    displayMap('europe-with-russia')
+                }
+            } else if (flag == 1) {
+                console.log('drag')
+            }
+        },
+        false
+    )
+}
+
+const eventListenerMobile = () => {
+    let svgObject = document.getElementById('svgObject')
+    const svgContent = svgObject.contentDocument
+    let flag = 0
+
+    svgContent.addEventListener(
+        'touchstart',
+        (e) => {
+            flag = 0
+            console.log('touchstart', flag)
+        },
+        false
+    )
+    svgContent.addEventListener(
+        'touchmove',
+        (e) => {
+            flag = 1
+            console.log('touchmove', flag)
+        },
+        false
+    )
+    svgContent.addEventListener(
+        'touchend',
+        (e) => {
+            if (flag == 0) {
+                console.log('click')
+                const path = e.target.closest('path')
+                country = path.getAttribute('id')
+                console.log('country: ', country);
+                if (country) {
+                    console.log('country2: ', country)
+                    document.getElementById('buttonsPanel').classList.remove("hidden")
+                    svgObject.data = `./images/svg/countries/${country}.svg`
+                    // displayStadiumTooltip(country)
+                }
+            } else if (flag == 1) {
+                console.log('drag')
+            }
+        },
+        false
+    )
+}
+
+const displayCountryTooltip = () => {
+    try {
+        svgObject = document.getElementById('svgObject')
+        const svgContent = svgObject.contentDocument
+        let elements = svgContent.getElementsByClassName('country')
+        // const tooltip = document.getElementById('tooltip')
+
+        const handleMouseOver = (e) => {
+            // console.log('handleMouseOver')
+            const innerWidth = window.innerWidth
+            const innerHeight = window.innerHeight
+            const pageX = e.pageX
+            const pageY = e.pageY
+            const scrollTop = document.documentElement.scrollTop
+            const clientX = e.clientX
+            const clientY = e.clientY
+            console.clear()
+            // console.log('e: ', e)
+            // console.log('innerWidth: ', innerWidth);
+            console.log('innerHeight: ', innerHeight);
+            const SvgWidth = document.getElementById('svgWrapper').offsetWidth
+            // console.log('innerHeight: ', innerHeight);
+            console.log('scrollTop: ', scrollTop);
+            // console.log('pageX: ', pageX);
+            // console.log('pageY: ', pageY);
+            // const rect = e.target.getBoundingClientRect()
+            // console.log('rect: ', rect);
+            // const width = rect.left + rect.right
+            // console.log('clientX: ', clientX);
+            console.log('clientY: ', clientY)
+            // console.log('pageY: ', pageY);
+            const offsetLeft = document.getElementById('svgWrapper').offsetLeft
+            const offsetWidth = document.getElementById('svgWrapper').offsetWidth
+            const offsetHeight = document.getElementById('svgWrapper').offsetHeight
+            const offsetTop = document.getElementById('svgWrapper').offsetTop
+            // console.log('offsetHeight: ', offsetHeight)
+            // console.log('offsetLeft: ', offsetLeft);
+            // console.log('offsetWidth: ', offsetWidth);
+            // console.log('offsetTop: ', offsetTop);
+
+            let countryId
+            let countryName
+            let leagues = []
+            let leaguesArray = []
+            let population
+
+            countryId = e.target.id
+            if (!countryId) {
+                countryId = e.target.parentNode.id
+            }
+            const element = svgContent.getElementById(countryId)
+            // console.log('element: ', element);
+            // const tooltipRect2 = tooltip.getBoundingClientRect()
+            // console.log('tooltipRect2: ', tooltipRect2);
+            element.classList.add('hover')
+
+            countryName = e.target.getAttribute('data-country')
+            if (!countryName) {
+                countryName = e.target.parentNode.getAttribute('data-country')
+            }
+
+            leagues = e.target.getAttribute('data-leagues')
+            if (!leagues) {
+                leagues = e.target.parentNode.getAttribute('data-leagues')
+            }
+            if (leagues) {
+                leaguesArray = leagues.split(',')
+            }
+
+            population = e.target.getAttribute('data-pop')
+
+            const tooltip = document.getElementById('tooltip')
+            // console.log('tooltip: ', tooltip)
+            if (tooltip) {
+
+                tooltip.innerHTML = `
+                <div class="row">
+                    <div class="col-2" style="display: flex;
+                    align-items: center;">
+                        <img src="../images/flags/${countryId}.png" width="60" />
+                    </div>
+                    <div class="col-4" style="display: flex; justify-content: center;
+                    align-items: center;">
+                        <div style="display: flex-column;">
+                            <h2 class="text-center">${countryName}</h2>
+                            <h5 class="text-center">Pop: ${population}</h5>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <img src="../images/countries/${countryId}.jpg" width="100%" />
+                    </div>
+                </div>
+
+                <div class="row align-center mt-4">
+                    <div class="col-6">
+                        <img src="../images/countries/switzerland_stadium.jpg" width="100%" />
+                    </div>
+                    <div class="col-6">
+                        <div class="row justify-center">
+                            <div class="col-6 text-center">
+                                <h3>${leaguesArray[0]}</h3>
+                                <img src="/images/leagues/switzerland/Super League.png" width="60" />
+                            </div>
+                            <div class="col-6 text-center">
+                                <h3>${leaguesArray[1]}</h3>
+                                <img src="/images/leagues/switzerland/Challenge League.png" width="60" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                `
+
+                // tooltip.style.width = '400px'
+                tooltip.style.display = 'block'
+                const diff = innerHeight - clientY
+                console.log('diff: ', diff)
+                const tooltipRect = tooltip.getBoundingClientRect()
+                if (clientY < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
+                } else if (diff < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt((tooltipRect.height / 2) - diff) + 'px'
+                } else {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
+                }
+                if (clientX > offsetWidth / 2) {
+                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
+                } else {
+                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
+                }
+                // if (pageY - scrollTop > innerHeight / 2) {
+                //     tooltip.style.top = `${pageY - 0}px`
+                // } else {
+                //     tooltip.style.top = `${pageY + 0}px`
+                // }
+                // if (pageX < innerWidth / 2) {
+                //     tooltip.style.left = `${pageX + 000}px`
+                // } else {
+                //     tooltip.style.left = `${pageX - 000 - 0}px`
+                // }
+            }
+        }
+
+        const handleMouseLeave = (e) => {
+            // console.log('handleMouseLeave')
+            const tooltip = document.getElementById('tooltip')
+            if (tooltip) {
+                tooltip.style.display = 'none'
+            }
+            const countryId = e.target.id
+            // console.log('countryId: ', countryId);
+            const element = svgContent.getElementById(countryId)
+            // console.log('element.classList: ', element.classList);
+            element.classList.remove('hover')
+        }
+
+        for (var i = 0; i < elements.length; i++) {
+            elements[i].addEventListener('mouseover', handleMouseOver, false)
+            elements[i].addEventListener('mouseleave', handleMouseLeave, false)
+        }
+    } catch (error) {
+        console.log('error: ', error)
+    }
+}
+
 const hasSmallScreen = () => {
     const minWidth = 1024; // Minimum width for desktop devices
     return window.innerWidth < minWidth || screen.width < minWidth;
 }
 const hasTouchSupport = () => {
     return 'ontouchstart' in window || navigator.maxTouchPoints > 0
-}
-if (hasTouchSupport() && hasSmallScreen()) {
-    console.log('Mobile device detected')
-} else {
-    console.log('Desktop device detected')
 }

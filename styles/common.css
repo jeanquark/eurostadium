@@ -25,6 +25,13 @@
     text-align: justify;
 }
 
+.text-white {
+    color: white;
+}
+.text-black {
+    color: black;
+}
+
 /* Flexbox */
 .d-flex {
     display: flex;
