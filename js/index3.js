@@ -32,8 +32,8 @@ svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
     console.log('svgContent: ', svgContent)
-
     let flag = 0
+
     svgContent.addEventListener(
         'mousedown',
         (e) => {
