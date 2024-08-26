@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-germany"
-   viewBox="0 0 585.50623 791.99896">
+   viewBox="0 0 585.50623 791.99896" width="585.50623" height="791.99896">
    <defs
       id="defs4">
       <style

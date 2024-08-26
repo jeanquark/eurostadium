@@ -150,6 +150,7 @@ const displayCountryTooltip = () => {
         svgObject = document.getElementById('svgObject')
         const svgContent = svgObject.contentDocument
         let elements = svgContent.getElementsByClassName('country')
+        // const tooltip = document.getElementById('tooltip')
 
         const handleMouseOver = (e) => {
             // console.log('handleMouseOver')
@@ -166,14 +167,15 @@ const displayCountryTooltip = () => {
             console.log('innerHeight: ', innerHeight);
             const SvgWidth = document.getElementById('svgWrapper').offsetWidth
             // console.log('innerHeight: ', innerHeight);
-            // console.log('scrollTop: ', scrollTop);
+            console.log('scrollTop: ', scrollTop);
             // console.log('pageX: ', pageX);
             // console.log('pageY: ', pageY);
-            const rect = e.target.getBoundingClientRect()
+            // const rect = e.target.getBoundingClientRect()
             // console.log('rect: ', rect);
             // const width = rect.left + rect.right
             // console.log('clientX: ', clientX);
             console.log('clientY: ', clientY)
+            // console.log('pageY: ', pageY);
             const offsetLeft = document.getElementById('svgWrapper').offsetLeft
             const offsetWidth = document.getElementById('svgWrapper').offsetWidth
             const offsetHeight = document.getElementById('svgWrapper').offsetHeight
@@ -182,43 +184,6 @@ const displayCountryTooltip = () => {
             // console.log('offsetLeft: ', offsetLeft);
             // console.log('offsetWidth: ', offsetWidth);
             // console.log('offsetTop: ', offsetTop);
-
-            const tooltip = document.getElementById('tooltip')
-            // console.log('tooltip: ', tooltip)
-            if (tooltip) {
-                // tooltip.style.width = '400px'
-                tooltip.style.display = 'block'
-                const tooltipRect = tooltip.getBoundingClientRect()
-                console.log('tooltipRect: ', tooltipRect);
-                const diff = innerHeight - clientY
-                // console.log('diff: ', diff)
-                // console.log('tooltipRect.bottom: ', tooltipRect.bottom);
-                const abc = tooltipRect.y + tooltipRect.height
-                console.log('abc: ', abc)
-                const def = parseInt(innerHeight - (clientY + 158))
-                console.log('def: ', def)
-                if (true) {
-                    // tooltip.style.top = clientY - parseInt(tooltipRect.height/2) - 158 + 'px'
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height/2) - 0 + 'px'
-                } else {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height/2) + 'px'
-                }
-                if (clientX > offsetWidth/2) {
-                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
-                } else {
-                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
-                }
-                // if (pageY - scrollTop > innerHeight / 2) {
-                //     tooltip.style.top = `${pageY - 0}px`
-                // } else {
-                //     tooltip.style.top = `${pageY + 0}px`
-                // }
-                // if (pageX < innerWidth / 2) {
-                //     tooltip.style.left = `${pageX + 000}px`
-                // } else {
-                //     tooltip.style.left = `${pageX - 000 - 0}px`
-                // }
-            }
 
             let countryId
             let countryName
@@ -230,9 +195,14 @@ const displayCountryTooltip = () => {
             if (!countryId) {
                 countryId = e.target.parentNode.id
             }
+            const element = svgContent.getElementById(countryId)
+            // console.log('element: ', element);
+            // const tooltipRect2 = tooltip.getBoundingClientRect()
+            // console.log('tooltipRect2: ', tooltipRect2);
+            element.classList.add('hover')
+
             countryName = e.target.getAttribute('data-country')
             if (!countryName) {
-                // console.log('no country')
                 countryName = e.target.parentNode.getAttribute('data-country')
             }
 
@@ -243,9 +213,14 @@ const displayCountryTooltip = () => {
             if (leagues) {
                 leaguesArray = leagues.split(',')
             }
-            // const countryName = country.charAt(0).toUpperCase() + country.slice(1);
+
             population = e.target.getAttribute('data-pop')
-            tooltip.innerHTML = `
+
+            const tooltip = document.getElementById('tooltip')
+            // console.log('tooltip: ', tooltip)
+            if (tooltip) {
+
+                tooltip.innerHTML = `
                 <div class="row">
                     <div class="col-2" style="display: flex;
                     align-items: center;">
@@ -282,11 +257,34 @@ const displayCountryTooltip = () => {
                 </div>
                 `
 
-            const element = svgContent.getElementById(countryId)
-            // console.log('element: ', element);
-            element.classList.add('hover')
-            // const abc = svgContent.getElementById(countryId).classList
-            // console.log('abc: ', abc);
+                // tooltip.style.width = '400px'
+                tooltip.style.display = 'block'
+                const diff = innerHeight - clientY
+                console.log('diff: ', diff)
+                const tooltipRect = tooltip.getBoundingClientRect()
+                if (clientY < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
+                } else if (diff < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt((tooltipRect.height / 2) - diff) + 'px'
+                } else {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
+                }
+                if (clientX > offsetWidth / 2) {
+                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
+                } else {
+                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
+                }
+                // if (pageY - scrollTop > innerHeight / 2) {
+                //     tooltip.style.top = `${pageY - 0}px`
+                // } else {
+                //     tooltip.style.top = `${pageY + 0}px`
+                // }
+                // if (pageX < innerWidth / 2) {
+                //     tooltip.style.left = `${pageX + 000}px`
+                // } else {
+                //     tooltip.style.left = `${pageX - 000 - 0}px`
+                // }
+            }
         }
 
         const handleMouseLeave = (e) => {
