@@ -249,8 +249,10 @@ const displayCountryTooltip = () => {
 
             let countryId
             let countryName
-            let leagues = []
+            let leagues = ""
+            let leaguesId = ""
             let leaguesArray = []
+            let leaguesIdArray = []
             let population
 
             countryId = e.target.id
@@ -274,6 +276,12 @@ const displayCountryTooltip = () => {
             }
             if (leagues) {
                 leaguesArray = leagues.split(',')
+            }
+
+            leaguesId = e.target.getAttribute('data-leagues-id')
+            console.log('leaguesId: ', leaguesId);
+            if (leaguesId) {
+                leaguesIdArray = leaguesId.split(',')
             }
 
             population = e.target.getAttribute('data-pop')
@@ -308,7 +316,7 @@ const displayCountryTooltip = () => {
                         <div class="row justify-center">
                             <div class="col-6 text-center">
                                 <h3>${leaguesArray[0]}</h3>
-                                <img src="/images/leagues/switzerland/Super League.png" width="60" />
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" />
                             </div>
                             <div class="col-6 text-center">
                                 <h3>${leaguesArray[1]}</h3>
