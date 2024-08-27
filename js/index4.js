@@ -320,7 +320,7 @@ const displayCountryTooltip = () => {
                             </div>
                             <div class="col-6 text-center">
                                 <h3>${leaguesArray[1]}</h3>
-                                <img src="/images/leagues/switzerland/Challenge League.png" width="60" />
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" />
                             </div>
                         </div>
                     </div>
