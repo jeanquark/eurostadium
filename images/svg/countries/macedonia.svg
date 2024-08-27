@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-macedonia"
-   viewBox="0 0 774.91443 600.50305">
+   viewBox="0 0 774.91443 600.50305" width="774.91443" height="600.50305">
   <defs
      id="defs4">
     <style

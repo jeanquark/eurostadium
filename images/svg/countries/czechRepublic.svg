@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-czech_republic"
-   viewBox="0 0 612.62207 350.48792">
+   viewBox="0 0 612.62207 350.48792" width="612.62207" height="350.48792">
   <defs
      id="defs4">
     <style

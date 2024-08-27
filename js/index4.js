@@ -3,18 +3,20 @@ window.onload = (event) => {
         console.log('page is fully loaded!')
         svgObject = document.getElementById('svgObject')
         console.log('svgObject: ', svgObject)
-        svgObject.data = `./images/svg/europe-with-russia.svg`
+        if (svgObject) {
+            // svgObject.data = `./images/svg/europe-with-russia.svg`
+            svgObject.setAttribute('data', './images/svg/europe-with-russia.svg')
+        }
     } catch (error) {
         console.log('error: ', error)
     }
 }
 
 let country
-svgObject = document.getElementById('svgObject')
+let svgObject = document.getElementById('svgObject')
 svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
-    // svgContent.addEventListener("touchstart", console.log('touchstart'));
     
     if (hasTouchSupport() && hasSmallScreen()) {
         console.log('Mobile device detected')
@@ -300,7 +302,7 @@ const displayCountryTooltip = () => {
                     align-items: center;">
                         <div style="display: flex-column;">
                             <h2 class="text-center">${countryName}</h2>
-                            <h5 class="text-center">Pop: ${population}</h5>
+                            <h4 class="text-center">Pop: ${population}</h4>
                         </div>
                     </div>
                     <div class="col-6">

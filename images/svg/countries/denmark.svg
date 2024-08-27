@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-denmark"
-   viewBox="0 0 980.48608 792.64435">
+   viewBox="0 0 980.48608 792.64435" width="980.48608" height="792.64435">
   <defs
      id="defs4">
     <style

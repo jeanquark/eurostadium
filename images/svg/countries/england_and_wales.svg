@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-england-and-wales"
-   viewBox="0 0 380.89841 458.80078">
+   viewBox="0 0 380.89841 458.80078" width="380.89841" height="458.80078">
    <defs
      id="defs4">
     <style

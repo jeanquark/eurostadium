@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-azerbaijan"
-   viewBox="0 0 774.02295 612.3905">
+   viewBox="0 0 774.02295 612.3905" width="774.02295" height="612.3905">
   <defs
      id="defs4">
     <style

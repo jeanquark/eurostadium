@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-romania"
-   viewBox="0 0 611.97998 431.51001">
+   viewBox="0 0 611.97998 431.51001" width="611.97998" height="431.51001">
   <defs
      id="defs4">
     <style

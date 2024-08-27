@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-serbia"
-   viewBox="0 0 544.24713 712.25055">
+   viewBox="0 0 544.24713 712.25055" width="544.24713" height="712.25055">
   <defs
      id="defs4">
     <style

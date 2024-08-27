@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-scotland"
-   viewBox="0 0 320.5 547.24915">
+   viewBox="0 0 320.5 547.24915" width="320.5" height="547.24915">
    <defs
       id="defs4">
       <style

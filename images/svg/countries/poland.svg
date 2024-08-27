@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-poland"
-   viewBox="0 0 612.82178 577.23145">
+   viewBox="0 0 612.82178 577.23145" width="612.82178" height="577.23145">
   <defs
      id="defs4">
     <style

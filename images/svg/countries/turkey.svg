@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-turkey"
-   viewBox="0 0 792.58868 334.49701">
+   viewBox="0 0 792.58868 334.49701" width="792.58868" height="334.49701">
   <defs
      id="defs4">
     <style

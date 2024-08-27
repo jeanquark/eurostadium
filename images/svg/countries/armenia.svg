@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-armenia"
-   viewBox="0 0 792.31866 801.75549">
+   viewBox="0 0 792.31866 801.75549" width="792.31866" height="801.75549">
   <defs
      id="defs4">
     <style

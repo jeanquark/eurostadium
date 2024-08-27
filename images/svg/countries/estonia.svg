@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-estonia"
-   viewBox="0 0 611.68964 393.30511">
+   viewBox="0 0 611.68964 393.30511" width="611.68964" height="393.30511">
   <defs
      id="defs4">
     <style

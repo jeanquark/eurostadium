@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-gibraltar"
-   viewBox="0 0 800.06274 1616.1414">
+   viewBox="0 0 800.06274 1616.1414" width="800.06274" height="1616.1414">
   <defs
      id="defs4">
     <style

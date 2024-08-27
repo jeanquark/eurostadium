@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-lithuania"
-   viewBox="0 0 786.15241 595.69708">
+   viewBox="0 0 786.15241 595.69708" width="786.15241" height="595.69708">
     <defs
        id="defs4">
       <style

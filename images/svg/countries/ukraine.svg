@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-ukraine"
-   viewBox="0 0 612.47827 407.47662">
+   viewBox="0 0 612.47827 407.47662" width="612.47827" height="407.47662">
   <defs
      id="defs4">
     <style

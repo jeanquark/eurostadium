@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-israel"
-   viewBox="0 0 294.62534 792.64856">
+   viewBox="0 0 294.62534 792.64856" width="294.62534" height="792.64856">
     <defs
        id="defs4">
       <style

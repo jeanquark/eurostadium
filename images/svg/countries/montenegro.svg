@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-montenegro"
-   viewBox="0 0 612 734.75977">
+   viewBox="0 0 612 734.75977" width="612" height="734.75977">
   <defs
      id="defs4">
     <style

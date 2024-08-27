@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-liechtenstein"
-   viewBox="0 0 397.85312 792.69513">
+   viewBox="0 0 397.85312 792.69513" width="397.85312" height="792.69513">
     <defs
        id="defs4">
       <style

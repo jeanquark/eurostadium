@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-faroe_islands"
-   viewBox="0 0 529.10907 792.95703">
+   viewBox="0 0 529.10907 792.95703" width="529.10907" height="792.95703">
   <defs
      id="defs4">
     <style

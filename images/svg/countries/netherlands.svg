@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="/styles/home.css"?>
 <!-- https://www.amcharts.com/svg-maps -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-netherlands"
-   viewBox="0 0 612.78192 723.61823">
+   viewBox="0 0 612.78192 723.61823" width="612.78192" height="723.61823">
   <defs
      id="defs4">
     <style

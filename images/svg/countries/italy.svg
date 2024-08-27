@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-italy"
-   viewBox="0 0 610.15046 792.21057">
+   viewBox="0 0 610.15046 792.21057" width="610.15046" height="792.21057">
     <defs
        id="defs4">
       <style

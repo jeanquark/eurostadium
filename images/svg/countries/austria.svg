@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-austria"
-   viewBox="0 0 613.01746 313.75916">
+   viewBox="0 0 613.01746 313.75916" width="613.01746" height="313.75916">
   <defs
      id="defs4">
     <style

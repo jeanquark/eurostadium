@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-slovakia"
-   viewBox="0 0 612.70129 303.98813">
+   viewBox="0 0 612.70129 303.98813" width="612.70129" height="303.98813">
   <defs
      id="defs4">
     <style

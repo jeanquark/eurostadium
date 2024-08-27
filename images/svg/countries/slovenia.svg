@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-slovenia"
-   viewBox="0 0 612.85449 397.79544">
+   viewBox="0 0 612.85449 397.79544" width="612.85449" height="397.79544">
   <defs
      id="defs4">
     <style

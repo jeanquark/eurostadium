@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-ireland"
-   viewBox="0 0 605.43189 775.34131">
+   viewBox="0 0 605.43189 775.34131" width="605.43189" height="775.34131">
     <defs
        id="defs4">
       <style

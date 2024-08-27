@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-georgia"
-   viewBox="0 0 792.42603 401.40649">
+   viewBox="0 0 792.42603 401.40649" width="792.42603" height="401.40649">
   <defs
      id="defs4">
     <style

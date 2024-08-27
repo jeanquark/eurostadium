@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-norway"
-   viewBox="0 0 607.39301 722.4787">
+   viewBox="0 0 607.39301 722.4787" width="607.39301" height="722.4787">
   <defs
      id="defs4">
     <style

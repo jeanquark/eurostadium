@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-switzerland"
-   viewBox="0 0 612.58246 391.84637">
+   viewBox="0 0 612.58246 391.84637" width="612.58246" height="391.84637">
   <defs
      id="defs4">
     <style

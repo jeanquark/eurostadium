@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-russia"
-   viewBox="0 0 1223.662 760.43396">
+   viewBox="0 0 1223.662 760.43396" width="1223.662" height="760.43396">
   <defs
      id="defs4">
     <style

@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-greece"
-   viewBox="0 0 918.76868 792.24194">
+   viewBox="0 0 918.76868 792.24194" width="918.76868" height="792.24194">
   <defs
      id="defs4">
     <style

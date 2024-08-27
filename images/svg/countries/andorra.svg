@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="/styles/home.css"?>
 <!-- https://www.amcharts.com/svg-maps -->
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-andorra" viewBox="0 0 792.55579 647.32111">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-andorra" viewBox="0 0 792.55579 647.32111" width="792.55579" height="647.32111">
    <defs id="defs4">
       <style type="text/css" id="style2">
          .land {

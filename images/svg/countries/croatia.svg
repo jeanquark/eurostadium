@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-croatia"
-   viewBox="0 0 611.99579 599.39093">
+   viewBox="0 0 611.99579 599.39093" width="611.99579" height="599.39093">
   <defs
      id="defs4">
     <style

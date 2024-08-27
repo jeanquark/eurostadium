@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-cyprus"
-   viewBox="0 0 606.92645 360.28967">
+   viewBox="0 0 606.92645 360.28967" width="606.92645" height="360.28967">
   <defs
      id="defs4">
     <style
