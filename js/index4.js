@@ -13,11 +13,12 @@ window.onload = (event) => {
 }
 
 let country
+let teams = []
 let svgObject = document.getElementById('svgObject')
 svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
-    
+
     if (hasTouchSupport() && hasSmallScreen()) {
         console.log('Mobile device detected')
         eventListenerMobile()
@@ -95,7 +96,7 @@ const displayStadiumTooltip = async (country) => {
             const circleRadius = stadiumObj.getAttribute('data-circle-radius')
             console.log('circleRadius: ', circleRadius);
             const data = await fetch(`./teams/${country}.json`)
-            const teams = await data.json()
+            teams = await data.json()
             console.log('teams: ', teams)
             let newElement
             const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
@@ -109,6 +110,8 @@ const displayStadiumTooltip = async (country) => {
                 newElement.setAttribute('data-city', teams[i]['venue']['city'])
                 newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
                 newElement.setAttribute('class', 'city')
+                newElement.setAttribute('api-football-league-id', teams[i]['league']['api_football_id'])
+                newElement.setAttribute('capacity', teams[i]['venue']['capacity'])
                 stadiumObj.appendChild(newElement)
             }
         }
@@ -378,6 +381,87 @@ const displayCountryTooltip = () => {
         }
     } catch (error) {
         console.log('error: ', error)
+    }
+}
+
+const displayStadiums = async (filter) => {
+    try {
+        console.log('displayStadiums filter: ', filter)
+        const svgObject = document.getElementById('svgObject')
+        if (!svgObject) {
+            return
+        }
+        const svgContent = svgObject.contentDocument
+        const stadiumObj = svgContent.getElementById('stadiums')
+        if (!stadiumObj) {
+            return
+        }
+        console.log('teams: ', teams);
+        stadiumObj.innerHTML = ''
+
+        const circleRadius = stadiumObj.getAttribute('data-circle-radius')
+        const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+        console.log('leagues: ', leagues)
+        console.log('leagues[1]: ', leagues[0])
+        console.log('leagues[2]: ', leagues[1])
+        let newTeams = JSON.parse(JSON.stringify(teams))
+        let newTeams2 = []
+
+         switch (filter) {
+            case 'all':
+                newTeams2 = newTeams
+                break;
+            case 'top_league':
+                console.log('top_league')
+                newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
+                break;
+            case 'second_league':
+                console.log('second_league')
+                newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
+                break;
+            case 'stadium_sm':
+                newTeams2 = newTeams.filter((team) => team.venue.capacity < 20000)
+                break;
+            case 'stadium_md':
+                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
+                break;
+            case 'stadium_lg':
+                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
+                break;
+            case 'stadium_xl':
+                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 60000)
+                break;
+        }
+
+        console.log('newTeams2: ', newTeams);
+        for (let i = 0; i < newTeams2.length; i++) {
+            newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+            newElement.setAttribute('cx', newTeams2[i]['venue']['x'])
+            newElement.setAttribute('cy', newTeams2[i]['venue']['y'] + 0)
+            newElement.setAttribute('r', circleRadius | 5)
+            newElement.setAttribute('fill', newTeams2[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+            newElement.setAttribute('data-city', newTeams2[i]['venue']['city'])
+            newElement.setAttribute('data-stadium-id', newTeams2[i]['venue']['api_football_id'])
+            newElement.setAttribute('class', 'city')
+            newElement.setAttribute('api-football-league-id', newTeams2[i]['league']['api_football_id'])
+            newElement.setAttribute('capacity', newTeams2[i]['venue']['capacity'])
+            stadiumObj.appendChild(newElement)
+        }
+
+        // console.log('stadiumObj: ', stadiumObj);
+        // console.log('stadiumObj.childNodes: ', stadiumObj.childNodes.length);
+        // // stadiumObj.childNodes = []
+        // for (let i = 0; i < stadiumObj.childNodes.length; i++) {
+        //     stadiumObj.removeChild(stadiumObj.childNodes[i])
+        // }
+        // console.log('stadiumObj.childNodes 2: ', stadiumObj.childNodes);
+
+
+        // return
+        // const data = await fetch(`./teams/${country}.json`)
+        // const teams = await data.json()
+    } catch (error) {
+        console.log('error: ', error);
     }
 }
 
