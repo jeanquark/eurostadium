@@ -1,8 +1,8 @@
 window.onload = (event) => {
     try {
-        console.log('page is fully loaded!')
+        // console.log('page is fully loaded!')
         svgObject = document.getElementById('svgObject')
-        console.log('svgObject: ', svgObject)
+        // console.log('svgObject: ', svgObject)
         if (svgObject) {
             // svgObject.data = `./images/svg/europe-with-russia.svg`
             svgObject.setAttribute('data', './images/svg/europe-with-russia.svg')
@@ -30,7 +30,7 @@ svgObject.addEventListener('load', async () => {
 
     console.log('country3: ', country);
     if (country) {
-        displayStadiumTooltip(country)
+        displayStadiums(country)
     }
 
     svgPanZoom('#svgObject', {
@@ -69,59 +69,15 @@ svgObject.addEventListener('load', async () => {
                     // console.log('cities[i]: ', cities[i])
                     const abc = cities[i].getAttribute('r')
                     // console.log('abc: ', abc);
-                    cities[i].setAttribute('r', parseInt(circleRadius - newZoom))
+                    cities[i].setAttribute('r', parseInt(circleRadius - (newZoom * 0.75)))
                 }
             }
         }
     })
 })
 
-const displayMap = (map) => {
-    document.getElementById('buttonsPanel').classList.add("hidden")
-    svgObject.data = `./images/svg/${map}.svg`
-}
-
-const displayStadiumTooltip = async (country) => {
-    try {
-        console.log('displayStadiumTooltip country: ', country)
-        const svgObject = document.getElementById('svgObject')
-        // console.log('svgObject: ', svgObject)
-        const svgContent = svgObject.contentDocument
-        // console.log('svgContent: ', svgContent)
-        const stadiumObj = svgContent.getElementById('stadiums')
-        // console.log('stadiumObj: ', stadiumObj)
-        // return
-
-        if (stadiumObj) {
-            const circleRadius = stadiumObj.getAttribute('data-circle-radius')
-            console.log('circleRadius: ', circleRadius);
-            const data = await fetch(`./teams/${country}.json`)
-            teams = await data.json()
-            console.log('teams: ', teams)
-            let newElement
-            const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
-            console.log('leagues: ', leagues)
-            for (let i = 0; i < teams.length; i++) {
-                newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-                newElement.setAttribute('cx', teams[i]['venue']['x'])
-                newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
-                newElement.setAttribute('r', circleRadius | 5)
-                newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
-                newElement.setAttribute('data-city', teams[i]['venue']['city'])
-                newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
-                newElement.setAttribute('class', 'city')
-                newElement.setAttribute('api-football-league-id', teams[i]['league']['api_football_id'])
-                newElement.setAttribute('capacity', teams[i]['venue']['capacity'])
-                stadiumObj.appendChild(newElement)
-            }
-        }
-    } catch (error) {
-        console.log('error: ', error)
-    }
-}
-
 const eventListenerDesktop = () => {
-    console.log('eventListenerDesktop')
+    // console.log('eventListenerDesktop')
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
     let flag = 0
@@ -146,7 +102,7 @@ const eventListenerDesktop = () => {
         'mouseup',
         (e) => {
             if (flag == 0) {
-                console.log('click')
+                // console.log('click')
                 const path = e.target.closest('path')
                 if (path) {
                     country = path.getAttribute('id')
@@ -197,9 +153,9 @@ const eventListenerMobile = () => {
                 console.log('click')
                 const path = e.target.closest('path')
                 country = path.getAttribute('id')
-                console.log('country: ', country);
+                // console.log('country: ', country);
                 if (country) {
-                    console.log('country2: ', country)
+                    // console.log('country2: ', country)
                     document.getElementById('buttonsPanel').classList.remove("hidden")
                     svgObject.data = `./images/svg/countries/${country}.svg`
                     // displayStadiumTooltip(country)
@@ -210,6 +166,11 @@ const eventListenerMobile = () => {
         },
         false
     )
+}
+
+const displayMap = (map) => {
+    document.getElementById('buttonsPanel').classList.add("hidden")
+    svgObject.data = `./images/svg/${map}.svg`
 }
 
 const displayCountryTooltip = () => {
@@ -231,17 +192,17 @@ const displayCountryTooltip = () => {
             console.clear()
             // console.log('e: ', e)
             // console.log('innerWidth: ', innerWidth);
-            console.log('innerHeight: ', innerHeight);
+            // console.log('innerHeight: ', innerHeight);
             const SvgWidth = document.getElementById('svgWrapper').offsetWidth
             // console.log('innerHeight: ', innerHeight);
-            console.log('scrollTop: ', scrollTop);
+            // console.log('scrollTop: ', scrollTop);
             // console.log('pageX: ', pageX);
             // console.log('pageY: ', pageY);
             // const rect = e.target.getBoundingClientRect()
             // console.log('rect: ', rect);
             // const width = rect.left + rect.right
             // console.log('clientX: ', clientX);
-            console.log('clientY: ', clientY)
+            // console.log('clientY: ', clientY)
             // console.log('pageY: ', pageY);
             const offsetLeft = document.getElementById('svgWrapper').offsetLeft
             const offsetWidth = document.getElementById('svgWrapper').offsetWidth
@@ -284,7 +245,7 @@ const displayCountryTooltip = () => {
             }
 
             leaguesId = e.target.getAttribute('data-leagues-id')
-            console.log('leaguesId: ', leaguesId);
+            // console.log('leaguesId: ', leaguesId);
             if (leaguesId) {
                 leaguesIdArray = leaguesId.split(',')
             }
@@ -294,7 +255,6 @@ const displayCountryTooltip = () => {
             const tooltip = document.getElementById('tooltip')
             // console.log('tooltip: ', tooltip)
             if (tooltip) {
-
                 tooltip.innerHTML = `
                 <div class="row">
                     <div class="col-2" style="display: flex;
@@ -335,7 +295,7 @@ const displayCountryTooltip = () => {
                 // tooltip.style.width = '400px'
                 tooltip.style.display = 'block'
                 const diff = innerHeight - clientY
-                console.log('diff: ', diff)
+                // console.log('diff: ', diff)
                 const tooltipRect = tooltip.getBoundingClientRect()
                 if (clientY < tooltipRect.height / 2) {
                     tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
@@ -384,9 +344,84 @@ const displayCountryTooltip = () => {
     }
 }
 
-const displayStadiums = async (filter) => {
+const handleMouseOverStadium = (e) => {
     try {
-        console.log('displayStadiums filter: ', filter)
+        console.log('handleMouseOverStadium: ', e)
+        console.log('e.target: ', e.target)
+        const stadiumId = e.target.getAttribute('data-stadium-id')
+        console.log('stadiumId: ', stadiumId)
+    } catch (error) {
+        console.log('error: ', error);
+    }
+}
+const handleMouseLeaveStadium = () => {
+    try {
+        console.log('handleMouseLeaveStadium')
+    } catch (error) {
+        console.log('error: ', error);
+    }
+}
+
+const displayStadiums = async (country) => {
+    try {
+        // console.log('displayStadiums country: ', country)
+        // return
+        const svgObject = document.getElementById('svgObject')
+        // console.log('svgObject: ', svgObject)
+        const svgContent = svgObject.contentDocument
+        // console.log('svgContent: ', svgContent)
+        const stadiumObj = svgContent.getElementById('stadiums')
+        // console.log('stadiumObj: ', stadiumObj)
+        // return
+
+        if (stadiumObj) {
+            const circleRadius = stadiumObj.getAttribute('data-circle-radius')
+            // console.log('circleRadius: ', circleRadius);
+            const data = await fetch(`./teams/${country}.json`)
+            teams = await data.json()
+            // console.log('teams: ', teams)
+            let newElement
+            const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+            // console.log('leagues: ', leagues)
+            for (let i = 0; i < teams.length; i++) {
+                newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+                newElement.setAttribute('cx', teams[i]['venue']['x'])
+                newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
+                newElement.setAttribute('r', circleRadius)
+                newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                newElement.setAttribute('data-city', teams[i]['venue']['city'])
+                newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
+                newElement.setAttribute('class', 'city')
+                newElement.setAttribute('api-football-league-id', teams[i]['league']['api_football_id'])
+                newElement.setAttribute('capacity', teams[i]['venue']['capacity'])
+                stadiumObj.appendChild(newElement)
+
+                newElement.addEventListener('mouseover', handleMouseOverStadium, false)
+                newElement.addEventListener('mouseleave', handleMouseLeaveStadium, false)
+            }
+        }
+        // if (stadiumObj) {
+        //     console.log('stadiumObj: ', stadiumObj);
+        //     let elements = stadiumObj.querySelectorAll(".city");
+        //     console.log('elements: ', elements);
+        // }
+
+    } catch (error) {
+        console.log('error: ', error)
+    }
+}
+
+const displayStadiumTooltip = () => {
+    try {
+        console.log('displayStadiumTooltip')
+    } catch (error) {
+        console.log('error: ', error);
+    }
+}
+
+const filterStadiums = async (filter) => {
+    try {
+        // console.log('filterStadiums filter: ', filter)
         const svgObject = document.getElementById('svgObject')
         if (!svgObject) {
             return
@@ -396,27 +431,27 @@ const displayStadiums = async (filter) => {
         if (!stadiumObj) {
             return
         }
-        console.log('teams: ', teams);
+        // console.log('teams: ', teams);
         stadiumObj.innerHTML = ''
 
         const circleRadius = stadiumObj.getAttribute('data-circle-radius')
         const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
-        console.log('leagues: ', leagues)
-        console.log('leagues[1]: ', leagues[0])
-        console.log('leagues[2]: ', leagues[1])
+        // console.log('leagues: ', leagues)
+        // console.log('leagues[1]: ', leagues[0])
+        // console.log('leagues[2]: ', leagues[1])
         let newTeams = JSON.parse(JSON.stringify(teams))
         let newTeams2 = []
 
-         switch (filter) {
+        switch (filter) {
             case 'all':
                 newTeams2 = newTeams
                 break;
             case 'top_league':
-                console.log('top_league')
+                // console.log('top_league')
                 newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
                 break;
             case 'second_league':
-                console.log('second_league')
+                // console.log('second_league')
                 newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
                 break;
             case 'stadium_sm':
@@ -433,12 +468,12 @@ const displayStadiums = async (filter) => {
                 break;
         }
 
-        console.log('newTeams2: ', newTeams);
+        // console.log('newTeams2: ', newTeams);
         for (let i = 0; i < newTeams2.length; i++) {
             newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
             newElement.setAttribute('cx', newTeams2[i]['venue']['x'])
             newElement.setAttribute('cy', newTeams2[i]['venue']['y'] + 0)
-            newElement.setAttribute('r', circleRadius | 5)
+            newElement.setAttribute('r', circleRadius)
             newElement.setAttribute('fill', newTeams2[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
             newElement.setAttribute('data-city', newTeams2[i]['venue']['city'])
             newElement.setAttribute('data-stadium-id', newTeams2[i]['venue']['api_football_id'])
@@ -447,19 +482,6 @@ const displayStadiums = async (filter) => {
             newElement.setAttribute('capacity', newTeams2[i]['venue']['capacity'])
             stadiumObj.appendChild(newElement)
         }
-
-        // console.log('stadiumObj: ', stadiumObj);
-        // console.log('stadiumObj.childNodes: ', stadiumObj.childNodes.length);
-        // // stadiumObj.childNodes = []
-        // for (let i = 0; i < stadiumObj.childNodes.length; i++) {
-        //     stadiumObj.removeChild(stadiumObj.childNodes[i])
-        // }
-        // console.log('stadiumObj.childNodes 2: ', stadiumObj.childNodes);
-
-
-        // return
-        // const data = await fetch(`./teams/${country}.json`)
-        // const teams = await data.json()
     } catch (error) {
         console.log('error: ', error);
     }

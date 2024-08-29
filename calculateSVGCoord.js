@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const calculateSVGCoord = async () => {
-    const country = 'england_and_wales'
+    const country = 'norway'
     const data1 = fs.readFileSync(`./js/countriesSvgMapCoord.json`)
     const coordData = JSON.parse(data1);
     // for (const country in coordData) {
@@ -16,12 +16,14 @@ const calculateSVGCoord = async () => {
         const lat_max = coordData[country]['topLatitude']
         const x_max = coordData[country]['xMax']
         const y_max = coordData[country]['yMax']
+        const x_translate = coordData[country]['xTranslate']
+        const y_translate = coordData[country]['yTranslate']
     
         for (let i = 0; i < teams.length; i++) {
             let obj = {}
             obj = teams[i]
-            obj['venue']['x'] = parseFloat((((teams[i]['venue']['lng'] - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1))
-            obj['venue']['y'] = parseFloat((((lat_max - teams[i]['venue']['lat']) * y_max) / (lat_max - lat_min)).toFixed(1))
+            obj['venue']['x'] = x_translate + parseFloat((((teams[i]['venue']['lng'] - lng_min) * x_max) / (lng_max - lng_min)).toFixed(1))
+            obj['venue']['y'] = y_translate + parseFloat((((lat_max - teams[i]['venue']['lat']) * y_max) / (lat_max - lat_min)).toFixed(1))
             array.push(obj)
         }
     

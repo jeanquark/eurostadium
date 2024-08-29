@@ -16,8 +16,12 @@
 			"surface": "artificial turf",
 			"lat": 59.29081,
 			"lng": 18.08534,
-			"x": 100,
-			"y": 100,
+			"x": 969.5,
+			"x1": 100,
+			"x2": 525,
+			"y": 1287.9,
+			"y1": 100,
+			"y2": 743,
 			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
 		},
 		"league": {
@@ -45,8 +49,12 @@
 			"surface": "artificial turf",
 			"lat": 59.29081,
 			"lng": 18.08534,
-			"x": 100,
-			"y": 200,
+			"x": 969.5,
+			"x1": 100,
+			"x2": 525,
+			"y": 1287.9,
+			"y1": 200,
+			"y2": 743,
 			"url": "https://en.wikipedia.org/wiki/Tele2_Arena"
 		},
 		"league": {
@@ -74,8 +82,12 @@
 			"surface": "grass",
 			"lat": 57.70623,
 			"lng": 11.98014,
-			"x": 100,
-			"y": 300,
+			"x": 595.6,
+			"x1": 100,
+			"x2": 326,
+			"y": 1496.8,
+			"y1": 300,
+			"y2": 842,
 			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
@@ -103,8 +115,12 @@
 			"surface": "artificial turf",
 			"lat": 57.719167,
 			"lng": 11.930556,
-			"x": 100,
-			"y": 400,
+			"x": 592.5,
+			"x1": 100,
+			"x2": 329,
+			"y": 1495,
+			"y1": 400,
+			"y2": 830,
 			"url": "https://en.wikipedia.org/wiki/Bravida_Arena"
 		},
 		"league": {
@@ -132,8 +148,12 @@
 			"surface": "artificial turf",
 			"lat": 59.84958,
 			"lng": 17.64532,
-			"x": 100,
-			"y": 500,
+			"x": 942.5,
+			"x1": 100,
+			"x2": 518,
+			"y": 1214.2,
+			"y1": 500,
+			"y2": 715,
 			"url": "https://en.wikipedia.org/wiki/Studenternas_IP"
 		},
 		"league": {
@@ -161,8 +181,10 @@
 			"surface": "artificial turf",
 			"lat": 59.362222,
 			"lng": 17.851667,
-			"x": 100,
-			"y": 600,
+			"x": 955.2,
+			"x1": 100,
+			"y": 1278.5,
+			"y1": 600,
 			"url": "https://en.wikipedia.org/wiki/Grimsta_IP"
 		},
 		"league": {
@@ -190,8 +212,10 @@
 			"surface": "artificial turf",
 			"lat": 57.734444,
 			"lng": 12.934722,
-			"x": 100,
-			"y": 700,
+			"x": 654,
+			"x1": 100,
+			"y": 1493,
+			"y1": 700,
 			"url": "https://en.wikipedia.org/wiki/Bor%C3%A5s_Arena"
 		},
 		"league": {
@@ -219,8 +243,10 @@
 			"surface": "grass",
 			"lat": 56.69123,
 			"lng": 16.31493,
-			"x": 100,
-			"y": 800,
+			"x": 861.1,
+			"x1": 100,
+			"y": 1630.5,
+			"y1": 800,
 			"url": "https://en.wikipedia.org/wiki/Guldf%C3%A5geln_Arena"
 		},
 		"league": {
@@ -248,8 +274,10 @@
 			"surface": "grass",
 			"lat": 55.583611,
 			"lng": 12.987806,
-			"x": 100,
-			"y": 900,
+			"x": 657.3,
+			"x1": 100,
+			"y": 1776.5,
+			"y1": 900,
 			"url": "https://en.wikipedia.org/wiki/Stadion,_Malm%C3%B6"
 		},
 		"league": {
@@ -277,8 +305,10 @@
 			"surface": "grass",
 			"lat": 59.3725,
 			"lng": 18,
-			"x": 400,
-			"y": 100,
+			"x": 964.3,
+			"x1": 400,
+			"y": 1277.1,
+			"y1": 100,
 			"url": "https://en.wikipedia.org/wiki/Strawberry_Arena"
 		},
 		"league": {
@@ -306,8 +336,10 @@
 			"surface": "artificial turf",
 			"lat": 58.584444,
 			"lng": 16.173056,
-			"x": 400,
-			"y": 200,
+			"x": 852.4,
+			"x1": 400,
+			"y": 1381,
+			"y1": 200,
 			"url": "https://en.wikipedia.org/wiki/Nya_Parken"
 		},
 		"league": {
@@ -335,8 +367,10 @@
 			"surface": "grass",
 			"lat": 56.684167,
 			"lng": 12.866389,
-			"x": 400,
-			"y": 300,
+			"x": 649.9,
+			"x1": 400,
+			"y": 1631.5,
+			"y1": 300,
 			"url": "https://en.wikipedia.org/wiki/%C3%96rjans_Vall"
 		},
 		"league": {
@@ -364,8 +398,10 @@
 			"surface": "grass",
 			"lat": 57.195917,
 			"lng": 14.042806,
-			"x": 400,
-			"y": 400,
+			"x": 721.9,
+			"x1": 400,
+			"y": 1564,
+			"y1": 400,
 			"url": "https://en.wikipedia.org/wiki/Finnvedsvallen"
 		},
 		"league": {
@@ -393,8 +429,10 @@
 			"surface": "grass",
 			"lat": 57.09836,
 			"lng": 12.26547,
-			"x": 400,
-			"y": 500,
+			"x": 613.1,
+			"x1": 400,
+			"y": 1576.9,
+			"y1": 500,
 			"url": "https://en.wikipedia.org/wiki/P%C3%A5skbergsvallen"
 		},
 		"league": {
@@ -422,8 +460,10 @@
 			"surface": "grass",
 			"lat": 59.238333,
 			"lng": 14.443056,
-			"x": 400,
-			"y": 600,
+			"x": 746.4,
+			"x1": 400,
+			"y": 1294.8,
+			"y1": 600,
 			"url": "https://en.wikipedia.org/wiki/Stora_Valla"
 		},
 		"league": {
@@ -451,8 +491,10 @@
 			"surface": "grass",
 			"lat": 56.011956,
 			"lng": 14.716251,
-			"x": 400,
-			"y": 700,
+			"x": 763.2,
+			"x1": 400,
+			"y": 1720.1,
+			"y1": 700,
 			"url": "https://en.wikipedia.org/wiki/Strandvallen"
 		},
 		"league": {
@@ -480,8 +522,10 @@
 			"surface": "artificial turf",
 			"lat": 57.663889,
 			"lng": 11.909444,
-			"x": 400,
-			"y": 800,
+			"x": 591.3,
+			"x1": 400,
+			"y": 1502.3,
+			"y1": 800,
 			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
 		},
 		"league": {
@@ -509,8 +553,10 @@
 			"surface": "artificial turf",
 			"lat": 59.266111,
 			"lng": 15.223056,
-			"x": 400,
-			"y": 900,
+			"x": 794.2,
+			"x1": 400,
+			"y": 1291.1,
+			"y1": 900,
 			"url": "https://en.wikipedia.org/wiki/Eyravallen"
 		},
 		"league": {
@@ -538,8 +584,10 @@
 			"surface": "grass",
 			"lat": 55.38515,
 			"lng": 13.160983,
-			"x": 800,
-			"y": 100,
+			"x": 667.9,
+			"x1": 800,
+			"y": 1802.7,
+			"y1": 100,
 			"url": "https://en.wikipedia.org/wiki/V%C3%A5ngavallen"
 		},
 		"league": {
@@ -567,8 +615,10 @@
 			"surface": "artificial turf",
 			"lat": 62.394117,
 			"lng": 17.301278,
-			"x": 800,
-			"y": 200,
+			"x": 921.5,
+			"x1": 800,
+			"y": 878.8,
+			"y1": 200,
 			"url": "https://en.wikipedia.org/wiki/Idrottsparken_(Sundsvall)"
 		},
 		"league": {
@@ -596,8 +646,10 @@
 			"surface": "artificial turf",
 			"lat": 63.194851,
 			"lng": 14.655848,
-			"x": 800,
-			"y": 300,
+			"x": 759.5,
+			"x1": 800,
+			"y": 773.3,
+			"y1": 300,
 			"url": "https://en.wikipedia.org/wiki/J%C3%A4mtkraft_Arena"
 		},
 		"league": {
@@ -625,8 +677,10 @@
 			"surface": "grass",
 			"lat": 57.7833,
 			"lng": 14.141864,
-			"x": 800,
-			"y": 400,
+			"x": 728,
+			"x1": 800,
+			"y": 1486.6,
+			"y1": 400,
 			"url": "https://en.wikipedia.org/wiki/Stadsparksvallen"
 		},
 		"league": {
@@ -654,8 +708,10 @@
 			"surface": "artificial turf",
 			"lat": 59.370556,
 			"lng": 16.495,
-			"x": 800,
-			"y": 500,
+			"x": 872.1,
+			"x1": 800,
+			"y": 1277.4,
+			"y1": 500,
 			"url": "https://en.wikipedia.org/wiki/Tunavallen"
 		},
 		"league": {
@@ -683,8 +739,10 @@
 			"surface": "grass",
 			"lat": 56.049444,
 			"lng": 12.706944,
-			"x": 800,
-			"y": 600,
+			"x": 640.1,
+			"x1": 800,
+			"y": 1715.1,
+			"y1": 600,
 			"url": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)"
 		},
 		"league": {
@@ -712,8 +770,10 @@
 			"surface": "grass",
 			"lat": 56.894,
 			"lng": 12.5115,
-			"x": 800,
-			"y": 700,
+			"x": 628.1,
+			"x1": 800,
+			"y": 1603.8,
+			"y1": 700,
 			"url": "https://en.wikipedia.org/wiki/Falcon_Alkoholfri_Arena"
 		},
 		"league": {
@@ -741,8 +801,10 @@
 			"surface": "artificial turf",
 			"lat": 60.692153,
 			"lng": 17.135373,
-			"x": 800,
-			"y": 800,
+			"x": 911.3,
+			"x1": 800,
+			"y": 1103.2,
+			"y1": 800,
 			"url": "https://en.wikipedia.org/wiki/Gavlevallen"
 		},
 		"league": {
@@ -770,8 +832,10 @@
 			"surface": "grass",
 			"lat": 57.70623,
 			"lng": 11.98014,
-			"x": 800,
-			"y": 900,
+			"x": 595.6,
+			"x1": 800,
+			"y": 1496.8,
+			"y1": 900,
 			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
@@ -799,8 +863,10 @@
 			"surface": "grass",
 			"lat": 57.70623,
 			"lng": 11.98014,
-			"x": 900,
-			"y": 100,
+			"x": 595.6,
+			"x1": 900,
+			"y": 1496.8,
+			"y1": 100,
 			"url": "https://en.wikipedia.org/wiki/Gamla_Ullevi"
 		},
 		"league": {
@@ -828,8 +894,10 @@
 			"surface": "grass",
 			"lat": 56.879722,
 			"lng": 14.776389,
-			"x": 900,
-			"y": 200,
+			"x": 766.8,
+			"x1": 900,
+			"y": 1605.7,
+			"y1": 200,
 			"url": "https://en.wikipedia.org/wiki/Visma_Arena"
 		},
 		"league": {
@@ -857,8 +925,10 @@
 			"surface": "artificial turf",
 			"lat": 60.495,
 			"lng": 15.433889,
-			"x": 900,
-			"y": 300,
+			"x": 807.1,
+			"x1": 900,
+			"y": 1129.1,
+			"y1": 300,
 			"url": "https://en.wikipedia.org/wiki/Domnarvsvallen"
 		},
 		"league": {
@@ -886,8 +956,10 @@
 			"surface": "grass",
 			"lat": 55.889934,
 			"lng": 12.83761,
-			"x": 900,
-			"y": 400,
+			"x": 648.1,
+			"x1": 900,
+			"y": 1736.2,
+			"y1": 400,
 			"url": "https://en.wikipedia.org/wiki/Landskrona_IP"
 		},
 		"league": {
@@ -915,8 +987,10 @@
 			"surface": "artificial turf",
 			"lat": 59.627535,
 			"lng": 16.530669,
-			"x": 900,
-			"y": 500,
+			"x": 874.3,
+			"x1": 900,
+			"y": 1243.5,
+			"y1": 500,
 			"url": "https://en.wikipedia.org/wiki/Hitachi_Energy_Arena"
 		},
 		"league": {
@@ -944,8 +1018,10 @@
 			"surface": "grass",
 			"lat": 58.378889,
 			"lng": 13.840556,
-			"x": 900,
-			"y": 600,
+			"x": 709.5,
+			"x1": 900,
+			"y": 1408.1,
+			"y1": 600,
 			"url": "https://en.wikipedia.org/wiki/S%C3%B6dermalms_IP"
 		},
 		"league": {
@@ -973,8 +1049,10 @@
 			"surface": "artificial turf",
 			"lat": 57.663889,
 			"lng": 11.909444,
-			"x": 900,
-			"y": 700,
+			"x": 591.3,
+			"x1": 900,
+			"y": 1502.3,
+			"y1": 700,
 			"url": "https://en.wikipedia.org/wiki/Ruddalens_IP"
 		},
 		"league": {
@@ -1002,8 +1080,10 @@
 			"surface": "artificial turf",
 			"lat": 59.18756,
 			"lng": 17.57043,
-			"x": 900,
-			"y": 800,
+			"x": 937.9,
+			"x1": 900,
+			"y": 1301.5,
+			"y1": 800,
 			"url": "https://en.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje_Fotbollsarena"
 		},
 		"league": {

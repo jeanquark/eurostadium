@@ -16,7 +16,7 @@
 			"surface": "grass",
 			"lat": 60.366944,
 			"lng": 5.3575,
-			"x": 16.5,
+			"x": 73.5,
 			"y": 591.9,
 			"url": "https://en.wikipedia.org/wiki/Brann_Stadion"
 		},
@@ -45,7 +45,7 @@
 			"surface": "artificial turf",
 			"lat": 63.124722,
 			"lng": 7.718056,
-			"x": 70.7,
+			"x": 127.7,
 			"y": 441,
 			"url": "https://en.wikipedia.org/wiki/Kristiansund_Stadion"
 		},
@@ -74,7 +74,7 @@
 			"surface": "grass",
 			"lat": 59.964,
 			"lng": 11.063,
-			"x": 147.6,
+			"x": 204.6,
 			"y": 613.9,
 			"url": "https://en.wikipedia.org/wiki/%C3%85r%C3%A5sen_Stadion"
 		},
@@ -103,7 +103,7 @@
 			"surface": "grass",
 			"lat": 59.921111,
 			"lng": 10.581111,
-			"x": 136.5,
+			"x": 193.5,
 			"y": 616.2,
 			"url": "https://en.wikipedia.org/wiki/Nadderud_Stadion"
 		},
@@ -132,7 +132,7 @@
 			"surface": "artificial turf",
 			"lat": 59.734444,
 			"lng": 10.201389,
-			"x": 127.8,
+			"x": 184.8,
 			"y": 626.5,
 			"url": "https://en.wikipedia.org/wiki/Marienlyst_Stadion"
 		},
@@ -161,7 +161,7 @@
 			"surface": "artificial turf",
 			"lat": 69.648954,
 			"lng": 18.934582,
-			"x": 328.6,
+			"x": 385.6,
 			"y": 84,
 			"url": "https://en.wikipedia.org/wiki/Romssa_Arena"
 		},
@@ -190,7 +190,7 @@
 			"surface": "artificial turf",
 			"lat": 59.917778,
 			"lng": 10.806944,
-			"x": 141.7,
+			"x": 198.7,
 			"y": 616.4,
 			"url": "https://en.wikipedia.org/wiki/Intility_Arena"
 		},
@@ -219,7 +219,7 @@
 			"surface": "artificial turf",
 			"lat": 67.276667,
 			"lng": 14.384444,
-			"x": 224,
+			"x": 281,
 			"y": 213.8,
 			"url": "https://en.wikipedia.org/wiki/Aspmyra_Stadion"
 		},
@@ -248,7 +248,7 @@
 			"surface": "grass",
 			"lat": 59.413,
 			"lng": 5.279,
-			"x": 14.7,
+			"x": 71.7,
 			"y": 644,
 			"url": "https://en.wikipedia.org/wiki/Haugesund_Stadion"
 		},
@@ -277,7 +277,7 @@
 			"surface": "artificial turf",
 			"lat": 62.733333,
 			"lng": 7.147778,
-			"x": 57.6,
+			"x": 114.6,
 			"y": 462.4,
 			"url": "https://en.wikipedia.org/wiki/Aker_Stadion"
 		},
@@ -306,7 +306,7 @@
 			"surface": "artificial turf",
 			"lat": 59.211111,
 			"lng": 9.589722,
-			"x": 113.8,
+			"x": 170.8,
 			"y": 655.1,
 			"url": "https://en.wikipedia.org/wiki/Skagerak_Arena"
 		},
@@ -335,7 +335,7 @@
 			"surface": "grass",
 			"lat": 63.4123,
 			"lng": 10.4045,
-			"x": 132.5,
+			"x": 189.5,
 			"y": 425.2,
 			"url": "https://en.wikipedia.org/wiki/Lerkendal_Stadion"
 		},
@@ -364,7 +364,7 @@
 			"surface": "grass",
 			"lat": 59.13725,
 			"lng": 10.17969,
-			"x": 127.3,
+			"x": 184.3,
 			"y": 659.1,
 			"url": "https://en.wikipedia.org/wiki/Sandefjord_Arena"
 		},
@@ -393,7 +393,7 @@
 			"surface": "artificial turf",
 			"lat": 59.286111,
 			"lng": 11.0975,
-			"x": 148.4,
+			"x": 205.4,
 			"y": 651,
 			"url": "https://en.wikipedia.org/wiki/Sarpsborg_Stadion"
 		},
@@ -422,7 +422,7 @@
 			"surface": "artificial turf",
 			"lat": 62.469722,
 			"lng": 6.187194,
-			"x": 35.5,
+			"x": 92.5,
 			"y": 476.8,
 			"url": "https://en.wikipedia.org/wiki/Color_Line_Stadion"
 		},
@@ -451,7 +451,7 @@
 			"surface": "artificial turf",
 			"lat": 58.914722,
 			"lng": 5.730556,
-			"x": 25,
+			"x": 82,
 			"y": 671.3,
 			"url": "https://en.wikipedia.org/wiki/Viking_Stadion"
 		},
@@ -480,7 +480,7 @@
 			"surface": "artificial turf",
 			"lat": 60.795556,
 			"lng": 11.092222,
-			"x": 148.3,
+			"x": 205.3,
 			"y": 568.4,
 			"url": "https://en.wikipedia.org/wiki/Briskeby_Stadion"
 		},
@@ -509,7 +509,7 @@
 			"surface": "artificial turf",
 			"lat": 63.124722,
 			"lng": 7.718056,
-			"x": 70.7,
+			"x": 127.7,
 			"y": 441,
 			"url": "https://en.wikipedia.org/wiki/Kristiansund_Stadion"
 		},
@@ -538,7 +538,7 @@
 			"surface": "artificial turf",
 			"lat": 63.428376,
 			"lng": 10.52401,
-			"x": 135.2,
+			"x": 192.2,
 			"y": 424.3,
 			"url": "https://en.wikipedia.org/wiki/EXTRA_Arena"
 		},
@@ -567,7 +567,7 @@
 			"surface": "artificial turf",
 			"lat": 58.153611,
 			"lng": 8.028611,
-			"x": 77.9,
+			"x": 134.9,
 			"y": 713,
 			"url": "https://en.wikipedia.org/wiki/S%C3%B8r_Arena"
 		},
@@ -596,7 +596,7 @@
 			"surface": "artificial turf",
 			"lat": 61.231722,
 			"lng": 7.08575,
-			"x": 56.2,
+			"x": 113.2,
 			"y": 544.5,
 			"url": "https://en.wikipedia.org/wiki/Fosshaugane_Campus"
 		},
@@ -625,7 +625,7 @@
 			"surface": "grass",
 			"lat": 58.729767,
 			"lng": 5.649772,
-			"x": 23.2,
+			"x": 80.2,
 			"y": 681.4,
 			"url": "https://en.wikipedia.org/wiki/Bryne_Stadion"
 		},
@@ -654,7 +654,7 @@
 			"surface": "artificial turf",
 			"lat": 59.89,
 			"lng": 10.780833,
-			"x": 141.1,
+			"x": 198.1,
 			"y": 617.9,
 			"url": "https://en.wikipedia.org/wiki/KFUM_Arena"
 		},
@@ -683,7 +683,7 @@
 			"surface": "artificial turf",
 			"lat": 60.195278,
 			"lng": 11.987222,
-			"x": 168.9,
+			"x": 225.9,
 			"y": 601.2,
 			"url": "https://en.wikipedia.org/wiki/Gjemselund_Stadion"
 		},
@@ -712,7 +712,7 @@
 			"surface": "artificial turf",
 			"lat": 58.861369,
 			"lng": 5.720963,
-			"x": 24.8,
+			"x": 81.8,
 			"y": 674.2,
 			"url": "https://en.wikipedia.org/wiki/%C3%98ster_Hus_Arena"
 		},
@@ -741,7 +741,7 @@
 			"surface": "artificial turf",
 			"lat": 60.469639,
 			"lng": 5.314611,
-			"x": 15.5,
+			"x": 72.5,
 			"y": 586.2,
 			"url": "https://en.wikipedia.org/wiki/%C3%85sane_Arena"
 		},
@@ -770,7 +770,7 @@
 			"surface": "artificial turf",
 			"lat": 59.213,
 			"lng": 10.927,
-			"x": 144.5,
+			"x": 201.5,
 			"y": 655,
 			"url": "https://en.wikipedia.org/wiki/Fredrikstad_Stadion"
 		},
@@ -799,7 +799,7 @@
 			"surface": "artificial turf",
 			"lat": 62.339694,
 			"lng": 5.881472,
-			"x": 28.5,
+			"x": 85.5,
 			"y": 483.9,
 			"url": "https://en.wikipedia.org/wiki/Nye_H%C3%B8ddvoll"
 		},
@@ -828,7 +828,7 @@
 			"surface": "grass",
 			"lat": 58.3455,
 			"lng": 8.59172,
-			"x": 90.8,
+			"x": 147.8,
 			"y": 702.5,
 			"url": "https://en.wikipedia.org/wiki/J.J._Ugland_Stadion_%E2%80%93_Levermyr"
 		},
@@ -857,7 +857,7 @@
 			"surface": "artificial turf",
 			"lat": 59.746949,
 			"lng": 10.014616,
-			"x": 123.5,
+			"x": 180.5,
 			"y": 625.8,
 			"url": "https://en.wikipedia.org/wiki/Consto_Arena"
 		},
@@ -886,7 +886,7 @@
 			"surface": "artificial turf",
 			"lat": 60.72103,
 			"lng": 10.602567,
-			"x": 137,
+			"x": 194,
 			"y": 572.5,
 			"url": "https://en.wikipedia.org/wiki/Nammo_Stadion"
 		},
@@ -915,7 +915,7 @@
 			"surface": "artificial turf",
 			"lat": 59.942664,
 			"lng": 10.786234,
-			"x": 141.3,
+			"x": 198.3,
 			"y": 615.1,
 			"url": ""
 		},
@@ -944,7 +944,7 @@
 			"surface": "grass",
 			"lat": 59.420833,
 			"lng": 10.671389,
-			"x": 138.6,
+			"x": 195.6,
 			"y": 643.6,
 			"url": "https://en.wikipedia.org/wiki/Mell%C3%B8s_Stadion"
 		},

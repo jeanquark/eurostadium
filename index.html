@@ -64,13 +64,13 @@
                 </div>
                 <div class="col-4 border-3">
                     <div class="hidden" id="buttonsPanel">
-                        <button hx-on:click="displayStadiums('all')">All teams</button><br />
-                        <button hx-on:click="displayStadiums('top_league')">Top league teams</button><br />
-                        <button hx-on:click="displayStadiums('second_league')">2nd league teams</button><br />
-                        <button hx-on:click="displayStadiums('stadium_sm')">< 20 000</button><br />
-                        <button hx-on:click="displayStadiums('stadium_md')">20 000 < 40 000</button><br />
-                        <button hx-on:click="displayStadiums('stadium_lg')">40 000 < 60 000</button><br />
-                        <button hx-on:click="displayStadiums('stadium_xl')">> 60 000</button><br />
+                        <button hx-on:click="filterStadiums('all')">All teams</button><br />
+                        <button hx-on:click="filterStadium('top_league')">Top league teams</button><br />
+                        <button hx-on:click="filterStadium('second_league')">2nd league teams</button><br />
+                        <button hx-on:click="filterStadium('stadium_sm')">< 20 000</button><br />
+                        <button hx-on:click="filterStadium('stadium_md')">20 000 < 40 000</button><br />
+                        <button hx-on:click="filterStadium('stadium_lg')">40 000 < 60 000</button><br />
+                        <button hx-on:click="filterStadium('stadium_xl')">> 60 000</button><br />
                     </div>
                 </div>
             </div>
