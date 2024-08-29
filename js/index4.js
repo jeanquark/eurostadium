@@ -58,18 +58,18 @@ svgObject.addEventListener('load', async () => {
             return customPan
         },
         onZoom: (newZoom) => {
-            // console.log('onZoom: ', newZoom)
+            console.log('onZoom: ', newZoom)
             const stadiumObj = svgContent.getElementById('stadiums')
             if (stadiumObj) {
                 // console.log('stadiumObj: ', stadiumObj)
-                const circleRadius = stadiumObj.getAttribute('data-circle-radius') || 10
+                const circleRadius = stadiumObj.getAttribute('data-circle-radius')
                 // console.log('circleRadius: ', circleRadius);
                 var cities = stadiumObj.querySelectorAll(".city");
                 for (var i = 0; i < cities.length; i++) {
                     // console.log('cities[i]: ', cities[i])
                     const abc = cities[i].getAttribute('r')
                     // console.log('abc: ', abc);
-                    cities[i].setAttribute('r', parseInt(circleRadius - (newZoom * 0.75)))
+                    cities[i].setAttribute('r', parseInt(circleRadius - (newZoom * 2)))
                 }
             }
         }
@@ -347,9 +347,21 @@ const displayCountryTooltip = () => {
 const handleMouseOverStadium = (e) => {
     try {
         console.log('handleMouseOverStadium: ', e)
-        console.log('e.target: ', e.target)
+        // console.log('e.target: ', e.target)
         const stadiumId = e.target.getAttribute('data-stadium-id')
         console.log('stadiumId: ', stadiumId)
+        const tooltip = document.getElementById('tooltip')
+        console.log('tooltip: ', tooltip)
+        if (tooltip) {
+            tooltip.innerHTML = `
+                <div class="row">
+                    <div class="col-md-12">
+                        ${stadiumId}
+                    </div>
+                </div>
+            `
+            tooltip.style.display = 'block'
+        }
     } catch (error) {
         console.log('error: ', error);
     }
@@ -357,6 +369,10 @@ const handleMouseOverStadium = (e) => {
 const handleMouseLeaveStadium = () => {
     try {
         console.log('handleMouseLeaveStadium')
+        const tooltip = document.getElementById('tooltip')
+        if (tooltip) {
+            tooltip.style.display = 'none'
+        }
     } catch (error) {
         console.log('error: ', error);
     }
@@ -400,12 +416,6 @@ const displayStadiums = async (country) => {
                 newElement.addEventListener('mouseleave', handleMouseLeaveStadium, false)
             }
         }
-        // if (stadiumObj) {
-        //     console.log('stadiumObj: ', stadiumObj);
-        //     let elements = stadiumObj.querySelectorAll(".city");
-        //     console.log('elements: ', elements);
-        // }
-
     } catch (error) {
         console.log('error: ', error)
     }
