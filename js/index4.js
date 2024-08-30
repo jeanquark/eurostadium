@@ -13,7 +13,7 @@ window.onload = (event) => {
 }
 
 let country
-let teams = []
+let countryTeams = []
 let svgObject = document.getElementById('svgObject')
 svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
@@ -158,7 +158,6 @@ const eventListenerMobile = () => {
                     // console.log('country2: ', country)
                     document.getElementById('buttonsPanel').classList.remove("hidden")
                     svgObject.data = `./images/svg/countries/${country}.svg`
-                    // displayStadiumTooltip(country)
                 }
             } else if (flag == 1) {
                 console.log('drag')
@@ -180,7 +179,7 @@ const displayCountryTooltip = () => {
         let elements = svgContent.getElementsByClassName('country')
         // const tooltip = document.getElementById('tooltip')
 
-        const handleMouseOver = (e) => {
+        const handleMouseOverCountry = (e) => {
             // console.log('handleMouseOver')
             const innerWidth = window.innerWidth
             const innerHeight = window.innerHeight
@@ -322,7 +321,7 @@ const displayCountryTooltip = () => {
             }
         }
 
-        const handleMouseLeave = (e) => {
+        const handleMouseLeaveCountry = (e) => {
             // console.log('handleMouseLeave')
             const tooltip = document.getElementById('tooltip')
             if (tooltip) {
@@ -336,42 +335,97 @@ const displayCountryTooltip = () => {
         }
 
         for (var i = 0; i < elements.length; i++) {
-            elements[i].addEventListener('mouseover', handleMouseOver, false)
-            elements[i].addEventListener('mouseleave', handleMouseLeave, false)
+            elements[i].addEventListener('mouseover', handleMouseOverCountry, false)
+            elements[i].addEventListener('mouseleave', handleMouseLeaveCountry, false)
         }
     } catch (error) {
         console.log('error: ', error)
     }
 }
 
-const handleMouseOverStadium = (e) => {
+const displayStadiumTooltip = () => {
     try {
-        console.log('handleMouseOverStadium: ', e)
-        // console.log('e.target: ', e.target)
-        const stadiumId = e.target.getAttribute('data-stadium-id')
-        console.log('stadiumId: ', stadiumId)
-        const tooltip = document.getElementById('tooltip')
-        console.log('tooltip: ', tooltip)
-        if (tooltip) {
-            tooltip.innerHTML = `
-                <div class="row">
-                    <div class="col-md-12">
-                        ${stadiumId}
+        console.log('displayStadiumTooltip')
+        svgObject = document.getElementById('svgObject')
+        const svgContent = svgObject.contentDocument
+        let elements = svgContent.getElementsByClassName('city')
+
+        const handleMouseOverStadium = (e) => {
+            console.log('handleMouseOverStadium: ', e)
+            // console.log('e.target: ', e.target)
+            const stadiumId = e.target.getAttribute('data-stadium-id')
+            console.log('country: ', country);
+            console.log('stadiumId: ', stadiumId)
+            console.log('countryTeams: ', countryTeams);
+            let stadiumTeams = []
+            stadiumTeams = countryTeams.filter((t) => t.venue.api_football_id == stadiumId)
+            console.log('stadiumTeams: ', stadiumTeams);
+            if (!stadiumTeams.length) {
+                alert('No stadium found!')
+                return
+            }
+            const team1 = stadiumTeams[0]
+            const team2 = stadiumTeams[1]
+
+            const tooltip = document.getElementById('tooltip')
+            console.log('tooltip: ', tooltip)
+            if (tooltip) {
+                tooltip.innerHTML = `
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <h2 class="">${stadiumTeams[0]['venue']['name']}</h2>
+                            <h3 class="">${stadiumTeams[0]['venue']['capacity']}</h3>
+                        </div>
                     </div>
-                </div>
-            `
-            tooltip.style.display = 'block'
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <img src="/images/stadiums/${country}/${stadiumTeams[0]['venue']['api_football_id']}.jpg" width="200" alt="Stadium" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <h3 class="text-center">${team1.team?.name}</h3>
+                        </div>
+                        <div class="col-6">
+                            <h3 class="text-center">${team2?.team?.name}</h3>
+                        </div>
+                    </div>
+                `
+                const innerHeight = window.innerHeight
+                const clientX = e.clientX
+                const clientY = e.clientY
+                const diff = innerHeight - clientY
+                const offsetLeft = document.getElementById('svgWrapper').offsetLeft
+                const offsetWidth = document.getElementById('svgWrapper').offsetWidth
+
+                tooltip.style.display = 'block'
+                const tooltipRect = tooltip.getBoundingClientRect()
+                if (clientY < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
+                } else if (diff < tooltipRect.height / 2) {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt((tooltipRect.height / 2) - diff) + 'px'
+                } else {
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
+                }
+                if (clientX > offsetWidth / 2) {
+                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
+                } else {
+                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
+                }
+            }
         }
-    } catch (error) {
-        console.log('error: ', error);
-    }
-}
-const handleMouseLeaveStadium = () => {
-    try {
-        console.log('handleMouseLeaveStadium')
-        const tooltip = document.getElementById('tooltip')
-        if (tooltip) {
-            tooltip.style.display = 'none'
+
+        const handleMouseLeaveStadium = (e) => {
+            console.log('handleMouseLeaveStadium')
+            const tooltip = document.getElementById('tooltip')
+            if (tooltip) {
+                tooltip.style.display = 'none'
+            }
+        }
+
+        for (var i = 0; i < elements.length; i++) {
+            elements[i].addEventListener('mouseover', handleMouseOverStadium, false)
+            elements[i].addEventListener('mouseleave', handleMouseLeaveStadium, false)
         }
     } catch (error) {
         console.log('error: ', error);
@@ -394,38 +448,31 @@ const displayStadiums = async (country) => {
             const circleRadius = stadiumObj.getAttribute('data-circle-radius')
             // console.log('circleRadius: ', circleRadius);
             const data = await fetch(`./teams/${country}.json`)
-            teams = await data.json()
+            countryTeams = await data.json()
             // console.log('teams: ', teams)
             let newElement
-            const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+            const leagues = [...new Set(countryTeams.map((item) => item['league']['api_football_id']))]
             // console.log('leagues: ', leagues)
-            for (let i = 0; i < teams.length; i++) {
+            for (let i = 0; i < countryTeams.length; i++) {
                 newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-                newElement.setAttribute('cx', teams[i]['venue']['x'])
-                newElement.setAttribute('cy', teams[i]['venue']['y'] + 0)
+                newElement.setAttribute('cx', countryTeams[i]['venue']['x'])
+                newElement.setAttribute('cy', countryTeams[i]['venue']['y'] + 0)
                 newElement.setAttribute('r', circleRadius)
-                newElement.setAttribute('fill', teams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
-                newElement.setAttribute('data-city', teams[i]['venue']['city'])
-                newElement.setAttribute('data-stadium-id', teams[i]['venue']['api_football_id'])
+                newElement.setAttribute('fill', countryTeams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                newElement.setAttribute('data-city', countryTeams[i]['venue']['city'])
+                newElement.setAttribute('data-stadium-id', countryTeams[i]['venue']['api_football_id'])
                 newElement.setAttribute('class', 'city')
-                newElement.setAttribute('api-football-league-id', teams[i]['league']['api_football_id'])
-                newElement.setAttribute('capacity', teams[i]['venue']['capacity'])
+                newElement.setAttribute('api-football-league-id', countryTeams[i]['league']['api_football_id'])
+                newElement.setAttribute('capacity', countryTeams[i]['venue']['capacity'])
                 stadiumObj.appendChild(newElement)
 
-                newElement.addEventListener('mouseover', handleMouseOverStadium, false)
-                newElement.addEventListener('mouseleave', handleMouseLeaveStadium, false)
+                // newElement.addEventListener('mouseover', handleMouseOverStadium, false)
+                // newElement.addEventListener('mouseleave', handleMouseLeaveStadium, false)
             }
+            displayStadiumTooltip()
         }
     } catch (error) {
         console.log('error: ', error)
-    }
-}
-
-const displayStadiumTooltip = () => {
-    try {
-        console.log('displayStadiumTooltip')
-    } catch (error) {
-        console.log('error: ', error);
     }
 }
 
@@ -445,56 +492,65 @@ const filterStadiums = async (filter) => {
         stadiumObj.innerHTML = ''
 
         const circleRadius = stadiumObj.getAttribute('data-circle-radius')
-        const leagues = [...new Set(teams.map((item) => item['league']['api_football_id']))]
+        const leagues = [...new Set(countryTeams.map((item) => item['league']['api_football_id']))]
         // console.log('leagues: ', leagues)
         // console.log('leagues[1]: ', leagues[0])
         // console.log('leagues[2]: ', leagues[1])
-        let newTeams = JSON.parse(JSON.stringify(teams))
-        let newTeams2 = []
+        let teams = JSON.parse(JSON.stringify(countryTeams))
+        let newTeams = []
 
         switch (filter) {
             case 'all':
-                newTeams2 = newTeams
+                newTeams = teams
                 break;
             case 'top_league':
                 // console.log('top_league')
-                newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
+                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
                 break;
             case 'second_league':
                 // console.log('second_league')
-                newTeams2 = newTeams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
+                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
                 break;
             case 'stadium_sm':
-                newTeams2 = newTeams.filter((team) => team.venue.capacity < 20000)
+                newTeams = teams.filter((team) => team.venue.capacity < 20000)
                 break;
             case 'stadium_md':
-                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
+                newTeams = teams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
                 break;
             case 'stadium_lg':
-                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
+                newTeams = teams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
                 break;
             case 'stadium_xl':
-                newTeams2 = newTeams.filter((team) => team.venue.capacity >= 60000)
+                newTeams = teams.filter((team) => team.venue.capacity >= 60000)
                 break;
         }
 
         // console.log('newTeams2: ', newTeams);
-        for (let i = 0; i < newTeams2.length; i++) {
+        for (let i = 0; i < newTeams.length; i++) {
             newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
-            newElement.setAttribute('cx', newTeams2[i]['venue']['x'])
-            newElement.setAttribute('cy', newTeams2[i]['venue']['y'] + 0)
+            newElement.setAttribute('cx', newTeams[i]['venue']['x'])
+            newElement.setAttribute('cy', newTeams[i]['venue']['y'] + 0)
             newElement.setAttribute('r', circleRadius)
-            newElement.setAttribute('fill', newTeams2[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
-            newElement.setAttribute('data-city', newTeams2[i]['venue']['city'])
-            newElement.setAttribute('data-stadium-id', newTeams2[i]['venue']['api_football_id'])
+            newElement.setAttribute('fill', newTeams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+            newElement.setAttribute('data-city', newTeams[i]['venue']['city'])
+            newElement.setAttribute('data-stadium-id', newTeams[i]['venue']['api_football_id'])
             newElement.setAttribute('class', 'city')
-            newElement.setAttribute('api-football-league-id', newTeams2[i]['league']['api_football_id'])
-            newElement.setAttribute('capacity', newTeams2[i]['venue']['capacity'])
+            newElement.setAttribute('api-football-league-id', newTeams[i]['league']['api_football_id'])
+            newElement.setAttribute('capacity', newTeams[i]['venue']['capacity'])
             stadiumObj.appendChild(newElement)
         }
     } catch (error) {
         console.log('error: ', error);
     }
+}
+
+const slugify = (str) => {
+    str = str.replace(/^\s+|\s+$/g, ''); // trim leading/trailing white space
+    str = str.toLowerCase(); // convert string to lowercase
+    str = str.replace(/[^a-z0-9 -]/g, '') // remove any non-alphanumeric characters
+        .replace(/\s+/g, '-') // replace spaces with hyphens
+        .replace(/-+/g, '-'); // remove consecutive hyphens
+    return str;
 }
 
 const hasSmallScreen = () => {
