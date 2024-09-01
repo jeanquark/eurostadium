@@ -14,7 +14,10 @@ window.onload = (event) => {
 
 let country
 let countryTeams = []
+let stadium
 let svgObject = document.getElementById('svgObject')
+let mouseOverTooltip = false
+
 svgObject.addEventListener('load', async () => {
     let svgObject = document.getElementById('svgObject')
     const svgContent = svgObject.contentDocument
@@ -28,7 +31,7 @@ svgObject.addEventListener('load', async () => {
         displayCountryTooltip()
     }
 
-    console.log('country3: ', country);
+    console.log('country3: ', country)
     if (country) {
         displayStadiums(country)
     }
@@ -64,15 +67,15 @@ svgObject.addEventListener('load', async () => {
                 // console.log('stadiumObj: ', stadiumObj)
                 const circleRadius = stadiumObj.getAttribute('data-circle-radius')
                 // console.log('circleRadius: ', circleRadius);
-                var cities = stadiumObj.querySelectorAll(".city");
+                var cities = stadiumObj.querySelectorAll('.city')
                 for (var i = 0; i < cities.length; i++) {
                     // console.log('cities[i]: ', cities[i])
                     const abc = cities[i].getAttribute('r')
                     // console.log('abc: ', abc);
-                    cities[i].setAttribute('r', parseInt(circleRadius - (newZoom * 2)))
+                    // cities[i].setAttribute('r', parseInt(circleRadius - newZoom * 2))
                 }
             }
-        }
+        },
     })
 })
 
@@ -98,6 +101,7 @@ const eventListenerDesktop = () => {
         },
         false
     )
+
     svgContent.addEventListener(
         'mouseup',
         (e) => {
@@ -107,9 +111,10 @@ const eventListenerDesktop = () => {
                 if (path) {
                     country = path.getAttribute('id')
                     if (country) {
-                        document.getElementById('buttonsPanel').classList.remove("hidden")
+                        document.getElementById('buttonsPanel').classList.remove('hidden')
                         svgObject.data = `./images/svg/countries/${country}.svg`
                         const tooltip = document.getElementById('tooltip')
+
                         if (tooltip) {
                             tooltip.style.display = 'none'
                         }
@@ -156,7 +161,7 @@ const eventListenerMobile = () => {
                 // console.log('country: ', country);
                 if (country) {
                     // console.log('country2: ', country)
-                    document.getElementById('buttonsPanel').classList.remove("hidden")
+                    document.getElementById('buttonsPanel').classList.remove('hidden')
                     svgObject.data = `./images/svg/countries/${country}.svg`
                 }
             } else if (flag == 1) {
@@ -168,7 +173,7 @@ const eventListenerMobile = () => {
 }
 
 const displayMap = (map) => {
-    document.getElementById('buttonsPanel').classList.add("hidden")
+    document.getElementById('buttonsPanel').classList.add('hidden')
     svgObject.data = `./images/svg/${map}.svg`
 }
 
@@ -214,8 +219,8 @@ const displayCountryTooltip = () => {
 
             let countryId
             let countryName
-            let leagues = ""
-            let leaguesId = ""
+            let leagues = ''
+            let leaguesId = ''
             let leaguesArray = []
             let leaguesIdArray = []
             let population
@@ -297,9 +302,9 @@ const displayCountryTooltip = () => {
                 // console.log('diff: ', diff)
                 const tooltipRect = tooltip.getBoundingClientRect()
                 if (clientY < tooltipRect.height / 2) {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt(tooltipRect.height / 2 - clientY) + 'px'
                 } else if (diff < tooltipRect.height / 2) {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt((tooltipRect.height / 2) - diff) + 'px'
+                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt(tooltipRect.height / 2 - diff) + 'px'
                 } else {
                     tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
                 }
@@ -345,21 +350,39 @@ const displayCountryTooltip = () => {
 
 const displayStadiumTooltip = () => {
     try {
+        // console.clear()
         console.log('displayStadiumTooltip')
         svgObject = document.getElementById('svgObject')
         const svgContent = svgObject.contentDocument
         let elements = svgContent.getElementsByClassName('city')
 
+        const handleMouseOverTooltip = () => {
+            // console.log('mouseOverTooltip')
+            // mouseOverTooltip = true
+        }
+
+        const handleMouseLeaveTooltip = () => {
+            console.log('mouseLeaveTooltip')
+            mouseOverTooltip = false
+            const tooltip = document.getElementById('tooltip')
+            console.log('stadium2: ', stadium)
+            stadium.classList.remove('hover')
+            tooltip.style.display = 'none'
+        }
+
         const handleMouseOverStadium = (e) => {
+            console.clear()
             console.log('handleMouseOverStadium: ', e)
             // console.log('e.target: ', e.target)
+            stadium = e.target
             const stadiumId = e.target.getAttribute('data-stadium-id')
-            console.log('country: ', country);
+            e.target.classList.add('hover')
+            console.log('country: ', country)
             console.log('stadiumId: ', stadiumId)
-            console.log('countryTeams: ', countryTeams);
+            // console.log('countryTeams: ', countryTeams)
             let stadiumTeams = []
             stadiumTeams = countryTeams.filter((t) => t.venue.api_football_id == stadiumId)
-            console.log('stadiumTeams: ', stadiumTeams);
+            // console.log('stadiumTeams: ', stadiumTeams)
             if (!stadiumTeams.length) {
                 alert('No stadium found!')
                 return
@@ -379,7 +402,7 @@ const displayStadiumTooltip = () => {
                     </div>
                     <div class="row">
                         <div class="col-12 text-center">
-                            <img src="/images/stadiums/${country}/${stadiumTeams[0]['venue']['api_football_id']}.jpg" width="200" alt="Stadium" />
+                            <img src="/images/stadiums/${country}/${stadiumTeams[0]['venue']['api_football_id']}.jpg" width="100%" alt="Stadium" />
                         </div>
                     </div>
                     <div class="row">
@@ -391,34 +414,61 @@ const displayStadiumTooltip = () => {
                         </div>
                     </div>
                 `
-                const innerHeight = window.innerHeight
-                const clientX = e.clientX
-                const clientY = e.clientY
-                const diff = innerHeight - clientY
-                const offsetLeft = document.getElementById('svgWrapper').offsetLeft
-                const offsetWidth = document.getElementById('svgWrapper').offsetWidth
-
+                const abc = e.target.getBoundingClientRect()
+                console.log('abc: ', abc)
+                const def = e.target.clientX
+                console.log('def: ', def)
+                // console.log('abc.y: ', abc.y);
+                tooltip.style.position = 'absolute'
+                // tooltip.style.top = parseInt(abc.y) + 10
+                tooltip.style.top = `${abc.y}px`
+                tooltip.style.left = `${abc.x + 24}px`
+                // tooltip.style.left = `125px`
                 tooltip.style.display = 'block'
-                const tooltipRect = tooltip.getBoundingClientRect()
-                if (clientY < tooltipRect.height / 2) {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt((tooltipRect.height / 2) - clientY) + 'px'
-                } else if (diff < tooltipRect.height / 2) {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt((tooltipRect.height / 2) - diff) + 'px'
-                } else {
-                    tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
-                }
-                if (clientX > offsetWidth / 2) {
-                    tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
-                } else {
-                    tooltip.style.left = offsetLeft + clientX + 20 + 'px'
-                }
+                mouseOverTooltip = true
+                // tooltip.style.margin = '0px 20px'
+
+                // tooltip.style.visibility = 'hidden'
+
+                // const innerHeight = window.innerHeight
+                // console.log('innerHeight: ', innerHeight);
+                // const clientX = e.clientX
+                // const clientY = e.clientY
+                // console.log('clientY: ', clientY);
+                // const diff = innerHeight - clientY
+                // console.log('diff: ', diff);
+                // const offsetLeft = document.getElementById('svgWrapper').offsetLeft
+                // const offsetWidth = document.getElementById('svgWrapper').offsetWidth
+
+                // tooltip.addEventListener('mouseover', handleMouseOverTooltip, false)
+                // tooltip.addEventListener('mouseleave', handleMouseLeaveTooltip, false)
+                // const tooltipRect = tooltip.getBoundingClientRect()
+                // console.log('tooltipRect: ', tooltipRect);
+                // if (clientY < tooltipRect.height / 2) {
+                //     tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + parseInt(tooltipRect.height / 2 - clientY) + 'px'
+                // } else if (diff < tooltipRect.height / 2) {
+                //     tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) - parseInt(tooltipRect.height / 2 - diff) + 'px'
+                // } else {
+                //     tooltip.style.top = clientY - parseInt(tooltipRect.height / 2) + 'px'
+                // }
+                // if (clientX > offsetWidth / 2) {
+                //     tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 0 + 'px'
+                // } else {
+                //     tooltip.style.left = offsetLeft + clientX + 0 + 'px'
+                // }
+                tooltip.addEventListener('mouseover', handleMouseOverTooltip, false)
+                tooltip.addEventListener('mouseleave', handleMouseLeaveTooltip, false)
             }
         }
 
         const handleMouseLeaveStadium = (e) => {
             console.log('handleMouseLeaveStadium')
             const tooltip = document.getElementById('tooltip')
+            // console.log('e.target.parentNode: ', e.target.parentNode)
+            // mouseOverTooltip = false
+            console.log('mouseOverTooltip: ', mouseOverTooltip);
             if (tooltip) {
+                stadium.classList.remove('hover')
                 tooltip.style.display = 'none'
             }
         }
@@ -428,7 +478,7 @@ const displayStadiumTooltip = () => {
             elements[i].addEventListener('mouseleave', handleMouseLeaveStadium, false)
         }
     } catch (error) {
-        console.log('error: ', error);
+        console.log('error: ', error)
     }
 }
 
@@ -502,27 +552,27 @@ const filterStadiums = async (filter) => {
         switch (filter) {
             case 'all':
                 newTeams = teams
-                break;
+                break
             case 'top_league':
                 // console.log('top_league')
                 newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
-                break;
+                break
             case 'second_league':
                 // console.log('second_league')
                 newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
-                break;
+                break
             case 'stadium_sm':
                 newTeams = teams.filter((team) => team.venue.capacity < 20000)
-                break;
+                break
             case 'stadium_md':
                 newTeams = teams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
-                break;
+                break
             case 'stadium_lg':
                 newTeams = teams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
-                break;
+                break
             case 'stadium_xl':
                 newTeams = teams.filter((team) => team.venue.capacity >= 60000)
-                break;
+                break
         }
 
         // console.log('newTeams2: ', newTeams);
@@ -540,22 +590,23 @@ const filterStadiums = async (filter) => {
             stadiumObj.appendChild(newElement)
         }
     } catch (error) {
-        console.log('error: ', error);
+        console.log('error: ', error)
     }
 }
 
 const slugify = (str) => {
-    str = str.replace(/^\s+|\s+$/g, ''); // trim leading/trailing white space
-    str = str.toLowerCase(); // convert string to lowercase
-    str = str.replace(/[^a-z0-9 -]/g, '') // remove any non-alphanumeric characters
+    str = str.replace(/^\s+|\s+$/g, '') // trim leading/trailing white space
+    str = str.toLowerCase() // convert string to lowercase
+    str = str
+        .replace(/[^a-z0-9 -]/g, '') // remove any non-alphanumeric characters
         .replace(/\s+/g, '-') // replace spaces with hyphens
-        .replace(/-+/g, '-'); // remove consecutive hyphens
-    return str;
+        .replace(/-+/g, '-') // remove consecutive hyphens
+    return str
 }
 
 const hasSmallScreen = () => {
-    const minWidth = 1024; // Minimum width for desktop devices
-    return window.innerWidth < minWidth || screen.width < minWidth;
+    const minWidth = 1024 // Minimum width for desktop devices
+    return window.innerWidth < minWidth || screen.width < minWidth
 }
 const hasTouchSupport = () => {
     return 'ontouchstart' in window || navigator.maxTouchPoints > 0

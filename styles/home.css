@@ -7,8 +7,8 @@
 }
 
 .hover {
-    fill: #FF0000 !important;
-    cursor: pointer !important;
+    fill: #FFFFFF;
+    cursor: pointer;
 }
 
 .region:hover {
@@ -16,10 +16,10 @@
     /* cursor: pointer; */
 }
 
-.city:hover {
+/* .city:hover {
     fill: #FFFFFF;
     cursor: pointer;
-}
+} */
 
 #tooltip {
     width: 400px;
