@@ -61,7 +61,7 @@ svgObject.addEventListener('load', async () => {
             return customPan
         },
         onZoom: (newZoom) => {
-            console.log('onZoom: ', newZoom)
+            console.log('onZoom newZoom: ', newZoom)
             const stadiumObj = svgContent.getElementById('stadiums')
             if (stadiumObj) {
                 // console.log('stadiumObj: ', stadiumObj)
@@ -70,9 +70,7 @@ svgObject.addEventListener('load', async () => {
                 var cities = stadiumObj.querySelectorAll('.city')
                 for (var i = 0; i < cities.length; i++) {
                     // console.log('cities[i]: ', cities[i])
-                    const abc = cities[i].getAttribute('r')
-                    // console.log('abc: ', abc);
-                    // cities[i].setAttribute('r', parseInt(circleRadius - newZoom * 2))
+                    cities[i].setAttribute('r', parseInt(circleRadius - newZoom) + 1)
                 }
             }
         },
@@ -366,8 +364,8 @@ const displayStadiumTooltip = () => {
             mouseOverTooltip = false
             const tooltip = document.getElementById('tooltip')
             console.log('stadium2: ', stadium)
-            stadium.classList.remove('hover')
-            tooltip.style.display = 'none'
+            // stadium.classList.remove('hover')
+            // tooltip.style.display = 'none'
         }
 
         const handleMouseOverStadium = (e) => {
@@ -376,7 +374,9 @@ const displayStadiumTooltip = () => {
             // console.log('e.target: ', e.target)
             stadium = e.target
             const stadiumId = e.target.getAttribute('data-stadium-id')
-            e.target.classList.add('hover')
+            const radius = e.target.getAttribute('r')
+            console.log('radius: ', radius);
+            stadium.classList.add('ghi')
             console.log('country: ', country)
             console.log('stadiumId: ', stadiumId)
             // console.log('countryTeams: ', countryTeams)
@@ -393,6 +393,7 @@ const displayStadiumTooltip = () => {
             const tooltip = document.getElementById('tooltip')
             console.log('tooltip: ', tooltip)
             if (tooltip) {
+                tooltip.classList.add("ghi")
                 tooltip.innerHTML = `
                     <div class="row">
                         <div class="col-12 text-center">
@@ -416,13 +417,16 @@ const displayStadiumTooltip = () => {
                 `
                 const abc = e.target.getBoundingClientRect()
                 console.log('abc: ', abc)
-                const def = e.target.clientX
-                console.log('def: ', def)
+                console.log('radius: ', radius);
+                // const def = e.target.clientX
+                // console.log('def: ', def)
                 // console.log('abc.y: ', abc.y);
                 tooltip.style.position = 'absolute'
                 // tooltip.style.top = parseInt(abc.y) + 10
                 tooltip.style.top = `${abc.y}px`
-                tooltip.style.left = `${abc.x + 24}px`
+                // tooltip.style.left = `${abc.x + (15)}px` // radius 12
+                tooltip.style.left = `${abc.x + (33)}px` // radius 9
+                // tooltip.style.left = `${abc.x + (45)}px` // radius 5
                 // tooltip.style.left = `125px`
                 tooltip.style.display = 'block'
                 mouseOverTooltip = true
@@ -458,7 +462,25 @@ const displayStadiumTooltip = () => {
                 // }
                 tooltip.addEventListener('mouseover', handleMouseOverTooltip, false)
                 tooltip.addEventListener('mouseleave', handleMouseLeaveTooltip, false)
+
+                // for (let i = 0; i < ghi.length; i++) {
+                //     ghi[i].addEventListener('mouseleave', () => {
+                //         console.log('ghi')
+                //     }, false);
+                // }
             }
+            svgObject = document.getElementById('svgObject')
+            const svgContent = svgObject.contentDocument
+            const svgWrapper = document.getElementById('svgWrapper')
+            const svgContent2 = svgWrapper.contentDocument
+            let elements = document.getElementsByClassName('city')
+            console.log('elements: ', elements);
+            for (let i = 0; i < elements.length; i++) {
+                // elements[i].classList.add('ghi')
+            }
+            // let ghi = svgContent2.getElementsByClassName('city')
+            // console.log('ghi: ', ghi);
+            // console.log('ghi.length: ', ghi.length);
         }
 
         const handleMouseLeaveStadium = (e) => {
@@ -468,7 +490,7 @@ const displayStadiumTooltip = () => {
             // mouseOverTooltip = false
             console.log('mouseOverTooltip: ', mouseOverTooltip);
             if (tooltip) {
-                stadium.classList.remove('hover')
+                // stadium.classList.remove('hover')
                 tooltip.style.display = 'none'
             }
         }

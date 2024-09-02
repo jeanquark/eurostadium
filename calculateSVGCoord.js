@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const calculateSVGCoord = async () => {
-    const country = 'norway'
+    const country = 'germany'
     const data1 = fs.readFileSync(`./js/countriesSvgMapCoord.json`)
     const coordData = JSON.parse(data1);
     // for (const country in coordData) {
