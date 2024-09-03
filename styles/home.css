@@ -2,8 +2,8 @@
     /* fill: #FFFF00; */
 }
 .country:hover {
-    /* fill: #FF0000 !important;
-    cursor: pointer; */
+    fill: #FF0000 !important;
+    cursor: pointer;
 }
 
 .hover {
@@ -16,10 +16,10 @@
     /* cursor: pointer; */
 }
 
-/* .city:hover {
+.stadium:hover {
     fill: #FFFFFF;
     cursor: pointer;
-} */
+}
 
 #tooltip {
     width: 400px;

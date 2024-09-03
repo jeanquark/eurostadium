@@ -80,6 +80,30 @@
     flex: 100%;
     /* flex-grow:0; */
 }
+.col-10 {
+    flex: 83.33%;
+    /* flex-grow:0; */
+}
+.col-8 {
+    flex: 66.67%;
+    /* flex-grow:0; */
+}
+.col-6 {
+    flex: 50%;
+    /* flex-grow:0; */
+}
+.col-4 {
+    flex: 33.33%;
+    /* flex-grow:0; */
+}
+.col-3 {
+    flex: 25%;
+    /* flex-grow:0; */
+}
+.col-2 {
+    flex: 16.67%;
+    /* flex-grow:0; */
+}
 
 /* xl */
 @media screen and (min-width: 1201px) {
