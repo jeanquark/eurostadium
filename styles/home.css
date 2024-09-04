@@ -17,8 +17,8 @@
 }
 
 .stadium:hover {
-    fill: #FFFFFF;
-    cursor: pointer;
+    /* fill: #FFFFFF;
+    cursor: pointer; */
 }
 
 #tooltip {

@@ -7,8 +7,8 @@ window.onload = (event) => {
             // svgObject.data = `./images/svg/europe-with-russia.svg`
             svgObject.setAttribute('data', './images/svg/europe-with-russia.svg')
         }
-        document.getElementById("mouseOverStadium").innerHTML = mouseOverStadium;
-        document.getElementById("mouseOverTooltip").innerHTML = mouseOverTooltip;
+        document.getElementById('mouseOverStadium').innerHTML = mouseOverStadium
+        document.getElementById('mouseOverTooltip').innerHTML = mouseOverTooltip
     } catch (error) {
         console.log('error: ', error)
     }
@@ -71,9 +71,11 @@ svgObject.addEventListener('load', async () => {
                 const circleRadius = stadiumObj.getAttribute('data-circle-radius')
                 // console.log('circleRadius: ', circleRadius);
                 var stadiums = stadiumObj.querySelectorAll('.stadium')
-                for (var i = 0; i < cities.length; i++) {
-                    // console.log('cities[i]: ', cities[i])
-                    stadiums[i].setAttribute('r', parseInt(circleRadius - newZoom) + 1)
+                if (cities) {
+                    for (var i = 0; i < cities.length; i++) {
+                        // console.log('cities[i]: ', cities[i])
+                        stadiums[i].setAttribute('r', parseInt(circleRadius - newZoom) + 1)
+                    }
                 }
             }
         },
@@ -312,10 +314,10 @@ const displayCountryTooltip = () => {
                 const diff = innerHeight - clientY
                 // console.log('diff: ', diff)
                 const tooltipRect = tooltip.getBoundingClientRect()
-                if (clientX > (offsetWidth / 2)) {
-                    tooltip.style.left = `${rect.x - 410 - (rect.width)}px`
+                if (clientX > offsetWidth / 2) {
+                    tooltip.style.left = `${rect.x - 410 - rect.width}px`
                 } else {
-                    tooltip.style.left = `${rect.x + (rect.width)}px`
+                    tooltip.style.left = `${rect.x + rect.width}px`
                 }
                 tooltip.style.top = '50%'
                 tooltip.style.transform = 'translateY(-50%)'
@@ -369,8 +371,10 @@ const displayStadiumTooltip = () => {
         let elements = svgContent.getElementsByClassName('stadium')
 
         const handleMouseOverTooltip = () => {
-            console.log('mouseOverTooltip')
-            // mouseOverTooltip = true
+            // console.log('mouseOverTooltip')
+            mouseOverTooltip = true
+            tooltip.style.display = 'block'
+            stadium.classList.add('hover')
         }
 
         const handleMouseLeaveTooltip = () => {
@@ -378,17 +382,16 @@ const displayStadiumTooltip = () => {
             mouseOverTooltip = false
             const tooltip = document.getElementById('tooltip')
             // console.log('stadium2: ', stadium)
-            mouseOverTooltip = false
-            // stadium.classList.remove('hover')
             if (!mouseOverStadium) {
-                tooltip.style.display = 'none'
+                stadium.classList.remove('hover')
             }
+            tooltip.style.display = 'none'
         }
 
         const handleMouseOverStadium = (e) => {
-            console.clear()
+            // console.clear()
             console.log('handleMouseOverStadium: ', e)
-            console.log('mouseOverTooltip: ', mouseOverTooltip)
+            // console.log('mouseOverTooltip: ', mouseOverTooltip)
             mouseOverStadium = true
             const tooltip = document.getElementById('tooltip')
             // console.log('tooltip.style.display: ', tooltip.style.display)
@@ -400,7 +403,7 @@ const displayStadiumTooltip = () => {
             // mouseOverTooltip = true
             // console.log('e.target: ', e.target)
             stadium = e.target
-            // stadium.classList.add('hover')
+            stadium.classList.add('hover')
             const stadiumId = e.target.getAttribute('data-stadium-id')
             const radius = e.target.getAttribute('r')
             // console.log('radius: ', radius);
@@ -445,7 +448,7 @@ const displayStadiumTooltip = () => {
                 const tooltipRect = tooltip.getBoundingClientRect()
                 const innerHeight = window.innerHeight
                 const rect = e.target.getBoundingClientRect()
-                console.log('rect: ', rect)
+                // console.log('rect: ', rect)
                 // console.log('radius: ', radius);
                 // const def = e.target.clientX
                 // console.log('def: ', def)
@@ -465,16 +468,16 @@ const displayStadiumTooltip = () => {
                 const svgObjectRect = svgObject.getBoundingClientRect()
                 // console.log('svgObjectRect: ', svgObjectRect);
 
-                if (clientY < (svgObjectRect.height / 2)) {
+                if (clientY < svgObjectRect.height / 2) {
                     // console.log('top')
                 } else {
                     // console.log('bottom')
                 }
 
-                if (clientX > (offsetWidth / 2)) {
-                    tooltip.style.left = `${rect.x - 410 - (rect.width)}px`
+                if (clientX > offsetWidth / 2) {
+                    tooltip.style.left = `${rect.x - 410 - rect.width}px`
                 } else {
-                    tooltip.style.left = `${rect.x + (rect.width)}px`
+                    tooltip.style.left = `${rect.x + rect.width}px`
                 }
                 // tooltip.style.left = `${rect.x + (rect.width)}px`
                 if (clientY < tooltipRect.height / 2) {
@@ -499,7 +502,6 @@ const displayStadiumTooltip = () => {
                 // mouseOverTooltip = true
                 // tooltip.style.margin = '0px 20px'
                 mouseOverTooltip = true
-
 
                 // tooltip.style.visibility = 'hidden'
 
@@ -558,15 +560,18 @@ const displayStadiumTooltip = () => {
         const handleMouseLeaveStadium = (e) => {
             console.log('handleMouseLeaveStadium')
             const tooltip = document.getElementById('tooltip')
+            // if (!mouseOverTooltip) {
+            stadium.classList.remove('hover')
+            // }
             // console.log('e.target.parentNode: ', e.target.parentNode)
             // mouseOverTooltip = false
             mouseOverStadium = false
-            console.log('mouseOverTooltip: ', mouseOverTooltip);
+            // console.log('mouseOverTooltip: ', mouseOverTooltip);
             if (tooltip) {
-                if (!mouseOverTooltip) {
-                    // stadium.classList.remove('hover')
-                    // tooltip.style.display = 'none'
-                }
+                // if (!mouseOverTooltip) {
+                // stadium.classList.remove('hover')
+                tooltip.style.display = 'none'
+                // }
             }
         }
 
@@ -702,7 +707,7 @@ const slugify = (str) => {
 }
 
 const formatNumber = (number) => {
-    return number.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",");
+    return number.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ',')
 }
 
 const hasSmallScreen = () => {
