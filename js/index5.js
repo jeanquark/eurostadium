@@ -288,7 +288,7 @@ const displayCountryTooltip = () => {
 
                 <div class="row align-center mt-4">
                     <div class="col-6">
-                        <img src="../images/countries/switzerland_stadium.jpg" width="100%" />
+                        <img src="../images/countries/${countryId}_stadium.jpg" width="100%" />
                     </div>
                     <div class="col-6">
                         <div class="row justify-center">
@@ -436,8 +436,9 @@ const displayStadiumTooltip = () => {
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-6 text-center">
                             <h3 class="text-center">${team1.team?.name}</h3>
+                            <img src="/images/clubs/${country}/${stadiumTeams[0]['team']['api_football_id']}.png" width="50%" alt="Team logo" />
                         </div>
                         <div class="col-6">
                             <h3 class="text-center">${team2?.team?.name}</h3>
