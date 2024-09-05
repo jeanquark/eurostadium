@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-germany"
-   viewBox="0 0 791.99896 791.99896" width="791.99896" height="791.99896">
+   viewBox="0 0 791.99896 791.99896" width="791.99896" height="791.99896" class="abc">
 
    <defs
       id="defs4">
@@ -17,6 +17,14 @@
          stroke:white;
          stroke-opacity: 1;
          stroke-width:0.5;
+         }
+         .land:hover {
+            fill: yellow;
+            cursor: auto;
+         }
+         svg:not(.land):hover {
+            background: #0d2abf;
+            cursor: pointer;
          }
       </style>
       <!-- <amcharts:ammap
@@ -112,8 +120,6 @@
       id="stadiums"
       data-country="germany"
       data-circle-radius="12">
-      <g
-         id="tooltip2" />
       <!-- <circle cx="100" cy="100" r="10" fill="#000000" id="Berlin" data-lat="52.514628"
             data-lng="13.239624" data-football-api-venue-id="694" data-stadium="Olympiastadion Berlin"
             data-city="Berlin" data-stadium-capacity="70 000" class="city" /> -->

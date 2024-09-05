@@ -21,6 +21,19 @@
     cursor: pointer; */
 }
 
+/* .svg-background {
+    background: lightgrey;
+} */
+
+/* .svg-background:hover {
+    background: #FF0000;
+    cursor: pointer;
+} */
+/* svg:not(.land) {
+    background: #FF0000;
+    cursor: pointer;
+} */
+
 #tooltip {
     width: 400px;
     padding: 10px;

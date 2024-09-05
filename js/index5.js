@@ -315,7 +315,10 @@ const displayCountryTooltip = () => {
                 // console.log('diff: ', diff)
                 const tooltipRect = tooltip.getBoundingClientRect()
                 if (clientX > offsetWidth / 2) {
-                    tooltip.style.left = `${rect.x - 410 - rect.width}px`
+                    // tooltip.style.left = `${rect.x - 410 - rect.width}px`
+                    // tooltip.style.left = `${rect.x - rect.width - parseInt(tooltipRect.width)}px`
+                    tooltip.style.left = `${rect.x - parseInt(tooltipRect.width)}px`
+                    // tooltip.style.left = offsetLeft + (clientX - parseInt(tooltipRect.width)) - 20 + 'px'
                 } else {
                     tooltip.style.left = `${rect.x + rect.width}px`
                 }
@@ -446,7 +449,6 @@ const displayStadiumTooltip = () => {
                     </div>
                 `
                 tooltip.style.position = 'absolute'
-                const tooltipRect = tooltip.getBoundingClientRect()
                 const innerHeight = window.innerHeight
                 const rect = e.target.getBoundingClientRect()
                 // console.log('rect: ', rect)
@@ -475,8 +477,12 @@ const displayStadiumTooltip = () => {
                     // console.log('bottom')
                 }
 
+                tooltip.style.display = 'block'
+                const tooltipRect = tooltip.getBoundingClientRect()
+
                 if (clientX > offsetWidth / 2) {
-                    tooltip.style.left = `${rect.x - 410 - rect.width}px`
+                    // tooltip.style.left = `${rect.x - 410 - rect.width}px`
+                    tooltip.style.left = `${rect.x - tooltipRect.width + 5}px`
                 } else {
                     tooltip.style.left = `${rect.x + rect.width}px`
                 }

@@ -1,113 +1,109 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
+        <!-- <meta name="robots" content="noindex, nofollow" /> -->
+        <!-- <meta name="referrer" content="origin" /> -->
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <!-- <meta name="robots" content="noindex, nofollow" /> -->
-    <!-- <meta name="referrer" content="origin" /> -->
+        <!-- styles -->
+        <link rel="icon" type="image/x-icon" href="./static/favicon.png" />
+        <link rel="stylesheet" href="./styles/common.css" />
+        <link rel="stylesheet" href="./styles/home.css" />
+        <style>
+            body {
+                margin: 0;
+            }
 
-    <!-- styles -->
-    <link rel="icon" type="image/x-icon" href="./static/favicon.png" />
-    <link rel="stylesheet" href="./styles/common.css" />
-    <link rel="stylesheet" href="./styles/home.css" />
-    <style>
-        body {
-            margin: 0;
-        }
+            main {
+                background-color: lightgrey;
+                background-image: url('/images/svg/background3.svg');
+                /* background-size: cover; */
+                background-repeat: repeat;
+                margin: 0;
+            }
 
-        main {
-            background-color: lightgrey;
-            background-image: url('/images/svg/background3.svg');
-            /* background-size: cover; */
-            background-repeat: repeat;
-            margin: 0;
-        }
+            .hidden {
+                display: none;
+            }
 
-        .hidden {
-            display: none;
-        }
+            .footer {
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+            }
+        </style>
+    </head>
 
-        .footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
+    <body>
+        <header class="row justify-center" style="background: #003399">
+            <div class="col-12">
+                <h1 class="text-white text-center">eurostadium.net</h1>
+                <h3 class="text-white text-center">Football stadiums across Europe</h3>
+                <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
 
-<body>
-    <header class="row justify-center" style="background: #003399">
-        <div class="col-12">
-            <h1 class="text-white text-center">eurostadium.net</h1>
-            <h3 class="text-white text-center">Football stadiums across Europe</h3>
-            <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
-
-            <!-- <br /><br /> -->
-            <!-- <object data="./images/document2.pdf" type="application/pdf" width="300" height="200"></object> -->
-        </div>
-    </header>
-    <main>
-        <div class="row py-2">
-            <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
-            <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
-            <!-- <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button> -->
-            <a href="tests/modal.html">Modal</a>
-            <!-- <span class="mx-2">mouseOverStadium: <span id="mouseOverStadium"></span></span> -->
-            <!-- <span class="mx-2">mouseOverTooltip: <span id="mouseOverTooltip"></span></span> -->
-        </div>
-        <div class="row">
-            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 border-3"></div>
-            <div class="col-xl-4 col-lg-8 col-md-10 col-sm-12" id="svgWrapper"
-                style="position: relative; background: lightgrey; border: 2px solid purple">
-                <object type="image/svg+xml" id="svgObject" style="width: 100%; border: 2px dashed blue">
-                    <img src="./images/no-image.png" />
-                </object>
-                <div id="tooltip" class="" style=""></div>
+                <!-- <br /><br /> -->
+                <!-- <object data="./images/document2.pdf" type="application/pdf" width="300" height="200"></object> -->
             </div>
-            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 border-3">
-                <div class="hidden" id="buttonsPanel">
-                    <button hx-on:click="filterStadiums('all')">All teams</button><br />
-                    <button hx-on:click="filterStadiums('top_league')">Top league teams</button><br />
-                    <button hx-on:click="filterStadiums('second_league')">2nd league teams</button><br />
-                    <button hx-on:click="filterStadiums('stadium_sm')">
-                        < 20 000</button><br />
-                            <button hx-on:click="filterStadiums('stadium_md')">20 000 < 40 000</button><br />
-                                    <button hx-on:click="filterStadiums('stadium_lg')">40 000 < 60 000</button><br />
-                                            <button hx-on:click="filterStadiums('stadium_xl')">> 60 000</button><br />
+        </header>
+        <main>
+            <div class="row py-2">
+                <button hx-on:click="displayMap('europe-with-russia')">Go to Europe map</button>
+                <button hx-on:click="displayMap('countries/germany')">Go to Germany map</button>
+                <!-- <button hx-on:click="calculateSVGCoord()">Calculate SVG coord</button> -->
+                <a href="tests/modal.html">Modal</a>
+                <!-- <span class="mx-2">mouseOverStadium: <span id="mouseOverStadium"></span></span> -->
+                <!-- <span class="mx-2">mouseOverTooltip: <span id="mouseOverTooltip"></span></span> -->
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 border-3"></div>
+                <div class="col-xl-4 col-lg-8 col-md-10 col-sm-12" id="svgWrapper" style="position: relative; background: lightgrey; border: 2px solid purple">
+                    <object type="image/svg+xml" id="svgObject" style="width: 100%; border: 2px dashed blue">
+                        <img src="./images/no-image.png" />
+                    </object>
+                    <div id="tooltip" class="" style=""></div>
+                </div>
+                <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 border-3">
+                    <div class="hidden" id="buttonsPanel">
+                        <button hx-on:click="filterStadiums('all')">All teams</button><br />
+                        <button hx-on:click="filterStadiums('top_league')">Top league teams</button><br />
+                        <button hx-on:click="filterStadiums('second_league')">2nd league teams</button><br />
+                        <button hx-on:click="filterStadiums('stadium_sm')">< 20 000</button><br />
+                        <button hx-on:click="filterStadiums('stadium_md')">20 000 < 40 000</button><br />
+                        <button hx-on:click="filterStadiums('stadium_lg')">40 000 < 60 000</button><br />
+                        <button hx-on:click="filterStadiums('stadium_xl')">> 60 000</button><br />
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row border-3 my-0">
-            <div class="col-12 border-1" style="height: 400px"></div>
-        </div>
-    </main>
+            <div class="row border-3 my-0">
+                <div class="col-12 border-1" style="height: 400px"></div>
+            </div>
+        </main>
 
-    <footer class="footer text-center border-2 py-4" style="background: #003399">
-        <small class="text-white">eurostadium.net</small>
-    </footer>
+        <footer class="footer text-center border-2 py-4" style="background: #003399">
+            <small class="text-white">eurostadium.net</small>
+        </footer>
 
-    <!-- scripts -->
-    <!-- htmx -->
-    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
-    <!-- Zoom & pan svg -->
-    <script src="./svg-pan-zoom.min.js"></script>
+        <!-- scripts -->
+        <!-- htmx -->
+        <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+        <!-- Zoom & pan svg -->
+        <script src="./svg-pan-zoom.min.js"></script>
 
-    <!-- <script src="/js/index.js"></script> -->
+        <!-- <script src="/js/index.js"></script> -->
 
-    <!-- <script src="/js/index2.js"></script> -->
+        <!-- <script src="/js/index2.js"></script> -->
 
-    <!-- <script src="/js/index3.js"></script> -->
+        <!-- <script src="/js/index3.js"></script> -->
 
-    <!-- <script src="/js/index4.js"></script> -->
+        <!-- <script src="/js/index4.js"></script> -->
 
-    <script src="/js/index5.js"></script>
+        <script src="/js/index5.js"></script>
 
-    <script></script>
-</body>
-
+        <script></script>
+    </body>
 </html>
