@@ -17,6 +17,10 @@ window.onload = (event) => {
 let country
 let countryTeams = []
 let stadium
+// let cities
+let filter = 'all'
+let leaguesIdArray = []
+let leagueColors = ['#FF0000', '#FFFF00']
 let svgObject = document.getElementById('svgObject')
 let mouseOverStadium = false
 let mouseOverTooltip = false
@@ -71,8 +75,8 @@ svgObject.addEventListener('load', async () => {
                 const circleRadius = stadiumObj.getAttribute('data-circle-radius')
                 // console.log('circleRadius: ', circleRadius);
                 var stadiums = stadiumObj.querySelectorAll('.stadium')
-                if (cities) {
-                    for (var i = 0; i < cities.length; i++) {
+                if (stadiums) {
+                    for (var i = 0; i < stadiums.length; i++) {
                         // console.log('cities[i]: ', cities[i])
                         stadiums[i].setAttribute('r', parseInt(circleRadius - newZoom) + 1)
                     }
@@ -117,7 +121,16 @@ const eventListenerDesktop = () => {
                         country = path.getAttribute('id')
                         console.log('country: ', country)
                         if (country && path.getAttribute('data-country')) {
-                            document.getElementById('buttonsPanel').classList.remove('hidden')
+                            const infoPanel = document.getElementById('infoPanel')
+                            if (infoPanel) {
+                                infoPanel.classList.remove('hidden')
+                                const countryInfo = document.getElementById('countryInfo')
+                                if (countryInfo) {
+                                    countryInfo.innerHTML = `<h3 class="text-center text-uppercase">${country}</h3><img src="/images/flags/${country}.png" width="30%" />            
+                                `}
+                            }
+                            document.getElementById('filterPanel').classList.remove('hidden')
+
                             svgObject.data = `./images/svg/countries/${country}.svg`
 
                             const tooltip = document.getElementById('tooltip')
@@ -172,7 +185,7 @@ const eventListenerMobile = () => {
                 // console.log('country: ', country);
                 if (country) {
                     // console.log('country2: ', country)
-                    document.getElementById('buttonsPanel').classList.remove('hidden')
+                    document.getElementById('filterPanel').classList.remove('hidden')
                     svgObject.data = `./images/svg/countries/${country}.svg`
                 }
             } else if (flag == 1) {
@@ -184,7 +197,15 @@ const eventListenerMobile = () => {
 }
 
 const displayMap = (map) => {
-    document.getElementById('buttonsPanel').classList.add('hidden')
+    console.log('displayMap map: ', map)
+    const infoPanel = document.getElementById('infoPanel')
+    if (infoPanel) {
+        infoPanel.classList.add('hidden')
+    }
+    const filterPanel = document.getElementById('filterPanel')
+    if (filterPanel) {
+        filterPanel.classList.add('hidden')
+    }
     svgObject.data = `./images/svg/${map}.svg`
 }
 
@@ -231,7 +252,6 @@ const displayCountryTooltip = () => {
             let leagues = ''
             let leaguesId = ''
             let leaguesArray = []
-            let leaguesIdArray = []
             let population
 
             countryId = e.target.id
@@ -286,19 +306,25 @@ const displayCountryTooltip = () => {
                     </div>
                 </div>
 
-                <div class="row align-center mt-4">
+                <div class="row mt-4 border-1" style="display: flex-row;
+                justify-content: center;
+                align-items: center;">
                     <div class="col-6">
                         <img src="../images/countries/${countryId}_stadium.jpg" width="100%" />
                     </div>
-                    <div class="col-6">
-                        <div class="row justify-center">
-                            <div class="col-6 text-center">
-                                <h3>${leaguesArray[0]}</h3>
-                                <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" />
+                    <div class="col-6 border-2">
+                        <div class="row">
+                            <div class="col-6 text-center border-3" style="display: flex-row;
+                            justify-content: center;
+                            align-items: center;">
+                                <h3 class="border-5">${leaguesArray[0]}</h3>
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" class="border-5" />
                             </div>
-                            <div class="col-6 text-center">
-                                <h3>${leaguesArray[1]}</h3>
-                                <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" />
+                            <div class="col-6 text-center border-4" style="display: flex-row;
+                            justify-content: center;
+                            align-items: center;">
+                                <h3 class="border-5">${leaguesArray[1]}</h3>
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" class="border-5" />
                             </div>
                         </div>
                     </div>
@@ -611,13 +637,27 @@ const displayStadiums = async (country) => {
             // console.log('teams: ', teams)
             let newElement
             const leagues = [...new Set(countryTeams.map((item) => item['league']['api_football_id']))]
+            // setLeagueColors()
+            const circleColors = stadiumObj.getAttribute('data-circle-colors').split(',')
+            if (circleColors && circleColors.length == 2) {
+                leagueColors[0] = circleColors[0]
+                leagueColors[1] = circleColors[1]
+            }
+            // let colors = ['#FF0000', '#FFFF00']
+            // const circleColors = stadiumObj.getAttribute('data-circle-colors').split(',')
+            // if (circleColors.length == 2) {
+            //     colors[0] = circleColors[0]
+            //     colors[1] = circleColors[1]
+            // }
+            // console.log('colors: ', colors);
+
             // console.log('leagues: ', leagues)
             for (let i = 0; i < countryTeams.length; i++) {
                 newElement = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
                 newElement.setAttribute('cx', countryTeams[i]['venue']['x'])
                 newElement.setAttribute('cy', countryTeams[i]['venue']['y'] + 0)
                 newElement.setAttribute('r', circleRadius)
-                newElement.setAttribute('fill', countryTeams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+                newElement.setAttribute('fill', countryTeams[i]['league']['api_football_id'] == leagues[0] ? leagueColors[0] : leagueColors[1])
                 newElement.setAttribute('data-city', countryTeams[i]['venue']['city'])
                 newElement.setAttribute('data-stadium-id', countryTeams[i]['venue']['api_football_id'])
                 newElement.setAttribute('class', 'stadium')
@@ -658,29 +698,71 @@ const filterStadiums = async (filter) => {
         let teams = JSON.parse(JSON.stringify(countryTeams))
         let newTeams = []
 
+        const removeActiveClass = () => {
+            const buttons = document.getElementsByClassName("btn")
+            for (let i = 0; i < buttons.length; i++) {
+                buttons[i].classList.remove("active")
+            }
+        }
+
         switch (filter) {
             case 'all':
                 newTeams = teams
+                removeActiveClass()
+                const btnAll = document.getElementById("btnAll")
+                if (btnAll) {
+                    btnAll.classList.add("active")
+                }
                 break
             case 'top_league':
-                // console.log('top_league')
-                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(113))
+                console.log('top_league')
+                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(leaguesIdArray[0]))
+                removeActiveClass()
+                const btnTop = document.getElementById("btnTop")
+                if (btnTop) {
+                    btnTop.classList.add("active")
+                }
                 break
             case 'second_league':
-                // console.log('second_league')
-                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(114))
+                console.log('second_league')
+                newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(leaguesIdArray[1]))
+                removeActiveClass()
+                const btnSecond = document.getElementById("btnSecond")
+                if (btnSecond) {
+                    btnSecond.classList.add("active")
+                }
                 break
             case 'stadium_sm':
                 newTeams = teams.filter((team) => team.venue.capacity < 20000)
+                removeActiveClass
+                const btnSm = document.getElementById("btnSm")
+                if (btnSm) {
+                    btnSm.classList.add("active")
+                }
                 break
             case 'stadium_md':
                 newTeams = teams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
+                removeActiveClass()
+                const btnMd = document.getElementById("btnMd")
+                if (btnMd) {
+                    btnMd.classList.add("active")
+                }
                 break
             case 'stadium_lg':
                 newTeams = teams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
+                removeActiveClass()
+                const btnLg = document.getElementById("btnLg")
+                if (btnLg) {
+                    btnLg.classList.add("active")
+                }
                 break
             case 'stadium_xl':
                 newTeams = teams.filter((team) => team.venue.capacity >= 60000)
+                removeActiveClass()
+                const btnXl = document.getElementById("btnXl")
+                if (btnXl) {
+                    btnXl.classList.add("active")
+                }
                 break
         }
 
@@ -690,7 +772,7 @@ const filterStadiums = async (filter) => {
             newElement.setAttribute('cx', newTeams[i]['venue']['x'])
             newElement.setAttribute('cy', newTeams[i]['venue']['y'] + 0)
             newElement.setAttribute('r', circleRadius)
-            newElement.setAttribute('fill', newTeams[i]['league']['api_football_id'] == leagues[0] ? '#FF0000' : '#FFFF00')
+            newElement.setAttribute('fill', newTeams[i]['league']['api_football_id'] == leagues[0] ? leagueColors[0] : leagueColors[1])
             newElement.setAttribute('data-city', newTeams[i]['venue']['city'])
             newElement.setAttribute('data-stadium-id', newTeams[i]['venue']['api_football_id'])
             newElement.setAttribute('class', 'stadium')
@@ -698,8 +780,20 @@ const filterStadiums = async (filter) => {
             newElement.setAttribute('capacity', newTeams[i]['venue']['capacity'])
             stadiumObj.appendChild(newElement)
         }
+        displayStadiumTooltip()
     } catch (error) {
         console.log('error: ', error)
+    }
+}
+
+const setLeagueColors = () => {
+    const svgObject = document.getElementById('svgObject')
+    const svgContent = svgObject.contentDocument
+    const stadiumObj = svgContent.getElementById('stadiums')
+    const circleColors = stadiumObj.getAttribute('data-circle-colors').split(',')
+    if (circleColors && circleColors.length == 2) {
+        leagueColors[0] = circleColors[0]
+        leagueColors[1] = circleColors[1]
     }
 }
 

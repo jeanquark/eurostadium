@@ -1,0 +1,22 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <defs
+        id="defs4">
+        <style
+            type="text/css"
+            id="style2">
+            .rectangle:hover {
+            fill: #FF0000;
+            cursor: pointer;
+            }
+            .ellipse:hover {
+            fill: #FF0000;
+            }
+        </style>
+    </defs>
+    <g id="Layer_1">
+        <title>Layer 1</title>
+        <rect id="svg_1" class="rectangle" stroke-width="0" stroke="#000" height="400" width="400" y="0" x="0" fill="#FFAAB8" />
+        <ellipse id="svg_2" class="ellipse" stroke-width="0" ry="102.5" rx="102.5" cy="197.49999"
+            cx="201.24998" stroke="#000" fill="#CFCA6D" />
+    </g>
+</svg>

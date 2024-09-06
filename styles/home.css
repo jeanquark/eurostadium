@@ -34,6 +34,24 @@
     cursor: pointer;
 } */
 
+.btn {
+    padding: .6em;
+    border-radius: .4em;
+    background: #325bad;
+    border: none;
+    color: #FFFFFF;
+    margin: .3em;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: #003399;
+}
+
+.btn.active {
+    background: #003399;
+}
+
 #tooltip {
     width: 400px;
     padding: 10px;

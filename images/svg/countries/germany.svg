@@ -3,7 +3,7 @@
 <!-- https://www.amcharts.com/svg-maps -->
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" id="map-germany"
-   viewBox="0 0 791.99896 791.99896" width="791.99896" height="791.99896" class="abc">
+   viewBox="0 0 791.99896 791.99896" width="791.99896" height="791.99896" class="">
 
    <defs
       id="defs4">
@@ -18,13 +18,9 @@
          stroke-opacity: 1;
          stroke-width:0.5;
          }
-         .land:hover {
-            fill: yellow;
-            cursor: auto;
-         }
-         svg:not(.land):hover {
-            background: #0d2abf;
-            cursor: pointer;
+         .rectangle:hover {
+         fill: #bdbdbd;
+         cursor: pointer;
          }
       </style>
       <!-- <amcharts:ammap
@@ -36,6 +32,7 @@
       <!-- All areas are listed in the line below. You can use this list in your script. -->
       <!--{id:"DE-BW"},{id:"DE-BY"},{id:"DE-BE"},{id:"DE-BB"},{id:"DE-HB"},{id:"DE-HH"},{id:"DE-HE"},{id:"DE-MV"},{id:"DE-NI"},{id:"DE-NW"},{id:"DE-RP"},{id:"DE-SL"},{id:"DE-SN"},{id:"DE-ST"},{id:"DE-SH"},{id:"DE-TH"}-->
    </defs>
+   <rect id="background" class="rectangle" stroke-width="0" stroke="#000" width="791.99896" height="791.99896" y="0" x="0" fill="#d3d3d3" />
    <path
       id="DE-BW"
       title="Baden-Wurttemberg"
@@ -119,7 +116,8 @@
    <g
       id="stadiums"
       data-country="germany"
-      data-circle-radius="12">
+      data-circle-radius="12"
+      data-circle-colors="#a149be,#bea149">
       <!-- <circle cx="100" cy="100" r="10" fill="#000000" id="Berlin" data-lat="52.514628"
             data-lng="13.239624" data-football-api-venue-id="694" data-stadium="Olympiastadion Berlin"
             data-city="Berlin" data-stadium-capacity="70 000" class="city" /> -->

@@ -167,7 +167,7 @@
         "xMax": 595.64178,
         "yMax": 584.59808,
         "xTranslate": 0,
-        "yTranslate": 0
+        "yTranslate": 6
     },
     "georgia": {
         "leftLongitude": "40.011506",
@@ -477,7 +477,7 @@
         "xMax": 612.58246,
         "yMax": 391.84637,
         "xTranslate": 0,
-        "yTranslate": 0
+        "yTranslate": 113
     },
     "turkey": {
         "leftLongitude": "25.663689",

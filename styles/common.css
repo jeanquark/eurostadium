@@ -2,19 +2,20 @@
     display: flex;
     /* flex-wrap: wrap; */
 }
-
 .justify-center {
     justify-content: center;
 }
-
 .align-center {
-    align-items: center;
+    /* align-items: center; */
+    align-content: center;
+}
+.hidden {
+    display: none;
 }
 
 .text-center {
     text-align: center;
 }
-
 .text-left {
     text-align: left;
 }
@@ -24,12 +25,14 @@
 .text-justify {
     text-align: justify;
 }
-
 .text-white {
     color: white;
 }
 .text-black {
     color: black;
+}
+.text-uppercase {
+    text-transform: uppercase;
 }
 
 /* Flexbox */
