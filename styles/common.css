@@ -6,7 +6,9 @@
     justify-content: center;
 }
 .align-center {
-    /* align-items: center; */
+    align-items: center;
+}
+.align-content {
     align-content: center;
 }
 .hidden {

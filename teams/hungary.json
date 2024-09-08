@@ -17,7 +17,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -46,7 +46,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -75,7 +75,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -104,7 +104,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -133,7 +133,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -162,7 +162,7 @@
 			"lat": 0,
 			"lng": 0,
 			"x": -1455.4,
-			"y": 6439.3,
+			"y": 6556.3,
 			"url": ""
 		},
 		"league": {
@@ -191,7 +191,7 @@
 			"lat": 47.553889,
 			"lng": 21.633333,
 			"x": 498.5,
-			"y": 136.8,
+			"y": 253.8,
 			"url": "https://en.wikipedia.org/wiki/Nagyerdei_Stadion"
 		},
 		"league": {
@@ -220,7 +220,7 @@
 			"lat": 48.099444,
 			"lng": 20.717222,
 			"x": 415.8,
-			"y": 64.5,
+			"y": 181.5,
 			"url": "https://en.wikipedia.org/wiki/Di%C3%B3sgy%C5%91ri_Stadion"
 		},
 		"league": {
@@ -249,7 +249,7 @@
 			"lat": 48.225434,
 			"lng": 22.087968,
 			"x": 539.6,
-			"y": 47.8,
+			"y": 164.8,
 			"url": "https://en.wikipedia.org/wiki/V%C3%A1rkerti_Stadion"
 		},
 		"league": {
@@ -278,7 +278,7 @@
 			"lat": 47.490833,
 			"lng": 19.106667,
 			"x": 270.3,
-			"y": 145.2,
+			"y": 262.2,
 			"url": "https://en.wikipedia.org/wiki/Hidegkuti_N%C3%A1ndor_Stadion"
 		},
 		"league": {
@@ -307,7 +307,7 @@
 			"lat": 46.848611,
 			"lng": 16.848611,
 			"x": 66.4,
-			"y": 230.3,
+			"y": 347.3,
 			"url": "https://en.wikipedia.org/wiki/ZTE_Arena"
 		},
 		"league": {
@@ -336,7 +336,7 @@
 			"lat": 46.901389,
 			"lng": 19.668889,
 			"x": 321.1,
-			"y": 223.3,
+			"y": 340.3,
 			"url": "https://en.wikipedia.org/wiki/Sz%C3%A9kt%C3%B3i_Stadion"
 		},
 		"league": {
@@ -365,7 +365,7 @@
 			"lat": 47.4425,
 			"lng": 19.155,
 			"x": 274.7,
-			"y": 151.6,
+			"y": 268.6,
 			"url": "https://en.wikipedia.org/wiki/Bozsik_Ar%C3%A9na"
 		},
 		"league": {
@@ -394,7 +394,7 @@
 			"lat": 47.536978,
 			"lng": 19.080473,
 			"x": 268,
-			"y": 139.1,
+			"y": 256.1,
 			"url": "https://en.wikipedia.org/wiki/Illovszky_Rudolf_Stadion"
 		},
 		"league": {
@@ -423,7 +423,7 @@
 			"lat": 47.234762,
 			"lng": 16.607117,
 			"x": 44.6,
-			"y": 179.1,
+			"y": 296.1,
 			"url": "https://en.wikipedia.org/wiki/Halad%C3%A1s_Sportkomplexum"
 		},
 		"league": {
@@ -452,7 +452,7 @@
 			"lat": 47.6329,
 			"lng": 17.5927,
 			"x": 133.6,
-			"y": 126.4,
+			"y": 243.4,
 			"url": "https://en.wikipedia.org/wiki/M%C3%A9nf%C5%91i_%C3%BAti_Stadion"
 		},
 		"league": {
@@ -481,7 +481,7 @@
 			"lat": 47.421717,
 			"lng": 19.028208,
 			"x": 263.2,
-			"y": 154.3,
+			"y": 271.3,
 			"url": "https://en.wikipedia.org/wiki/Promontor_utcai_Stadion"
 		},
 		"league": {
@@ -510,7 +510,7 @@
 			"lat": 47.695769,
 			"lng": 17.663827,
 			"x": 140,
-			"y": 118,
+			"y": 235,
 			"url": "https://en.wikipedia.org/wiki/ETO_Park"
 		},
 		"league": {
@@ -539,7 +539,7 @@
 			"lat": 47.611561,
 			"lng": 21.349071,
 			"x": 472.9,
-			"y": 129.2,
+			"y": 246.2,
 			"url": "https://en.wikipedia.org/wiki/Balmaz%C3%BAjv%C3%A1rosi_V%C3%A1rosi_Sportp%C3%A1lya"
 		},
 		"league": {
@@ -568,7 +568,7 @@
 			"lat": 47.390074,
 			"lng": 19.112656,
 			"x": 270.9,
-			"y": 158.5,
+			"y": 275.5,
 			"url": ""
 		},
 		"league": {
@@ -597,7 +597,7 @@
 			"lat": 47.401305,
 			"lng": 18.46809,
 			"x": 212.6,
-			"y": 157.1,
+			"y": 274.1,
 			"url": ""
 		},
 		"league": {
@@ -626,7 +626,7 @@
 			"lat": 48.243889,
 			"lng": 20.610278,
 			"x": 406.1,
-			"y": 45.4,
+			"y": 162.4,
 			"url": "https://en.wikipedia.org/wiki/Kolorcity_Ar%C3%A9na"
 		},
 		"league": {
@@ -655,7 +655,7 @@
 			"lat": 47.884694,
 			"lng": 17.276806,
 			"x": 105.1,
-			"y": 93,
+			"y": 210,
 			"url": "https://en.wikipedia.org/wiki/Wittmann_Antal_park"
 		},
 		"league": {
@@ -684,7 +684,7 @@
 			"lat": 46.909167,
 			"lng": 18.061389,
 			"x": 175.9,
-			"y": 222.3,
+			"y": 339.3,
 			"url": "https://en.wikipedia.org/wiki/R%C3%A9v%C3%A9sz_G%C3%A9za_utcai_Stadion"
 		},
 		"league": {
@@ -713,7 +713,7 @@
 			"lat": 46.935173,
 			"lng": 20.10552,
 			"x": 360.5,
-			"y": 218.8,
+			"y": 335.8,
 			"url": ""
 		},
 		"league": {
@@ -742,7 +742,7 @@
 			"lat": 46.261361,
 			"lng": 20.118139,
 			"x": 361.7,
-			"y": 308.1,
+			"y": 425.1,
 			"url": "https://en.wikipedia.org/wiki/Szent_Gell%C3%A9rt_F%C3%B3rum"
 		},
 		"league": {
@@ -771,7 +771,7 @@
 			"lat": 46.037912,
 			"lng": 18.290157,
 			"x": 196.6,
-			"y": 337.7,
+			"y": 454.7,
 			"url": ""
 		},
 		"league": {
@@ -800,7 +800,7 @@
 			"lat": 47.110337,
 			"lng": 17.548335,
 			"x": 129.6,
-			"y": 195.6,
+			"y": 312.6,
 			"url": ""
 		},
 		"league": {
@@ -829,7 +829,7 @@
 			"lat": 47.523611,
 			"lng": 19.091667,
 			"x": 269,
-			"y": 140.8,
+			"y": 257.8,
 			"url": "https://en.wikipedia.org/wiki/Sz%C5%91nyi_%C3%BAti_Stadion"
 		},
 		"league": {
@@ -858,7 +858,7 @@
 			"lat": 46.068497,
 			"lng": 18.195891,
 			"x": 188.1,
-			"y": 333.7,
+			"y": 450.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_PMFC"
 		},
 		"league": {

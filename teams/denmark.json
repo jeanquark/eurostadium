@@ -17,7 +17,7 @@
 			"lat": 55.713814,
 			"lng": 9.557161,
 			"x": 205.2,
-			"y": 506,
+			"y": 599,
 			"url": "https://en.wikipedia.org/wiki/Vejle_Stadium"
 		},
 		"league": {
@@ -46,7 +46,7 @@
 			"lat": 56.116868,
 			"lng": 8.951669,
 			"x": 121.4,
-			"y": 405.9,
+			"y": 498.9,
 			"url": "https://en.wikipedia.org/wiki/MCH_Arena"
 		},
 		"league": {
@@ -75,7 +75,7 @@
 			"lat": 55.815847,
 			"lng": 12.353289,
 			"x": 592.3,
-			"y": 480.7,
+			"y": 573.7,
 			"url": "https://en.wikipedia.org/wiki/Right_to_Dream_Park"
 		},
 		"league": {
@@ -104,7 +104,7 @@
 			"lat": 55.702469,
 			"lng": 12.572203,
 			"x": 622.6,
-			"y": 508.8,
+			"y": 601.8,
 			"url": ""
 		},
 		"league": {
@@ -133,7 +133,7 @@
 			"lat": 56.46594,
 			"lng": 10.010262,
 			"x": 267.9,
-			"y": 319.2,
+			"y": 412.2,
 			"url": "https://en.wikipedia.org/wiki/Randers_Stadium"
 		},
 		"league": {
@@ -162,7 +162,7 @@
 			"lat": 55.397771,
 			"lng": 10.350055,
 			"x": 315,
-			"y": 584.4,
+			"y": 677.4,
 			"url": "https://en.wikipedia.org/wiki/Odense_Stadium"
 		},
 		"league": {
@@ -191,7 +191,7 @@
 			"lat": 56.132033,
 			"lng": 10.196589,
 			"x": 293.7,
-			"y": 402.1,
+			"y": 495.1,
 			"url": "https://en.wikipedia.org/wiki/Aarhus_Stadium"
 		},
 		"league": {
@@ -220,7 +220,7 @@
 			"lat": 55.648889,
 			"lng": 12.418611,
 			"x": 601.3,
-			"y": 522.1,
+			"y": 615.1,
 			"url": "https://en.wikipedia.org/wiki/Br%C3%B8ndby_Stadium"
 		},
 		"league": {
@@ -249,7 +249,7 @@
 			"lat": 55.78134,
 			"lng": 12.505628,
 			"x": 613.4,
-			"y": 489.2,
+			"y": 582.2,
 			"url": "https://en.wikipedia.org/wiki/Lyngby_Stadium"
 		},
 		"league": {
@@ -278,7 +278,7 @@
 			"lat": 56.455897,
 			"lng": 9.402064,
 			"x": 183.7,
-			"y": 321.7,
+			"y": 414.7,
 			"url": "https://en.wikipedia.org/wiki/Viborg_Stadium"
 		},
 		"league": {
@@ -307,7 +307,7 @@
 			"lat": 55.631922,
 			"lng": 12.482878,
 			"x": 610.2,
-			"y": 526.3,
+			"y": 619.3,
 			"url": "https://en.wikipedia.org/wiki/Hvidovre_Stadium"
 		},
 		"league": {
@@ -336,7 +336,7 @@
 			"lat": 56.184302,
 			"lng": 9.575658,
 			"x": 207.8,
-			"y": 389.2,
+			"y": 482.2,
 			"url": "https://en.wikipedia.org/wiki/JYSK_Park"
 		},
 		"league": {
@@ -365,7 +365,7 @@
 			"lat": 55.261359,
 			"lng": 9.487791,
 			"x": 195.6,
-			"y": 618.3,
+			"y": 711.3,
 			"url": "https://en.wikipedia.org/wiki/Haderslev_Football_Stadium"
 		},
 		"league": {
@@ -394,7 +394,7 @@
 			"lat": 57.457661,
 			"lng": 9.998506,
 			"x": 266.3,
-			"y": 73,
+			"y": 166,
 			"url": "https://en.wikipedia.org/wiki/Hj%C3%B8rring_Stadium"
 		},
 		"league": {
@@ -423,7 +423,7 @@
 			"lat": 57.0515,
 			"lng": 9.8991,
 			"x": 252.5,
-			"y": 173.9,
+			"y": 266.9,
 			"url": "https://en.wikipedia.org/wiki/Aalborg_Stadium"
 		},
 		"league": {
@@ -452,7 +452,7 @@
 			"lat": 55.871555,
 			"lng": 9.857161,
 			"x": 246.7,
-			"y": 466.8,
+			"y": 559.8,
 			"url": "https://en.wikipedia.org/wiki/Forum_Horsens_Stadium"
 		},
 		"league": {
@@ -481,7 +481,7 @@
 			"lat": 56.635,
 			"lng": 9.82,
 			"x": 241.6,
-			"y": 277.3,
+			"y": 370.3,
 			"url": "https://en.wikipedia.org/wiki/Hobro_Stadium"
 		},
 		"league": {
@@ -510,7 +510,7 @@
 			"lat": 55.57825,
 			"lng": 9.7286,
 			"x": 228.9,
-			"y": 539.6,
+			"y": 632.6,
 			"url": "https://en.wikipedia.org/wiki/Fredericia_Stadium"
 		},
 		"league": {
@@ -539,7 +539,7 @@
 			"lat": 56.046583,
 			"lng": 12.596181,
 			"x": 625.9,
-			"y": 423.4,
+			"y": 516.4,
 			"url": "https://en.wikipedia.org/wiki/Helsing%C3%B8r_Stadium"
 		},
 		"league": {
@@ -568,7 +568,7 @@
 			"lat": 55.413596,
 			"lng": 12.134179,
 			"x": 561.9,
-			"y": 580.5,
+			"y": 673.5,
 			"url": "https://en.wikipedia.org/wiki/Herf%C3%B8lge_Stadium"
 		},
 		"league": {
@@ -597,7 +597,7 @@
 			"lat": 55.2231,
 			"lng": 11.7664,
 			"x": 511,
-			"y": 627.8,
+			"y": 720.8,
 			"url": "https://en.wikipedia.org/wiki/N%C3%A6stved_Stadium"
 		},
 		"league": {
@@ -626,7 +626,7 @@
 			"lat": 55.494167,
 			"lng": 9.459167,
 			"x": 191.6,
-			"y": 560.5,
+			"y": 653.5,
 			"url": "https://en.wikipedia.org/wiki/Kolding_Stadium"
 		},
 		"league": {
@@ -655,7 +655,7 @@
 			"lat": 55.704126,
 			"lng": 12.57485,
 			"x": 623,
-			"y": 508.4,
+			"y": 601.4,
 			"url": "https://en.wikipedia.org/wiki/%C3%98sterbro_Stadium"
 		},
 		"league": {
@@ -684,7 +684,7 @@
 			"lat": 55.945237,
 			"lng": 12.295911,
 			"x": 584.3,
-			"y": 448.5,
+			"y": 541.5,
 			"url": ""
 		},
 		"league": {

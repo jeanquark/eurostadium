@@ -16,7 +16,7 @@
 			"surface": "grass",
 			"lat": 42.66297,
 			"lng": 21.15688,
-			"x": 384.6,
+			"x": 428.6,
 			"y": 284.5,
 			"url": "https://en.wikipedia.org/wiki/Fadil_Vokrri_Stadium"
 		},
@@ -45,7 +45,7 @@
 			"surface": "grass",
 			"lat": 42.616446,
 			"lng": 20.903551,
-			"x": 296.8,
+			"x": 340.8,
 			"y": 306.3,
 			"url": "https://en.wikipedia.org/wiki/Rexhep_Rexhepi_Stadium"
 		},
@@ -74,7 +74,7 @@
 			"surface": "artificial turf",
 			"lat": 42.353243,
 			"lng": 20.82257,
-			"x": 268.7,
+			"x": 312.7,
 			"y": 429.7,
 			"url": ""
 		},
@@ -103,7 +103,7 @@
 			"surface": "artificial turf",
 			"lat": 42.453612,
 			"lng": 21.464586,
-			"x": 491.3,
+			"x": 535.3,
 			"y": 382.6,
 			"url": ""
 		},
@@ -132,7 +132,7 @@
 			"surface": "artificial turf",
 			"lat": 42.453612,
 			"lng": 21.464586,
-			"x": 491.3,
+			"x": 535.3,
 			"y": 382.6,
 			"url": ""
 		},
@@ -161,7 +161,7 @@
 			"surface": "grass",
 			"lat": 42.617034,
 			"lng": 20.58089,
-			"x": 185,
+			"x": 229,
 			"y": 306.1,
 			"url": ""
 		},
@@ -190,7 +190,7 @@
 			"surface": "grass",
 			"lat": 42.905073,
 			"lng": 21.19489,
-			"x": 397.8,
+			"x": 441.8,
 			"y": 171.1,
 			"url": "https://en.wikipedia.org/wiki/Zahir_Pajaziti_Stadium"
 		},
@@ -219,7 +219,7 @@
 			"surface": "grass",
 			"lat": 42.206992,
 			"lng": 20.729061,
-			"x": 236.3,
+			"x": 280.3,
 			"y": 498.2,
 			"url": ""
 		},
@@ -248,7 +248,7 @@
 			"surface": "artificial turf",
 			"lat": 42.482245,
 			"lng": 20.724799,
-			"x": 234.8,
+			"x": 278.8,
 			"y": 369.2,
 			"url": ""
 		},
@@ -277,7 +277,7 @@
 			"surface": "grass",
 			"lat": 42.63427,
 			"lng": 21.086662,
-			"x": 360.3,
+			"x": 404.3,
 			"y": 298,
 			"url": ""
 		},
@@ -306,7 +306,7 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": -6949.4,
+			"x": -6905.4,
 			"y": 20277.3,
 			"url": ""
 		},

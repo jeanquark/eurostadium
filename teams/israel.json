@@ -16,7 +16,7 @@
 			"surface": "grass",
 			"lat": 31.27315,
 			"lng": 34.779361,
-			"x": 95.1,
+			"x": 342.1,
 			"y": 435,
 			"url": "https://en.wikipedia.org/wiki/Turner_Stadium"
 		},
@@ -45,7 +45,7 @@
 			"surface": "grass",
 			"lat": 32.051728,
 			"lng": 34.761439,
-			"x": 92,
+			"x": 339,
 			"y": 278.3,
 			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
@@ -74,7 +74,7 @@
 			"surface": "grass",
 			"lat": 31.751167,
 			"lng": 35.190617,
-			"x": 166.1,
+			"x": 413.1,
 			"y": 338.8,
 			"url": "https://en.wikipedia.org/wiki/Teddy_Stadium"
 		},
@@ -103,7 +103,7 @@
 			"surface": "grass",
 			"lat": 32.783111,
 			"lng": 34.965167,
-			"x": 127.1,
+			"x": 374.1,
 			"y": 131.1,
 			"url": "https://en.wikipedia.org/wiki/Sammy_Ofer_Stadium"
 		},
@@ -132,7 +132,7 @@
 			"surface": "grass",
 			"lat": 32.783111,
 			"lng": 34.965167,
-			"x": 127.1,
+			"x": 374.1,
 			"y": 131.1,
 			"url": "https://en.wikipedia.org/wiki/Sammy_Ofer_Stadium"
 		},
@@ -161,7 +161,7 @@
 			"surface": "grass",
 			"lat": 32.866692,
 			"lng": 35.31085,
-			"x": 186.8,
+			"x": 433.8,
 			"y": 114.2,
 			"url": "https://en.wikipedia.org/wiki/Doha_Stadium"
 		},
@@ -190,7 +190,7 @@
 			"surface": "grass",
 			"lat": 31.751167,
 			"lng": 35.190617,
-			"x": 166.1,
+			"x": 413.1,
 			"y": 338.8,
 			"url": "https://en.wikipedia.org/wiki/Teddy_Stadium"
 		},
@@ -219,7 +219,7 @@
 			"surface": "grass",
 			"lat": 32.104197,
 			"lng": 34.865078,
-			"x": 109.9,
+			"x": 356.9,
 			"y": 267.7,
 			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
@@ -248,7 +248,7 @@
 			"surface": "grass",
 			"lat": 32.104197,
 			"lng": 34.865078,
-			"x": 109.9,
+			"x": 356.9,
 			"y": 267.7,
 			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
@@ -277,7 +277,7 @@
 			"surface": "grass",
 			"lat": 32.294333,
 			"lng": 34.864575,
-			"x": 109.8,
+			"x": 356.8,
 			"y": 229.5,
 			"url": "https://en.wikipedia.org/wiki/Netanya_Stadium"
 		},
@@ -306,7 +306,7 @@
 			"surface": "grass",
 			"lat": 32.051728,
 			"lng": 34.761439,
-			"x": 92,
+			"x": 339,
 			"y": 278.3,
 			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
@@ -335,7 +335,7 @@
 			"surface": "grass",
 			"lat": 32.294333,
 			"lng": 34.864575,
-			"x": 109.8,
+			"x": 356.8,
 			"y": 229.5,
 			"url": "https://en.wikipedia.org/wiki/Netanya_Stadium"
 		},
@@ -364,7 +364,7 @@
 			"surface": "grass",
 			"lat": 31.810278,
 			"lng": 34.648333,
-			"x": 72.4,
+			"x": 319.4,
 			"y": 326.9,
 			"url": "https://en.wikipedia.org/wiki/Yud-Alef_Stadium"
 		},
@@ -393,7 +393,7 @@
 			"surface": "grass",
 			"lat": 32.6898,
 			"lng": 35.311325,
-			"x": 186.9,
+			"x": 433.9,
 			"y": 149.9,
 			"url": "https://en.wikipedia.org/wiki/Green_Stadium,_Nof_HaGalil"
 		},
@@ -422,7 +422,7 @@
 			"surface": "grass",
 			"lat": 32.907897,
 			"lng": 35.086067,
-			"x": 148,
+			"x": 395,
 			"y": 105.9,
 			"url": "https://en.wikipedia.org/wiki/Acre_Municipal_Stadium"
 		},
@@ -451,7 +451,7 @@
 			"surface": "grass",
 			"lat": 32.627222,
 			"lng": 35.317222,
-			"x": 187.9,
+			"x": 434.9,
 			"y": 162.5,
 			"url": "https://en.wikipedia.org/wiki/Afula_Illit_Stadium"
 		},
@@ -480,7 +480,7 @@
 			"surface": "grass",
 			"lat": 32.6898,
 			"lng": 35.311325,
-			"x": 186.9,
+			"x": 433.9,
 			"y": 149.9,
 			"url": "https://en.wikipedia.org/wiki/Green_Stadium,_Nof_HaGalil"
 		},
@@ -509,7 +509,7 @@
 			"surface": "grass",
 			"lat": 32.100278,
 			"lng": 34.824167,
-			"x": 102.8,
+			"x": 349.8,
 			"y": 268.5,
 			"url": "https://en.wikipedia.org/wiki/Ramat_Gan_Stadium"
 		},
@@ -538,7 +538,7 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": -5908.8,
+			"x": -5661.8,
 			"y": 6730.5,
 			"url": "https://en.wikipedia.org/wiki/Grundman_Stadium"
 		},
@@ -567,7 +567,7 @@
 			"surface": "grass",
 			"lat": 31.974994,
 			"lng": 34.752839,
-			"x": 90.5,
+			"x": 337.5,
 			"y": 293.7,
 			"url": "https://en.wikipedia.org/wiki/Haberfeld_Stadium"
 		},
@@ -596,7 +596,7 @@
 			"surface": "grass",
 			"lat": 32.5332,
 			"lng": 35.1558,
-			"x": 160,
+			"x": 407,
 			"y": 181.4,
 			"url": "https://en.wikipedia.org/wiki/HaShalom_Stadium"
 		},
@@ -625,7 +625,7 @@
 			"surface": "grass",
 			"lat": 32.126417,
 			"lng": 34.965694,
-			"x": 127.2,
+			"x": 374.2,
 			"y": 263.3,
 			"url": "https://en.wikipedia.org/wiki/Kfar_Qassem_Football_Stadium"
 		},
@@ -654,7 +654,7 @@
 			"surface": "grass",
 			"lat": 32.181115,
 			"lng": 34.927071,
-			"x": 120.6,
+			"x": 367.6,
 			"y": 252.3,
 			"url": "https://en.wikipedia.org/wiki/Levita_Stadium"
 		},
@@ -683,7 +683,7 @@
 			"surface": "grass",
 			"lat": 32.104197,
 			"lng": 34.865078,
-			"x": 109.9,
+			"x": 356.9,
 			"y": 267.7,
 			"url": "https://en.wikipedia.org/wiki/HaMoshava_Stadium"
 		},
@@ -712,7 +712,7 @@
 			"surface": "grass",
 			"lat": 32.167839,
 			"lng": 34.824793,
-			"x": 102.9,
+			"x": 349.9,
 			"y": 254.9,
 			"url": "https://en.wikipedia.org/wiki/Herzliya_Municipal_Stadium"
 		},
@@ -741,7 +741,7 @@
 			"surface": "grass",
 			"lat": 32.051728,
 			"lng": 34.761439,
-			"x": 92,
+			"x": 339,
 			"y": 278.3,
 			"url": "https://en.wikipedia.org/wiki/Bloomfield_Stadium"
 		},
@@ -770,7 +770,7 @@
 			"surface": "grass",
 			"lat": 33.208056,
 			"lng": 35.575694,
-			"x": 232.5,
+			"x": 479.5,
 			"y": 45.5,
 			"url": "https://en.wikipedia.org/wiki/Kiryat_Shmona_Municipal_Stadium"
 		},
@@ -799,7 +799,7 @@
 			"surface": "grass",
 			"lat": 32.797028,
 			"lng": 35.521139,
-			"x": 223.1,
+			"x": 470.1,
 			"y": 128.3,
 			"url": "https://en.wikipedia.org/wiki/Tiberias_Municipal_Stadium"
 		},
@@ -828,7 +828,7 @@
 			"surface": "grass",
 			"lat": 31.924667,
 			"lng": 34.866528,
-			"x": 110.1,
+			"x": 357.1,
 			"y": 303.9,
 			"url": "https://en.wikipedia.org/wiki/Ramla_Municipal_Stadium"
 		},
@@ -857,7 +857,7 @@
 			"surface": "grass",
 			"lat": 32.23747,
 			"lng": 34.954232,
-			"x": 125.3,
+			"x": 372.3,
 			"y": 240.9,
 			"url": ""
 		},
@@ -886,7 +886,7 @@
 			"surface": null,
 			"lat": 0,
 			"lng": 0,
-			"x": -5908.8,
+			"x": -5661.8,
 			"y": 6730.5,
 			"url": ""
 		},

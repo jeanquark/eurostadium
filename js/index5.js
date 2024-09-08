@@ -7,8 +7,8 @@ window.onload = (event) => {
             // svgObject.data = `./images/svg/europe-with-russia.svg`
             svgObject.setAttribute('data', './images/svg/europe-with-russia.svg')
         }
-        document.getElementById('mouseOverStadium').innerHTML = mouseOverStadium
-        document.getElementById('mouseOverTooltip').innerHTML = mouseOverTooltip
+        // document.getElementById('mouseOverStadium').innerHTML = mouseOverStadium
+        // document.getElementById('mouseOverTooltip').innerHTML = mouseOverTooltip
     } catch (error) {
         console.log('error: ', error)
     }
@@ -68,7 +68,7 @@ svgObject.addEventListener('load', async () => {
             return customPan
         },
         onZoom: (newZoom) => {
-            console.log('onZoom newZoom: ', newZoom)
+            // console.log('onZoom newZoom: ', newZoom)
             const stadiumObj = svgContent.getElementById('stadiums')
             if (stadiumObj) {
                 // console.log('stadiumObj: ', stadiumObj)
@@ -127,7 +127,8 @@ const eventListenerDesktop = () => {
                                 const countryInfo = document.getElementById('countryInfo')
                                 if (countryInfo) {
                                     countryInfo.innerHTML = `<h3 class="text-center text-uppercase">${country}</h3><img src="/images/flags/${country}.png" width="30%" />            
-                                `}
+                                `
+                                }
                             }
                             document.getElementById('filterPanel').classList.remove('hidden')
 
@@ -306,30 +307,47 @@ const displayCountryTooltip = () => {
                     </div>
                 </div>
 
-                <div class="row mt-4 border-1" style="display: flex-row;
+                <div class="row mt-4 border-0" style="display: flex-row;
                 justify-content: center;
                 align-items: center;">
                     <div class="col-6">
                         <img src="../images/countries/${countryId}_stadium.jpg" width="100%" />
                     </div>
-                    <div class="col-6 border-2">
-                        <div class="row">
-                            <div class="col-6 text-center border-3" style="display: flex-row;
-                            justify-content: center;
-                            align-items: center;">
-                                <h3 class="border-5">${leaguesArray[0]}</h3>
-                                <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" class="border-5" />
+                    <div class="col-6 border-0">
+                        <div class="row align-center">
+                            <div class="col-6 text-center border-0" style="">
+                                <h3 class="border-0">${leaguesArray[0]}</h3>
                             </div>
-                            <div class="col-6 text-center border-4" style="display: flex-row;
-                            justify-content: center;
-                            align-items: center;">
-                                <h3 class="border-5">${leaguesArray[1]}</h3>
-                                <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" class="border-5" />
+                            <div class="col-6 text-center border-0" style="">
+                                <h3 class="border-0">${leaguesArray[1]}</h3>
+                            </div>
+                        </div>
+                        <div class="row align-center">
+                            <div class="col-6 text-center border-0">
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" class="border-0" />
+                            </div>
+                            <div class="col-6 text-center border-0">
+                                <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" class="border-0" />
                             </div>
                         </div>
                     </div>
                 </div>
                 `
+
+                // <div class="col-6 border-2">
+                //         <div class="row">
+                //             <div class="col-6 text-center border-3" style="display: flex-row;
+                //             justify-content: center; align-items: center;">
+                //                 <h3 class="border-5">${leaguesArray[0]}</h3>
+                //                 <img src="/images/leagues/${countryId}/${leaguesIdArray[0]}.png" width="60" class="border-5" />
+                //             </div>
+                //             <div class="col-6 text-center border-4" style="display: flex-row;
+                //             justify-content: center; align-items: center;">
+                //                 <h3 class="border-5">${leaguesArray[1]}</h3>
+                //                 <img src="/images/leagues/${countryId}/${leaguesIdArray[1]}.png" width="60" class="border-5" />
+                //             </div>
+                //         </div>
+                //     </div>
 
                 // tooltip.style.width = '400px'
                 tooltip.style.display = 'block'
@@ -394,7 +412,7 @@ const displayCountryTooltip = () => {
 const displayStadiumTooltip = () => {
     try {
         // console.clear()
-        console.log('displayStadiumTooltip')
+        // console.log('displayStadiumTooltip')
         svgObject = document.getElementById('svgObject')
         const svgContent = svgObject.contentDocument
         let elements = svgContent.getElementsByClassName('stadium')
@@ -407,7 +425,7 @@ const displayStadiumTooltip = () => {
         }
 
         const handleMouseLeaveTooltip = () => {
-            console.log('mouseLeaveTooltip')
+            // console.log('mouseLeaveTooltip')
             mouseOverTooltip = false
             const tooltip = document.getElementById('tooltip')
             // console.log('stadium2: ', stadium)
@@ -419,7 +437,7 @@ const displayStadiumTooltip = () => {
 
         const handleMouseOverStadium = (e) => {
             // console.clear()
-            console.log('handleMouseOverStadium: ', e)
+            // console.log('handleMouseOverStadium: ', e)
             // console.log('mouseOverTooltip: ', mouseOverTooltip)
             mouseOverStadium = true
             const tooltip = document.getElementById('tooltip')
@@ -581,6 +599,7 @@ const displayStadiumTooltip = () => {
             const svgWrapper = document.getElementById('svgWrapper')
             const svgContent2 = svgWrapper.contentDocument
             let elements = document.getElementsByClassName('stadium')
+
             // console.log('elements: ', elements);
             for (let i = 0; i < elements.length; i++) {
                 // elements[i].classList.add('ghi')
@@ -591,7 +610,7 @@ const displayStadiumTooltip = () => {
         }
 
         const handleMouseLeaveStadium = (e) => {
-            console.log('handleMouseLeaveStadium')
+            // console.log('handleMouseLeaveStadium')
             const tooltip = document.getElementById('tooltip')
             // if (!mouseOverTooltip) {
             stadium.classList.remove('hover')
@@ -628,6 +647,19 @@ const displayStadiums = async (country) => {
         const stadiumObj = svgContent.getElementById('stadiums')
         // console.log('stadiumObj: ', stadiumObj)
         // return
+        // const buttons = document.getElementsByClassName('btn-filter')
+        // for (let i = 0; i < buttons.length; i++) {
+        //     buttons[i]['disabled'] = false
+        //     buttons[i].classList.remove('active')
+        // }
+        removeFilterBtnActiveClass()
+        removeFilterBtnDisableAttribute()
+        const btnAll = document.getElementById('btnAll')
+        if (btnAll) {
+            btnAll.classList.add('active')
+        }
+        // filterStadiums('all')
+
 
         if (stadiumObj) {
             const circleRadius = stadiumObj.getAttribute('data-circle-radius')
@@ -669,6 +701,62 @@ const displayStadiums = async (country) => {
                 // newElement.addEventListener('mouseleave', handleMouseLeaveStadium, false)
             }
             displayStadiumTooltip()
+            const allTeamsTotal = document.getElementById('allTeamsTotal')
+            if (allTeamsTotal) {
+                allTeamsTotal.innerHTML = countryTeams.length
+            }
+            const topLeagueTeamsTotal = document.getElementById('topLeagueTeamsTotal')
+            if (topLeagueTeamsTotal) {
+                topLeagueTeamsTotal.innerHTML = countryTeams.filter((team) => team.league.api_football_id == leagues[0]).length
+            }
+            const secondLeagueTeamsTotal = document.getElementById('secondLeagueTeamsTotal')
+            if (secondLeagueTeamsTotal) {
+                secondLeagueTeamsTotal.innerHTML = countryTeams.filter((team) => team.league.api_football_id == leagues[1]).length
+            }
+            const countrySmallStadiumsTotal = document.getElementById('countrySmallStadiumsTotal')
+            if (countrySmallStadiumsTotal) {
+                const length = [...new Set(countryTeams.filter((team) => team.venue.capacity < 20000).map((team) => team.venue.api_football_id))].length
+                countrySmallStadiumsTotal.innerHTML = length
+                if (length == 0) {
+                    const btnSm = document.getElementById('btnSm')
+                    if (btnSm) {
+                        btnSm.setAttribute('disabled', true)
+                    }
+                }
+            }
+            const countryMediumStadiumsTotal = document.getElementById('countryMediumStadiumsTotal')
+            if (countryMediumStadiumsTotal) {
+                const length = [...new Set(countryTeams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000).map((team) => team.venue.api_football_id))].length
+                countryMediumStadiumsTotal.innerHTML = length
+                if (length == 0) {
+                    const btnMd = document.getElementById('btnMd')
+                    if (btnMd) {
+                        btnMd.setAttribute('disabled', true)
+                    }
+                }
+            }
+            const countryLargeStadiumsTotal = document.getElementById('countryLargeStadiumsTotal')
+            if (countryLargeStadiumsTotal) {
+                const length = [...new Set(countryTeams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000).map((team) => team.venue.api_football_id))].length
+                countryLargeStadiumsTotal.innerHTML = length
+                if (length == 0) {
+                    const btnLg = document.getElementById('btnLg')
+                    if (btnLg) {
+                        btnLg.setAttribute('disabled', true)
+                    }
+                }
+            }
+            const countryExtraLargeStadiumsTotal = document.getElementById('countryExtraLargeStadiumsTotal')
+            if (countryExtraLargeStadiumsTotal) {
+                const length = [...new Set(countryTeams.filter((team) => team.venue.capacity >= 60000).map((team) => team.venue.api_football_id))].length
+                countryExtraLargeStadiumsTotal.innerHTML = length
+                if (length == 0) {
+                    const btnXl = document.getElementById('btnXl')
+                    if (btnXl) {
+                        btnXl.setAttribute('disabled', true)
+                    }
+                }
+            }
         }
     } catch (error) {
         console.log('error: ', error)
@@ -698,70 +786,64 @@ const filterStadiums = async (filter) => {
         let teams = JSON.parse(JSON.stringify(countryTeams))
         let newTeams = []
 
-        const removeActiveClass = () => {
-            const buttons = document.getElementsByClassName("btn")
-            for (let i = 0; i < buttons.length; i++) {
-                buttons[i].classList.remove("active")
-            }
-        }
-
+        
         switch (filter) {
             case 'all':
                 newTeams = teams
-                removeActiveClass()
-                const btnAll = document.getElementById("btnAll")
+                removeFilterBtnActiveClass()
+                const btnAll = document.getElementById('btnAll')
                 if (btnAll) {
-                    btnAll.classList.add("active")
+                    btnAll.classList.add('active')
                 }
                 break
             case 'top_league':
                 console.log('top_league')
                 newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(leaguesIdArray[0]))
-                removeActiveClass()
-                const btnTop = document.getElementById("btnTop")
+                removeFilterBtnActiveClass()
+                const btnTop = document.getElementById('btnTop')
                 if (btnTop) {
-                    btnTop.classList.add("active")
+                    btnTop.classList.add('active')
                 }
                 break
             case 'second_league':
                 console.log('second_league')
                 newTeams = teams.filter((team) => parseInt(team.league.api_football_id) == parseInt(leaguesIdArray[1]))
-                removeActiveClass()
-                const btnSecond = document.getElementById("btnSecond")
+                removeFilterBtnActiveClass()
+                const btnSecond = document.getElementById('btnSecond')
                 if (btnSecond) {
-                    btnSecond.classList.add("active")
+                    btnSecond.classList.add('active')
                 }
                 break
             case 'stadium_sm':
                 newTeams = teams.filter((team) => team.venue.capacity < 20000)
-                removeActiveClass
-                const btnSm = document.getElementById("btnSm")
+                removeFilterBtnActiveClass
+                const btnSm = document.getElementById('btnSm')
                 if (btnSm) {
-                    btnSm.classList.add("active")
+                    btnSm.classList.add('active')
                 }
                 break
             case 'stadium_md':
                 newTeams = teams.filter((team) => team.venue.capacity >= 20000 && team.venue.capacity < 40000)
-                removeActiveClass()
-                const btnMd = document.getElementById("btnMd")
+                removeFilterBtnActiveClass()
+                const btnMd = document.getElementById('btnMd')
                 if (btnMd) {
-                    btnMd.classList.add("active")
+                    btnMd.classList.add('active')
                 }
                 break
             case 'stadium_lg':
                 newTeams = teams.filter((team) => team.venue.capacity >= 40000 && team.venue.capacity < 60000)
-                removeActiveClass()
-                const btnLg = document.getElementById("btnLg")
+                removeFilterBtnActiveClass()
+                const btnLg = document.getElementById('btnLg')
                 if (btnLg) {
-                    btnLg.classList.add("active")
+                    btnLg.classList.add('active')
                 }
                 break
             case 'stadium_xl':
                 newTeams = teams.filter((team) => team.venue.capacity >= 60000)
-                removeActiveClass()
-                const btnXl = document.getElementById("btnXl")
+                removeFilterBtnActiveClass()
+                const btnXl = document.getElementById('btnXl')
                 if (btnXl) {
-                    btnXl.classList.add("active")
+                    btnXl.classList.add('active')
                 }
                 break
         }
@@ -794,6 +876,20 @@ const setLeagueColors = () => {
     if (circleColors && circleColors.length == 2) {
         leagueColors[0] = circleColors[0]
         leagueColors[1] = circleColors[1]
+    }
+}
+
+const removeFilterBtnActiveClass = () => {
+    const buttons = document.getElementsByClassName('btn-filter')
+    for (let i = 0; i < buttons.length; i++) {
+        buttons[i].classList.remove('active')
+    }
+}
+
+const removeFilterBtnDisableAttribute = () => {
+    const buttons = document.getElementsByClassName('btn-filter')
+    for (let i = 0; i < buttons.length; i++) {
+        buttons[i]['disabled'] = false
     }
 }
 

@@ -16,7 +16,7 @@
 			"surface": "grass",
 			"lat": 55.849722,
 			"lng": -4.205556,
-			"x": 159.8,
+			"x": 253.8,
 			"y": 440.3,
 			"url": "https://en.wikipedia.org/wiki/Celtic_Park"
 		},
@@ -45,7 +45,7 @@
 			"surface": "grass",
 			"lat": 55.961667,
 			"lng": -3.165556,
-			"x": 207.8,
+			"x": 301.8,
 			"y": 430.5,
 			"url": "https://en.wikipedia.org/wiki/Easter_Road"
 		},
@@ -74,7 +74,7 @@
 			"surface": "artificial turf",
 			"lat": 55.604167,
 			"lng": -4.508056,
-			"x": 145.8,
+			"x": 239.8,
 			"y": 461.9,
 			"url": "https://en.wikipedia.org/wiki/Rugby_Park"
 		},
@@ -103,7 +103,7 @@
 			"surface": "grass",
 			"lat": 55.850556,
 			"lng": -4.443889,
-			"x": 148.8,
+			"x": 242.8,
 			"y": 440.3,
 			"url": "https://en.wikipedia.org/wiki/St_Mirren_Park"
 		},
@@ -132,7 +132,7 @@
 			"surface": "grass",
 			"lat": 57.159167,
 			"lng": -2.088889,
-			"x": 257.5,
+			"x": 351.5,
 			"y": 325.2,
 			"url": "https://en.wikipedia.org/wiki/Pittodrie_Stadium"
 		},
@@ -161,7 +161,7 @@
 			"surface": "grass",
 			"lat": 56.474722,
 			"lng": -2.973611,
-			"x": 216.7,
+			"x": 310.7,
 			"y": 385.4,
 			"url": "https://en.wikipedia.org/wiki/Dens_Park"
 		},
@@ -190,7 +190,7 @@
 			"surface": "grass",
 			"lat": 55.939167,
 			"lng": -3.232222,
-			"x": 204.7,
+			"x": 298.7,
 			"y": 432.5,
 			"url": "https://en.wikipedia.org/wiki/Tynecastle_Park"
 		},
@@ -219,7 +219,7 @@
 			"surface": "grass",
 			"lat": 55.885833,
 			"lng": -3.521944,
-			"x": 191.3,
+			"x": 285.3,
 			"y": 437.2,
 			"url": "https://en.wikipedia.org/wiki/Almondvale_Stadium"
 		},
@@ -248,7 +248,7 @@
 			"surface": "grass",
 			"lat": 55.78,
 			"lng": -3.98,
-			"x": 170.2,
+			"x": 264.2,
 			"y": 446.5,
 			"url": "https://en.wikipedia.org/wiki/Fir_Park"
 		},
@@ -277,7 +277,7 @@
 			"surface": "grass",
 			"lat": 55.853056,
 			"lng": -4.309167,
-			"x": 155,
+			"x": 249,
 			"y": 440.1,
 			"url": "https://en.wikipedia.org/wiki/Ibrox_Stadium"
 		},
@@ -306,7 +306,7 @@
 			"surface": "grass",
 			"lat": 56.409722,
 			"lng": -3.476944,
-			"x": 193.4,
+			"x": 287.4,
 			"y": 391.1,
 			"url": "https://en.wikipedia.org/wiki/McDiarmid_Park"
 		},
@@ -335,7 +335,7 @@
 			"surface": "grass",
 			"lat": 55.881389,
 			"lng": -4.269444,
-			"x": 156.8,
+			"x": 250.8,
 			"y": 437.6,
 			"url": "https://en.wikipedia.org/wiki/Firhill_Stadium"
 		},
@@ -364,7 +364,7 @@
 			"surface": "grass",
 			"lat": 57.595833,
 			"lng": -4.418889,
-			"x": 149.9,
+			"x": 243.9,
 			"y": 286.8,
 			"url": "https://en.wikipedia.org/wiki/Victoria_Park,_Dingwall"
 		},
@@ -393,7 +393,7 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 207.7,
+			"x": 301.7,
 			"y": 418.4,
 			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
@@ -422,7 +422,7 @@
 			"surface": "artificial turf",
 			"lat": 55.859722,
 			"lng": -3.959722,
-			"x": 171.1,
+			"x": 265.1,
 			"y": 439.5,
 			"url": "https://en.wikipedia.org/wiki/Excelsior_Stadium"
 		},
@@ -451,7 +451,7 @@
 			"surface": "artificial turf",
 			"lat": 55.782222,
 			"lng": -4.058611,
-			"x": 166.6,
+			"x": 260.6,
 			"y": 446.3,
 			"url": "https://en.wikipedia.org/wiki/New_Douglas_Park"
 		},
@@ -480,7 +480,7 @@
 			"surface": "grass",
 			"lat": 55.881389,
 			"lng": -4.269444,
-			"x": 156.8,
+			"x": 250.8,
 			"y": 437.6,
 			"url": "https://en.wikipedia.org/wiki/Firhill_Stadium"
 		},
@@ -509,7 +509,7 @@
 			"surface": "grass",
 			"lat": 57.494722,
 			"lng": -4.2175,
-			"x": 159.2,
+			"x": 253.2,
 			"y": 295.7,
 			"url": "https://en.wikipedia.org/wiki/Caledonian_Stadium"
 		},
@@ -538,7 +538,7 @@
 			"surface": "grass",
 			"lat": 55.941389,
 			"lng": -4.726944,
-			"x": 135.7,
+			"x": 229.7,
 			"y": 432.3,
 			"url": "https://en.wikipedia.org/wiki/Cappielow"
 		},
@@ -567,7 +567,7 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 207.7,
+			"x": 301.7,
 			"y": 418.4,
 			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
@@ -596,7 +596,7 @@
 			"surface": "grass",
 			"lat": 56.474722,
 			"lng": -2.968889,
-			"x": 216.9,
+			"x": 310.9,
 			"y": 385.4,
 			"url": "https://en.wikipedia.org/wiki/Tannadice_Park"
 		},
@@ -625,7 +625,7 @@
 			"surface": "grass",
 			"lat": 56.099722,
 			"lng": -3.168333,
-			"x": 207.7,
+			"x": 301.7,
 			"y": 418.4,
 			"url": "https://en.wikipedia.org/wiki/Stark%27s_Park"
 		},
@@ -654,7 +654,7 @@
 			"surface": "grass",
 			"lat": 56.075278,
 			"lng": -3.441944,
-			"x": 195,
+			"x": 289,
 			"y": 420.5,
 			"url": "https://en.wikipedia.org/wiki/East_End_Park"
 		},
@@ -683,7 +683,7 @@
 			"surface": "artificial turf",
 			"lat": 56.116667,
 			"lng": -3.778611,
-			"x": 179.5,
+			"x": 273.5,
 			"y": 416.9,
 			"url": "https://en.wikipedia.org/wiki/Recreation_Park,_Alloa"
 		},
@@ -712,7 +712,7 @@
 			"surface": "grass",
 			"lat": 56.552222,
 			"lng": -2.591389,
-			"x": 234.3,
+			"x": 328.3,
 			"y": 378.6,
 			"url": "https://en.wikipedia.org/wiki/Gayfield_Park"
 		},
@@ -741,7 +741,7 @@
 			"surface": "artificial turf",
 			"lat": 56.713889,
 			"lng": -2.458889,
-			"x": 240.4,
+			"x": 334.4,
 			"y": 364.3,
 			"url": "https://en.wikipedia.org/wiki/Links_Park"
 		},
@@ -770,7 +770,7 @@
 			"surface": "artificial turf",
 			"lat": 55.859722,
 			"lng": -3.959722,
-			"x": 171.1,
+			"x": 265.1,
 			"y": 439.5,
 			"url": "https://en.wikipedia.org/wiki/Excelsior_Stadium"
 		},
@@ -799,7 +799,7 @@
 			"surface": "grass",
 			"lat": 55.825833,
 			"lng": -4.251944,
-			"x": 157.6,
+			"x": 251.6,
 			"y": 442.4,
 			"url": "https://en.wikipedia.org/wiki/Hampden_Park"
 		},

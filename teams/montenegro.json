@@ -16,7 +16,7 @@
 			"surface": "grass",
 			"lat": 42.444728,
 			"lng": 19.264378,
-			"x": 260.8,
+			"x": 320.8,
 			"y": 479.7,
 			"url": "https://en.wikipedia.org/wiki/Podgorica_City_Stadium"
 		},
@@ -45,7 +45,7 @@
 			"surface": "grass",
 			"lat": 42.784947,
 			"lng": 18.953731,
-			"x": 162.7,
+			"x": 222.7,
 			"y": 334,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Nik%C5%A1i%C4%87)"
 		},
@@ -74,7 +74,7 @@
 			"surface": "grass",
 			"lat": 43.362349,
 			"lng": 19.362245,
-			"x": 291.7,
+			"x": 351.7,
 			"y": 86.8,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Pljevlja)"
 		},
@@ -103,7 +103,7 @@
 			"surface": "grass",
 			"lat": 42.104444,
 			"lng": 19.09,
-			"x": 205.7,
+			"x": 265.7,
 			"y": 625.4,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Topolica"
 		},
@@ -132,7 +132,7 @@
 			"surface": "grass",
 			"lat": 42.203591,
 			"lng": 18.945928,
-			"x": 160.2,
+			"x": 220.2,
 			"y": 583,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Mitar_Mi%C4%87o_Goli%C5%A1"
 		},
@@ -161,7 +161,7 @@
 			"surface": "grass",
 			"lat": 42.432531,
 			"lng": 18.695344,
-			"x": 81.1,
+			"x": 141.1,
 			"y": 484.9,
 			"url": "https://en.wikipedia.org/wiki/Stadion_u_Parku"
 		},
@@ -190,7 +190,7 @@
 			"surface": "grass",
 			"lat": 42.359917,
 			"lng": 19.326333,
-			"x": 280.3,
+			"x": 340.3,
 			"y": 516,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Tu%C5%A1ko_Polje"
 		},
@@ -219,7 +219,7 @@
 			"surface": "grass",
 			"lat": 43.030389,
 			"lng": 19.742417,
-			"x": 411.7,
+			"x": 471.7,
 			"y": 228.9,
 			"url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Bijelo_Polje)"
 		},
@@ -248,7 +248,7 @@
 			"surface": "grass",
 			"lat": 42.598777,
 			"lng": 19.940186,
-			"x": 474.2,
+			"x": 534.2,
 			"y": 413.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Pod_Racinom"
 		},
@@ -277,7 +277,7 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 245.9,
+			"x": 305.9,
 			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
@@ -306,7 +306,7 @@
 			"surface": "grass",
 			"lat": 41.9125,
 			"lng": 19.243889,
-			"x": 254.3,
+			"x": 314.3,
 			"y": 707.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Olympic"
 		},
@@ -335,7 +335,7 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 245.9,
+			"x": 305.9,
 			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
@@ -364,7 +364,7 @@
 			"surface": "grass",
 			"lat": 0,
 			"lng": 0,
-			"x": -5821.7,
+			"x": -5761.7,
 			"y": 18653.7,
 			"url": ""
 		},
@@ -393,7 +393,7 @@
 			"surface": "grass",
 			"lat": 42.554083,
 			"lng": 19.102944,
-			"x": 209.8,
+			"x": 269.8,
 			"y": 432.9,
 			"url": "https://en.wikipedia.org/wiki/Bra%C4%87a_Vela%C5%A1evi%C4%87_Stadium"
 		},
@@ -422,7 +422,7 @@
 			"surface": "grass",
 			"lat": 42.392578,
 			"lng": 18.924401,
-			"x": 153.4,
+			"x": 213.4,
 			"y": 502,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Sveti_Petar_Cetinjski"
 		},
@@ -451,7 +451,7 @@
 			"surface": "grass",
 			"lat": 42.843324,
 			"lng": 19.866268,
-			"x": 450.8,
+			"x": 510.8,
 			"y": 309,
 			"url": "https://en.wikipedia.org/wiki/Berane_City_Stadium"
 		},
@@ -480,7 +480,7 @@
 			"surface": "grass",
 			"lat": 42.420295,
 			"lng": 18.764979,
-			"x": 103.1,
+			"x": 163.1,
 			"y": 490.2,
 			"url": "https://en.wikipedia.org/wiki/Stadion_pod_Vrmcem"
 		},
@@ -509,7 +509,7 @@
 			"surface": "grass",
 			"lat": 42.45183,
 			"lng": 18.501421,
-			"x": 19.9,
+			"x": 79.9,
 			"y": 476.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Solila"
 		},
@@ -538,7 +538,7 @@
 			"surface": "grass",
 			"lat": 42.465111,
 			"lng": 19.295167,
-			"x": 270.5,
+			"x": 330.5,
 			"y": 471,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Zlatica"
 		},
@@ -567,7 +567,7 @@
 			"surface": "artificial turf",
 			"lat": 42.41175,
 			"lng": 19.217361,
-			"x": 245.9,
+			"x": 305.9,
 			"y": 493.8,
 			"url": "https://en.wikipedia.org/wiki/DG_Arena"
 		},
@@ -596,7 +596,7 @@
 			"surface": "grass",
 			"lat": 41.9125,
 			"lng": 19.243889,
-			"x": 254.3,
+			"x": 314.3,
 			"y": 707.6,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Olympic"
 		},
@@ -625,7 +625,7 @@
 			"surface": null,
 			"lat": 42.393386,
 			"lng": 19.194119,
-			"x": 238.6,
+			"x": 298.6,
 			"y": 501.7,
 			"url": ""
 		},

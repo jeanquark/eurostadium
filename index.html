@@ -58,7 +58,7 @@
             <!-- <span class="mx-2">mouseOverTooltip: <span id="mouseOverTooltip"></span></span> -->
         </div>
         <div class="row">
-            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 justify-center align-center border-3">
+            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 justify-center align-content border-3">
                 <div class="hidden text-center" id="infoPanel">
                     <div id="countryInfo"></div>
                     <button class="btn" hx-on:click="displayMap('europe-with-russia')">&larr; Back to Europe</button>
@@ -71,18 +71,18 @@
                 </object>
                 <div id="tooltip" class=""></div>
             </div>
-            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 justify-center align-center border-3">
+            <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 justify-center align-content border-3">
                 <div class="hidden text-center" id="filterPanel">
-                    <button class="btn active" id="btnAll" hx-on:click="filterStadiums('all')">All teams</button>
-                    <button class="btn" id="btnTop" hx-on:click="filterStadiums('top_league')">1<sup>st</sup> league teams</button>
-                    <button class="btn" id="btnSecond" hx-on:click="filterStadiums('second_league')">2<sup>nd</sup> league
-                        teams</button>
-                    <button class="btn" id="btnSm" hx-on:click="filterStadiums('stadium_sm')">
-                        &#60; 20,000</button>
-                    <button class="btn" id="btnMd" hx-on:click="filterStadiums('stadium_md')">20,000 &#60;
-                        40,000</button>
-                    <button class="btn" id="btnLg" hx-on:click="filterStadiums('stadium_lg')">40,000 &#60; 60,000</button>
-                    <button class="btn" id="btnXl" hx-on:click="filterStadiums('stadium_xl')">&#62; 60,000</button>
+                    <button class="btn btn-filter active" id="btnAll" hx-on:click="filterStadiums('all')">All teams&nbsp;<span id="allTeamsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnTop" hx-on:click="filterStadiums('top_league')">1<sup>st</sup> league teams&nbsp;<span id="topLeagueTeamsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnSecond" hx-on:click="filterStadiums('second_league')">2<sup>nd</sup> league
+                        teams&nbsp;<span id="secondLeagueTeamsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnSm" hx-on:click="filterStadiums('stadium_sm')">
+                        &#60; 20,000&nbsp;<span id="countrySmallStadiumsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnMd" hx-on:click="filterStadiums('stadium_md')">20,000 &#60;
+                        40,000&nbsp;<span id="countryMediumStadiumsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnLg" hx-on:click="filterStadiums('stadium_lg')">40,000 &#60; 60,000&nbsp;<span id="countryLargeStadiumsTotal"></span></button>
+                    <button role="button" class="btn btn-filter" id="btnXl" hx-on:click="filterStadiums('stadium_xl')">&#62; 60,000&nbsp;<span id="countryExtraLargeStadiumsTotal"></span></button>
                     <!-- <button class="btn-neon" style="--clr:#39FF14"><span>Button</span><i></i></button> -->
                 </div>
             </div>

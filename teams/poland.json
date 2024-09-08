@@ -17,7 +17,7 @@
 			"lat": 53.105972,
 			"lng": 23.149306,
 			"x": 551.7,
-			"y": 171.1,
+			"y": 189.1,
 			"url": "https://en.wikipedia.org/wiki/Bia%C5%82ystok_Stadium"
 		},
 		"league": {
@@ -46,7 +46,7 @@
 			"lat": 51.141167,
 			"lng": 16.943778,
 			"x": 172.4,
-			"y": 365.6,
+			"y": 383.6,
 			"url": "https://en.wikipedia.org/wiki/Wroc%C5%82aw_Stadium"
 		},
 		"league": {
@@ -75,7 +75,7 @@
 			"lat": 52.220461,
 			"lng": 21.040628,
 			"x": 422.8,
-			"y": 258.8,
+			"y": 276.8,
 			"url": "https://en.wikipedia.org/wiki/Polish_Army_Stadium"
 		},
 		"league": {
@@ -104,7 +104,7 @@
 			"lat": 50.296317,
 			"lng": 18.768564,
 			"x": 284,
-			"y": 449.2,
+			"y": 467.2,
 			"url": "https://en.wikipedia.org/wiki/Arena_Zabrze"
 		},
 		"league": {
@@ -133,7 +133,7 @@
 			"lat": 51.41395,
 			"lng": 16.198261,
 			"x": 126.9,
-			"y": 338.6,
+			"y": 356.6,
 			"url": "https://en.wikipedia.org/wiki/Lubin_Stadium"
 		},
 		"league": {
@@ -162,7 +162,7 @@
 			"lat": 50.861389,
 			"lng": 20.624722,
 			"x": 397.4,
-			"y": 393.3,
+			"y": 411.3,
 			"url": "https://en.wikipedia.org/wiki/Kielce_Stadium"
 		},
 		"league": {
@@ -191,7 +191,7 @@
 			"lat": 52.3975,
 			"lng": 16.857778,
 			"x": 167.2,
-			"y": 241.2,
+			"y": 259.2,
 			"url": "https://en.wikipedia.org/wiki/Pozna%C5%84_Stadium"
 		},
 		"league": {
@@ -220,7 +220,7 @@
 			"lat": 53.436576,
 			"lng": 14.518658,
 			"x": 24.2,
-			"y": 138.4,
+			"y": 156.4,
 			"url": "https://en.wikipedia.org/wiki/Florian_Krygier_Stadium"
 		},
 		"league": {
@@ -249,7 +249,7 @@
 			"lat": 50.306583,
 			"lng": 18.695866,
 			"x": 279.5,
-			"y": 448.2,
+			"y": 466.2,
 			"url": "https://en.wikipedia.org/wiki/Piotr_Wieczorek_Stadium"
 		},
 		"league": {
@@ -278,7 +278,7 @@
 			"lat": 50.058056,
 			"lng": 19.919722,
 			"x": 354.3,
-			"y": 472.8,
+			"y": 490.8,
 			"url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski_Cracovia_Stadium"
 		},
 		"league": {
@@ -307,7 +307,7 @@
 			"lat": 50.058056,
 			"lng": 19.919722,
 			"x": 354.3,
-			"y": 472.8,
+			"y": 490.8,
 			"url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski_Cracovia_Stadium"
 		},
 		"league": {
@@ -336,7 +336,7 @@
 			"lat": 50.776748,
 			"lng": 19.159229,
 			"x": 307.8,
-			"y": 401.6,
+			"y": 419.6,
 			"url": "https://en.wikipedia.org/wiki/Rak%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
@@ -365,7 +365,7 @@
 			"lat": 50.298611,
 			"lng": 21.435833,
 			"x": 447,
-			"y": 449,
+			"y": 467,
 			"url": "https://en.wikipedia.org/wiki/Mielec_Stadium"
 		},
 		"league": {
@@ -394,7 +394,7 @@
 			"lat": 52.229031,
 			"lng": 16.378128,
 			"x": 137.9,
-			"y": 257.9,
+			"y": 275.9,
 			"url": "https://en.wikipedia.org/wiki/Dyskobolia_Grodzisk_Wielkopolski_Stadium"
 		},
 		"league": {
@@ -423,7 +423,7 @@
 			"lat": 51.757639,
 			"lng": 19.4275,
 			"x": 324.2,
-			"y": 304.6,
+			"y": 322.6,
 			"url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Kr%C3%B3l_Stadium"
 		},
 		"league": {
@@ -452,7 +452,7 @@
 			"lat": 51.396444,
 			"lng": 21.146222,
 			"x": 429.3,
-			"y": 340.3,
+			"y": 358.3,
 			"url": "https://en.wikipedia.org/wiki/Czachor_Brothers_Stadium"
 		},
 		"league": {
@@ -481,7 +481,7 @@
 			"lat": 50.288333,
 			"lng": 18.973056,
 			"x": 296.5,
-			"y": 450,
+			"y": 468,
 			"url": "https://en.wikipedia.org/wiki/Silesian_Stadium"
 		},
 		"league": {
@@ -510,7 +510,7 @@
 			"lat": 51.765,
 			"lng": 19.511667,
 			"x": 329.4,
-			"y": 303.8,
+			"y": 321.8,
 			"url": "https://en.wikipedia.org/wiki/Widzew_%C5%81%C3%B3d%C5%BA_Stadium"
 		},
 		"league": {
@@ -539,7 +539,7 @@
 			"lat": 51.20361111,
 			"lng": -16.17,
 			"x": -1851.3,
-			"y": 359.4,
+			"y": 377.4,
 			"url": "https://fr.wikipedia.org/wiki/Stade_municipal_de_Legnica"
 		},
 		"league": {
@@ -568,7 +568,7 @@
 			"lat": 50.063611,
 			"lng": 19.911944,
 			"x": 353.8,
-			"y": 472.2,
+			"y": 490.2,
 			"url": "https://en.wikipedia.org/wiki/Henryk_Reyman_Stadium"
 		},
 		"league": {
@@ -597,7 +597,7 @@
 			"lat": 52.562004,
 			"lng": 19.684067,
 			"x": 339.9,
-			"y": 224.9,
+			"y": 242.9,
 			"url": "https://en.wikipedia.org/wiki/Kazimierz_G%C3%B3rski_Stadium"
 		},
 		"league": {
@@ -626,7 +626,7 @@
 			"lat": 50.2884,
 			"lng": 19.1707,
 			"x": 308.5,
-			"y": 450,
+			"y": 468,
 			"url": "https://en.wikipedia.org/wiki/Zag%C5%82%C4%99biowski_Park_Sportowy"
 		},
 		"league": {
@@ -655,7 +655,7 @@
 			"lat": 54.39,
 			"lng": 18.640278,
 			"x": 276.1,
-			"y": 44,
+			"y": 62,
 			"url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Stadium"
 		},
 		"league": {
@@ -684,7 +684,7 @@
 			"lat": 54.493136,
 			"lng": 18.531214,
 			"x": 269.5,
-			"y": 33.8,
+			"y": 51.8,
 			"url": "https://en.wikipedia.org/wiki/Gdynia_Stadium"
 		},
 		"league": {
@@ -713,7 +713,7 @@
 			"lat": 51.655985,
 			"lng": 16.096952,
 			"x": 120.7,
-			"y": 314.6,
+			"y": 332.6,
 			"url": ""
 		},
 		"league": {
@@ -742,7 +742,7 @@
 			"lat": 50.279747,
 			"lng": 19.001203,
 			"x": 298.2,
-			"y": 450.8,
+			"y": 468.8,
 			"url": "https://en.wikipedia.org/wiki/GKS_Katowice_Stadium"
 		},
 		"league": {
@@ -771,7 +771,7 @@
 			"lat": 50.158361,
 			"lng": 20.849158,
 			"x": 411.1,
-			"y": 462.8,
+			"y": 480.8,
 			"url": "https://en.wikipedia.org/wiki/Nieciecza_Stadium"
 		},
 		"league": {
@@ -800,7 +800,7 @@
 			"lat": 50.676287,
 			"lng": 17.932181,
 			"x": 232.8,
-			"y": 411.6,
+			"y": 429.6,
 			"url": ""
 		},
 		"league": {
@@ -829,7 +829,7 @@
 			"lat": 49.817419,
 			"lng": 19.054267,
 			"x": 301.4,
-			"y": 496.6,
+			"y": 514.6,
 			"url": "https://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a_Stadium"
 		},
 		"league": {
@@ -858,7 +858,7 @@
 			"lat": 50.1242,
 			"lng": 18.9906,
 			"x": 297.5,
-			"y": 466.2,
+			"y": 484.2,
 			"url": "https://en.wikipedia.org/wiki/Tychy_Stadium"
 		},
 		"league": {
@@ -887,7 +887,7 @@
 			"lat": 51.301561,
 			"lng": 22.876035,
 			"x": 535,
-			"y": 349.7,
+			"y": 367.7,
 			"url": "https://en.wikipedia.org/wiki/%C5%81%C4%99czna_Stadium"
 		},
 		"league": {
@@ -916,7 +916,7 @@
 			"lat": 50.02144,
 			"lng": 21.99629,
 			"x": 481.2,
-			"y": 476.4,
+			"y": 494.4,
 			"url": "https://en.wikipedia.org/wiki/Stal_Rzesz%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
@@ -945,7 +945,7 @@
 			"lat": 50.02144,
 			"lng": 21.99629,
 			"x": 481.2,
-			"y": 476.4,
+			"y": 494.4,
 			"url": "https://en.wikipedia.org/wiki/Stal_Rzesz%C3%B3w_Municipal_Stadium"
 		},
 		"league": {
@@ -974,7 +974,7 @@
 			"lat": 52.169081,
 			"lng": 20.813022,
 			"x": 408.9,
-			"y": 263.8,
+			"y": 281.8,
 			"url": ""
 		},
 		"league": {
@@ -1003,7 +1003,7 @@
 			"lat": 51.232375,
 			"lng": 22.557465,
 			"x": 515.5,
-			"y": 356.5,
+			"y": 374.5,
 			"url": "https://en.wikipedia.org/wiki/Arena_Lublin"
 		},
 		"league": {
@@ -1032,7 +1032,7 @@
 			"lat": 52.255497,
 			"lng": 21.001332,
 			"x": 420.4,
-			"y": 255.3,
+			"y": 273.3,
 			"url": "https://en.wikipedia.org/wiki/Kazimierz_Sosnkowski_Stadium"
 		},
 		"league": {

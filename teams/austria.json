@@ -17,7 +17,7 @@
 			"lat": 47.816389,
 			"lng": 12.998333,
 			"x": 279.8,
-			"y": 142.2,
+			"y": 299.2,
 			"url": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Salzburg)"
 		},
 		"league": {
@@ -46,7 +46,7 @@
 			"lat": 48.162222,
 			"lng": 16.386667,
 			"x": 550.9,
-			"y": 101.2,
+			"y": 258.2,
 			"url": "https://en.wikipedia.org/wiki/Franz_Horr_Stadium"
 		},
 		"league": {
@@ -75,7 +75,7 @@
 			"lat": 47.353889,
 			"lng": 9.636667,
 			"x": 10.8,
-			"y": 197.1,
+			"y": 354.1,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Schnabelholz"
 		},
 		"league": {
@@ -104,7 +104,7 @@
 			"lat": 47.046111,
 			"lng": 15.454444,
 			"x": 476.3,
-			"y": 233.6,
+			"y": 390.6,
 			"url": "https://en.wikipedia.org/wiki/Liebenauer_Stadium"
 		},
 		"league": {
@@ -133,7 +133,7 @@
 			"lat": 48.197778,
 			"lng": 16.265278,
 			"x": 541.2,
-			"y": 97,
+			"y": 254,
 			"url": "https://en.wikipedia.org/wiki/Allianz_Stadion"
 		},
 		"league": {
@@ -162,7 +162,7 @@
 			"lat": 46.826389,
 			"lng": 14.851944,
 			"x": 428.1,
-			"y": 259.7,
+			"y": 416.7,
 			"url": "https://en.wikipedia.org/wiki/Lavanttal-Arena"
 		},
 		"league": {
@@ -191,7 +191,7 @@
 			"lat": 48.293333,
 			"lng": 14.276389,
 			"x": 382,
-			"y": 85.6,
+			"y": 242.6,
 			"url": "https://en.wikipedia.org/wiki/Raiffeisen_Arena_(Linz)"
 		},
 		"league": {
@@ -220,7 +220,7 @@
 			"lat": 47.280976,
 			"lng": 15.977211,
 			"x": 518.1,
-			"y": 205.8,
+			"y": 362.8,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Hartberg"
 		},
 		"league": {
@@ -249,7 +249,7 @@
 			"lat": 48.316371,
 			"lng": 14.298862,
 			"x": 383.8,
-			"y": 82.9,
+			"y": 239.9,
 			"url": "https://en.wikipedia.org/wiki/Donauparkstadion"
 		},
 		"league": {
@@ -278,7 +278,7 @@
 			"lat": 47.255833,
 			"lng": 11.410833,
 			"x": 152.8,
-			"y": 208.8,
+			"y": 365.8,
 			"url": "https://en.wikipedia.org/wiki/Tivoli_Stadion_Tirol"
 		},
 		"league": {
@@ -307,7 +307,7 @@
 			"lat": 47.503911,
 			"lng": 9.733397,
 			"x": 18.6,
-			"y": 179.3,
+			"y": 336.3,
 			"url": "https://en.wikipedia.org/wiki/Casino_Stadium"
 		},
 		"league": {
@@ -336,7 +336,7 @@
 			"lat": 46.608889,
 			"lng": 14.278056,
 			"x": 382.2,
-			"y": 285.5,
+			"y": 442.5,
 			"url": "https://en.wikipedia.org/wiki/W%C3%B6rthersee_Stadion"
 		},
 		"league": {
@@ -365,7 +365,7 @@
 			"lat": 48.0975,
 			"lng": 16.310833,
 			"x": 544.8,
-			"y": 108.9,
+			"y": 265.9,
 			"url": "https://en.wikipedia.org/wiki/Motion_invest_Arena"
 		},
 		"league": {
@@ -394,7 +394,7 @@
 			"lat": 48.2209,
 			"lng": 15.6531,
 			"x": 492.2,
-			"y": 94.2,
+			"y": 251.2,
 			"url": "https://en.wikipedia.org/wiki/NV_Arena"
 		},
 		"league": {
@@ -423,7 +423,7 @@
 			"lat": 48.207778,
 			"lng": 13.478333,
 			"x": 318.2,
-			"y": 95.8,
+			"y": 252.8,
 			"url": "https://en.wikipedia.org/wiki/Josko_Arena"
 		},
 		"league": {
@@ -452,7 +452,7 @@
 			"lat": 48.269836,
 			"lng": 16.393717,
 			"x": 551.4,
-			"y": 88.4,
+			"y": 245.4,
 			"url": "https://de.wikipedia.org/wiki/FAC-Platz"
 		},
 		"league": {
@@ -481,7 +481,7 @@
 			"lat": 48.6704,
 			"lng": 15.6635,
 			"x": 493,
-			"y": 40.9,
+			"y": 197.9,
 			"url": "https://en.wikipedia.org/wiki/Sparkasse_Horn_Arena"
 		},
 		"league": {
@@ -510,7 +510,7 @@
 			"lat": 47.816389,
 			"lng": 12.998333,
 			"x": 279.8,
-			"y": 142.2,
+			"y": 299.2,
 			"url": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Salzburg)"
 		},
 		"league": {
@@ -539,7 +539,7 @@
 			"lat": 47.443889,
 			"lng": 15.300556,
 			"x": 464,
-			"y": 186.4,
+			"y": 343.4,
 			"url": "https://en.wikipedia.org/wiki/Franz_Fekete_Stadium"
 		},
 		"league": {
@@ -568,7 +568,7 @@
 			"lat": 47.3735,
 			"lng": 16.011606,
 			"x": 520.9,
-			"y": 194.8,
+			"y": 351.8,
 			"url": ""
 		},
 		"league": {
@@ -597,7 +597,7 @@
 			"lat": 48.115159,
 			"lng": 14.877402,
 			"x": 430.1,
-			"y": 106.8,
+			"y": 263.8,
 			"url": "https://en.wikipedia.org/wiki/Union-Platz"
 		},
 		"league": {
@@ -626,7 +626,7 @@
 			"lat": 47.41647,
 			"lng": 9.72409,
 			"x": 17.8,
-			"y": 189.7,
+			"y": 346.7,
 			"url": "https://en.wikipedia.org/wiki/Stadion_Birkenwiese"
 		},
 		"league": {
@@ -655,7 +655,7 @@
 			"lat": 47.046111,
 			"lng": 15.454444,
 			"x": 476.3,
-			"y": 233.6,
+			"y": 390.6,
 			"url": "https://en.wikipedia.org/wiki/Liebenauer_Stadium"
 		},
 		"league": {
@@ -684,7 +684,7 @@
 			"lat": 48.249444,
 			"lng": 16.357778,
 			"x": 548.6,
-			"y": 90.9,
+			"y": 247.9,
 			"url": "https://en.wikipedia.org/wiki/Hohe_Warte_Stadium"
 		},
 		"league": {
@@ -713,7 +713,7 @@
 			"lat": 48.269836,
 			"lng": 16.393717,
 			"x": 551.4,
-			"y": 88.4,
+			"y": 245.4,
 			"url": "https://de.wikipedia.org/wiki/FAC-Platz"
 		},
 		"league": {
@@ -742,7 +742,7 @@
 			"lat": 47.097915,
 			"lng": 15.704558,
 			"x": 496.3,
-			"y": 227.5,
+			"y": 384.5,
 			"url": ""
 		},
 		"league": {
@@ -771,7 +771,7 @@
 			"lat": 47.503911,
 			"lng": 9.733397,
 			"x": 18.6,
-			"y": 179.3,
+			"y": 336.3,
 			"url": "https://en.wikipedia.org/wiki/Casino_Stadium"
 		},
 		"league": {
@@ -800,7 +800,7 @@
 			"lat": 47.3768,
 			"lng": 15.0788,
 			"x": 446.2,
-			"y": 194.4,
+			"y": 351.4,
 			"url": "https://en.wikipedia.org/wiki/Donawitz_Stadium"
 		},
 		"league": {

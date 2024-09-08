@@ -17,7 +17,7 @@
 			"lat": 64.113333,
 			"lng": -21.792778,
 			"x": 152,
-			"y": 322.9,
+			"y": 410.9,
 			"url": "https://en.wikipedia.org/wiki/Fylkisv%C3%B6llur"
 		},
 		"league": {
@@ -46,7 +46,7 @@
 			"lat": 63.439414,
 			"lng": -20.28795,
 			"x": 235.5,
-			"y": 411.3,
+			"y": 499.3,
 			"url": "https://en.wikipedia.org/wiki/H%C3%A1steinsv%C3%B6llur"
 		},
 		"league": {
@@ -75,7 +75,7 @@
 			"lat": 63.997997,
 			"lng": -22.559224,
 			"x": 109.4,
-			"y": 338,
+			"y": 426,
 			"url": ""
 		},
 		"league": {
@@ -104,7 +104,7 @@
 			"lat": 64.075833,
 			"lng": -21.938611,
 			"x": 143.9,
-			"y": 327.8,
+			"y": 415.8,
 			"url": "https://en.wikipedia.org/wiki/Kaplakriki"
 		},
 		"league": {
@@ -133,7 +133,7 @@
 			"lat": 64.145683,
 			"lng": -21.967728,
 			"x": 142.3,
-			"y": 318.7,
+			"y": 406.7,
 			"url": "https://en.wikipedia.org/wiki/KR-v%C3%B6llur"
 		},
 		"league": {
@@ -162,7 +162,7 @@
 			"lat": 65.686083,
 			"lng": -18.095211,
 			"x": 357.2,
-			"y": 116.6,
+			"y": 204.6,
 			"url": "https://en.wikipedia.org/wiki/Akureyrarv%C3%B6llur"
 		},
 		"league": {
@@ -191,7 +191,7 @@
 			"lat": 64.132778,
 			"lng": -21.923611,
 			"x": 144.7,
-			"y": 320.4,
+			"y": 408.4,
 			"url": "https://en.wikipedia.org/wiki/Hl%C3%AD%C3%B0arendi_(stadium)"
 		},
 		"league": {
@@ -220,7 +220,7 @@
 			"lat": 64.0875,
 			"lng": -21.928889,
 			"x": 144.4,
-			"y": 326.3,
+			"y": 414.3,
 			"url": "https://en.wikipedia.org/wiki/Stj%C3%B6rnuv%C3%B6llur"
 		},
 		"league": {
@@ -249,7 +249,7 @@
 			"lat": 64.103889,
 			"lng": -21.896667,
 			"x": 146.2,
-			"y": 324.1,
+			"y": 412.1,
 			"url": "https://en.wikipedia.org/wiki/K%C3%B3pavogsv%C3%B6llur"
 		},
 		"league": {
@@ -278,7 +278,7 @@
 			"lat": 64.116389,
 			"lng": -21.855139,
 			"x": 148.5,
-			"y": 322.5,
+			"y": 410.5,
 			"url": "https://en.wikipedia.org/wiki/V%C3%ADkingsv%C3%B6llur"
 		},
 		"league": {
@@ -307,7 +307,7 @@
 			"lat": 64.082514,
 			"lng": -21.825144,
 			"x": 150.2,
-			"y": 326.9,
+			"y": 414.9,
 			"url": ""
 		},
 		"league": {
@@ -336,7 +336,7 @@
 			"lat": 64.1331,
 			"lng": -21.8908,
 			"x": 146.5,
-			"y": 320.3,
+			"y": 408.3,
 			"url": "https://en.wikipedia.org/wiki/Framv%C3%B6llur"
 		},
 		"league": {
@@ -365,7 +365,7 @@
 			"lat": 64.13846,
 			"lng": -21.7882,
 			"x": 152.2,
-			"y": 319.6,
+			"y": 407.6,
 			"url": "https://en.wikipedia.org/wiki/Fj%C3%B6lnisv%C3%B6llur"
 		},
 		"league": {
@@ -394,7 +394,7 @@
 			"lat": 63.844636,
 			"lng": -22.429628,
 			"x": 116.6,
-			"y": 358.2,
+			"y": 446.2,
 			"url": "https://en.wikipedia.org/wiki/Grindav%C3%ADkurv%C3%B6llur"
 		},
 		"league": {
@@ -423,7 +423,7 @@
 			"lat": 64.317656,
 			"lng": -22.059753,
 			"x": 137.2,
-			"y": 296.1,
+			"y": 384.1,
 			"url": "https://en.wikipedia.org/wiki/Akranesv%C3%B6llur"
 		},
 		"league": {
@@ -452,7 +452,7 @@
 			"lat": 64.143589,
 			"lng": -21.876011,
 			"x": 147.4,
-			"y": 318.9,
+			"y": 406.9,
 			"url": "https://en.wikipedia.org/wiki/Valbjarnarv%C3%B6llur"
 		},
 		"league": {
@@ -481,7 +481,7 @@
 			"lat": 64.1025,
 			"lng": -21.819444,
 			"x": 150.5,
-			"y": 324.3,
+			"y": 412.3,
 			"url": "https://en.wikipedia.org/wiki/Leiknisv%C3%B6llur"
 		},
 		"league": {
@@ -510,7 +510,7 @@
 			"lat": 63.932715,
 			"lng": -20.992494,
 			"x": 196.4,
-			"y": 346.6,
+			"y": 434.6,
 			"url": ""
 		},
 		"league": {
@@ -539,7 +539,7 @@
 			"lat": 65.690502,
 			"lng": -18.119133,
 			"x": 355.9,
-			"y": 116,
+			"y": 204,
 			"url": ""
 		},
 		"league": {
@@ -568,7 +568,7 @@
 			"lat": 64.150146,
 			"lng": -21.995744,
 			"x": 140.7,
-			"y": 318.1,
+			"y": 406.1,
 			"url": ""
 		},
 		"league": {
@@ -597,7 +597,7 @@
 			"lat": 63.993784,
 			"lng": -22.561167,
 			"x": 109.3,
-			"y": 338.6,
+			"y": 426.6,
 			"url": ""
 		},
 		"league": {
@@ -626,7 +626,7 @@
 			"lat": 64.169166,
 			"lng": -21.685905,
 			"x": 157.9,
-			"y": 315.6,
+			"y": 403.6,
 			"url": ""
 		},
 		"league": {
@@ -655,7 +655,7 @@
 			"lat": 66.072862,
 			"lng": -23.135986,
 			"x": 77.4,
-			"y": 65.8,
+			"y": 153.8,
 			"url": ""
 		},
 		"league": {
@@ -684,7 +684,7 @@
 			"lat": 63.851193,
 			"lng": -21.380244,
 			"x": 174.9,
-			"y": 357.3,
+			"y": 445.3,
 			"url": ""
 		},
 		"league": {
