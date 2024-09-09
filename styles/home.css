@@ -1,3 +1,30 @@
+body {
+    background-color: #D3D3D3;
+    background-image: url('/images/svg/background3.svg');
+    background-repeat: repeat;
+    margin: 0;
+}
+
+header {
+    background-image: url('/images/svg/header.svg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100% auto;
+}
+
+footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url('/images/svg/footer.svg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100% auto;
+}
+
+
+
 .country {
     /* fill: #FFFF00; */
 }
@@ -21,6 +48,10 @@
     cursor: pointer; */
 }
 
+.text-primary {
+    color: #003399;
+}
+
 /* .svg-background {
     background: lightgrey;
 } */
@@ -34,7 +65,7 @@
     cursor: pointer;
 } */
 
-.btn {
+.btn-filter {
     padding: .6em;
     border-radius: .4em;
     background: #325bad;
@@ -43,15 +74,26 @@
     margin: .3em;
 }
 
-.btn:hover {
+.btn-filter > .pill {
+    padding: 5px 8px;
+    background: #808080;
+    border-radius: 8px;
+    font-size: 9px;
+}
+
+.btn-filter.active > .pill {
+    background: orangered;
+}
+
+.btn-filter:hover {
     cursor: pointer;
     background: #003399;
 }
 
-.btn.active {
+.btn-filter.active {
     background: #003399;
 }
-.btn:disabled,
+.btn-filter:disabled,
 button[disabled]{
   border: 1px solid #999999;
   background-color: #cccccc;

@@ -471,10 +471,15 @@ const displayStadiumTooltip = () => {
             if (tooltip) {
                 // tooltip.classList.add("ghi")
                 tooltip.innerHTML = `
-                    <div class="row">
-                        <div class="col-12 text-center">
-                            <h2 class="">${stadiumTeams[0]['venue']['name']}, ${stadiumTeams[0]['venue']['city']}</h2>
-                            <h3 class="">${formatNumber(stadiumTeams[0]['venue']['capacity'])}</h3>
+                    <div class="row align-center">
+                        <div class="col-12 text-center relative">
+                            <h2>
+                                <span class="text-primary"><b>${stadiumTeams[0]['venue']['name']}</b></span>, <span class="text-muted">${stadiumTeams[0]['venue']['city']}</span>
+                            </h2>
+                            <h3 class="">
+                                ${formatNumber(stadiumTeams[0]['venue']['capacity'])}
+                            </h3>
+                            <img src="/images/icons/close.svg" width="20" class="text-right" id="closeTooltipBtn" style="position: absolute; top: 0; right: 0;" />
                         </div>
                     </div>
                     <div class="row">
@@ -482,16 +487,24 @@ const displayStadiumTooltip = () => {
                             <img src="/images/stadiums/${country}/${stadiumTeams[0]['venue']['api_football_id']}.jpg" width="100%" alt="Stadium" />
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-6 text-center">
+                    <div class="row align-center">
+                        <div class="col-4 text-center border-1" style="">
                             <h3 class="text-center">${team1.team?.name}</h3>
-                            <img src="/images/clubs/${country}/${stadiumTeams[0]['team']['api_football_id']}.png" width="50%" alt="Team logo" />
+                            <img src="/images/clubs/${country}/${stadiumTeams[0]['team']['api_football_id']}.png" width="40%" alt="Team logo" />
                         </div>
-                        <div class="col-6">
-                            <h3 class="text-center">${team2?.team?.name}</h3>
+                        ${team2 ? `<div class="col-4 text-center border-1" style="">
+                            <h3 class="text-center">${team2.team?.name}</h3>
+                            <img src="/images/clubs/${country}/${stadiumTeams[1]['team']['api_football_id']}.png" width="50%" alt="Team logo" />
+                        </div>` : ''}
+                        <div class="col-4 text-center border-1" style="">
+                            <a href="${stadiumTeams[0]['venue']['url']}" target="_blank">
+                                Wiki
+                                <img src="/images/icons/external-link.svg" width="10" />
+                            </a>
                         </div>
                     </div>
                 `
+
                 tooltip.style.position = 'absolute'
                 const innerHeight = window.innerHeight
                 const rect = e.target.getBoundingClientRect()
@@ -786,7 +799,7 @@ const filterStadiums = async (filter) => {
         let teams = JSON.parse(JSON.stringify(countryTeams))
         let newTeams = []
 
-        
+
         switch (filter) {
             case 'all':
                 newTeams = teams

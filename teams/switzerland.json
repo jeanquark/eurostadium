@@ -17,7 +17,8 @@
 			"lat": 47.541389,
 			"lng": 7.62,
 			"x": 224.6,
-			"y": 165.5
+			"y": 165.5,
+			"url": "https://en.wikipedia.org/wiki/FC_Basel"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -45,7 +46,8 @@
 			"lat": 46.962778,
 			"lng": 7.465,
 			"x": 203.7,
-			"y": 279.4
+			"y": 279.4,
+			"url": "https://en.wikipedia.org/wiki/BSC_Young_Boys"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -73,7 +75,8 @@
 			"lat": 46.023753,
 			"lng": 8.961469,
 			"x": 405.8,
-			"y": 464.3
+			"y": 464.3,
+			"url": "https://en.wikipedia.org/wiki/FC_Lugano"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -101,7 +104,8 @@
 			"lat": 47.033264,
 			"lng": 8.305187,
 			"x": 317.2,
-			"y": 265.5
+			"y": 265.5,
+			"url": "https://en.wikipedia.org/wiki/FC_Luzern"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -129,7 +133,8 @@
 			"lat": 47.382778,
 			"lng": 8.504167,
 			"x": 344,
-			"y": 196.7
+			"y": 196.7,
+			"url": "https://en.wikipedia.org/wiki/FC_Z%C3%BCrich"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -157,7 +162,8 @@
 			"lat": 47.408296,
 			"lng": 9.305116,
 			"x": 452.2,
-			"y": 191.7
+			"y": 191.7,
+			"url": "https://en.wikipedia.org/wiki/FC_St._Gallen"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -185,7 +191,8 @@
 			"lat": 46.744722,
 			"lng": 7.606667,
 			"x": 222.8,
-			"y": 322.3
+			"y": 322.3,
+			"url": "https://en.wikipedia.org/wiki/FC_Thun"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -213,7 +220,8 @@
 			"lat": 47.382778,
 			"lng": 8.504167,
 			"x": 344,
-			"y": 196.7
+			"y": 196.7,
+			"url": "https://en.wikipedia.org/wiki/Grasshopper_Club_Zurich"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -241,7 +249,8 @@
 			"lat": 46.54355,
 			"lng": 6.62188,
 			"x": 89.8,
-			"y": 361.9
+			"y": 361.9,
+			"url": "https://en.wikipedia.org/wiki/FC_Lausanne-Sport"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -269,7 +278,8 @@
 			"lat": 47.500796,
 			"lng": 8.717382,
 			"x": 372.8,
-			"y": 173.5
+			"y": 173.5,
+			"url": "https://en.wikipedia.org/wiki/FC_Winterthur"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -297,7 +307,8 @@
 			"lat": 46.177778,
 			"lng": 6.1275,
 			"x": 23.1,
-			"y": 433.9
+			"y": 433.9,
+			"url": "https://en.wikipedia.org/wiki/Servette_FC"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -325,7 +336,8 @@
 			"lat": 46.533611,
 			"lng": 6.625,
 			"x": 90.3,
-			"y": 363.9
+			"y": 363.9,
+			"url": "https://en.wikipedia.org/wiki/FC_Stade_Lausanne_Ouchy"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -353,7 +365,8 @@
 			"lat": 46.783297,
 			"lng": 6.647056,
 			"x": 93.2,
-			"y": 314.7
+			"y": 314.7,
+			"url": "https://en.wikipedia.org/wiki/Yverdon-Sport_FC"
 		},
 		"league": {
 			"api_football_id": 207,
@@ -381,7 +394,8 @@
 			"lat": 46.233333,
 			"lng": 7.376389,
 			"x": 191.7,
-			"y": 423
+			"y": 423,
+			"url": "https://en.wikipedia.org/wiki/FC_Sion"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -409,7 +423,8 @@
 			"lat": 47.140278,
 			"lng": 9.510278,
 			"x": 479.9,
-			"y": 244.4
+			"y": 244.4,
+			"url": "https://en.wikipedia.org/wiki/FC_Vaduz"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -418,34 +433,6 @@
 			"api_football_country_id": 0
 		},
 		"no": 15
-	},
-	{
-		"team": {
-			"api_football_id": 1012,
-			"name": "FC Thun",
-			"code": "THU",
-			"country": "Switzerland",
-			"founded": 1898
-		},
-		"venue": {
-			"api_football_id": 1544,
-			"name": "Stockhorn Arena",
-			"address": "Weststrasse 12",
-			"city": "Thun",
-			"capacity": 10398,
-			"surface": "artificial turf",
-			"lat": 46.744722,
-			"lng": 7.606667,
-			"x": 222.8,
-			"y": 322.3
-		},
-		"league": {
-			"api_football_id": 208,
-			"name": "Challenge League",
-			"country": "Switzerland",
-			"api_football_country_id": 0
-		},
-		"no": 16
 	},
 	{
 		"team": {
@@ -465,7 +452,8 @@
 			"lat": 46.995443,
 			"lng": 6.944625,
 			"x": 133.4,
-			"y": 272.9
+			"y": 272.9,
+			"url": "https://en.wikipedia.org/wiki/Neuch%C3%A2tel_Xamax_FCS"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -493,7 +481,8 @@
 			"lat": 47.383346,
 			"lng": 8.059811,
 			"x": 284,
-			"y": 196.6
+			"y": 196.6,
+			"url": "https://en.wikipedia.org/wiki/FC_Aarau"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -521,7 +510,8 @@
 			"lat": 47.458333,
 			"lng": 9.037222,
 			"x": 416,
-			"y": 181.8
+			"y": 181.8,
+			"url": "https://en.wikipedia.org/wiki/FC_Wil"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -549,7 +539,8 @@
 			"lat": 47.717201,
 			"lng": 8.666377,
 			"x": 365.9,
-			"y": 130.8
+			"y": 130.8,
+			"url": "https://en.wikipedia.org/wiki/FC_Schaffhausen"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -577,7 +568,8 @@
 			"lat": 46.198082,
 			"lng": 9.022304,
 			"x": 414,
-			"y": 429.9
+			"y": 429.9,
+			"url": "https://en.wikipedia.org/wiki/AC_Bellinzona"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -605,7 +597,8 @@
 			"lat": 46.370711,
 			"lng": 6.226201,
 			"x": 36.4,
-			"y": 395.9
+			"y": 395.9,
+			"url": "https://en.wikipedia.org/wiki/FC_Stade_Nyonnais"
 		},
 		"league": {
 			"api_football_id": 208,
@@ -633,7 +626,8 @@
 			"lat": 47.445823,
 			"lng": 8.296394,
 			"x": 316,
-			"y": 184.3
+			"y": 184.3,
+			"url": "https://en.wikipedia.org/wiki/FC_Baden"
 		},
 		"league": {
 			"api_football_id": 208,

@@ -16,32 +16,20 @@
     <link rel="stylesheet" href="./styles/home.css" />
     <link ref="stylesheet" href="./styles/button.css" />
     <style>
-        body {
-            margin: 0;
-        }
-
-        main {
-            background-color: lightgrey;
-            background-image: url('/images/svg/background3.svg');
-            /* background-size: cover; */
-            background-repeat: repeat;
-            margin: 0;
-        }
-
-        .footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-        }
     </style>
 </head>
 
 <body>
-    <header class="row justify-center" style="background: #003399">
-        <div class="col-12">
-            <h1 class="text-white text-center">eurostadium.net</h1>
+    <header class="border-1" style="">
+        <div class="">
+            <!-- <br /><br /><br /><br />
+            <br /><br /><br /><br />
+            <br /><br /><br /><br />-->
+            <br /><br />
+            <h1 class="text-center">eurostadium</h1>
             <h3 class="text-white text-center">Football stadiums across Europe</h3>
+            <br /><br />
+            <!-- <h1 class="text-white text-center">eurostadium.net</h1> -->
             <!-- <button hx-on:click="toggleMap()">Toggle map</button> -->
 
             <!-- <br /><br /> -->
@@ -73,16 +61,16 @@
             </div>
             <div class="col-xl-4 col-lg-2 col-md-1 col-sm-0 justify-center align-content border-3">
                 <div class="hidden text-center" id="filterPanel">
-                    <button class="btn btn-filter active" id="btnAll" hx-on:click="filterStadiums('all')">All teams&nbsp;<span id="allTeamsTotal"></span></button>
-                    <button class="btn btn-filter" id="btnTop" hx-on:click="filterStadiums('top_league')">1<sup>st</sup> league teams&nbsp;<span id="topLeagueTeamsTotal"></span></button>
+                    <button class="btn btn-filter active" id="btnAll" hx-on:click="filterStadiums('all')">All teams&nbsp;<span class="pill" id="allTeamsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnTop" hx-on:click="filterStadiums('top_league')">1<sup>st</sup> league teams&nbsp;<span class="pill" id="topLeagueTeamsTotal"></span></button>
                     <button class="btn btn-filter" id="btnSecond" hx-on:click="filterStadiums('second_league')">2<sup>nd</sup> league
-                        teams&nbsp;<span id="secondLeagueTeamsTotal"></span></button>
+                        teams&nbsp;<span class="pill" id="secondLeagueTeamsTotal"></span></button>
                     <button class="btn btn-filter" id="btnSm" hx-on:click="filterStadiums('stadium_sm')">
-                        &#60; 20,000&nbsp;<span id="countrySmallStadiumsTotal"></span></button>
+                        &#60; 20,000&nbsp;<span class="pill" id="countrySmallStadiumsTotal"></span></button>
                     <button class="btn btn-filter" id="btnMd" hx-on:click="filterStadiums('stadium_md')">20,000 &#60;
-                        40,000&nbsp;<span id="countryMediumStadiumsTotal"></span></button>
-                    <button class="btn btn-filter" id="btnLg" hx-on:click="filterStadiums('stadium_lg')">40,000 &#60; 60,000&nbsp;<span id="countryLargeStadiumsTotal"></span></button>
-                    <button role="button" class="btn btn-filter" id="btnXl" hx-on:click="filterStadiums('stadium_xl')">&#62; 60,000&nbsp;<span id="countryExtraLargeStadiumsTotal"></span></button>
+                        40,000&nbsp;<span class="pill" id="countryMediumStadiumsTotal"></span></button>
+                    <button class="btn btn-filter" id="btnLg" hx-on:click="filterStadiums('stadium_lg')">40,000 &#60; 60,000&nbsp;<span class="pill" id="countryLargeStadiumsTotal"></span></button>
+                    <button role="button" class="btn btn-filter" id="btnXl" hx-on:click="filterStadiums('stadium_xl')">&#62; 60,000&nbsp;<span class="pill" id="countryExtraLargeStadiumsTotal"></span></button>
                     <!-- <button class="btn-neon" style="--clr:#39FF14"><span>Button</span><i></i></button> -->
                 </div>
             </div>
@@ -92,8 +80,11 @@
         </div>
     </main>
 
-    <footer class="footer text-center border-2 py-4" style="background: #003399">
-        <small class="text-white">eurostadium.net</small>
+    <!-- <footer class="text-center border-2 py-4" style="background: #003399"> -->
+    <footer class="">
+        <br /><br /><br />
+        <p class="text-center text-white">eurostadium.net</p>
+        <br /><br /><br />
     </footer>
 
     <!-- scripts -->

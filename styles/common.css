@@ -33,6 +33,9 @@
 .text-black {
     color: black;
 }
+.text-muted {
+    color: #808080;
+}
 .text-uppercase {
     text-transform: uppercase;
 }
